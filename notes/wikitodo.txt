@@ -1,0 +1,258 @@
+puzzle solutions has incorrect siege of highwatch reagent locations
+
+Theraphosidae
+
+Imported Hops from Spiral Island and Boiling Springwater from Hot Springs are to trade for the material item in Mistport
+
+[7:54 AM] Moist Metrocop: anyone know where i can get the shard of old isharist
+[7:55 AM] Paks: Magmortic Atheneum
+
+verify ingame happy plantation spelling
+
+{{WorkInProgress|
+*Respawn time and loot tiers
+*Spawner counts and mob types
+*Chest counts and loot types
+*Description, Quests (if any)
+*Overview image, Map location image
+*Raid time, Lore, Layout}}
+{{POI Page
+|name=
+|description=
+|region=
+|location=
+|raid_time=Unknown
+|respawn_time=Unknown
+|spawner_count=Unknown
+|chest_count=Unknown
+|tiers=Unknown
+|bounty_text=
+|bounty_spawners=
+|bounty_tier=
+|lore=
+|quests=
+|amping=
+|layout=
+|dungeon=
+|main_loot=
+|other_loot=
+|mobs=
+|trivia=
+|NPCs=
+}}
+
+voltaic edge https://puu.sh/GLKxB/f56cfad96f.png
+
+roguelike enhancements
+Floor 1
+Wand of C'Zanil -> Charm of C'Zanil
+The Ravager -> The Annihilator
+Quetzalcoatl's Wrath -> Quetzalcoatl's Fury
+Boots of Vitality -> Boots of Vigor
+Floor 2
+Tlaxan Bulwark -> Tlaxia's Bulwark
+Arcane Storm -> Arcane Hailstorm
+Archmage's Vestment -> Warded Vestment
+Basilisk Scales -> Basilisk Hide
+Floor 3
+Poison Ivy -> Rosethorn Blade
+Chimarian Wand -> Staff of Memories
+Ironscale Leggings -> Steelscale Leggings
+Busty's Hot Pants -> Busty's Hotter Pants
+
+Uncommons
+Floor 1
+Ponderous Stone -> Burdened Stone
+Groovy Chakram -> Far-Out Chakram
+Vermin's Scourge -> Vermin's End
+Chitin Helmet -> Exoskelehelm
+Floor 2
+Swiftwood Shortbow -> Swiftwood Longbow
+Raider's Charm -> Plunderer's Charm
+Oncoming Wave -> Breaking Wave
+Cutting Breeze -> Slicing Wind
+Floor 3
+Blackroot's Fury -> Blackroot's Hatred
+Lingering Flame -> Smouldering Flame
+Blazing Soul -> Soul of Conflagration
+Infernal Robe -> Firestorm Robe
+
+
+wiki's bounty text for temple to kaul & the undergrowth should be outdated/wrong atm
+
+ancient ziggurat
+tier 2 loot
+https://puu.sh/GJc9p/fb0f7e9767.png
+creeper
+zombie
+ancient guardian
+blaze
+
+
+guardian tower
+frozen spirit
+frost wraith archer
+blaze
+creeper
+elite ?
+
+King's Valley
+	Narsen Sea
+		~Sea Outpost
+			picture,map
+		~Withered Hideout
+			map
+		~Toxin Lab
+			map
+	Swamplands
+		Northern Swamplands
+			~Bandit Camp
+				picture,map
+			-Mage Tower
+			-Mercenary Fort
+			-Northern Mineshaft
+			~Swamp Sinkhole
+				picture,map
+			-Waterfall Island
+			-Bandit Stronghold
+		Southern Swamplands
+			~Haunted Mine
+				picture,map
+			~Lighthouse
+				picture,map
+			~Southeastern Mineshaft
+				picture,map
+			~Southern Mineshaft
+				picture,map
+			~Southern Village
+				picture,map
+			~Witch Village
+				picture,map
+			~Rift of Drowneds
+				map
+		Eastern Swamplands
+			~Eastern Mineshaft
+				picture,map
+			~Ruined Docks
+				picture,map
+			-Water Shrine
+			~Fishing Huts
+				map
+			-Fire Shrine
+			~The Old Tower
+				picture,map
+	Blackroot Jungle
+		Central Plateau
+			~Grand Maw
+				picture,map
+			~Hawk Fortress
+				picture,map
+			~Air Shrine
+				picture,map
+		Southeastern Jungle
+			~Lowland Temple
+				map
+			~Corrupted Caves
+				map
+			~Corrupted Island
+				map
+			~Creeper Tower
+				picture,map
+			~Hallowed Pond
+				picture,map
+			~Southern Cenote
+				picture,map
+		Northeastern Jungle
+			~Crossroad Ruins
+				picture,map
+			~Jungle Mine
+				picture,map
+			~Moist Ruins
+				map
+			~Molten Chasm
+				picture,map
+			-Litterbox
+			~Suspicious Village
+				picture,map
+			-Tiny Jungle Ruin
+			~Cave of Secrets
+				picture,map
+			~Temple to Kaul	
+				picture,map		
+		Southwestern Jungle
+			-Earth Shrine
+			~Abandoned Tunnels
+				picture,map
+			~Serpent Ruins
+				picture,map
+			~Southern Jaguar Village
+				picture,map
+		Northwestern Jungle
+			~Ancient Ruin
+				picture,map
+			~Hawk Village
+				picture,map
+			~Northern Jaguar Village
+				picture,map
+			~Overgrown Cave
+				picture,map
+			~Murky Maze
+				picture,map
+			~Ruined Mansion
+				picture,map
+			~Water Cavern
+				picture,map
+			~Tlaxan Ziggurat
+				map
+			~Mysterious Cenote
+				picture,map
+		Jaguar Tooth Mountains
+			~Axtan Monastery
+				picture,map
+			~Collapsing Tower
+				picture,map
+			~Creeper Farm
+				picture,map
+			~Fire Cave
+				map
+			~Mountain Hideaway
+				picture,map
+			~Mountain Mines
+				picture,map
+	Azacor's Grove
+		~Hallowed Hedges
+			picture,map
+		~Nameless Ruins
+			picture,map
+		~Consecrated Grounds
+			picture,map
+		~Igor's Laboratory
+			picture,map
+		~Weeping Wormwood
+			picture,map
+		~Flooded Foyer
+			picture,map
+		~Mapleroot Town
+			picture,map
+		~Whispering Woods
+			picture,map
+		~Azacor's Mansion
+			picture,map
+		~The Undergrowth
+			picture,map
+	Korbar Highlands
+		-Anthill
+		~Cave of Bones
+			picture,map
+		~Eastern Pass
+			picture,map
+		~Graveyard
+			map
+		~Infested House
+			picture,map
+		~Cursed Forest
+			map
+		~Verdant Fortress
+			picture,map
+		~Volcano
+			picture,map

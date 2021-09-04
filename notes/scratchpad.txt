@@ -1,0 +1,527 @@
+/fill -2025 9 -823 -2075 19 -855 obsidian hollow
+/fill -2026 10 -824 -2074 18 -854 minecraft:magenta_concrete hollow
+
+
+((5 + 3) * 1.5 * 1.55 + 2.5*4) * 1.2
+1.6*1.3
+
+((5 + 2) * 1.5 * (1 + 0.2 + 0.35) + 2.5*4) * 1.2
+
+basically ((5 + 2 + 3) x (1 + .2 + .35) x 1.5 + 2.5x4) x 1.35
+
+5 base damage
+smite 4
++20% attack damage
+crit = x1.5
+melee attacks do +2
+subsec attacks do +35%
+
+
+21
+28.35
+
+
+str (+3)
+26.4
+35.64
+
+4 + 2 x 1.5 x 1.2 = 9.2
+
+base: 4
+crit off base 2
+passive 2
+1.2x
+
+((((base) x crit) x (1 + %melee) + agility) x (1 + %swift cuts)) x (1 + %vuln)
+((((base) x crit) x (1 + %melee) + ag
+
+
+"crits do +8"
+2 4 7 5+2.5*4
+
+2 4 7 15
+11 14 18.5 25.5
+
++35% attack damage buff
+2.7 5.4 9.45 20.25
+12.05 16.1 6.9 22.175 31.625
+
+"crits do +8"
++20% attack damage armor
+2 4 7 5+2.5*4
+
+2.4 4.8 8.4 16
+
+11.6 15.2 20.6 27
+
++35% attack damage buff
+
+3.24 6.48 11.34 21.6
+
+12.86 17.72 25.01 33.65
+
+How to calculate damage from a mage ability:
+x = Base skill damage * (1 + spell power)
+Damage dealt = (1 + 0.01 * perscipacity) * (x + (x^(2/3))(ability power)/10)
+
+[20:32:19] [main/INFO]: [CHAT] Damage: 4.0
+[20:32:20] [main/INFO]: [CHAT] Damage: 7.0
+[20:32:22] [main/INFO]: [CHAT] Damage: 3.707551956176758
+[20:32:23] [main/INFO]: [CHAT] Damage: 10.0
+[20:32:24] [main/INFO]: [CHAT] <G> [LAG] Cocona20xx » apparently it was extremely game breaking
+
+
+str 1 no boots
+[20:32:26] [main/INFO]: [CHAT] Damage: 5.0
+[20:32:28] [main/INFO]: [CHAT] Damage: 7.0
+[20:32:30] [main/INFO]: [CHAT] Damage: 10.0
+[20:32:31] [main/INFO]: [CHAT] Damage: 18.0
+
+crit
+[20:32:34] [main/INFO]: [CHAT] Damage: 15.5
+[20:32:36] [main/INFO]: [CHAT] Damage: 18.5
+[20:32:38] [main/INFO]: [CHAT] Damage: 23.0
+[20:32:40] [main/INFO]: [CHAT] Damage: 30.0
+
+str 1 boots
+[20:32:44] [main/INFO]: [CHAT] Damage: 6.0
+[20:32:45] [main/INFO]: [CHAT] Damage: 8.399999618530273
+[20:32:48] [main/INFO]: [CHAT] Damage: 12.0
+[20:32:49] [main/INFO]: [CHAT] Damage: 19.600000381469727
+
+crit
+[20:32:51] [main/INFO]: [CHAT] Damage: 17.0
+[20:32:53] [main/INFO]: [CHAT] Damage: 20.599998474121094
+[20:32:55] [main/INFO]: [CHAT] Damage: 26.0
+[20:32:56] [main/INFO]: [CHAT] Damage: 32.400001525878906
+
+str 1 no boots amp
+[20:35:56] [main/INFO]: [CHAT] Damage: 5.0
+[20:35:58] [main/INFO]: [CHAT] Damage: 7.0
+[20:36:00] [main/INFO]: [CHAT] Damage: 10.0
+[20:36:02] [main/INFO]: [CHAT] Damage: 18.0
+
+crit
+[20:36:04] [main/INFO]: [CHAT] Damage: 15.5
+[20:36:06] [main/INFO]: [CHAT] Damage: 7.0
+[20:36:07] [main/INFO]: [CHAT] Damage: 23.0
+[20:36:10] [main/INFO]: [CHAT] Damage: 30.0
+
+
+str 1 boots amp
+[20:37:36] [main/INFO]: [CHAT] Damage: 8.100000000000001
+[20:37:38] [main/INFO]: [CHAT] Damage: 11.339999198913574
+[20:37:40] [main/INFO]: [CHAT] Damage: 16.200000000000003
+[20:37:42] [main/INFO]: [CHAT] Damage: 26.46000051498413
+
+
+crit
+[20:35:38] [main/INFO]: [CHAT] Damage: 20.149999618530273
+[20:35:40] [main/INFO]: [CHAT] Damage: 25.009998321533203
+[20:35:42] [main/INFO]: [CHAT] Damage: 32.29999923706055
+[20:35:44] [main/INFO]: [CHAT] Damage: 40.940002059936525
+
+
+
+cleric w/ 10/40s celestial blessing 23.92
+scout w/ swift cuts & 10/24s eagle eye 38.2725
+rogue w/ str 2 (5/20*s) & 40% vuln (10/15*s) applied 58.408 (reminder, no stats offhand)
+warrior 26 crits with no str or buffs, 36.8 expected if training dummy attacks could actually proc riposte for str 2, this should probably be done with an axe but then attack speed weirdness
+
+warlock
+alchemist
+mage
+
+hp/s  foods
+0.789 golden carrot
+0.722 rabbit stew/steak/porkchop 
+0.606 mutton/salmon/golden apple 
+0.516 beetroot soup/chicken/stew 
+0.467 bread/baked potato/cooked cod/cooked rabbit 
+0.451 Kapple
+0.357 pumpkin pie 
+0.296 carrot  
+0.231 apple
+
+Removed boss_weaponswitch from all mobs that have it, as it's currently broken leading to mobs dealing vanilla damage with bows, if you find any mobs that still have it report them as a bug
+
+-2220,1900
+860,-650
+3000x2500
+
+{{Race
+|race_category=Primordial Speedster
+|region=[[King's Valley]]
+|dungeon=[[Arcane Rivalry]]
+|time_finish=15:00:000
+|reward_finish={{$|1|hxp}} {{$|16|cxp}}
+}}
+{{WorkInProgress}}
+
+{{Race
+|race_category=Primordial Speedster
+|region=[[Celsian Isles]]
+|dungeon=[[Arcane Rivalry]]
+|time_finish=15:00:000
+|reward_finish={{$|32|ccs}}
+}}
+{{WorkInProgress}}
+
+{{Race
+|race_category=Speedster
+|region=King's Valley
+|town=[[Oceangate]]
+|starting_npc_name=Magistr
+|starting_npc_coordinates=(-1610, 139, 125)
+|time_master=0:56:100
+|time_gold=1:08:000
+|time_silver=1:18:000
+|time_bronze=1:28:000
+|time_complete=1:45:000
+|reward_master=Unknown
+|reward_gold=[[Standard Lighter]]
+|reward_silver={{$|128|xp}}
+|reward_bronze={{$|64|xp}}
+}}
+{{WorkInProgress}}
+
+
+	let calculateAvgReduction = (damage, armor, toughness, evasion, prot) => evasion * 4
+	let calculateMinReduction = (damage, armor, toughness, evasion, prot) => (evasion - evasion % 5) * 4
+	
+	
+	let calculateArmorReduction = (damage, armor, toughness) => Math.min(20, Math.max(armor / 5, Math.min(30, armor) - damage / (2 + Math.min(20, toughness) / 4))) / 25.0;
+
+
+
+
+
+hold right click
+press f3 and t
+release right click
+
+
+	double damage = event.getDamage();
+	if (damage > 16) {
+		event.setDamage(4 * Math.log(damage) / Math.log(2));
+		event.setDamage(EntityUtils.getDamageApproximation(event, damage / event.getDamage()));
+	}
+
+	private static final double MARGIN_OF_ERROR = 0.001;
+	private static final int MAXIMUM_ITERATIONS = (int)(Math.log(MARGIN_OF_ERROR) / Math.log(0.5) * 2);	
+	public static double getDamageApproximation(double armor, double toughness, double damage, double multiplier) {
+		double rawDamageLowerBound;
+		double rawDamageUpperBound;
+
+		if (multiplier > 1) {
+			rawDamageLowerBound = damage;
+			rawDamageUpperBound = rawDamageLowerBound * multiplier;
+		} else if (multiplier < 1) {
+			rawDamageUpperBound = damage;
+			rawDamageLowerBound = 0;	// Since armor gets better at lower damage, there's no good lower bound
+		} else {
+			return damage;
+		}
+
+		double finalDamageBaseline = calculateDamageAfterArmor(damage, armor, toughness);
+
+		// Infinite loop safe this in case of bugs
+		for (int i = 0; i < MAXIMUM_ITERATIONS; i++) {
+			// No need to worry about double overflow
+			double rawDamageMiddle = (rawDamageLowerBound + rawDamageUpperBound) / 2;
+			// Protection is constant, evasion is already factored in
+			double damageRatio = calculateDamageAfterArmor(rawDamageMiddle, armor, toughness) / finalDamageBaseline;
+
+			if (damageRatio <= multiplier) {
+				if (damageRatio > multiplier * (1 - MARGIN_OF_ERROR)) {
+					return rawDamageMiddle;
+				}
+				rawDamageLowerBound = rawDamageMiddle;
+			} else {
+				rawDamageUpperBound = rawDamageMiddle;
+			}
+		}
+
+		// Can only reach because of bug, so return a very noticeable fail case
+		return 0;
+	}
+	
+	public static double getRealFinalDamage(EntityDamageEvent event) {
+		if (!(event.getEntity() instanceof Player)) {
+			// Give garbage value if being used incorrectly
+			return -1;
+		}
+
+		Player player = (Player) event.getEntity();
+		DamageCause cause = event.getCause();
+		double damage = event.getDamage();
+		double armor = 0;
+		double toughness = 0;
+
+		if (PHYSICAL_DAMAGE.contains(cause)) {
+			armor = player.getAttribute(Attribute.GENERIC_ARMOR).getValue();
+			toughness = player.getAttribute(Attribute.GENERIC_ARMOR_TOUGHNESS).getValue();
+		}
+
+		int protection = 0;
+		ItemStack[] armorContents = player.getInventory().getArmorContents();
+
+		for (int i = 0; i < armorContents.length; i++) {
+			if (armorContents[i] != null) {
+				if (armorContents[i].containsEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL)) {
+					protection += armorContents[i].getEnchantmentLevel(Enchantment.PROTECTION_ENVIRONMENTAL);
+				}
+
+				if (cause == DamageCause.PROJECTILE) {
+					if (armorContents[i].containsEnchantment(Enchantment.PROTECTION_PROJECTILE)) {
+						protection += armorContents[i].getEnchantmentLevel(Enchantment.PROTECTION_PROJECTILE) * 2;
+					}
+				} else if (cause == DamageCause.BLOCK_EXPLOSION || cause == DamageCause.ENTITY_EXPLOSION) {
+					if (armorContents[i].containsEnchantment(Enchantment.PROTECTION_EXPLOSIONS)) {
+						protection += armorContents[i].getEnchantmentLevel(Enchantment.PROTECTION_EXPLOSIONS) * 2;
+					}
+				} else if (cause == DamageCause.FIRE || cause == DamageCause.FIRE_TICK || cause == DamageCause.HOT_FLOOR || cause == DamageCause.LAVA) {
+					if (armorContents[i].containsEnchantment(Enchantment.PROTECTION_FIRE)) {
+						protection += armorContents[i].getEnchantmentLevel(Enchantment.PROTECTION_FIRE) * 2;
+					}
+				} else if (cause == DamageCause.FALL) {
+					if (armorContents[i].containsEnchantment(Enchantment.PROTECTION_FALL)) {
+						protection += armorContents[i].getEnchantmentLevel(Enchantment.PROTECTION_FALL) * 3;
+					}
+				}
+			}
+		}
+
+		int resistance = player.getPotionEffect(PotionEffectType.DAMAGE_RESISTANCE) == null
+				? 0 : (player.getPotionEffect(PotionEffectType.DAMAGE_RESISTANCE).getAmplifier() + 1);
+		int vulnerability = (player.getPotionEffect(PotionEffectType.UNLUCK) == null
+				? 0 : (player.getPotionEffect(PotionEffectType.UNLUCK).getAmplifier() + 1));
+
+		return calculateDamageAfterArmor(damage, armor, toughness) * (1 - Math.min(20.0, protection) / 25) * (1 - Math.min(5, resistance) / 5) * (1 + 0.05 * vulnerability);
+	}
+				
+	private static double calculateDamageAfterArmor(double damage, double armor, double toughness) {
+		armor = Math.min(30, armor);
+		toughness = Math.min(20, toughness);
+		return damage * (1 - Math.min(20, Math.max(armor / 5, armor - damage / (2 + toughness / 4))) / 25);
+	}
+	
+---------------------
+
+//fun fact, this only allows armor of up to 30 to protect against pierce.. so those big percent armor items aren't relevant even when they're relevant
+var calculateDamageAfterArmor = (damage, armor, toughness) => damage * (1 - Math.min(20, Math.max(armor / 5, Math.min(30, armor) - damage / (2 + Math.min(20, toughness) / 4))) / 25.0);
+var calculateDamageAfterArmor2 = (damage, armor, toughness) => damage * (1 - Math.min(20, Math.max(armor / 5, Math.min(30, armor) - (damage > 16 ? 4 * Math.log(damage) / Math.log(2) : damage) / (2 + Math.min(20, toughness) / 4))) / 25.0);
+
+var getDamageApproximation = function (armor, toughness, damage, multiplier) {
+	let boundLower;
+	let boundUpper;
+	
+	if (multiplier > 1) {
+		boundLower = damage;
+		boundUpper = boundLower * multiplier;
+	} else if (multiplier < 1) {
+		boundUpper = damage;
+		boundLower = 0;
+	} else {
+		return damage; 
+	}
+	//they're treated as this at the next depth anyway so let's simplify
+	//armor = Math.min(30, armor);
+	//toughness = Math.min(20, toughness);
+	
+	//(damage, armor, toughness) => 1 - Math.min(20, Math.max(armor / 5, armor - damage / (2 + toughness / 4))) / 25.0;
+	//(damage, armor, toughness) => 1 - Math.min(0.8, Math.max(0.008 * armor, 0.04 * (armor - damage / (2 + toughness / 4)));
+	let damageBaseline = calculateDamageAfterArmor(damage, armor, toughness);
+
+	for (let i = 0; i < 19; i++) {
+		let damageAverage = (boundLower + boundUpper) / 2;
+		
+		let damageRatio = calculateDamageAfterArmor(damageAverage, armor, toughness) / damageBaseline;
+
+		//multiplier < 1 OR multiplier > 1
+		if (damageRatio <= multiplier) {
+			if (damageRatio > multiplier * 0.999) {
+				return damageAverage;
+			}
+			boundLower = damageAverage;
+		} else {
+			boundUpper = damageAverage;
+		}
+	}
+
+	return 0;
+};
+	
+	function doBeDoBeDo(damage, armor, toughness, evade=0, protection=0, resistance=0, vulnerability=0) {
+		let evade_min = evade - evade % 5;
+		let evade_max = evade_min == evade ? evade : evade_min + 5;
+		let damage_1 = damage * (1 - evade_min * 0.04);
+		let damage_2 = damage * (1 - evade_max * 0.04);
+		
+		let results = [
+			[calculateDamageAfterArmor(damage_1, armor, toughness), null, null],
+			[calculateDamageAfterArmor(damage_2, armor, toughness), null, null]
+		];
+		//console.log(results);
+		
+		if (damage_1 > 16) {
+			let damage2 = 4 * Math.log(damage_1) / Math.log(2);
+			results[0][1] = calculateDamageAfterArmor2(damage_1, armor, toughness);
+			results[0][2] = calculateDamageAfterArmor(getDamageApproximation(armor, toughness, damage2, damage_1 / damage2), armor, toughness);
+		}
+		if (damage_2 > 16) {
+			let damage2 = 4 * Math.log(damage_2) / Math.log(2);
+			results[1][1] = calculateDamageAfterArmor2(damage_1, armor, toughness);
+			results[1][2] = calculateDamageAfterArmor(getDamageApproximation(armor, toughness, damage2, damage_2 / damage2), armor, toughness);
+		}
+		
+		for (let i = 0; i < results.length; i++) {
+			for (let j = 0; j < results[i].length; j++) {
+				if (results[i][j] !== null) {
+					results[i][j] *= (1 - Math.min(20.0, protection) / 25) * (1 - Math.min(5, resistance) / 5) * (1 + 0.05 * vulnerability);
+				}
+			}
+		}
+		
+		return results;
+	}
+	
+----------------------------
+
+evade - evade % 5
+evade - evade % 5 + 5
+
+((evade % 5) * (damage * (1 - (evade - evade % 5 + 5) * 0.04) * (1 - Math.min(20, Math.max(armor / 5, Math.min(30, armor) - (damage * (1 - (evade - evade % 5 + 5) * 0.04) > 16 ? 4 * Math.log(damage * (1 - (evade - evade % 5 + 5) * 0.04)) / Math.log(2) : damage * (1 - (evade - evade % 5 + 5) * 0.04)) / (2 + Math.min(20, toughness) / 4))) / 25.0)) / 5 + (5 - evade % 5) * (damage * (1 - (evade - evade % 5) * 0.04) * (1 - Math.min(20, Math.max(armor / 5, Math.min(30, armor) - (damage * (1 - (evade - evade % 5) * 0.04) > 16 ? 4 * Math.log(damage * (1 - (evade - evade % 5) * 0.04)) / Math.log(2) : damage * (1 - (evade - evade % 5) * 0.04)) / (2 + Math.min(20, toughness) / 4))) / 25.0)) / 5) * (1 - prot * 0.04) * (1 - resistance * 0.2) * (1 + vulnerability * 0.1) ± 0.1%
+
+
+()
+11.32 
+divine justice - +4 damage to crits vs undead / crits do additional +15% total vs undead
+crusade - +33% ability damage vs undead / abilities count humanoids as undead
+luminous infusion -  / +4 melee damage vs undead
+
+(1 - prot * 0.04) * (1 - resistance * 0.2) * (1 + vulnerability * 0.1)
+
+10 damage vs undead, +15% attack damage, -25% attack damage
+15.22
+29.51
+
+5 damage smite 7 vs undead, +15% attack damage, -25% attack damage
+28.22
+42.4
+
+10 damage vs vindicator, +15% attack damage, -25% attack damage
+15.22
+29.51
+
+5 damage smite 7 vs vindicator, +15% attack damage, -25% attack damage
+10.72
+21.417
+
+10 damage vs vindicator
+15.32
+29.69
+
+5 damage smite 7 vs vindicator
+10.32
+20.6976
+
+10 damage vs undead
+15.32
+29.694
+
+5 damage smite 7 vs undead
+27.82
+41.689
+
+5 damage smite 4 vs undead
+15
+27.3726
+
+4 damage vs undead
+4
+13.578
+
+4 + 4 + 15% + 33% = 13.578
+4 + 2 (crit) = 6
+6 + 4 = 10
+4 x 4/3 = 5.333
+6 + 5.333 = 11.333
+11.333 x 1.15 = 13.03295
+13.03295 x 4/3 = 17.377266666666666666666666666667
+11.333 x 0.15 = 1.69995
+1.69995 x 4/3 = 2.2666
+10 x 1.15 = 11.5
+11.5 x 1.33 = 15.33
+6 + 15% = 6.9
+6.9 x 1.33 = 9.177
+
+13.578 * 3/4 = 10.1835
+
+-------------------------------------
+
+alright lessee.
+crusade 2 - +33% ability damage vs undead / abilities count humanoids as undead
+divine justice 2 - +4 damage to crits vs undead / crits do additional +15% total vs undead
+luminous infusion -  / +4 melee damage vs undead
+
+4 damage, crit, vs undead, region 1: 
+// (base + crit + divine1 * crusade1) + same * divine2 * crusade1
+expected:  `(4 + 2 + 4 * 1.33) + (4 + 2 + 4 * 1.33) * 0.15 * 1.33 = 13.57834`
+actual: `13.578339576721191` :white_check_mark: 
+
+5 damage, smite 4, crit, vs undead, region 1:
+// (base + crit + divine1 * crusade1 + smite4) + same * divine2 * crusade1
+expected: `(5 + 2.5 + 4 * 1.33 + 10) + (5 + 2.5 + 4 * 1.33 + 10) * 0.15 * 1.33 = 27.37259`
+actual: `27.372589111328125` :white_check_mark: 
+
+10 damage, noncrit, vs undead, plots
+// (base + luminous2 * crusade1)
+expected: `(10 + 4 * 1.33) = 15.32`
+actual: `15.319999694824219` :white_check_mark: 
+
+10 damage, crit, vs undead, plots
+// (base + crit + divine1 * crusade1 + luminous2 * crusade1) + same * divine2 * crusade1
+expected: `(10 + 5 + 4 * 1.33 + 4 * 1.33) + (10 + 5 + 4 * 1.33 + 4 * 1.33) * 0.15 * 1.33 = 30.75518`
+actual: `29.69383969482422` :negative_squared_cross_mark: 
+difference: `-1.06134030517578` 
+
+5 damage, smite 7, noncrit, vs undead, plots
+// (base + luminous2 * crusade1 + smite7)
+expected: `(5 + 4 * 1.33 + 17.5) = 27.82`
+actual: `27.81999969482422` :white_check_mark: 
+
+5 damage, smite 7, crit, vs undead, plots
+// (base + crit + divine1 * crusade1 + luminous2 * crusade1) + same * divine2 * crusade1
+expected: `(5 + 2.5 + 4 * 1.33 + 4 * 1.33 + 17.5) + (5 + 2.5 + 4 * 1.33 + 4 * 1.33 + 17.5) * 0.15 * 1.33 = 42.75018`
+actual: `41.688838958740234` :negative_squared_cross_mark: 
+difference: `-1.061341041259766` 
+
+10 damage, noncrit, vs undead, plots, no crusade
+expected: `(10 + 4) = 14`
+actual: `14.0` :white_check_mark: 
+
+10 damage, crit, vs undead, plots, no crusade
+expected: `(10 + 5 + 4 + 4) + (10 + 5 + 4 + 4) * 0.15 = 26.45`
+actual: `25.849999999999998` :negative_squared_cross_mark: 
+difference: `-0.600000000000002` | `4 * 0.15 = 0.6`
+
+10 damage, noncrit, vs undead, plots, no divine justice
+expected: `(10 + 4 * 1.33) = 15.32`
+actual: `15.319999694824219` :white_check_mark: 
+
+10 damage, crit, vs undead, plots, no divine justice
+expected: `(10 + 5 + 4 * 1.33) = 20.32`
+actual: `20.31999969482422` :white_check_mark:
+ 
+10 damage, noncrit, vs undead, plots, no luminous infusion
+expected: `(10) = 10`
+actual: `10.0` :white_check_mark: 
+
+10 damage, crit, vs undead, plots, no luminous infusion
+expected: `(10 + 5 + 4 * 1.33) + (10 + 5 + 4 * 1.33) * 0.15 * 1.33 = 24.37384`
+actual: `24.37384` :white_check_mark: 
+
+
+------------------
+

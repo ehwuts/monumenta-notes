@@ -1,0 +1,1066 @@
+=Quest Guide (Nyr)=
+==Beasts of Men==
+* Difficulty: Medium
+* Requirements: Winds of War, Completed the White Dungeon
+* Start: Bhairavi
+==Buried Blade==
+* Difficulty: Medium
+* Requirements: ? (Presumably Bandit Troubles)
+* Start: Blackjack Stan (-103, 96, 88)
+==Missing Soldiers==
+* Difficulty: Medium
+* Requirements: Bandit Troubles
+* Start: Sergeant Sigrun
+==Clucked Up==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Master of Clucks near Volkamph's Stand
+==The Plague==
+* Difficulty: Medium
+* Requirements: None
+* Start: Dr. Laurie
+==Roots of the Plague==
+* Difficulty: Medium
+* Requirements: Beasts of Men, The Plague, Completed the Orange Dungeon
+* Start: Bhairavi
+==Soul of the Forest==
+* Difficulty: Very Hard
+* Requirements: Scars of Magic, Siege of Highwatch, Completed the Light Blue Dungeon
+* Start: Bhairavi
+==Starry Night==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Mayleen
+==Winds of War==
+* Difficulty: Easy
+* Requirements: Mage's Legacy
+* Start: Bhairavi
+
+=Quests=
+
+==Beasts of Men==
+
+[22:14:43] [Render thread/INFO]: [CHAT] [Bhairavi] So I've spent a bit of time away and have spoken to Vargos about your discovery and what this means for history. He's asked me to deliver a note to you and answer any questions you may have.
+[22:14:43] [Render thread/INFO]: [CHAT] [Great! Did he say anything interesting?]
+[22:15:09] [Render thread/INFO]: [CHAT] <G> BlazingGamer800 » Let me get this straight: I'm supposed to bring the crystal to Cinevra after saving Eldim, right?
+[22:15:14] [Render thread/INFO]: [CHAT] [Bhairavi] He gave me more information on the Wools now that we know they'll be tied up in my future research. He also gave me a new task. Maybe I'll have you help with that too.
+[22:15:44] [Render thread/INFO]: [CHAT] Mikara_ has set a new world record for Tutorial+\nNew time: 1:16:500
+[22:15:49] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » lmaooo
+[22:15:53] [Render thread/INFO]: [CHAT] <G> Cloud_ » Heh
+[22:16:07] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:16:07] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:16:07] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:16:07] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:16:07] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:16:07] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:16:40] [Render thread/INFO]: [CHAT] [Bhairavi] None directly, but there is more potential within you now. If you return to the Academy, you should be able to channel that power into another skill of your choice.
+[22:16:46] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:16:46] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:16:46] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:16:46] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:16:46] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:16:46] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:16:59] [Render thread/INFO]: [CHAT] [Bhairavi] He was a Tlaxan Shaman - a leader of the Tlaxan people - during the Blackroot War. His role, according to our research, was to capture the souls of the dead and twist them into deadly magics using the White Wool.
+[22:17:01] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:17:01] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:17:01] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:17:01] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:17:01] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:17:01] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:17:03] [Render thread/INFO]: [CHAT] [Bhairavi] From what you told me, it seems there is no god called Quetzalcoatl at all. I believe that the Tlaxans worshiped the Wool they had as Gods and gave them names.
+[22:17:04] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:17:04] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:17:04] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:17:04] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:17:04] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:17:04] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:17:07] [Render thread/INFO]: [CHAT] [Bhairavi] Of course.
+[22:17:07] [Render thread/INFO]: [CHAT] <G> BlazingGamer800 » If that's the case, then why won't Cinevra respond to a punch?
+[22:17:08] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:17:08] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:17:08] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:17:08] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:17:08] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:17:08] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:17:11] [Render thread/INFO]: [CHAT] [Bhairavi] Of course.
+[22:17:12] [Render thread/INFO]: [CHAT] [Bhairavi] Do you have any questions?
+[22:17:12] [Render thread/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[22:17:12] [Render thread/INFO]: [CHAT] [What power has the White Wool granted me?]
+[22:17:12] [Render thread/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[22:17:12] [Render thread/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[22:17:12] [Render thread/INFO]: [CHAT] [You mentioned more research and me helping with it before....]
+[22:17:14] [Render thread/INFO]: [CHAT] [Bhairavi] Ah, yes. I've been doing further research into the Shamans, C'Zanil in particular. You see, while the other two Shamans, C'Axtal and C'Shura, seem to be held in fairly high regard still within Tlaxan culture, C'Zanil is a different story.
+[22:17:14] [Render thread/INFO]: [CHAT] [Why do you say that?]
+[22:17:15] [Render thread/INFO]: [CHAT] [Bhairavi] His tomb has been lost. I know of monuments to C'Axtal and C'Shura hidden among Tlaxan-kept locations, but C'Zanil has almost been erased from their society.
+[22:17:15] [Render thread/INFO]: [CHAT] [So what can I do to help?]
+[22:17:15] [Render thread/INFO]: [CHAT] [Unfortunately I'm a bit preoccupied right now. Maybe I can help later?]
+[22:17:17] [Render thread/INFO]: [CHAT] [Bhairavi] Ah, so there's a bit more left to tell you. You see, just a few days ago, my team and I found C'Zanil's tomb.
+[22:17:17] [Render thread/INFO]: [CHAT] [Your team?]
+[22:17:17] [Render thread/INFO]: [CHAT] [That's nice.]
+[22:17:17] [Render thread/INFO]: [CHAT] [That seems like a bit of a big deal.]
+[22:17:18] [Render thread/INFO]: [CHAT] KarlStrauss left the game
+[22:17:23] [Render thread/INFO]: [CHAT] [Bhairavi] I've been assigned a crew of workers and mages to help me in my research. Those on the Mage Council have privileges I suppose.
+[22:17:23] [Render thread/INFO]: [CHAT] [Seems like it. So you found the tomb then?]
+[22:17:24] [Render thread/INFO]: [CHAT] [Bhairavi] Indeed. My team is in the midst of excavating the cave entrance and trying to find a way inside. Do you think you could help them - and me - out?
+[22:17:24] [Render thread/INFO]: [CHAT] [I'm in.]
+[22:17:24] [Render thread/INFO]: [CHAT] [Maybe later. This seems like a lot of work.]
+[22:17:25] [Render thread/INFO]: [CHAT] CatProductions left the game
+[22:17:43] [Render thread/INFO]: [CHAT] [Bhairavi] Fantastic news. You'll find my team east from the Ziggurat you fought through during our last adventure. They're down the cliff, just outside the ancient ruins. My lead excavator's name is Pten, speak to him.
+[22:17:43] [Render thread/INFO]: [CHAT] QUEST : BEASTS OF MEN
+[22:17:43] [Render thread/INFO]: [CHAT] Length : Medium-Long
+[22:17:43] [Render thread/INFO]: [CHAT] Difficulty : Medium
+[22:17:43] [Render thread/INFO]: [CHAT] Meet Bhairavi's assistant, Pten, outside the Ancient Ruins, east of the Tlaxan Ziggurat.
+[22:17:43] [Render thread/INFO]: [CHAT] [Bhairavi] Let me know when you've found something important! I'll be continuing my research here. I'm trying to find out more about Tlaxan culture.
+
+[22:18:55] [Render thread/INFO]: [CHAT] Beasts of Men: Meet Bhairavi's assistant, Pten near the Ancient Ruins.
+
+~(362, 72, -127)
+
+[22:23:31] [Render thread/INFO]: [CHAT] [Wexley] Headlamps, check. Rope, check. Pickaxes, check. Sheets, check...
+[22:23:31] [Render thread/INFO]: [CHAT] He ignores you and keeps sorting supplies.
+[22:23:38] [Render thread/INFO]: [CHAT] [Antigone] Unless you know how to blast into this tomb, please move along. I'm quite busy.
+[22:23:53] [Render thread/INFO]: [CHAT] [Pten] Hello? Who are you and why are you here?
+[22:23:53] [Render thread/INFO]: [CHAT] [I'm Sukie. Bhairavi sent me here to assist your excavation.]
+[22:23:55] [Render thread/INFO]: [CHAT] [Pten] Oh, are you the adventurer that helped her out with the Battlefield project? You found the White Wool?
+[22:23:55] [Render thread/INFO]: [CHAT] [I am!]
+[22:23:58] [Render thread/INFO]: [CHAT] [Pten] Pleasure to meet you then. I'm Pten, lead excavator under Bhairavi. We've been hard at work clearing out this sealed off area.
+[22:23:58] [Render thread/INFO]: [CHAT] [Bhairavi told me you found C'Zanil's crypt.]
+[22:24:01] [Render thread/INFO]: [CHAT] [Pten] We have indeed found his crypt. It's quite an interesting story actually... All this research actually paid off. Are you interested in hearing it, or would you rather just get to what my crew actually needs help with?
+[22:24:01] [Render thread/INFO]: [CHAT] [Please, tell me more.]
+[22:24:01] [Render thread/INFO]: [CHAT] [I don't have time for long explanations. Let's get to work.]
+[22:24:13] [Render thread/INFO]: [CHAT] [Pten] So, as I assume you know, C'Zanil was a key part of the Blackroot War for the Tlaxans. What we know now however is that C'Zanil fell into disgrace after the war ended. His nasty magics caused a breakdown in the efforts after the surrender.
+[22:24:13] [Render thread/INFO]: [CHAT] [How so?]
+[22:24:24] [Render thread/INFO]: [CHAT] [Pten] We believe devotees of C'Zanil's ways broke off from the Tlaxans seeking peace and formed their own group. C'Zanil didn't condone their actions, and was the last Shaman to remain after the war. C'Axtal and C'Shura seem to have vanished during the conflict.
+[22:24:24] [Render thread/INFO]: [CHAT] [And?]
+[22:24:35] [Render thread/INFO]: [CHAT] [Pten] It seems the Tlaxans shunned him. He fled to his workshop. We wanted to find it. Now here we are!
+[22:24:35] [Render thread/INFO]: [CHAT] [I wonder what happened to the other Shamans.]
+[22:24:39] [Render thread/INFO]: [CHAT] [Pten] We do too, but this place here is more important. It became C'Zanil's tomb. Bhairavi feels fairly sure that after C'Shura vanished, C'Zanil gained control of an artifact she possessed originally. Bhairavi now believes that was the Orange Wool. If we can get inside this place, maybe we can find the wool inside!
+[22:24:39] [Render thread/INFO]: [CHAT] [So how do we get inside then?]
+[22:24:49] [Render thread/INFO]: [CHAT] [Pten] Ah! Such a gung ho attitude! I love it! We absolutely need to get inside. So here's the deal. It seems that the place is sealed off by three keys, each one related to one of the tribes of Beastmen that roam the jungle.
+[22:24:49] [Render thread/INFO]: [CHAT] [Beastmen?]
+[22:24:49] [Render thread/INFO]: [CHAT] [I know the Beastmen. Where do I need to go?]
+[22:24:51] [Render thread/INFO]: [CHAT] [Pten] Yes. They're tribes of what used to be humans, but they seem to be more than that now. Hawk, Jaguar, and Serpentsia - though the Serpentsia seem to have been driven into extinction. They seem to be connected to this. Reports indicate they fought alongside C'Shura during the war, so we're not sure why they'd guard C'Zanil's tomb.
+[22:24:51] [Render thread/INFO]: [CHAT] [What do you need me to do then?]
+[22:24:54] [Render thread/INFO]: [CHAT] Mikara_ left the game
+[22:24:55] [Render thread/INFO]: [CHAT] [Pten] I need you to hunt down the remaining keys. My crew bravely managed to obtain the key guarded by the Jaguars, albeit at quite a loss of life. We still need the Hawk and Serpentsia keys.
+[22:24:55] [Render thread/INFO]: [CHAT] [Any idea which camps I'll need to visit?]
+[22:24:56] [Render thread/INFO]: [CHAT] [Pten] So we know the two keys left are for the Hawks and for the Serpentsia.
+[22:24:56] [Render thread/INFO]: [CHAT] [Where is the Hawk key?]
+[22:24:56] [Render thread/INFO]: [CHAT] [Where is the Serpentsia key?]
+[22:24:57] [Render thread/INFO]: [CHAT] [Pten] So we're fairly sure that the Hawk key is within a Hawk village just near the Tlaxan Ziggurat you found the Halls of Wind and Blood below.
+[22:24:57] [Render thread/INFO]: [CHAT] [Thanks. I'll get on it now!]
+[22:24:58] [Render thread/INFO]: [CHAT] [Pten] Return to me when you have both keys!
+[22:25:01] [Render thread/INFO]: [CHAT] [Pten] So we know the two keys left are for the Hawks and for the Serpentsia.
+[22:25:01] [Render thread/INFO]: [CHAT] [Where is the Hawk key?]
+[22:25:01] [Render thread/INFO]: [CHAT] [Where is the Serpentsia key?]
+[22:25:04] [Render thread/INFO]: [CHAT] [Pten] We're less sure about the Serpentsia key's location. In her research, Bhairavi heard mention of somewhere called the Serpent Ruins across the river near Nyr. Maybe try there?
+[22:25:04] [Render thread/INFO]: [CHAT] [Thanks! I'll get on that now.]
+[22:25:05] [Render thread/INFO]: [CHAT] [Pten] Return to me when you have both keys!
+
+[22:28:19] [Render thread/INFO]: [CHAT] Beasts of Men [1/3]: Get the Hawk key from the Hawk Village.
+[22:28:22] [Render thread/INFO]: [CHAT] Beasts of Men [2/3]: Get the Serpentsia key from the Serpent Ruins high on the clifftop.
+[22:57:52] [Render thread/INFO]: [CHAT] Beasts of Men [2/3]: Get the Serpentsia key from the Serpent Ruins high on the clifftop.
+[22:57:53] [Render thread/INFO]: [CHAT] Beasts of Men [3/3]: Talk to Pten near the Ancient Ruins once you find both keys.
+
+#Q25I01 https://puu.sh/GAmF7/a4e6690a7c.png
+#Q25I02 
+
+[23:12:36] [Render thread/INFO]: [CHAT] [Pten] You found them both! You're really serious about this adventuring thing. Let me place the keys in their slots then, and we'll see what happens...
+[23:12:36] [Render thread/INFO]: [CHAT] [Pten] It worked! It looks like the crypt has actually opened up... I'll gather my crew and send some people inside. Would you like to do the honors and enter first?
+[23:12:36] [Render thread/INFO]: [CHAT] [Absolutely. I'll meet you down there.]
+[23:12:36] [Render thread/INFO]: [CHAT] [I need to go prepare first. Who knows what's inside?]
+[23:12:45] [Render thread/INFO]: [CHAT] [Pten] This is so exciting! Bhairavi will be so pleased.
+
+[23:12:36] [Render thread/INFO]: [CHAT] [Pten] You found them both! You're really serious about this adventuring thing. Let me place the keys in their slots then, and we'll see what happens...
+[23:12:36] [Render thread/INFO]: [CHAT] [Pten] It worked! It looks like the crypt has actually opened up... I'll gather my crew and send some people inside. Would you like to do the honors and enter first?
+[23:12:36] [Render thread/INFO]: [CHAT] [Absolutely. I'll meet you down there.]
+[23:12:36] [Render thread/INFO]: [CHAT] [I need to go prepare first. Who knows what's inside?]
+[23:12:45] [Render thread/INFO]: [CHAT] [Pten] This is so exciting! Bhairavi will be so pleased.
+[23:13:25] [Render thread/INFO]: [CHAT] [Pten] It worked! It looks like the crypt has actually opened up... I'll gather my crew and send some people inside. Would you like to do the honors and enter first?
+[23:13:25] [Render thread/INFO]: [CHAT] [Absolutely. I'll meet you down there.]
+[23:13:25] [Render thread/INFO]: [CHAT] [I need to go prepare first. Who knows what's inside?]
+[23:13:27] [Render thread/INFO]: [CHAT] [Pten] This is so exciting! Bhairavi will be so pleased.
+[23:14:03] [Render thread/INFO]: [CHAT] [Wexley] Hey there! You're Sukie, right? I just finished setting up the forward camp here. Not sure what to expect so I wanted us to be ready. My colleagues are exploring some various entrances found around the outer ring.
+[23:14:03] [Render thread/INFO]: [CHAT] [Where do those entrances go?]
+[23:14:07] [Render thread/INFO]: [CHAT] [Wexley] From what we can tell, they're tombs to important supporters of C'Zanil. Each is labeled, and seems to contain some sort of puzzle.
+[23:14:07] [Render thread/INFO]: [CHAT] [Have you guys been able to solve any of them?]
+[23:14:08] [Render thread/INFO]: [CHAT] [Wexley] Brayllur and Keller seemed to have some degree of success. You'll want to speak to those stationed outside each room for more details. I was put in charge of the central chamber. Anything else you'd like to know?
+[23:14:08] [Render thread/INFO]: [CHAT] [How do I get out?]
+[23:14:08] [Render thread/INFO]: [CHAT] [Where is C'Zanil's tomb?]
+[23:14:08] [Render thread/INFO]: [CHAT] [Where's Pten?]
+[23:14:10] [Render thread/INFO]: [CHAT] [Wexley] If you head to either side of the big staircase, there's a little room that allows you to escape!
+[23:14:17] [Render thread/INFO]: [CHAT] [Wexley] Hey there! You're Sukie, right? I just finished setting up the forward camp here. Not sure what to expect so I wanted us to be ready. My colleagues are exploring some various entrances found around the outer ring.
+[23:14:17] [Render thread/INFO]: [CHAT] [Where do those entrances go?]
+[23:14:19] [Render thread/INFO]: [CHAT] [Wexley] From what we can tell, they're tombs to important supporters of C'Zanil. Each is labeled, and seems to contain some sort of puzzle.
+[23:14:19] [Render thread/INFO]: [CHAT] [Have you guys been able to solve any of them?]
+[23:14:20] [Render thread/INFO]: [CHAT] [Wexley] Brayllur and Keller seemed to have some degree of success. You'll want to speak to those stationed outside each room for more details. I was put in charge of the central chamber. Anything else you'd like to know?
+[23:14:20] [Render thread/INFO]: [CHAT] [How do I get out?]
+[23:14:20] [Render thread/INFO]: [CHAT] [Where is C'Zanil's tomb?]
+[23:14:20] [Render thread/INFO]: [CHAT] [Where's Pten?]
+[23:14:21] [Render thread/INFO]: [CHAT] [Wexley] Aha, the real question! So opposite the stairs leading to the outer ring is a set of stairs going downward. At the bottom is a sealed gate we've been unable to get through. There's an inscription on it that implies you need to "appease" his followers to gain entry. So I guess we have to solve the puzzles!
+[23:14:22] [Render thread/INFO]: [CHAT] [Wexley] Hey there! You're Sukie, right? I just finished setting up the forward camp here. Not sure what to expect so I wanted us to be ready. My colleagues are exploring some various entrances found around the outer ring.
+[23:14:22] [Render thread/INFO]: [CHAT] [Where do those entrances go?]
+[23:14:23] [Render thread/INFO]: [CHAT] [Wexley] From what we can tell, they're tombs to important supporters of C'Zanil. Each is labeled, and seems to contain some sort of puzzle.
+[23:14:23] [Render thread/INFO]: [CHAT] [Have you guys been able to solve any of them?]
+[23:14:24] [Render thread/INFO]: [CHAT] [Wexley] Brayllur and Keller seemed to have some degree of success. You'll want to speak to those stationed outside each room for more details. I was put in charge of the central chamber. Anything else you'd like to know?
+[23:14:24] [Render thread/INFO]: [CHAT] [How do I get out?]
+[23:14:24] [Render thread/INFO]: [CHAT] [Where is C'Zanil's tomb?]
+[23:14:24] [Render thread/INFO]: [CHAT] [Where's Pten?]
+[23:14:25] [Render thread/INFO]: [CHAT] [Wexley] He went off to submit a report to Bhairavi! If he's not already down here, I'm sure he will be soon. He said he'd be making a beeline to C'Zanil's tomb!
+[23:15:04] [Render thread/INFO]: [CHAT] [Pten] Hi there. Glad to see you made it down here too. I just spoke to Bhairavi and she's blown away by our progress! We need to get inside C'Zanil's tomb itself, because of course he has more than one layer of security. It seems his four most trusted generals created trials for those wishing to enter. We'll have to get through them all, I guess!
+[23:15:04] [Render thread/INFO]: [CHAT] [What do I need to do?]
+[23:15:05] [Render thread/INFO]: [CHAT] [Pten] I've sent a few of my coworkers to check them out in more detail. Go talk to them and they should be able to help you out. Come back to me when you're done!
+
+[23:17:20] [Render thread/INFO]: [CHAT] [Brayllur] Hello. You are Sukie.
+[23:17:20] [Render thread/INFO]: [CHAT] [I am.]
+[23:17:22] [Render thread/INFO]: [CHAT] [Brayllur] I am Brayllur. I am fighter for Bhairavi. This is warrior tomb, so I am here.
+[23:17:22] [Render thread/INFO]: [CHAT] [What am I to expect in the next room?]
+[23:17:27] [Render thread/INFO]: [CHAT] [Brayllur] It is battle arena. Inside is fighter you must beat. I have bested it, but I am no bow man. I need all four challenges to enter Zanil-man's tomb. Maybe you do it? Watch out for fighter's charge. It hurt.
+
+[23:20:27] [Render thread/INFO]: [CHAT] [Arvaya] A challenger? I shall watch eagerly from the stands.
+[23:21:40] [Render thread/INFO]: [CHAT] [Arvaya] You fight with the strength of C'Shura...
+[23:36:17] [Render thread/INFO]: [CHAT] [Brayllur] You do very well. I explore arena deeply for more information. Maybe new weapons too. Thanks.
+
+[23:23:18] [Render thread/INFO]: [CHAT] [Keller] Hey buddy. I'm Keller. You're Sukie right?
+[23:23:18] [Render thread/INFO]: [CHAT] [Yep!]
+[23:23:20] [Render thread/INFO]: [CHAT] [Keller] This place is crazy, eh? Reminds me of the big open room inside the Halls of Wind and Blood. I guess C'Zanil had a hand in building them both.
+[23:23:20] [Render thread/INFO]: [CHAT] [You've been in there too?]
+[23:23:25] [Render thread/INFO]: [CHAT] [Keller] Only briefly. I'm not much of a fighter. I'm more of a household magic user. Nowhere near the level of the Mage Council. This little puzzle in here was right up my alley! I managed to complete it a few minutes ago... but it seems we have to solve all four puzzles to progress. I'll never beat Arvaya in combat!
+[23:23:25] [Render thread/INFO]: [CHAT] [Can I help?]
+[23:23:36] [Render thread/INFO]: [CHAT] [Keller] Absolutely! It's some kind of magical light system. It sends out a pattern, and you need to repeat it. You'll need as good a memory as mine! Or just write it down... why didn't I think of that before...
+
+[23:26:58] [Render thread/INFO]: [CHAT] Congratulations! You solved it!
+[23:26:58] [Render thread/INFO]: [CHAT] [Siershen] That was a truly magical performance...
+[23:35:42] [Render thread/INFO]: [CHAT] [Keller] Hey! You did it! Amazing stuff, friend. I can't wait to try and understand how this all works...
+
+[23:27:53] [Render thread/INFO]: [CHAT] [Starn] Oh hey. You're Sukie, right? I saw you speaking to Pten earlier.
+[23:27:53] [Render thread/INFO]: [CHAT] [You did?]
+[23:28:12] [Render thread/INFO]: [CHAT] [Starn] I didn't want to interrupt. Thanks for your help getting inside. We lost two good men retrieving the Jaguar key and were terrified to go after the other two. Rest in peace Conway and Rhella... Anyway, what can I do for you?
+[23:28:12] [Render thread/INFO]: [CHAT] [I'm so sorry to hear about your friends.]
+[23:28:12] [Render thread/INFO]: [CHAT] [I'm told there's some puzzle to solve through here?]
+[23:28:36] [Render thread/INFO]: [CHAT] [Starn] I'll be okay. I'm just trying to finish this job in their honor.
+[23:28:39] [Render thread/INFO]: [CHAT] [Starn] Oh hey. You're Sukie, right? I saw you speaking to Pten earlier.
+[23:28:39] [Render thread/INFO]: [CHAT] [You did?]
+[23:28:40] [Render thread/INFO]: [CHAT] [Starn] I didn't want to interrupt. Thanks for your help getting inside. We lost two good men retrieving the Jaguar key and were terrified to go after the other two. Rest in peace Conway and Rhella... Anyway, what can I do for you?
+[23:28:40] [Render thread/INFO]: [CHAT] [I'm so sorry to hear about your friends.]
+[23:28:40] [Render thread/INFO]: [CHAT] [I'm told there's some puzzle to solve through here?]
+[23:28:41] [Render thread/INFO]: [CHAT] [Starn] Definitely. Looks like someone called Cyrar was an archer for C'Zanil. Inside are three absurdly challenging bow shots you'll need to make. I've got neither the disposition nor the talent to hit them. Been trying! Hit them all and I guess you'll "appease the spirit" or whatever.
+
+[23:28:41] [Render thread/INFO]: [CHAT] [Starn] Definitely. Looks like someone called Cyrar was an archer for C'Zanil. Inside are three absurdly challenging bow shots you'll need to make. I've got neither the disposition nor the talent to hit them. Been trying! Hit them all and I guess you'll "appease the spirit" or whatever.
+
+[23:32:09] [Render thread/INFO]: [CHAT] Target hit.
+[23:34:22] [Render thread/INFO]: [CHAT] Target hit.
+[23:34:37] [Render thread/INFO]: [CHAT] Target hit.
+[23:34:38] [Render thread/INFO]: [CHAT] [Cyrar] You have done well...
+[23:35:15] [Render thread/INFO]: [CHAT] [Starn] Thank you for your steady aim. You have honored our loss and have done much for this team.
+
+[23:37:09] [Render thread/INFO]: [CHAT] [Antigone] Greetings. I assume you are Sukie and not some hapless random adventurer who fell in by chance?
+[23:37:09] [Render thread/INFO]: [CHAT] [You got it. I'm Sukie.]
+[23:37:12] [Render thread/INFO]: [CHAT] Corrupted_Night was slain by Void Demon
+[23:37:13] [Render thread/INFO]: [CHAT] [Antigone] Lovely to meet you, and apologies for my brusqueness earlier. I am Antigone. I'm Bhairavi's alchemist and demolitions expert. Before you is the tomb of what seems to be C'Zanil's most trusted Alchemist, named Selxen. Inside is some sort of alchemy logic puzzle. I'm still trying to work out the details, but feel free to try it yourself.
+[23:37:13] [Render thread/INFO]: [CHAT] [Any hints?]
+[23:37:15] [Render thread/INFO]: [CHAT] [Antigone] I believe it has multiple aspects. First you will need to brew a potion; that central brewing stand is primed and ready. After that, you'll have work out what comes next.
+
+[00:00:00] [Render thread/INFO]: [CHAT] Correct Solution
+[00:00:00] [Render thread/INFO]: [CHAT] [Selxem] How did you survive my poison? Impressive...
+
+[00:00:57] [Render thread/INFO]: [CHAT] [Antigone] Well, I am duly impressed. Excellent solving skills. I'm eager to dig into the inner workings of this challenge, there's much to learn about Selxem and Tlaxan potion making here.
+
+[00:01:54] [Render thread/INFO]: [CHAT] [Pten] I can feel an intense magic on you, Sukie. Have you really done it?
+[00:01:54] [Render thread/INFO]: [CHAT] [I have, with the help of your coworkers!]
+[00:01:54] [Render thread/INFO]: [CHAT] [Absolutely. Did you doubt me?]
+[00:01:58] [Render thread/INFO]: [CHAT] [Pten] I'm glad they were of help! I think it's time we try entering the tomb then... Could the wool be inside?
+
+[00:11:22] [Render thread/INFO]: [CHAT] [Bhairavi] Found anything important yet? My research has been going well up here.
+[00:11:22] [Render thread/INFO]: [CHAT] [I have! With Pten and his crew's help we got inside the crypt!]
+[00:11:26] [Render thread/INFO]: [CHAT] [Bhairavi] You really are the one to bet on, aren't you? Did you find anything in there?
+[00:11:26] [Render thread/INFO]: [CHAT] [A few books... and also the location of the Orange Wool. It's inside the tunnels below the Serpent Ruins!]
+[00:11:29] [Render thread/INFO]: [CHAT] [Bhairavi] That's big news! Are you preparing to head there now?
+[00:11:29] [Render thread/INFO]: [CHAT] [Yes, I am.]
+[00:11:29] [Render thread/INFO]: [CHAT] [I need to prepare first.]
+[00:11:29] [Render thread/INFO]: [CHAT] [Not now.]
+[00:11:33] [Render thread/INFO]: [CHAT] [Bhairavi] I'll send you some help and construct a lobby like I did for the Halls of Wind and Blood.
+
+[13:28:51] [main/INFO]: [CHAT] [Wexley] Oh thank god, I'm alive. You are too. This is good. Bhairavi sent me here ahead of the rest of the team - I'm to offer you supplies as well as a reward for discovering this place. This is really amazing. How did C'Zanil build all this stuff?
+[13:28:51] [main/INFO]: [CHAT] [I really don't know.]
+[13:29:00] [main/INFO]: [CHAT] [Wexley] Anyway, I found a really interesting item back in the tomb that I wanted to give to you. Also, I have a key for you to access this place. They call it the Fallen Menagerie. Good luck in there. I hope you can find the wool!
+[13:29:00] [main/INFO]: [CHAT] BEASTS OF MEN COMPLETE!
+[13:29:00] [main/INFO]: [CHAT] Awarded an Orange Key, Cyrar's Sight, 64 Arrows of Slowness, Access to the Orange Lobby teleporter in Sierhaven, and 1 Prestige
+[13:29:00] [main/INFO]: [CHAT] [Wexley] Best of luck in there! If we can help, we'll try, but you're much more experienced than I am.
+
+
+==Missing Soldiers==
+[04:08:44] [main/INFO]: [CHAT] [Sergeant Sigrun] Hello adventurer, Captain Murano told me to keep an eye out for you. For good reasons of course; he called you a 'paragon of virtue'. Care to put that virtuousness to good use?
+[04:08:44] [main/INFO]: [CHAT] [What do you need help with?]
+[04:08:44] [main/INFO]: [CHAT] [Sorry, I need to get going.]
+[04:08:52] [main/INFO]: [CHAT] [Sergeant Sigrun] Scout Corporals Davis and Redmond were spying on the Jaguar Warrior village across the river, southeast of here. They can handle themselves, but should be back by now. If you could head over there and make sure they're... doing well, it would put me at ease.
+[04:08:52] [main/INFO]: [CHAT] QUEST : MISSING SOLDIERS
+[04:08:52] [main/INFO]: [CHAT] Length : Short
+[04:08:52] [main/INFO]: [CHAT] Difficulty : Medium
+[04:08:52] [main/INFO]: [CHAT] Look for the two Corporals at the Jaguar village across the river.
+
+[18:38:41] [main/INFO]: [CHAT] Missing Soldiers [1/2]: Two scouts went missing while watching the Southern Jaguar Village. See if you can find them... or what's left of them.
+[18:38:42] [main/WARN]: Received passengers for unknown entity
+[18:38:43] [main/INFO]: [CHAT] Missing Soldiers [2/2]: Once you find them, or what's left of them, return to Sergeant Sigrun.
+
+#Q06I01 https://puu.sh/GBrfY/8abed0e965.png
+#Q06I02 https://puu.sh/GBrgm/0a23b78d57.png
+
+[18:48:12] [main/INFO]: [CHAT] [Sergeant Sigrun] ...Yep, that's their gear. Damn it, what happened?
+[18:48:12] [main/INFO]: [CHAT] [They were eaten.]
+[18:48:12] [main/INFO]: [CHAT] [I, um, I'm not sure.]
+[18:48:18] [main/INFO]: [CHAT] [Sergeant Sigrun] ... Well. I think I'll call in the cavalry and burn that entire village to the ground
+[18:48:18] [main/INFO]: [CHAT] [Sergeant Sigrun] I'll start seeing how many troops we have available, but while I do that, there's another jaguar warrior village we had under surveillance to the east. Sergeant Kim was observing it, see if she's still alive.
+
+#Q06I03 https://puu.sh/GBrK4/341f03d4d7.png
+
+[18:49:57] [main/INFO]: [CHAT] Missing Soldiers [1/2]: Sergeant Kim was observing the Northern Jaguar Village. Find out what happened to her.
+[18:49:59] [main/INFO]: [CHAT] Missing Soldiers [2/2]: Once you find them, or what's left of them, return to Sergeant Sigrun.
+
+[19:18:33] [main/INFO]: [CHAT] [Sergeant Sigrun] ...I guess I'm writing three letters tonight. Here, this bow was Kim's. Take it, and kill any of those jaguar curs you run into.
+[19:18:33] [main/INFO]: [CHAT] MISSING SOLDIERS COMPLETE
+[19:18:33] [main/INFO]: [CHAT] Awarded Steelsiege and 1 Prestige
+[19:18:33] [main/INFO]: [CHAT] [Sergeant Sigrun] I can't say I'm happy about what you found, but thank you for your help.
+
+
+==Clucked Up==
+~~get suspicious chicken meat from.. an invisbile chicken.. in azacor's grove?~~
+talk to master of clucks while clucking from any source
+
+[21:18:59] [main/INFO]: [CHAT] [Master of Clucks] Oh my! You've been Clucked!
+[21:18:59] [main/INFO]: [CHAT] [Excuse me?]
+[21:19:01] [main/INFO]: [CHAT] [Master of Clucks] You have the... CURSE... upon thee! Do you not FEEL its horrible influence hanging over thy head? THE NOISE! THE ENDLESS CLUCKING!?
+[21:19:01] [main/INFO]: [CHAT] [Oh um. Yeah I guess I have noticed that.]
+[21:19:01] [main/INFO]: [CHAT] [How did this happen?]
+[21:19:03] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[21:19:03] [main/INFO]: [CHAT] <G> Sukie » yesss
+[21:19:12] [main/INFO]: [CHAT] [Master of Clucks] This is not a question I have answers to! SO!
+[21:19:12] [main/INFO]: [CHAT] [Master of Clucks] Do you wish to rid yourself of this... CURSE?
+[21:19:12] [main/INFO]: [CHAT] [Yes!]
+[21:19:12] [main/INFO]: [CHAT] [I mean, I suppose. It's fine I guess.]
+[21:19:12] [main/INFO]: [CHAT] [Not now.]
+[21:19:16] [main/INFO]: [CHAT] <G> [ABA] CS_Aristotle » Are you asking for a replacement?
+[21:19:19] [main/INFO]: [CHAT] [Master of Clucks] Your level of enthusiasm concerns me, but WE SHALL BEGIN!
+[21:19:19] [main/INFO]: [CHAT] QUEST : CLUCKED UP
+[21:19:19] [main/INFO]: [CHAT] Length : Enough
+[21:19:19] [main/INFO]: [CHAT] Difficulty : Foolish
+[21:19:19] [main/INFO]: [CHAT] Allow the Master of Clucks to help you remove your HORRIBLE CURSE!
+[21:19:19] [main/INFO]: [CHAT] [Master of Clucks] Now then! Next to me here you will see a POULTRYGEIST (ahh!)! You will not know true terror until you've tried to handle one of these beasts.
+[21:19:19] [main/INFO]: [CHAT] [I HAVE SEEN TRUE TERROR!]
+[21:19:19] [main/INFO]: [CHAT] [Looks like an outline of a chicken.]
+[21:19:19] [main/INFO]: [CHAT] [That's not scary.]
+[21:19:22] [main/INFO]: [CHAT] IcebergLettuce47 joined the game
+[21:19:23] [main/INFO]: [CHAT] <G> [WAIFU] Dayablep » yes
+[21:19:27] [main/INFO]: [CHAT] <G> [WAIFU] Dayablep » full of sand
+[21:19:29] [main/INFO]: [CHAT] <G> [WAIFU] Dayablep » :))
+[21:19:29] [main/INFO]: [CHAT] [Master of Clucks] FOR THAT IT IS! One filled with eternal RAGE! These Poultrygeist are an invading force, sent from far across the Valley in the horrible GROVE to invade our homes and cluck up life for us ALL!
+[21:19:29] [main/INFO]: [CHAT] [So what do we do to stop them?]
+[21:19:38] [main/INFO]: [CHAT] [Master of Clucks] I... I don't know yet. I've been trying to interrogate this ah... this Poultrygeist here but it's not been going well, I fear...
+[21:19:38] [main/INFO]: [CHAT] [Can I help?]
+[21:19:42] [main/INFO]: [CHAT] [Master of Clucks] I... suppose? Not with the interrogation though. That's far too dangerous. I need you to go help me get something the Poultrygeist fears...
+[21:19:42] [main/INFO]: [CHAT] [Do you have any ideas?]
+[21:19:47] [main/INFO]: [CHAT] [Master of Clucks] Oh I know exactly what you need. I need you to get me an EASTER EGG!
+[21:19:47] [main/INFO]: [CHAT] [An Easter Egg? What? Why? Where can I even get one?]
+[21:19:47] [main/INFO]: [CHAT] [Uh, okay. Where can I get one?]
+[21:19:54] [main/INFO]: [CHAT] [Master of Clucks] It's the only thing these evil chickens fear - the magical eggs of Rabbits themselves! The Bunny Baron under the Carrot field should be able to help.
+
+[21:21:20] [main/INFO]: [CHAT] [Master of Clucks] Have you found me an EASTER EGG yet? Speak to the Bunny Baron below the Carrot field if you've not yet.
+
+[21:21:40] [main/INFO]: [CHAT] Clucked Up: Speak to the Baron of All Bunnies, the Bunny Baron
+
+[21:24:44] [main/INFO]: [CHAT] [The Bunny Baron] WELCOME to the lair of the BUNNY BARON!
+[21:24:44] [main/INFO]: [CHAT] [Uh... hello?]
+[21:24:46] [main/INFO]: [CHAT] [The Bunny Baron] Do YOU come seeking the CARROTS? Nay, mayhaps the BUNNIES THEMSELVES? Or do you seek the true treasure, my JEWELED BUNNY SLIPPERS?!
+[21:24:46] [main/INFO]: [CHAT] [The carrots, I suppose]
+[21:24:46] [main/INFO]: [CHAT] [I'm here for the bunnies!]
+[21:24:46] [main/INFO]: [CHAT] [Those Bunny Slippers sound delightful.]
+[21:24:46] [main/INFO]: [CHAT] [Actually I'm here about an Easter Egg for the Master of Clucks. He told me you had one.]
+[21:24:50] [main/INFO]: [CHAT] [The Bunny Baron] WHAT?! That scoundrel DARES send someone to me?
+[21:24:50] [main/INFO]: [CHAT] [He needs it to interrogate a Poultrygeist!]
+[21:24:50] [main/INFO]: [CHAT] [You know, you two sound rather alike!]
+[21:24:55] [main/INFO]: [CHAT] Fangride joined the game
+[21:24:58] [main/INFO]: [CHAT] [The Bunny Baron] A POULTRYGEIST?! SCREW THOSE GUYS! Well then... I suppose I could part with an Easter Egg... if you do ONE SMALL FAVOR for me!
+[21:24:58] [main/INFO]: [CHAT] [Which is?]
+[21:25:03] [main/INFO]: [CHAT] [The Bunny Baron] DESCEND within the cave behind me and do battle with the MIGHTY BEAST inside. Defeat it and return to me and mayhaps you shall be granted... AN EASTER EGG!
+
+[21:25:14] [main/INFO]: [CHAT] Clucked Up: Defeat the BEAST in the Bunny Baron's Warren to get an Egg from the Baron!
+
+[20:32:51] [main/INFO]: [CHAT] [The Bunny Baron] Have you defeated the BEAST within the cave behind me? NO?! THEN GET IN THERE! My Bunnies want their warren back!! This is BUNbelievable...
+
+[20:39:01] [main/INFO]: [CHAT] OINK. OINK. OINK OINK.
+[20:39:07] [main/INFO]: [CHAT] OINK OINK. OINK OINK OINK. OINK OINK!
+
+[20:39:13] [main/INFO]: [CHAT] OINK OINK, OINK OINK OINK OINK. OOINKKKK!!
+[20:39:17] [main/INFO]: [CHAT] [Godly Clucking Spirit] Cluck Cluck!
+[20:39:18] [main/INFO]: [CHAT] OINK!? OINK OINK OINK!?!
+[20:39:22] [main/INFO]: [CHAT] [Godly Clucking Spirit] Cluck. Cluck Cluck Cluck Cluck. Cluck CLUCK!!!
+[20:39:25] [main/INFO]: [CHAT] Your curse of Clucking is suddenly brought out in power, making you feel extremely powerful!
+[20:39:25] [main/INFO]: [CHAT] You have gained OP AS CLUCK powers!! Cluck em' up!
+[20:39:30] [main/INFO]: [CHAT] OINK!! OINK OINK OINK!!! OINK OINK!!!!!!!
+
+[20:45:13] [main/INFO]: [CHAT] OINK! OINK OINK! OINK OINK OINK OINK!?!?!?
+[20:45:15] [main/INFO]: [CHAT] OOOOOOIIIIIIINNNNNNNNNNKKKKKKKKK!!!!!!!
+
+[20:46:19] [main/INFO]: [CHAT] [The Bunny Baron] IT IS DONE! I heard the dreadful SCREAMS as you took down the BEAST! No more shall that horrible CREATURE in the form of one so porcine HAUNT US! Now quickly, take this Easter Egg and be on your way!
+
+[20:46:36] [main/INFO]: [CHAT] Clucked Up: Return to the MASTER OF CLUCKS with the Easter Egg.
+
+#Q38I01 https://puu.sh/GEOhh/04f9b26f7c.png
+
+[20:47:05] [main/INFO]: [CHAT] [The Bunny Baron] WELCOME to the lair of the BUNNY BARON!
+[20:47:05] [main/INFO]: [CHAT] [Uh... hello?]
+[20:47:07] [main/INFO]: [CHAT] [The Bunny Baron] Do YOU come seeking the CARROTS? Nay, mayhaps the BUNNIES THEMSELVES? Or do you seek the true treasure, my JEWELED BUNNY SLIPPERS?!
+[20:47:07] [main/INFO]: [CHAT] [The carrots, I suppose]
+[20:47:07] [main/INFO]: [CHAT] [I'm here for the bunnies!]
+[20:47:07] [main/INFO]: [CHAT] [Those Bunny Slippers sound delightful.]
+[20:47:07] [main/INFO]: [CHAT] [Can I have another Easter Egg? I lost mine.]
+[20:47:07] [main/INFO]: [CHAT] [Can I battle the... uh... BEAST... again?]
+[20:47:09] [main/INFO]: [CHAT] [The Bunny Baron] HRMPH! Of COURSE you have! Here, you misplacer you!
+
+[20:48:26] [main/INFO]: [CHAT] [Master of Clucks] You did it! Excellent. I'll just take that then... and we can head into the LAIR and begin the interrogation!
+[20:48:26] [main/INFO]: [CHAT] [The lair?]
+[20:48:30] [main/INFO]: [CHAT] [Master of Clucks] YES! The LAIR! It's just down the ladder next to me. We've got quite a cushy basement set up, okay? Are you ready?
+[20:48:30] [main/INFO]: [CHAT] [Let's do it!]
+[20:48:30] [main/INFO]: [CHAT] [Not yet.]
+[20:48:37] [main/INFO]: [CHAT] [Master of Clucks] Let me know when you are and we can begin!
+
+[20:48:39] [main/INFO]: [CHAT] Clucked Up: Speak to the MASTER OF CLUCKS to head to his supercool secret lair!
+
+[20:48:54] [main/INFO]: [CHAT] [Master of Clucks] You did it! Excellent. I'll just take that then... and we can head into the LAIR and begin the interrogation!
+[20:48:54] [main/INFO]: [CHAT] [The lair?]
+[20:48:56] [main/INFO]: [CHAT] [Master of Clucks] YES! The LAIR! It's just down the ladder next to me. We've got quite a cushy basement set up, okay? Are you ready?
+[20:48:56] [main/INFO]: [CHAT] [Let's do it!]
+[20:48:56] [main/INFO]: [CHAT] [Not yet.]
+[20:48:57] [main/INFO]: [CHAT] [Master of Clucks] ONWARD!
+
+[20:51:12] [main/INFO]: [CHAT] [Master of Clucks] Welcome to the LAIR Sukie! I think it is time to begin the interrogation!
+[20:51:12] [main/INFO]: [CHAT] [What can I do to help?]
+[20:51:15] [main/INFO]: [CHAT] [Master of Clucks] Stand here, look intimidating, and feed me questions! I'll translate this FIEND'S answers!
+[20:51:15] [main/INFO]: [CHAT] [Sounds good!]
+[20:51:18] [main/INFO]: [CHAT] [Master of Clucks] Now! ASK YOUR QUESTION!
+[20:51:18] [main/INFO]: [CHAT] [How do I get uncursed?]
+[20:51:18] [main/INFO]: [CHAT] [Why did you do this to me?]
+[20:51:18] [main/INFO]: [CHAT] [What is the average land-speed of an unladen swallow?]
+[20:51:27] [main/INFO]: [CHAT] [Master of Clucks] He says... wait...
+[20:51:27] [main/INFO]: [CHAT] [Terrified Poultrygeist] African or European?
+[20:51:31] [main/INFO]: [CHAT] [Master of Clucks] Now! ASK YOUR QUESTION!
+[20:51:31] [main/INFO]: [CHAT] [How do I get uncursed?]
+[20:51:31] [main/INFO]: [CHAT] [Why did you do this to me?]
+[20:51:31] [main/INFO]: [CHAT] [What is the average land-speed of an unladen swallow?]
+[20:51:34] [main/INFO]: [CHAT] [Master of Clucks] He says "I did nothing to you! We merely distributed the jars. SOMEONE ELSE threw them at you! MUAHAHAHA!"
+[20:51:34] [main/INFO]: [CHAT] [Terrified Poultrygeist] Bwuck-BWAWK!
+[20:51:37] [main/INFO]: [CHAT] [Master of Clucks] Now! ASK YOUR QUESTION!
+[20:51:37] [main/INFO]: [CHAT] [How do I get uncursed?]
+[20:51:37] [main/INFO]: [CHAT] [Why did you do this to me?]
+[20:51:37] [main/INFO]: [CHAT] [What is the average land-speed of an unladen swallow?]
+[20:51:40] [main/INFO]: [CHAT] [Master of Clucks] He says "You must travel atop the greatest tree in the forest and steal the Decluckifier from the Motherclucker herself!"
+[20:51:40] [main/INFO]: [CHAT] [Terrified Poultrygeist] BWAWKKK!!!!
+[20:51:40] [main/INFO]: [CHAT] [The greatest tree? In the Jungle?]
+[20:51:45] [main/INFO]: [CHAT] [Master of Clucks] He says "Yes, the Motherclucker has set up her terrifying outpost there. Soon we shall spread beyond the Grove and--"
+[20:51:45] [main/INFO]: [CHAT] [And what?]
+[20:51:45] [main/INFO]: [CHAT] [Terrified Poultrygeist] Bwa-bwakk!
+[20:51:53] [main/INFO]: [CHAT] [Master of Clucks] He's... he's dead? He's not saying anything else. Why do we still hear the bwawks?
+[20:51:53] [main/INFO]: [CHAT] [I... don't know?]
+[20:52:00] [main/INFO]: [CHAT] [The Motherclucker] Of course you don't, fools. I have silenced this traitor. You're coming with me! BWAWKKK!!!
+
+[20:52:42] [main/INFO]: [CHAT] [Imprisoned Poultrygeist] I can't believe the Motherclucker! She's going to De-Geist me! This is ABSURD!!! Here, I'll tell you what. I'll give you the tome that will let you break the Clucking Curse. That will really make her mad!
+[20:52:42] [main/INFO]: [CHAT] [That seems fair to me.]
+[20:52:42] [main/INFO]: [CHAT] [How can I understand you now?]
+[20:52:51] [main/INFO]: [CHAT] [Imprisoned Poultrygeist] Oh, we just play up the bwawking. It's funny to us, I guess.
+[20:52:56] [main/INFO]: [CHAT] [Imprisoned Poultrygeist] I can't believe the Motherclucker! She's going to De-Geist me! This is ABSURD!!! Here, I'll tell you what. I'll give you the tome that will let you break the Clucking Curse. That will really make her mad!
+[20:52:56] [main/INFO]: [CHAT] [That seems fair to me.]
+[20:52:56] [main/INFO]: [CHAT] [How can I understand you now?]
+[20:52:57] [main/INFO]: [CHAT] [Imprisoned Poultrygeist] Excellent. Get ready to run - it's gonna be a real race to get away from the Motherclucker's chickens!
+[20:52:57] [main/INFO]: [CHAT] [I'm ready to go!]
+[20:52:57] [main/INFO]: [CHAT] [You'll have to give me a few then.]
+[20:53:02] [main/INFO]: [CHAT] [Imprisoned Poultrygeist] Hurry up!
+
+[20:56:50] [main/INFO]: [CHAT] Clucked Up: Return to the MASTER OF CLUCKS with your new knowledge!
+
+[20:57:05] [main/INFO]: [CHAT] Cloud_ joined the game
+[20:58:29] [main/INFO]: [CHAT] [Master of Clucks] You survived! I can't believe you've made it back!
+[20:58:29] [main/INFO]: [CHAT] [I've got a text that should let us break this clucking curse!]
+[20:58:32] [main/INFO]: [CHAT] [Master of Clucks] How in the CLUCK did you get that?!
+[20:58:32] [main/INFO]: [CHAT] [The Poultrygeist! It gave it to me because the evil Motherclucker was going to de-geist him!]
+[20:58:37] [main/INFO]: [CHAT] AMAZING! Well, let me take that and I'll learn the ritual! With this in hand I can break any clucking curses! You've done amazing work!
+[20:58:37] [main/INFO]: [CHAT] CLUCKED UP COMPLETE MOTHACLUCKAS!!! HAPPY APRIL FOOL'S DAY!
+[20:58:37] [main/INFO]: [CHAT] Awarded access to decluckifying with the Master of Clucks, access to the Get The Cluck Out race at the top of the Hawk Fortress tree to get more Jar of Clucks, access to the Pig Boss Battle for fun and glory!
+
+[20:58:37] [main/INFO]: [CHAT] [Master of Clucks] I feel we have some declucking to do. If you've got an item with the Clucking enchantment on it and want it removed, hold it in your hand. Then, speak to me and accept!
+[20:58:37] [main/INFO]: [CHAT] [Cluck me up!]
+[20:58:37] [main/INFO]: [CHAT] [Give me a moment.]
+[20:58:37] [main/INFO]: [CHAT] [Can you tell me more about these Jar of Clucks?]
+[20:58:37] [main/INFO]: Loaded 532 advancements
+[20:58:47] [main/INFO]: [CHAT] [Master of Clucks] It is the very VESSEL the Clucking is contained within! If you were to THROW IT at another hero, something they wore with the King's Valley tag would be CURSED! You WOULD NEVER do that to someone else, would you?
+[20:58:47] [main/INFO]: [CHAT] [Definitely not! With that in mind, where can I get more?]
+[20:58:56] [main/INFO]: [CHAT] [Master of Clucks] I imagine speaking to your Poultrygeist ALLY would make sense. Want to try and visit him now?
+[20:58:56] [main/INFO]: [CHAT] [Yes please!]
+[20:58:56] [main/INFO]: [CHAT] [Maybe some other time.]
+[20:59:00] [main/INFO]: [CHAT] [Master of Clucks] I understand! Those POULTRYGEISTS are horrible! THIS VERY ONE NEXT TO ME needs to SHUT the CLUCK up!
+
+==The Plague==
+[12:59:35] [Render thread/INFO]: [CHAT] [Dr. Laurie] Oh no, please tell me you're not infected too?
+[12:59:35] [Render thread/INFO]: [CHAT] [I'm fine. What's wrong with them?]
+[12:59:35] [Render thread/INFO]: [CHAT] [Yep, I'm dying *cough cough*]
+[12:59:39] [Render thread/INFO]: [CHAT] [Dr. Laurie] An outbreak of Marasmus Execratio, or the 'Blackroot Plague' as it's colloquially known. I won't go into the details, but it is both resoundingly unpleasant and fatal to two-thirds of the infected. Worst of all, none of my drugs work against it.
+[12:59:39] [Render thread/INFO]: [CHAT] [Can anything be done?]
+[12:59:39] [Render thread/INFO]: [CHAT] [Wow, that sounds nasty]
+
+[12:59:52] [Render thread/INFO]: [CHAT] [Dr. Laurie] Some Tlaxani say their shamans could brew medicine that can cure it. It's a longshot, but there's four lives on the line. If you can find a shaman who can make that medicine, bring me back five doses; four for them, and one more so I can learn how to make it myself.
+[12:59:52] [Render thread/INFO]: [CHAT] QUEST : THE PLAGUE
+[12:59:52] [Render thread/INFO]: [CHAT] Length : Long
+[12:59:52] [Render thread/INFO]: [CHAT] Difficulty : Medium
+[12:59:52] [Render thread/INFO]: [CHAT] Look in the Southern Jungle for a Shaman
+
+[13:15:21] [Render thread/INFO]: [CHAT] [C'Taz] The plague has come again. I can make the medicine you seek. First, we need twelve golden stones, darkened with fear. Twelve treasures of winged foes, from their fortress of leaves and sky. Bring them to me.
+
+[13:20:29] [Render thread/INFO]: [CHAT] The Plague [1/2]: C'Taz needs exactly 12 dark amber for the first ingredient of the medicine, hidden within a massive tree.
+[13:20:33] [Render thread/INFO]: [CHAT] The Plague [2/2]: Once you have 12 dark amber, return to C'Taz
+
+#Q07I01 https://puu.sh/GAJ4E/038feb887a.png
+
+[17:22:47] [main/INFO]: [CHAT] [C'Taz] Perfect. Dark Amber, to be ground into a powder as fine as the smoothest sand. Next, we need sixteen Spirit Flowers, plucked from an island deep in the jungle. Their ancient oils banish the foul spirits afflicting Nyr.
+
+[17:23:10] [main/INFO]: [CHAT] The Plague [1/2]: Next C'Taz needs precisely 16 spirit flowers from the hallowed pond east of her hut.
+[17:23:02] [main/INFO]: [CHAT] The Plague [2/2]: Once you have 16 spirit flowers, return to C'Taz
+
+#Q07I02 https://puu.sh/GAJkG/93078d9560.png
+
+[17:28:33] [main/INFO]: [CHAT] [C'Taz] Wonderful. Pungent and rich, these flowers will banish the evil spirits who have blighted Nyr. Their oils form the base of the medicine. Finally, bring ten pieces of Haunted Earth, reclaimed from my people's ancient home to the North. Then they shall live.
+
+[17:29:17] [main/INFO]: [CHAT] The Plague [1/2]: Finally, bring C'Taz 10 pieces of Haunted Earth from the dangerous ruins northeast of Nyr and northwest of Farr.
+[17:41:20] [main/INFO]: [CHAT] The Plague [2/2]: Once you have 10 Haunted Earth, return to C'Taz
+
+#Q07I03 https://puu.sh/GAJxk/de95570e41.png
+
+[17:41:46] [main/INFO]: [CHAT] [C'Taz] The ingredients are gathered. I shall invoke the spirits of earth and health and blood, and then the medicine will be yours.
+[17:41:46] [main/INFO]: [CHAT] [C'Taz] The medicine is done. There are four souls who must drink this, but I have more ingredients. I sense great hardship in your future, and can make you two powerful elixirs to aid you. Or, I can make another dose of medicine. Choose.
+[17:41:46] [main/INFO]: [CHAT] [Make the fifth dose.]
+[17:41:46] [main/INFO]: [CHAT] [I'll take the elixirs.]
+[17:42:09] [main/INFO]: [CHAT] [C'Taz] A generous choice. Here is the medicine with all its magic. Go. Save people.
+[17:42:09] [main/INFO]: [CHAT] Recieved five doses of Mysterious Medicine
+
+#Q07I04 https://puu.sh/GAJz6/94ceaa5ce6.png
+
+[17:42:57] [main/INFO]: [CHAT] The Plague: Hurry! Bring the medicine to Dr Laurie so that Nyr will be safe once more.
+
+[17:46:15] [main/INFO]: [CHAT] [Dr. Laurie] You actually found that medicine?
+[17:46:15] [main/INFO]: [CHAT] [Yes! All five doses]
+[17:46:18] [main/INFO]: [CHAT] [Dr. Laurie] Well, I'll set this one aside for later, and let's see if this works...
+[17:46:18] [main/INFO]: [CHAT] [Dr. Laurie] *checks on patients* They still need a lot of rest and medicine, but their vitals are definitely improving. I'm genuinely amazed that some apocryphal, legendary medicine worked after all. Here, it's not much, but you deserve a reward for this.
+[17:46:18] [main/INFO]: [CHAT] THE PLAGUE COMPLETE!
+[17:46:18] [main/INFO]: [CHAT] Awarded 192 Enchanting Bottles, 3 Potions of Restoration, and 2 Prestige
+
+==Roots of the Plague==
+
+[01:46:35] [main/INFO]: [CHAT] [Bhairavi] Have you been inside the Menagerie yet?
+[01:46:35] [main/INFO]: [CHAT] [I have.]
+[01:46:37] [main/INFO]: [CHAT] [Bhairavi] Don't play this game with me again Sukie. Did you find the wool?
+[01:46:37] [main/INFO]: [CHAT] [I have!]
+[01:46:40] [main/INFO]: [CHAT] [Bhairavi] I don't know how you manage to impress me so thoroughly every time. I'll inform Vargos of your incredible actions. I'll update you after I speak to him.
+[01:46:41] [main/INFO]: [CHAT] pien_umauma joined the game
+[01:47:04] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:47:04] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:47:04] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:47:04] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:47:15] [main/INFO]: [CHAT] [Bhairavi] Let's hear them.
+[01:47:15] [main/INFO]: [CHAT] [So who was C'Zanil? How did he make the curses?]
+[01:47:15] [main/INFO]: [CHAT] [What power has the White Wool granted me?]
+[01:47:15] [main/INFO]: [CHAT] [What was Quetzalcoatl really?]
+[01:47:15] [main/INFO]: [CHAT] [Can I have another copy of Vargos' letter?]
+[01:47:19] [main/INFO]: [CHAT] [Bhairavi] From what you told me, it seems there is no god called Quetzalcoatl at all. I believe that the Tlaxans worshiped the Wool they had as Gods and gave them names. We also know of Ixume and Myragh, which seem to personify the Orange and Magenta wool as well. The Lunatic's myth that you found also implies magic is tied to a Light Blue wool, and the being Kaul is involved with Yellow.
+[01:47:35] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:47:35] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:47:35] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:47:35] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:47:38] [main/INFO]: [CHAT] [Bhairavi] Let's hear them.
+[01:47:38] [main/INFO]: [CHAT] [Do you know more about the Generals?]
+[01:47:38] [main/INFO]: [CHAT] [Who are Ixume and Myragh? I saw them mentioned in books.]
+[01:47:38] [main/INFO]: [CHAT] [What power has the Orange Wool granted me?]
+[01:47:38] [main/INFO]: [CHAT] [Who are C'Shura and C'Axtal?]
+[01:47:40] [main/INFO]: [CHAT] [Bhairavi] Since we spoke last my team and I have learned a lot about them. Little hidden stories and carvings in the tomb have revealed much. Antigone has kindly transcribed the important bits in a book for you.
+[01:47:45] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:47:45] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:47:45] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:47:45] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:47:47] [main/INFO]: [CHAT] [Bhairavi] Let's hear them.
+[01:47:47] [main/INFO]: [CHAT] [Do you know more about the Generals?]
+[01:47:47] [main/INFO]: [CHAT] [Who are Ixume and Myragh? I saw them mentioned in books.]
+[01:47:47] [main/INFO]: [CHAT] [What power has the Orange Wool granted me?]
+[01:47:47] [main/INFO]: [CHAT] [Who are C'Shura and C'Axtal?]
+[01:47:50] [main/INFO]: [CHAT] [Bhairavi] They appear to be the Tlaxan personification of the Orange and Magenta wools. We were not aware the Tlaxans were in control of the Magenta wool however. This requires much research...
+[01:47:56] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:47:56] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:47:56] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:47:56] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:47:58] [main/INFO]: [CHAT] [Bhairavi] Let's hear them.
+[01:47:58] [main/INFO]: [CHAT] [Do you know more about the Generals?]
+[01:47:58] [main/INFO]: [CHAT] [Who are Ixume and Myragh? I saw them mentioned in books.]
+[01:47:58] [main/INFO]: [CHAT] [What power has the Orange Wool granted me?]
+[01:47:58] [main/INFO]: [CHAT] [Who are C'Shura and C'Axtal?]
+[01:48:00] [main/INFO]: [CHAT] [Bhairavi] None directly, but there is more potential within you now. If you return to the Academy, you should be able to channel that power into yet another skill of your choice.
+[01:48:03] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:48:03] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:48:03] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:48:03] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:48:05] [main/INFO]: [CHAT] [Bhairavi] Let's hear them.
+[01:48:05] [main/INFO]: [CHAT] [Do you know more about the Generals?]
+[01:48:05] [main/INFO]: [CHAT] [Who are Ixume and Myragh? I saw them mentioned in books.]
+[01:48:05] [main/INFO]: [CHAT] [What power has the Orange Wool granted me?]
+[01:48:05] [main/INFO]: [CHAT] [Who are C'Shura and C'Axtal?]
+[01:48:08] [main/INFO]: [CHAT] [Bhairavi] They appear to be other Tlaxan Shamans. The Vault you accessed had books with their names too, if I recall correctly. It seems C'Axtal was involved with a Sanctum that was destroyed, and C'Shura was sent to deal with it, leaving C'Zanil with both the White and Orange wools.
+[01:48:17] [main/INFO]: [CHAT] [Bhairavi] Hello again Sukie. Vargos is once again surprised, but delighted by your discovery! He wanted me to remind you that the Orange Wool has likely granted you more power that you can use at the Academy. My team has also completed further research. Is there anything I can answer for you?
+[01:48:17] [main/INFO]: [CHAT] [I actually have questions about our first adventure.]
+[01:48:17] [main/INFO]: [CHAT] [Yes, I have some questions about this adventure.]
+[01:48:17] [main/INFO]: [CHAT] [I'm actually wondering what we're doing next.]
+[01:48:18] [main/INFO]: [CHAT] [Bhairavi] Next? We have plenty of work to do, Sukie. Antigone and Keller have been hard at work trying to find out more on the Tlaxan god Myragh, while Pten, Brayllur, Wexley, and Starn continue to explore the Fallen Menagerie.
+[01:48:18] [main/INFO]: [CHAT] [What can I do?]
+[01:48:28] [main/INFO]: [CHAT] [Bhairavi] I think we'd be best served having you assist with the Myragh research. We've made some major breakthroughs on that front and are working on finding the Plagueroot Temple mentioned in Selxem's tomb.
+[01:48:28] [main/INFO]: [CHAT] [Where is it?]
+[01:48:34] [main/INFO]: [CHAT] [Bhairavi] Ah, well there's the kicker. We have reason to believe it is within the Grand Maw, one of the most dangerous places in the King's Valley.
+[01:48:34] [main/INFO]: [CHAT] [Oh...]
+[01:48:38] [main/INFO]: [CHAT] [Bhairavi] It's a bit of an undertaking. I understand. So you're in right?
+[01:48:38] [main/INFO]: [CHAT] [I can handle it.]
+[01:48:38] [main/INFO]: [CHAT] [I'm not sure...]
+[01:48:38] [main/INFO]: [CHAT] [I don't think I'm ready for this yet.]
+[01:48:41] [main/INFO]: [CHAT] [Bhairavi] Splendid. Let's get started then!
+[01:48:41] [main/INFO]: [CHAT] QUEST : ROOTS OF THE PLAGUE
+[01:48:41] [main/INFO]: [CHAT] Length : Medium-Long
+[01:48:41] [main/INFO]: [CHAT] Difficulty : Medium
+[01:48:41] [main/INFO]: [CHAT] Head to the Grand Maw and look for something related to the Tlaxan god, Myragh.
+[01:48:41] [main/INFO]: [CHAT] WARNING ! Progressing much further past this point will lock you out of Farr until the quest is complete. WARNING !
+[01:48:41] [main/INFO]: [CHAT] [Bhairavi] I know it's a bit of an open prompt, but just explore around the Maw. Perhaps we'll find a book, maybe more graves. Anything could help. If you can bring back what you find, even better. Please be careful though. The book we found seems ominous and the Temple seems dangerous.
+[01:48:41] [main/INFO]: [CHAT] [Where is the Grand Maw?]
+[01:48:56] [main/INFO]: [CHAT] [Bhairavi] Oh! I didn't even consider you didn't know of it. Head out of Nyr to the river, and follow it into the jungle. The river itself pours into the Maw. You can't miss it.
+
+[01:51:20] [main/INFO]: [CHAT] Roots of the Plague: Explore the Grand Maw and try to find something to bring back to Bhairavi.
+
+[02:39:21] [main/INFO]: [CHAT] [Bhairavi] This is bad... this is so so bad. Sukie, what happened?
+[02:39:21] [main/INFO]: [CHAT] [What's going on?]
+[02:39:24] [main/INFO]: [CHAT] [Bhairavi] We just heard from Farr. The entire town is in lockdown. There's seventeen with the Plague and counting out! I sent you looking for a temple housing a god of sickness. So... What. Did. You. Do?
+[02:39:24] [main/INFO]: [CHAT] [I just found a statue, and took a gemstone inside.]
+[02:39:27] [main/INFO]: [CHAT] G3m1n1Boy joined the game
+[02:39:35] [main/INFO]: [CHAT] [Bhairavi] Oh. That... could be a pretty major problem, Sukie. I've made a terrible mistake. WE'VE made a terrible mistake. This is what I get for being so overeager... This is my fault... I thought we could be more aggressive.
+[02:39:35] [main/INFO]: [CHAT] [So now what?]
+[02:39:42] [main/INFO]: [CHAT] [Bhairavi] We can fix this. I know we can. Go talk to Dr. Laurie. She's going to need all the help she can get.
+
+[02:40:15] [main/INFO]: [CHAT] [Dr. Laurie] Oh, thank goodness, it's you. Things are really bad. I've been in contact with Bhairavi and she told me you should be able to help. I have no idea how this outbreak happened and the medicine you helped me get isn't working at all, according to Nurse Eris.
+[02:40:15] [main/INFO]: [CHAT] [Actually, I know why it happened.]
+[02:40:15] [main/INFO]: [CHAT] [We're clueless as to why the Plague happened as well.]
+[02:40:27] [main/INFO]: [CHAT] [Dr. Laurie] Don't worry about it right now. We can discuss that when people aren't dying. We need to find a new cure, and I think I have a contact we can get some help from. There's a bit of a problem though...
+[02:40:27] [main/INFO]: [CHAT] [What's the problem?]
+[02:40:47] [main/INFO]: [CHAT] [Dr. Laurie] He lives in Farr. If we want to get in contact with him, you'll have to sneak into Farr. It's going to be dangerous. The crown has set up a full quarantine and has guards stationed across the city. If you get caught, you're going to be in serious trouble.
+[02:40:47] [main/INFO]: [CHAT] [This sounds like my kind of challenge.]
+[02:40:54] [main/INFO]: [CHAT] [Dr. Laurie] Good. My contact's name is T'Lm - he's an ex-village leader of the Tlaxans. He lives with his son, Haotl, on the west side of the town, near the armory. I hope he's not sick or trapped outside the city.
+[02:40:54] [main/INFO]: [CHAT] [How am I going to get into Farr?]
+[02:41:03] [main/INFO]: [CHAT] [Dr. Laurie] The city has to drain water somewhere, right? I'd check on the west side, by the Hallowed Pond. Maybe there is a sewer entrance hidden nearby.
+[02:41:03] [main/INFO]: [CHAT] [Thank you.]
+[02:41:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:41:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:41:08] [main/INFO]: [CHAT] [Dr. Laurie] Good luck.
+
+[02:47:10] [main/INFO]: [CHAT] Roots of the Plague [1/2]: Look for a sewer entrance into Farr near the Hallowed Pond.
+[02:47:13] [main/INFO]: [CHAT] Roots of the Plague [2/2]: Once inside quarantined Farr find T'Lm.
+
+[02:47:35] [main/INFO]: [CHAT] After wading for some time through some rather unpleasantly chunky water, you find yourself in a small access tunnel.
+
+[02:52:49] [main/INFO]: [CHAT] [T'Lm] Hello? How did you know I was here?
+[02:52:49] [main/INFO]: [CHAT] [Are you T'Lm? I was sent here to find him.]
+[02:52:52] [main/INFO]: [CHAT] [T'Lm] I... I am. Are you here to take me away like my son?
+[02:52:52] [main/INFO]: [CHAT] [No, I was sent by Bhairavi and Dr. Laurie. They said you might be able to help me.]
+[02:52:57] [main/INFO]: [CHAT] [T'Lm] Help you? I've not heard from Bhairavi in quite awhile. Did they send you to help with Marasmus Execratio?
+[02:52:57] [main/INFO]: [CHAT] [Yes. I found a crystal in the Grand Maw, and when I took it, all this happened.]
+[02:53:04] [main/INFO]: [CHAT] [T'Lm] You took one of the sacred binding crystals? No wonder Myragh has been unleashed. You must be fixing this mistake quickly, Sukie.
+[02:53:04] [main/INFO]: [CHAT] [How do you know my name?]
+[02:53:04] [main/INFO]: [CHAT] [How do I fix this?]
+[02:53:10] [main/INFO]: [CHAT] [T'Lm] There is much I know. I know of Velara below. I know of the Shamans before. I know of villages hidden away. I know of other wool, out of time and place. There is much you want to know. There is much you will learn, in time. For now though, you must fix Myragh.
+[02:53:10] [main/INFO]: [CHAT] [How?]
+[02:53:18] [main/INFO]: [CHAT] [T'Lm] Below the city are sewers. One such door within there leads to the ruins of the Tlaxan settlement known as Velara, hidden below this place. Velara's magic is strong, and grew crystals that could be infused with magic. Go within. Get a crystal. Return to me.
+
+[02:53:44] [main/INFO]: [CHAT] Roots of the Plague: Find the door that leads to the ruins of Velara. Make your way through the ruins and find a crystal. You will need to be in quarantined Farr.
+
+[03:04:44] [main/INFO]: [CHAT] You hear voices whispering to you from a distance and feel a sense of relief wash over you as a new crystal grows on the pedestal.
+#Q29I02 https://puu.sh/GAQXl/5cc6c3a5e4.png
+
+[03:06:51] [main/INFO]: [CHAT] Roots of the Plague: Once you have the Pure Crystal return to T'Lm in quarantined Farr.
+
+[03:07:31] [main/INFO]: [CHAT] [T'Lm] The hero returns. Successful, I feel. What did you find?
+[03:07:31] [main/INFO]: [CHAT] [I got a Pure Crystal.]
+[03:07:35] [main/INFO]: [CHAT] [T'Lm] Excellent. Your work is not yet done though. Nurse Eris has been slaving away over a cure. Bring her this crystal. Ask her to anoint it with C'Taz's cure. Then, bring the crystal to the Grand Maw. Myragh will be contained again. My son will be saved... Be warned though, getting to Eris' will require some serious sneaking. The guards are carefully stationed...
+[03:07:35] [main/INFO]: [CHAT] [I'll head there right away.]
+[03:07:50] [main/INFO]: [CHAT] [T'Lm] We will speak again, this I know.
+
+[03:08:16] [main/INFO]: [CHAT] Roots of the Plague: Find a way to sneak over to Nurse Eris inside quarantined Farr.
+
+[03:24:30] [main/INFO]: [CHAT] [Leonard] *sob* Why did Mr. Snuggles have to be the one to get sick? He is the bestest and cuddliest and nicest pet ever, he doesn't deserve this. Take me instead vile plague. *sob*
+[03:24:30] [main/INFO]: [CHAT] [Mr. Snuggles will be better soon. I'm working on it.]
+[03:24:30] [main/INFO]: [CHAT] [Mr. Snuggles isn't going to make it. Face the facts.]
+[03:24:37] [main/INFO]: [CHAT] [Leonard] *sob* Please hurry. Mr. Snuggles is not good at handling pain. *sob* 
+[03:24:40] [main/INFO]: [CHAT] [Nurse Eris] Whoa! How did you get in here? GUARDS!
+[03:24:40] [main/INFO]: [CHAT] [WAIT! Wait! I was sent here to help you find a cure!]
+[03:24:45] [main/INFO]: [CHAT] [Nurse Eris] By whom?!
+[03:24:45] [main/INFO]: [CHAT] [Dr. Laurie! She sent me to find a way to fix all this.]
+[03:24:48] [main/INFO]: [CHAT] [Nurse Eris] Oh, well in that case, hello. What can I do for you?
+[03:24:48] [main/INFO]: [CHAT] [I need you to take this crystal and infuse it with the cure from C'Taz.]
+[03:24:52] [main/INFO]: [CHAT] [Nurse Eris] Sure! Thanks to the adventurer who brought Dr. Laurie the medicine, I have just enough extra to do that. Here you go!
+[03:24:52] [main/INFO]: [CHAT] [Thank you. Now I need to bring this back to the Maw...]
+[03:25:00] [main/INFO]: [CHAT] [Nurse Eris] What's that sweetie?
+[03:25:00] [main/INFO]: [CHAT] [Nothing! Thanks for your help. Everything should be back to normal shortly.]
+[03:25:03] [main/INFO]: [CHAT] kabotyaneko left the game
+[03:25:05] [main/INFO]: [CHAT] [Nurse Eris] Wonderful, dear.
+
+[03:25:29] [main/INFO]: [CHAT] Roots of the Plague: Take the Healing Crystal back to the mouth of the Grand Maw. Nurse Eris has extras if you lose yours.
+
+#Q29I03 https://puu.sh/GARaf/2203c0809a.png
+
+[03:34:44] [main/INFO]: [CHAT] Roots of the Plague: Take the Healing Crystal back to the mouth of the Grand Maw. Nurse Eris has extras if you lose yours.
+[03:34:49] [main/INFO]: [CHAT] As you enter the Maw, the crystal fades from your hand, and you feel a sense of renewal.
+
+[03:36:56] [main/INFO]: [CHAT] [T'Lm] Hello Sukie. I told you we would speak again.
+[03:36:56] [main/INFO]: [CHAT] [T'Lm! How did you get here?]
+[03:36:59] [main/INFO]: [CHAT] [T'Lm] I was once a guardian for Velara, and by extension the Plagueroot Temple. When I met you I knew it was time to allow a hero inside. Perhaps you could free the Maw from this curse forever. Claim the wool within. Now I believe you've earned a reward before you enter...
+[03:36:59] [main/INFO]: [CHAT] ROOTS OF THE PLAGUE COMPLETE!
+[03:36:59] [main/INFO]: [CHAT] Awarded a Magenta Dungeon key, a Magenta Shulker Box, 64 Poison Arrows, 1 Prestige, and Access to the Magenta Lobby Teleporter in Sierhaven
+[03:36:59] [main/INFO]: [CHAT] [T'Lm] Good luck within the Temple. It is dangerous within, but I see a bright light for you.
+
+
+==Soul of the Forest==
+[19:25:29] [main/INFO]: [CHAT] [Bhairavi] Welcome back, Sukie. I've been investigating into Kaul and the Yellow Wool with my team. Do you have any questions for me?
+[19:25:29] [main/INFO]: [CHAT] [What have you found on the Yellow Wool?]
+[19:25:29] [main/INFO]: [CHAT] [I had a few questions about our first adventure still.]
+[19:25:29] [main/INFO]: [CHAT] [Yes, I have some questions about our second adventure.]
+[19:25:29] [main/INFO]: [CHAT] [I've got a few lingering questions about our third adventure.]
+[19:25:29] [main/INFO]: [CHAT] [I have some questions left about this last adventure.]
+[19:25:37] [main/INFO]: [CHAT] <G> treebeard68 » Smelly I would rather use Corrupted Jeweled Tiara
+[19:25:50] [main/INFO]: [CHAT] [Bhairavi] Brayllur and Starn have been working on a lead. The Commander in Highwatch seems to have captured a Son of the Forest who has made some very interesting statements under the effects of a truth serum, according to Starn's interview.
+[19:25:50] [main/INFO]: [CHAT] [That was actually a previous quest of mine!]
+[19:25:50] [main/INFO]: [CHAT] [Oh, that sounds interesting.]
+[19:25:55] [main/INFO]: [CHAT] <G> treebeard68 » How did one even get Entropic Skull
+[19:25:59] [main/INFO]: [CHAT] [Bhairavi] Well of course it was. You seem to be involved with everything, I don't know what we would do without you at this rate. Anyway, I’ll be heading over to Highwatch to follow up if you’d care to meet me there.
+[19:25:59] [main/INFO]: [CHAT] [I'd love to.]
+[19:25:59] [main/INFO]: [CHAT] [Sorry, I'm busy right now.]
+[19:26:04] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » 3 pulsating dust and 8 bone shards
+[19:26:07] [main/INFO]: [CHAT] [Bhairavi] I’ll see you in Highwatch then, Sukie.
+[19:26:07] [main/INFO]: [CHAT] Soul of the Forest
+[19:26:07] [main/INFO]: [CHAT] Length : Long
+[19:26:07] [main/INFO]: [CHAT] Difficulty : Very Hard
+[19:26:07] [main/INFO]: [CHAT] Meet Bhairavi in the Highwatch Jail to interrogate the Captured Warden.
+
+[19:27:44] [main/INFO]: [CHAT] Soul of the Forest: Head downstairs into the Highwatch jail and speak to Bhairavi.
+
+[19:29:05] [main/INFO]: [CHAT] [Bhairavi] Hi there Sukie! Glad to see you made it. I've been doing some work trying to interrogate your friend here while my assistant Starn is upstairs speaking to the Commander. It's not exactly easy, but I've been able to coerce out the slightest details thanks to your work with the Truth Serum. Thank you for that.
+[19:29:05] [main/INFO]: [CHAT] [What kind of details?]
+[19:29:10] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » Yes i'll do
+[19:29:14] [main/INFO]: [CHAT] <G> treebeard68 » Relentless :)
+[19:29:14] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » I might stream it
+[19:29:19] [main/INFO]: [CHAT] <G> [WAIFU] SorcererAxis81 » I'd watch
+[19:29:20] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » If you guys want to see it
+[19:29:21] [main/INFO]: [CHAT] [Bhairavi] He mentioned the Verdant Fortress and a relic given to them that “seeks the Soulspeaker”, now hidden in its basement.
+[19:29:21] [main/INFO]: [CHAT] [What is the Verdant Fortress?]
+[19:29:21] [main/INFO]: [CHAT] [Who is the Soulspeaker?]
+[19:29:21] [main/INFO]: [CHAT] [What do I need to do?]
+[19:29:27] [main/INFO]: [CHAT] [Bhairavi] It is the main base of the Sons of the Forest, located not far from here. Highwatch has been looking for ways to attack it for months, but it is heavily fortified and wildly dangerous... but I must ask you to go there. This relic sounds very important in the hunt for the Yellow Wool.
+[19:29:27] [main/INFO]: [CHAT] [Who is the Soulspeaker?]
+[19:29:27] [main/INFO]: [CHAT] [What do I need to do?]
+[19:29:27] [main/INFO]: [CHAT] <G> treebeard68 » Actually no Dreadful, feel MY pain.
+[19:29:32] [main/INFO]: [CHAT] <G> [WAIFU] SorcererAxis81 » no relentless
+[19:29:36] [main/INFO]: [CHAT] [Bhairavi] You should know this one! The Soulspeaker is C'Axtal, the speaker to Kaul. He went missing during the Blackroot War. It seems the relic the Sons of the Forest have could allow them to locate him - and maybe Kaul and his wool too.
+[19:29:36] [main/INFO]: [CHAT] [What do I need to do?]
+[19:29:38] [main/INFO]: [CHAT] <G> treebeard68 » Fine Relentless
+[19:29:41] [main/INFO]: [CHAT] <G> [Goblin] SystemeOffline » this puzzle broke :(
+[19:29:41] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » Dreadful, more like, bring Talaya
+[19:29:42] [main/INFO]: [CHAT] <G> [VH] Mikara_ » Relentlress
+[19:29:42] [main/INFO]: [CHAT] [Bhairavi] I hate to ask this, but I must send you into the Verdant Fortress. Be very careful. This Warden has said the relic we're seeking is guarded in the basement of the fortress. Please avoid the main fortress. It is far too dangerous. Fortunately, our prisoner mentioned an old ruined tunnel north of the fort that may lead down there. Be quick and show no mercy. The Sons are a stain on the Valley.
+[19:29:44] [main/INFO]: [CHAT] <G> [TAG] cartsinabag » dreadfuls babi game
+[19:29:47] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » Alright, relentless it is
+
+[19:29:48] [main/INFO]: [CHAT] Soul of the Forest [1/2]: Find the tunnel and brave the dangers of the Verdant Fortress's basement to find the relic Bhairavi seeks.
+[19:29:49] [main/INFO]: [CHAT] Soul of the Forest [2/2]: Head downstairs into the Highwatch jail and speak to Bhairavi once you have gotten the relic.
+
+#Q33I01 https://puu.sh/GCujE/0856e494c5.png
+
+[01:08:12] [main/INFO]: [CHAT] [Bhairavi] So this is the relic... I wonder how it works?
+[01:08:12] [main/INFO]: [CHAT] [I don't know how it works, but I've seen it before.]
+[01:08:15] [main/INFO]: [CHAT] [Bhairavi] You have? Where?
+[01:08:15] [main/INFO]: [CHAT] [My first adventure in the Valley. I don't remember anything before it though...]
+[01:08:21] [main/INFO]: [CHAT] [Bhairavi] Tell me about it.
+[01:08:21] [main/INFO]: [CHAT] [Alright.]
+[01:08:22] [main/INFO]: [CHAT] [Bhairavi]  So you were attacked by a man, this relic was taken from you, and you woke up in Sierhaven? I wonder how you got there... Who were you, Sukie? Who found you? I think we need to go talk to Commander Haynes upstairs. Maybe she will know more.
+
+[01:08:40] [main/INFO]: [CHAT] Soul of the Forest: Speak with Commander Haynes
+
+[01:09:25] [main/INFO]: [CHAT] [Bhairavi] I'll let you speak to Haynes first. We have much to discuss.
+[01:09:27] [main/INFO]: [CHAT] [Commander Haynes] Hello Sukie. It’s good to see you again after all your help. Likewise to you Bhairavi. It’s always an honor to have a member of the Mage Council visit Highwatch.
+[01:09:29] [main/INFO]: [CHAT] [Bhairavi] Thank you, Commander. We are here seeking information about the Sons of the Forest and Sukie themself... Did any of the King’s Guard find a near-dead adventurer recently and deliver them to Nurse Diedre in the capital?
+[01:09:32] [main/INFO]: [CHAT] [Commander Haynes] I'd honestly have to check our records... Give me a minute here. The paperwork is so messy. Starn and I had no time to go through it.
+[01:09:37] [main/INFO]: [CHAT] [Commander Haynes] The only record I can find of a body found that wasn’t dead recently was of a person found north east of Farr. It says here they were found in a small ruin overlooking the large pit with a 'shrine' inside. Maybe that was you Sukie?
+[01:09:37] [main/INFO]: [CHAT] [Maybe it was. I’ve never found it again during my adventures.]
+[01:09:37] [main/INFO]: [CHAT] [Probably, I die a lot.]
+[01:09:37] [main/INFO]: [CHAT] [It could be. I never bothered to look for it again.]
+[01:10:12] [main/INFO]: [CHAT] [Bhairavi] This seems worth investigating… Perhaps you can find out more about the artifact and how we can use it there.
+[01:10:12] [main/INFO]: [CHAT] [Sounds like these ruins outside the pit are my next stop then.]
+[01:10:17] [main/INFO]: [CHAT] [Bhairavi] Thanks for your help Haynes.
+[01:10:20] [main/INFO]: [CHAT] [Commander Haynes] Of course. It is my honor.
+
+[01:10:22] [main/INFO]: [CHAT] Soul of the Forest: Investigate the ruins overlooking the pit near Farr.
+
+[01:10:25] [main/INFO]: [CHAT] [Bhairavi] You should head to the huge shrine in the pit east of Farr and investigate around the edges for a smaller shrine. It could hold answers to both your past and to the Sons' plans. I'll send someone to assist you as soon as possible.
+
+[01:42:14] [main/INFO]: [CHAT] [Brayllur] Hullo. I am sent to try help. Bharavi say it be dangerous here, she expect. I am fighter man, you know that.
+[01:42:14] [main/INFO]: [CHAT] [It's good to see you again Brayllur.]
+[01:42:14] [main/INFO]: [CHAT] [Who are you again?]
+[01:42:21] [main/INFO]: [CHAT] [Brayllur] Same to you, small one. I feel like not help here. This is puzzle. I try punch it, but it just change blocks back and forth. That not helpful. May it be you make them all wood?
+
+[01:40:22] [main/INFO]: [CHAT] This section of the tree has been lifted of its corruption, but you feel like there is still more elsewhere.
+[01:41:14] [main/INFO]: [CHAT] This section of the tree has been lifted of its corruption, but you feel like there is still more elsewhere.
+[01:42:33] [main/INFO]: [CHAT] You feel a great sense of relief as you clear the corruption from the tree. It seems a new path forward to the highest floor of the tree has been opened.
+
+[01:42:40] [main/INFO]: [CHAT] Soul of the Forest: Head up the ladder, get the book in the chest, and make your way out...
+
+https://puu.sh/GCuH6/11bc332e35.png
+https://puu.sh/GCuHg/02a6102ec9.png
+https://puu.sh/GCuHm/7d94cea7ba.png
+https://puu.sh/GCuHv/3b0ea1f7ae.png
+https://puu.sh/GCuHE/0cdb607623.png
+
+[01:43:19] [main/INFO]: [CHAT] [Brayllur] Be on guard, puny one. Hear enemies approaching. Lots.
+[01:43:19] [main/INFO]: [CHAT] [Bhairavi] The Sons have gotten into the area! I'm working to get you out of there, but it's going to take a minute! Evade them until then!
+[01:43:24] [main/INFO]: [CHAT] You are not within range of a respawning area
+[01:43:29] [main/INFO]: [CHAT] [Son of the Forest] How dare you enter this place!
+[01:43:30] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:43:39] [main/INFO]: [CHAT] [Son of the Forest] He will not allow your interference any longer!
+[01:43:47] [main/INFO]: [CHAT] TheMonarchAwaken joined the game
+[01:43:49] [main/INFO]: [CHAT] [Son of the Forest] He will not allow your interference any longer!
+[01:43:59] [main/INFO]: [CHAT] [Son of the Forest] The power shall belong to us!
+[01:44:09] [main/INFO]: [CHAT] [Son of the Forest] How dare you enter this place!
+[01:44:19] [main/INFO]: [CHAT] [Son of the Forest] Return the relic!
+[01:44:19] [main/INFO]: [CHAT] [Bhairavi] Hold on! I’ve fought through their magic! I’ve got you!
+[01:44:20] [main/WARN]: Received passengers for unknown entity
+[01:44:20] [main/WARN]: Received passengers for unknown entity
+[01:44:20] [main/WARN]: Received passengers for unknown entity
+[01:44:22] [main/WARN]: Received passengers for unknown entity
+[01:44:22] [main/WARN]: Received passengers for unknown entity
+[01:44:29] [main/INFO]: [CHAT] [Son of the Forest] Your meddling ends here!
+
+[01:45:53] [main/INFO]: [CHAT] Soul of the Forest: Speak to Bhairavi
+
+[01:46:06] [main/INFO]: [CHAT] [Commander Haynes] It is always awe-inspiring to see the Mage Council perform magic. That our enemies still live despite the Council's magic on our side is truly terrifying at times.
+[01:46:11] [main/INFO]: [CHAT] [Bhairavi] Thank goodness that worked in time. You’re alive! What did you find in there?
+[01:46:11] [main/INFO]: [CHAT] [We found this book, hidden behind a magical lock]
+[01:46:16] [main/INFO]: [CHAT] [Bhairavi] Let me look over this...
+[01:46:16] [main/INFO]: [CHAT] [Bhairavi] Hmm, it seems to help explain how this relic works. I’ve gotten it active while you were gone, but couldn’t figure out how to lock on to anything. This should work...
+[01:46:16] [main/INFO]: [CHAT] [I wonder if the Sons and the Masked Man ever worked out where it was pointing.]
+[01:46:25] [main/INFO]: [CHAT] [Bhairavi] I guess we’ll have to see. It seems to be drawing us south. Let me sync your Quest Compass up to it and we’ll see where it leads. If C’Axtal is somehow still alive, maybe it can take us to him. If not... maybe we’ll find Kaul itself. And the wool? One can hope!
+[01:46:25] [main/INFO]: [CHAT] [So where exactly am I going?]
+[01:46:26] [main/INFO]: [CHAT] daaaaaa645 was slain by Tempest Arachnid using [Impetuous Fang]
+[01:46:38] [main/INFO]: [CHAT] [Bhairavi] If I had to guess, I’d say it’s pulling you toward the Cursed Forest. I don’t know what you’ll find in there, so be careful. I’ll send Starn and Brayllur after you to help and hopefully everything will work out. Good luck and be safe.
+
+[01:46:45] [main/INFO]: [CHAT] Soul of the Forest: Make your way through the cursed forest.
+
+[01:47:02] [main/INFO]: [CHAT] [Bhairavi] You need to head to the Cursed Forest. It lies to the south of here. As you likely would guess from the name it is a forest, and it is cursed. Be very careful.
+
+[13:56:00] [main/INFO]: [CHAT] [Starn] Wait what? What's going on here? The constructural magic should have finished the lobby by now. And what are these giant spikes.
+[13:56:00] [main/INFO]: [CHAT] [Brayllur] Dark magic in air. Can smell it. It stink.
+[13:56:00] [main/WARN]: Received passengers for unknown entity
+[13:56:00] [main/WARN]: Received passengers for unknown entity
+[13:56:03] [main/INFO]: [CHAT] Diego0552 left the game
+[13:56:05] [main/INFO]: [CHAT] [Strange Figures] You will go no further!
+[13:56:07] [main/INFO]: Villager class_1646['Starn'/204293, l='MpServer', x=1159.50, y=12.00, z=52.50] died, message: 'Starn died'
+[13:56:07] [main/INFO]: [CHAT] One of the warriors fires a blast directly at Starn, killing him.
+[13:56:07] [main/INFO]: [CHAT] [Brayllur] STARN! HOW COULD YOU! DIE YOU SCUM!
+[13:56:09] [main/INFO]: [CHAT] Diego0552 joined the game
+[13:56:11] [main/WARN]: Received passengers for unknown entity
+[13:56:16] [main/WARN]: Received passengers for unknown entity
+[13:56:44] [main/INFO]: [CHAT] Diego0552 left the game
+[13:56:50] [main/WARN]: Received passengers for unknown entity
+[13:56:51] [main/INFO]: [CHAT] As you finish off the last of the warriors, the large spikes begin to disappear and the constructural magic resumes. The lobby quickly finishes building itself.
+
+[13:57:11] [main/INFO]: [CHAT] Soul of the Forest: Speak to Brayllur
+
+[13:57:43] [main/INFO]: [CHAT] [Brayllur] Starn gone... How?
+[13:57:43] [main/INFO]: [CHAT] [I'm so sorry.]
+[13:57:44] [main/INFO]: [CHAT] [Brayllur] We lost much for wool. You must get last one... For Starn.
+[13:57:44] [main/INFO]: [CHAT] [We made it through. The dungeon is all that's left.]
+[13:57:47] [main/INFO]: [CHAT] [Brayllur] Right, yes. You are. But he is gone. Must get wool... For Starn.
+[13:57:47] [main/INFO]: [CHAT] [Brayllur] Found this on floor after Sons ran scared. You need reward before fight for wool...
+[13:57:47] [main/INFO]: [CHAT] SOUL OF THE FOREST COMPLETE!
+[13:57:47] [main/INFO]: [CHAT] Awarded 1 Prestige, Access to the Yellow Dungeon Lobby Teleporter, Totem of the Forest, Yellow Dungeon Key, and 64 Arrows of Weakness
+
+==Starry Night==
+[16:55:31] [main/INFO]: [CHAT] [Mayleen] Hi, do you have some free time? My telescope has broken and I have need of assistance. Of course, I will be compensating you for your time.
+[16:55:31] [main/INFO]: [CHAT] [Sure, I love telescopes!]
+[16:55:31] [main/INFO]: [CHAT] [Sure, I love compensation!]
+[16:55:31] [main/INFO]: [CHAT] [Some other time.]
+[16:55:35] [main/INFO]: [CHAT] [Mayleen] Thank you for helping! And here, if it is compensation you like, have an advance.
+[16:55:35] [main/INFO]: [CHAT] Received 16 enchanting bottles
+[16:55:35] [main/INFO]: [CHAT] [Thank you very much.]
+[16:55:41] [main/INFO]: [CHAT] [Mayleen] Anyway, I am not from around here and so the guard thought I was a spy and took my telescope lens! A man named Ed offered to get it back, but I could not afford his price. He was down in an alley by the river, would you please talk to him and find a way into the armory?
+[16:55:41] [main/INFO]: [CHAT] QUEST : STARRY NIGHT
+[16:55:41] [main/INFO]: [CHAT] Length : Very Short
+[16:55:41] [main/INFO]: [CHAT] Difficulty : Easy
+[16:55:41] [main/INFO]: [CHAT] Help Mayleen by retrieving her lens from the armory. Ed may be able to help.
+
+[17:00:34] [main/INFO]: [CHAT] Starry Night [1/3]: Mayleen's telescope lens was taken, but a man named Ed might know a way to get it back. Look for him on the south side of Nyr.
+[17:00:36] [main/INFO]: [CHAT] Starry Night [2/3]: Use the Thief's Guide: Nyr to find a way into the Nyr Armory.
+[17:00:36] [main/INFO]: [CHAT] Starry Night [3/3]: Return to Mayleen once you have the lens.
+
+#Q15I01 https://puu.sh/GC2PY/d495c8dfd0.png
+
+[17:06:22] [main/INFO]: [CHAT] [Mayleen] This is splendid! You got my lens! I will start repairing the main body while you head downstairs to fix the gearing! When all the lights face towards you, the telescope will be ready.
+
+[17:06:33] [main/INFO]: [CHAT] Starry Night: Mayleen's telescope just needs to be turned now. Align all the lights in her tower to fix the telescope.
+
+[17:07:13] [main/INFO]: [CHAT] The gears click into place!
+[17:07:21] [main/INFO]: [CHAT] You've already fixed this, no reason to mess with it.
+[17:07:25] [main/INFO]: [CHAT] <G> treebeard68 » Is anybody buying any mats besides teal or LG
+[17:07:27] [main/INFO]: [CHAT] [Mayleen] Thank you so much! I am eternally grateful for your help, I can now get an excellent view of the skies! As was promised, here is your compensation; spend it wisely.
+[17:07:27] [main/INFO]: [CHAT] STARRY NIGHT COMPLETE!
+[17:07:27] [main/INFO]: [CHAT] Awarded 96 Enchanting Bottles and 1 Prestige
+
+
+==Winds of War==
+[17:37:30] [Render thread/INFO]: [CHAT] [Bhairavi] Well hello. How did you get up here?
+[17:37:30] [Render thread/INFO]: [CHAT] [I climbed.]
+[17:37:32] [Render thread/INFO]: [CHAT] [Bhairavi] And my guards just let you up? Hmm...
+[17:37:32] [Render thread/INFO]: [CHAT] [Yeah, I just strolled right by.]
+[17:37:34] [Render thread/INFO]: [CHAT] [Bhairavi] Fascinating. They must like you. Or... wait... You're that hero Vargos told me to look out for. The one who helped him with the research notes?
+[17:37:34] [Render thread/INFO]: [CHAT] [That I am.]
+[17:37:39] [Render thread/INFO]: [CHAT] [Bhairavi] Why don't you help me out with my research? I'm currently deep into study on the Blackroot Battlefield outside Nyr, and am trying to unravel the curses still lingering.
+[17:37:39] [Render thread/INFO]: [CHAT] [Tell me more about it!]
+[17:37:39] [Render thread/INFO]: [CHAT] [I'd be happy to.]
+[17:37:39] [Render thread/INFO]: [CHAT] [Maybe some other time.]
+[17:37:48] [Render thread/INFO]: [CHAT] [Bhairavi] Excellent, I like to see someone who cares so much about magical history.
+[17:37:48] [Render thread/INFO]: [CHAT] [Bhairavi] So 56 years ago, the Narsen Empire, to which we belong, battled against the Tlaxan tribes living in the Blackroot Jungle for the rights to settle their land. The Battlefield outside Nyr is the remnants of the final battle that resulted in the Tlaxan surrender, but is still riddled with curses. This is due to the vile magics the Tlaxans cast that are stronger than any other I've seen. If you wish to know more, Sumona in Lowtide might have a book or two on the subject.
+[17:37:48] [Render thread/INFO]: [CHAT] [So where do I come in?]
+[17:37:56] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » wait a minute chronobolt + aleph?
+[17:38:05] [Render thread/INFO]: [CHAT] <G> treebeard68 » It doesn't break the game sadly
+[17:38:05] [Render thread/INFO]: [CHAT] <G> [WAIFU] Darmorel » not worth
+[17:38:07] [Render thread/INFO]: [CHAT] [Bhairavi] Ah yes. So I've been doing my research and believe I've found a way to break curses still lingering on the battlefield. I'd like you to test it out for me. Find a curse and break it using my creation. Interested?
+[17:38:07] [Render thread/INFO]: [CHAT] [Definitely.]
+[17:38:07] [Render thread/INFO]: [CHAT] [Perhaps later.]
+[17:38:13] [Render thread/INFO]: [CHAT] [Bhairavi] Splendid.
+[17:38:13] [Render thread/INFO]: [CHAT] QUEST : WINDS OF WAR
+[17:38:13] [Render thread/INFO]: [CHAT] Length : Short-Medium
+[17:38:13] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[17:38:13] [Render thread/INFO]: [CHAT] Take Bhairavi's creation and break a curse on the Battlefield.
+[17:38:13] [Render thread/INFO]: [CHAT] [Bhairavi] So, about my creation. I've made what I'm calling the Topographic Curse Sensor, a spelled-up Flower that can detect and shatter curses with the right prompting. When you're ready, I can activate it and you should be able to follow traces of magic to a curse!
+[17:38:13] [Render thread/INFO]: [CHAT] [I'm ready!]
+[17:38:13] [Render thread/INFO]: [CHAT] [I need a few minutes to prepare.]
+[17:38:19] [Render thread/INFO]: [CHAT] <G> [WAIFU] Darmorel » aleph already fast to hit scan
+[17:38:21] [Render thread/INFO]: [CHAT] <G> [WAIFU] Darmorel » basicly
+[17:38:35] [Render thread/INFO]: [CHAT] [Bhairavi] Excellent. Let's send you off then. You'll need to hold it while out on the battlefield. If you see any odd remnants of magic, try hitting them with the Sensor! The curse traps spirits on the battlefield, so if you can go through them and find the source, I'd be quite pleased!
+
+#Q23I01 https://puu.sh/GzxKW/1bc6100097.png
+
+[17:43:16] [Render thread/INFO]: [CHAT] [Gypsum the Scout] Hello? Can you hear me?
+[17:43:16] [Render thread/INFO]: [CHAT] [Who's there?!]
+[17:43:18] [Render thread/INFO]: [CHAT] [Gypsum the Scout] My name is Gypsum. I used to be a scout for the crown. I've been trapped here for decades, doomed to wander the remnants of the battlefield.
+[17:43:18] [Render thread/INFO]: [CHAT] [So you're a ghost?]
+[17:43:22] [Render thread/INFO]: [CHAT] [Gypsum the Scout] Something like that. I've been cursed!
+[17:43:22] [Render thread/INFO]: [CHAT] [I'm here to break a curse actually. Do you know anything about it?]
+[17:43:24] [Render thread/INFO]: [CHAT] [Gypsum the Scout] I don't, I'm sorry. My fellow Scout, Darius, might know more. He often can be found in the ruins to the south of here.
+
+[17:45:28] [Render thread/INFO]: [CHAT] [Darius the Scout] Hello? Are you actually looking at me?
+[17:45:28] [Render thread/INFO]: [CHAT] [Yes! Hello? Are you Darius?]
+[17:45:28] [Render thread/INFO]: [CHAT] [No.]
+[17:45:33] [Render thread/INFO]: [CHAT] [Darius the Scout] I am! How do you know my name?
+[17:45:33] [Render thread/INFO]: [CHAT] [The other ghost scout told me about the curse and sent me to you.]
+[17:45:36] [Render thread/INFO]: [CHAT] <G> [LAG] VastPoenBV » It did give me Enderwrath though that cool
+[17:45:36] [Render thread/INFO]: [CHAT] [Darius the Scout] Oh! I don't know much. I just remember our forces captured a Tlaxan Ritualist who screamed about a curse. I never did find out where it originated from.
+[17:45:36] [Render thread/INFO]: [CHAT] [Darn. Thanks for your help.]
+[17:45:43] [Render thread/INFO]: [CHAT] [Darius the Scout] I hope you find the source. I'd love to go free someday... Hey, my fellow Scout, Rethus, is over on the catapult. Maybe she knows more.
+
+[17:47:54] [Render thread/INFO]: [CHAT] [Rethus the Scout] Woooo! Woooooooo!
+[17:47:54] [Render thread/INFO]: [CHAT] [Ah! A ghost!]
+[17:47:57] [Render thread/INFO]: [CHAT] [Rethus the Scout] Did I get you?
+[17:47:57] [Render thread/INFO]: [CHAT] [Definitely.]
+[17:47:57] [Render thread/INFO]: [CHAT] [No. Your friend Darius sent me to find you though.]
+[17:48:01] [Render thread/INFO]: [CHAT] [Rethus the Scout] Thank goodness. I always appreciate a bit of fun these days.
+[17:48:01] [Render thread/INFO]: [CHAT] [Rethus the Scout] Anyway, what can I do for you?
+[17:48:01] [Render thread/INFO]: [CHAT] [I was sent to you by another ghost. I'm looking for the source of a curse that I've been tasked to break.]
+[17:48:05] [Render thread/INFO]: [CHAT] [Rethus the Scout] Oh! That would be incredible! At last, we could be free!
+[17:48:05] [Render thread/INFO]: [CHAT] [Do you know where the curse on you originates from?]
+[17:48:07] [Render thread/INFO]: [CHAT] [Rethus the Scout] I don't know exactly where it is, but I know inside the Ruined Mansion over there is a hidden Vault. Our forces had captured a dangerous Tlaxan who swore to put a curse on us. They were stopped and interrogated, but I believe an item taken from them was placed in the Vault. It may have something to do with the curse.
+[17:48:07] [Render thread/INFO]: [CHAT] [Thank you so much for your help. I'll go see what I can find.]
+[17:48:25] [Render thread/INFO]: [CHAT] [Rethus the Scout] Best of luck. I hope you can break the curse. Imagining freedom is almost too much for me. I cannot wait.
+
+#Q23I03
+[17:56:37] [Render thread/INFO]: [CHAT] You feel a rush of power as a curse shatters around you.
+#Q23I02 https://puu.sh/Gzy21/3b67e9d64b.png
+https://puu.sh/Gzy2G/cbe3bb457a.png
+https://puu.sh/Gzy2R/5ddf869fd7.png
+https://puu.sh/Gzy3h/720d10ba65.png
+https://puu.sh/Gzy3u/0aacd0667c.png
+https://puu.sh/Gzy3B/2b8a6b0ff7.png
+https://puu.sh/Gzy3O/344eb03f8b.png
+https://puu.sh/Gzy3Y/86cca1fbac.png
+https://puu.sh/Gzy49/bfee7b3c9c.png
+https://puu.sh/Gzy4r/b410bbad3f.png
+
+[18:00:52] [Render thread/INFO]: [CHAT] [Bhairavi] Have you broken any curses yet?
+[18:00:52] [Render thread/INFO]: [CHAT] [I have!]
+[18:00:54] [Render thread/INFO]: [CHAT] [Bhairavi] My creation worked? Did you find anything?
+[18:00:54] [Render thread/INFO]: [CHAT] [It did work, and I found a few interesting things. This curse was inside a Vault, and I found some books and this strange bottle. Have a look.]
+[18:00:56] [Render thread/INFO]: [CHAT] <G> [WAIFU] Darmorel » lol
+[18:00:59] [Render thread/INFO]: [CHAT] [Bhairavi] Hmm. This text is fascinating. C'Zanil the Soulcrusher. I know of him well. He was a major force behind the Blackroot War. He must have created this bottle of souls too; that was his specialty. Let me take a look inside...
+[18:00:59] [Render thread/INFO]: [CHAT] [Go for it.]
+[18:01:06] [Render thread/INFO]: [CHAT] [Bhairavi] Oh god. Oh no. No no no no no.
+[18:01:06] [Render thread/INFO]: [CHAT] [What is it?]
+[18:01:08] [Render thread/INFO]: [CHAT] [Bhairavi] No wonder the Ritualist wasn't afraid. This bottle should have exploded years ago. There is enough power in here to level the entirety of the King's Valley. And I just opened it.
+[18:01:08] [Render thread/INFO]: [CHAT] [That sounds bad...]
+[18:01:14] [Render thread/INFO]: [CHAT] [Bhairavi] This is really bad! The spirits are coming out and gathering. You need to take this. Follow the spirits. Bring them to their source. QUICKLY! If you do not, we all die.
+[18:01:14] [Render thread/INFO]: [CHAT] [Where am I going?!]
+[18:01:16] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[18:01:20] [Render thread/INFO]: [CHAT] [Bhairavi] You will know. The spirits will guide you. Hurry! Let the winds of war carry you to the Halls of Wind and Blood. We can neutralize the bottle and find out what's inside all at once.
+[18:01:20] [Render thread/INFO]: [CHAT] [I'm ready to go.]
+[18:01:20] [Render thread/INFO]: [CHAT] [Hang on! I'm not ready yet! It could be dangerous!]
+[18:01:23] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » i is here
+[18:01:25] [Render thread/INFO]: [CHAT] <G> [WAIFU] Darmorel » there a chest that I put on top of my plot some time ago... because it on the barriers themselves, I cant break it
+[18:01:32] [Render thread/INFO]: [CHAT] <G> PizzaLover29 » is the white wool boss hard?
+[18:01:34] [Render thread/INFO]: [CHAT] [Bhairavi] Good luck.
+[18:01:34] [Render thread/INFO]: [CHAT] Reminder:
+[18:01:34] [Render thread/INFO]: [CHAT] Shift + Left-Click: Abandon
+[18:01:34] [Render thread/INFO]: [CHAT] Shift + Right-Click: Retry
+
+[18:04:32] [Render thread/INFO]: [CHAT]   World Record -            0:001  | ? ( +2:54:899)
+[18:04:32] [Render thread/INFO]: [CHAT] [Bhairavi] You did it! Quick, head down the ladder before you - power is radiating from within!
+
+[18:33:05] [Render thread/INFO]: [CHAT] [Bhairavi] You made it! I see the Bottle of Souls has gone inert as well. Excellent. They must have dissipated within the temple.
+[18:33:05] [Render thread/INFO]: [CHAT] [Whoa, how are you here?]
+[18:33:07] [Render thread/WARN]: Received passengers for unknown entity
+[18:33:11] [Render thread/INFO]: [CHAT] [Bhairavi] I'm projecting myself into the space near you. Actually I'm projecting the whole space as well. You almost entered right into the Halls of Wind and Blood, so I've set up this little lobby to keep you safe as you prepare for what's inside.
+[18:33:11] [Render thread/INFO]: [CHAT] [That's pretty interesting. Thank you.]
+[18:33:21] [Render thread/INFO]: [CHAT] [Bhairavi] No, thank you for your help. You've done everything I've asked and more. I believe now is the time I should reward you, before I ask you to go inside the temple and recover what's within.
+[18:33:21] [Render thread/INFO]: [CHAT] WINDS OF WAR COMPLETE!
+[18:33:21] [Render thread/INFO]: [CHAT] Awarded 1 Prestige, White Key, 64 Wither Arrows, and Access to the White Lobby Teleporter in Sierhaven
+[18:33:21] [Render thread/INFO]: [CHAT] [Bhairavi] Thank you for your help. Come speak to me back in Nyr if you have anything interesting to share. Good luck within the Halls!
+[18:33:21] [Render thread/INFO]: [CHAT] [Can you explain how you're here and what this lobby is to me again?]
+[18:33:21] [Render thread/INFO]: [CHAT] [What do you have for sale?]
+
+==Buried Blade==
+
+[08:43:23] [main/INFO]: [CHAT] [Blackjack Stan] Before we talk business, ya filthy pillock, I want ya to know that I hate everything about ya.
+[08:43:23] [main/INFO]: [CHAT] [Warning]: You have chosen the righteous path in your previous quests. Due to this, what you are about to experience is a NON-CANON playthrough of what you could have experienced if different choices had been made. No rewards will be given at the end of this quest.
+[08:43:23] [main/INFO]: [CHAT] [Continue]
+[08:43:31] [main/INFO]: [CHAT] [Blackjack Stan] Ahh, Octavius told me 'bout ya. Said you'd do just 'bout anything for the right price. Well, I've got somethings what need doin' and some coin, whadda ya say?
+[08:43:31] [main/INFO]: [CHAT] [Make it a lot of coin.]
+[08:43:31] [main/INFO]: [CHAT] [Not now, I'm busy.]
+[08:43:36] [main/INFO]: [CHAT] [Blackjack Stan] Hah, well said. There's a cave in the nearby mesa where I keep my, ah, 'legally acquired' goods. But a gravel cave-in buried my goods and there's too many spiders down there! By now, most of my goods have rotted, but there's an antique sword still in there. Bring that sword back and there's a bag o' loot in it for ya. Here, take this key, you'll need it to get in.
+[08:43:36] [main/INFO]: [CHAT] [Take Key]
+
+[08:43:40] [main/INFO]: [CHAT] QUEST : BURIED BLADE
+[08:43:40] [main/INFO]: [CHAT] Length : Very Short
+[08:43:40] [main/INFO]: [CHAT] Difficulty : Medium
+[08:43:40] [main/INFO]: [CHAT] Find the antique sword in the Overgrown Cave for Blackjack Stan.
+
+[08:50:12] [main/INFO]: [CHAT] Buried Blade: How do you expect a compass to assist you with a hallucination?
+
+Overgrown Cave POI (194, 74, 31)
+
+pile of gravel ~(158, 77, -28)
+
+Antique Sword #Q05I02
+
+[07:01:00] [main/INFO]: [CHAT] [Blackjack Stan] Ha, ya found it! Guess they don't call you buggers adventurers for nuthin! Here ya go, some bags o' loot, just as promised.
+[07:01:00] [main/INFO]: [CHAT] Buried Blade Complete!
+[07:01:00] [main/INFO]: [CHAT] You have finished your non-canon playthrough of this quest

@@ -1,0 +1,658 @@
+=Quest Guide (Nightroost)=
+==Bleeding Proof==
+* Difficulty: Medium
+* Requirements: An Unlikely Partnership
+* Start: Wilhelm (-1295, 130, 467)
+==R is for Reprisal==
+* Difficulty: Hard
+* Requirements: Bleeding Proof, Rapacity
+* Start: Wilhelm (-1295, 130, 467)
+* Mainline Quest
+==The Rooster Crows at Midnight==
+* Difficulty: Hard
+* Requirements: The Wizard's Apprentice
+* Start: Holy Royal Reserves (-1301, 129, 484)
+==Alric's Legacy==
+* Difficulty: Very Hard
+* Requirements: Unmasked
+* Start: The Listener outside Nightroost in the Dig Site (Listener, -1265, 103, 536)
+
+
+=Quests=
+
+==Bleeding Proof==
+[22:07:33] [main/INFO]: [CHAT] [Wilhelm] Ah, Captain Sukie! Just the person I was wanting to see today! 
+[22:07:33] [main/INFO]: [CHAT] [Good to see you again after that mess of a party.]
+[22:07:33] [main/INFO]: [CHAT] [You don't have to call me captain.]
+[22:10:41] [main/INFO]: [CHAT] [Wilhelm] Indeed, though I am thankful that it gave me the opportunity to meet you. Now, onto some more important business. I've been in contact recently with your crew mate, Izzy.
+[22:10:41] [main/INFO]: [CHAT] [Contact over what?]
+[22:11:09] [main/INFO]: [CHAT] [Wilhelm] Why don't you ask him yourself?
+[22:11:10] [main/INFO]: [CHAT] [Izzy] Hello there Sukie.
+[22:11:10] [main/INFO]: [CHAT] [What are you doing here Izzy?]
+[22:11:51] [main/INFO]: [CHAT] [Izzy] Well, I've never gotten to see Nightroost before, so that's somewhat exciting! But otherwise, I've been discussing the topic of the war with Wilhelm. It seems our alliance with the Chillwind is finally baring some fruitful advantages.
+[22:11:51] [main/INFO]: [CHAT] [What can you tell us, Wilhelm?]
+[22:11:59] [main/INFO]: [CHAT] [Wilhelm] Tell me Sukie, have you ever heard the tale of the Great Congress?
+[22:11:59] [main/INFO]: [CHAT] [Doesn't sound familiar.]
+[22:12:02] [main/INFO]: [CHAT] [Wilhelm] Not surprising, the topic is rather taboo now. The Congress was a place of peace, a humble structure positioned dead center in the middle of the Celsian Isles. It was established as a sign of goodwill between the nations, and together they strived for the prosperity of the both regions.
+[22:12:02] [main/INFO]: [CHAT] [Given the current state of the world, I'm going to assume it didn't work out.]
+[22:12:34] [main/INFO]: [CHAT] [Wilhelm] You would be correct. There was an accident that occurred at the congress a few years back, an explosion so devastating that it killed all those inside, and left the structure in a large crater.
+[22:12:34] [main/INFO]: [CHAT] [How does this relate to our search for Calder though?]
+[22:12:41] [main/INFO]: [CHAT] [Wilhelm] You see, the two nations blame each other for the incident, and this is what sparked the current iteration of conflict. Izzy has theorized, however, that they may have been nudged into this thought. This Calder person, he may be the instigator of these events. 
+[22:12:41] [main/INFO]: [CHAT] [What do you think Izzy?]
+[22:12:50] [main/INFO]: [CHAT] [Izzy] Honestly, it's a long shot, but it's the only reasonable conclusion Vargos and I can come up with. I think it may be worth investigating, and I'd like your help. Are you in?
+[22:12:50] [main/INFO]: [CHAT] [If you think its worth it, then yes.]
+[22:12:50] [main/INFO]: [CHAT] [Not right now.]
+[22:12:57] [main/INFO]: [CHAT] [Izzy] Fantastic! The Congress is situated in the ocean, right between the two nations. According to my map, it's just north of that Bastion where we found the entrance to Viridia.
+[22:12:57] [main/INFO]: [CHAT] BLEEDING PROOF
+[22:12:57] [main/INFO]: [CHAT] Difficulty : Medium
+[22:12:57] [main/INFO]: [CHAT] Length : Medium
+[22:12:57] [main/INFO]: [CHAT] Description : Investigate the Ruined Congress with Izzy.
+
+[22:37:33] [main/INFO]: [CHAT] Bleeding Proof: Seek out the ruins of the Congress and investigate around.
+
+[22:39:41] [main/INFO]: [CHAT] [Izzy] The Congress is situated in the ocean, right between the two nations. According to my map, it's just north of that Bastion where we found the entrance to Viridia.
+[22:39:46] [main/INFO]: [CHAT] [Wilhelm] Be careful if you are going to investigate the Congress. The structure has been ruined, so you don't want it to collapse on you.
+[22:39:46] [main/INFO]: [CHAT] [Were there any survivors of the explosion?]
+[22:39:46] [main/INFO]: [CHAT] [What caused the explosion?]
+[22:39:53] [main/INFO]: [CHAT] [Wilhelm] As I mentioned, there were no reported survivors. It was truly tragic.
+[22:39:55] [main/INFO]: [CHAT] [Wilhelm] Be careful if you are going to investigate the Congress. The structure has been ruined, so you don't want it to collapse on you.
+[22:39:55] [main/INFO]: [CHAT] [Were there any survivors of the explosion?]
+[22:39:55] [main/INFO]: [CHAT] [What caused the explosion?]
+[22:39:57] [main/INFO]: [CHAT] [Wilhelm] I wish I knew. The Ishnir government claims it was an attack by the Chillwind as a sign of aggression against the use of magic. Likewise, the Chillwind government claims it was a sabotage effect by Ishnir to lure them in and attack.
+
+[22:57:06] [main/INFO]: [CHAT] [Izzy] This place is kinda spooky, but... there's really not much here. Kinda what I would expect from an abandoned government building, honestly... Not really sure how to get out of here though...
+[22:57:11] [main/INFO]: [CHAT] [Hooded Assassin] So, the rumors of a survivor are true, I see. I knew you would eventually come back here, though I never imagined there would be two of you. Regardless, there's an order on your head, so it's time you say goodnight.
+
+[23:07:13] [main/INFO]: [CHAT] The man falls over as you deal the finishing blow
+
+[23:10:06] [main/INFO]: [CHAT] Bleeding Proof: Look for a passage way out.
+
+[23:10:16] [main/INFO]: [CHAT] [Izzy] Well, that was... unexpected...
+[23:10:16] [main/INFO]: [CHAT] [Did he mention something about a survivor?]
+[23:10:19] [main/INFO]: [CHAT] [Izzy] Yes, I was wondering about that as well. Further, this guy definitely didn't come in the same way we did, so there must be a passage way he used to come and leave.
+[23:10:19] [main/INFO]: [CHAT] [Do you think the survivor managed to get out that way?]
+[23:10:24] [main/INFO]: [CHAT] [Izzy] Honestly, making the assumption that one exists is a long shot at this point, but let's find that way out and think about it on the way. Look's like he came from that room over there. Check around there a bit.
+
+[23:11:26] [main/INFO]: [CHAT] [Izzy] Wow, that tunnel definitely took us a long way out from the crater, I believe that's Frostgate that I see just over the hill. This must have been the Chillwind's pathway to getting to the Congress when it was still active.
+[23:11:26] [main/INFO]: [CHAT] [What should be do now?]
+[23:11:38] [main/INFO]: [CHAT] [Izzy] That's an interesting question. If we make the assumption that a survivor does exist, and that they used this passage way to escape the wreckage, it stands to reason that they would have sought help in Frostgate.
+[23:11:38] [main/INFO]: [CHAT] [How would we be able to find them though?]
+[23:11:45] [main/INFO]: [CHAT] [Izzy] When we allied with the Chillwind, I was given the contact of Advisor Ridnan, and we have talked a few times since. He resides in the castle most of the time with the Queen, so he would definitely be my first instinct to ask.
+
+[23:12:12] [main/INFO]: [CHAT] Bleeding Proof: Search out the advisor to the queen.
+
+[23:14:49] [main/INFO]: [CHAT] [Royal Advisor Ridnan] Hello there, young one. Beautiful day in the tundra, is it not?
+[23:14:49] [main/INFO]: [CHAT] [Who are you?]
+[23:14:49] [main/INFO]: [CHAT] [I need to ask you something regarding the Congress.]
+[23:14:56] [main/INFO]: [CHAT] [Royal Advisor Ridnan] Hmm... We don't generally discuss that topic with outsiders, but I suppose I can make an exception for you, considering our current alliance.
+[23:14:56] [main/INFO]: [CHAT] [I wanted to ask if you know anything about a survivor of the incident that occurred there.]
+[23:15:16] [main/INFO]: [CHAT] [Royal Advisor Ridnan] That's... quite the specific question. Considering every incident report claims otherwise, I'm going to assume you wouldn't ask me directly unless you had reason to believe a survivor did exist.
+[23:15:16] [main/INFO]: [CHAT] [That's a reasonable deduction.]
+[23:15:30] [main/INFO]: [CHAT] [Royal Advisor Ridnan] Well then, I'll be clear with you. Yes, we are aware of a survivor that exists. It was a Chillwind native, though the scent of magic around them was extraordinarily obvious. Our magehunters chased them out of the city, towards the direction of Wispervale.
+[23:15:30] [main/INFO]: [CHAT] [So they are hiding from the government in Wispervale then.]
+[23:15:44] [main/INFO]: [CHAT] [Royal Advisor Ridnan] That seems to be the case, yes. Thankfully, we were able to get a clear enough sample of the magic they emitted to place into our energy detector. Since you would be able to enter Wispervale unnoticed, as you are not with the government, I could give you a configured detector, if you would be willing to hunt them down for us.
+[23:15:44] [main/INFO]: [CHAT] [I suppose I don't have an option.]
+[23:15:57] [main/INFO]: [CHAT] [Royal Advisor Ridnan] Wonderful, here is that detector.
+[23:15:57] [main/INFO]: [CHAT] [Izzy] Apologies for pulling him away Ridnan, but we must be heading out quickly.
+
+[23:16:29] [main/INFO]: [CHAT] Bleeding Proof: Talk to Izzy.
+
+[23:16:55] [main/INFO]: [CHAT] [Izzy] Sorry I pulled you out in such a rush, but the mage hunters here keep giving me the stink-eye. I'd rather not stick around long enough to find out what they might do it me.
+[23:16:55] [main/INFO]: [CHAT] [Thankfully, I got what we needed from Ridnan.]
+[23:17:04] [main/INFO]: [CHAT] [Izzy] Yes, I heard from a distance. It is quite the convenience that we managed to ally with the Chillwind. I highly doubt they would have parted with that information as easily otherwise.
+[23:17:04] [main/INFO]: [CHAT] [Seems like our next destination is Wispervale.]
+[23:17:12] [main/INFO]: [CHAT] [Izzy] Quite. Let's get to Wispervale and put that detector to good use.
+
+[23:17:25] [main/INFO]: [CHAT] Bleeding Proof: Make your way to Wispervale and seek out the survivor using the Energy Detector.
+
+#Q130I01 https://puu.sh/GOFNW/3d8710a95d.png
+
+[23:19:22] [main/INFO]: [CHAT] The survivor seems to have headed to Wispervale. You should try using the detector in that area.
+
+[23:19:33] [main/INFO]: [CHAT] [Izzy] Looks like Ridnan's intel was correct. The survivor definitely escaped to Wispervale. Let's keep following the trail, they must be here somewhere.
+[23:19:57] [main/INFO]: [CHAT] [Izzy] This is the Wispervale market center. They likely came through here at some point to buy something. Let's keep looking.
+[23:22:47] [main/INFO]: [CHAT] [Izzy] I believe this is a casino of some sort. It reminds me of a place I once visited in Farr. This person must have been in desperate need of some money. Let's keep searching.
+[23:24:04] [main/INFO]: [CHAT] [Izzy] Seems like the device is telling us this is the end of the road. What is this place though, the Soul Forge? And why does the trail end here? Surely someone here has some information we can go off of.
+
+[23:24:24] [main/INFO]: [CHAT] Bleeding Proof: The detector led you to the Soul Forge. What could this mean?
+
+[23:25:11] [main/INFO]: [CHAT] [Johei] Great spirit, please hear me out. I do not have the money to afford an offering of Blessed Wisp Oil nor the strength to scavenge it from Old Wispervale, but I am in desperate need of your services. I must escape my life, I beg you to give me a new one.
+[23:25:11] [main/INFO]: [CHAT] The man continues to mumble on, but this seems like information Izzy might want to hear.
+
+[23:25:42] [main/INFO]: [CHAT] Bleeding Proof: The detector led you to the Soul Forge. What could this mean?
+
+[23:34:36] [main/INFO]: [CHAT] [Johei] Great spirit, please...
+[23:34:36] [main/INFO]: [CHAT] The man seems to be praying at this altar. Best leave him alone.
+
+[23:34:39] [main/INFO]: [CHAT] Bleeding Proof: The detector led you to the Soul Forge. What could this mean?
+
+[00:43:47] [main/INFO]: [CHAT] [Izzy] What is this place, the Soul Forge? And why does the trail end here? Surely someone here has some information we can go off of.
+[00:43:47] [main/INFO]: [CHAT] [I found someone inside.]
+[00:43:56] [main/INFO]: [CHAT] [Izzy] Oh? Were they able to provide any useful information?
+[00:43:56] [main/INFO]: [CHAT] [Sort of. He was mumbling something about summoning a spirit with Blessed Wisp Oil.]
+[00:44:00] [main/INFO]: [CHAT] [Izzy] I have no idea what Blessed Wisp Oil is, or even where to find information on said thing. Was there anything else?
+[00:44:00] [main/INFO]: [CHAT] [Apparently there is some obtainable amount in "Old Wispervale"?]
+[00:44:06] [main/INFO]: [CHAT] [Izzy] Ah! Now that I can help you with! Thank goodness I studied up on my Chillwind history. Old Wispervale is... well the original location of Wispervale, many decades back. It's actually just south of here. Cities don't tend to move too far, eh? People who don't know its history seem to just call it the Cliffside Ruins.
+[00:44:06] [main/INFO]: [CHAT] [Seems like its worth checking out.]
+[00:44:17] [main/INFO]: [CHAT] [Izzy] Well, it's the only lead we have, so I would say so.
+
+[00:44:59] [main/INFO]: [CHAT] Bleeding Proof: Search around the Cliffside Ruins for some Blessed Wisp Oil.
+
+https://puu.sh/GOGJZ/39b50b33d7.png
+
+[00:46:33] [main/INFO]: [CHAT] [Izzy] So that's Blessed Wisp Oil, huh? Well, I guess we'll see if this produces any results. Go pour it in the Soul Forge and see what happens.
+
+[00:46:36] [main/INFO]: [CHAT] Bleeding Proof: Search around the Cliffside Ruins for some Blessed Wisp Oil.
+
+[00:47:57] [main/INFO]: [CHAT] You pour the oil into the waters of the Soul Forge, and a feeling of tranquility washes over you.
+
+[00:48:14] [main/INFO]: [CHAT] Bleeding Proof: You poured the oil into the Soul Forge waters. Has anything changed?
+
+[00:48:25] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:48:25] [main/INFO]: [CHAT] [Who are you?]
+[00:48:25] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:48:25] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:48:25] [main/INFO]: [CHAT] [Who are you?]
+[00:48:25] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:48:31] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:48:31] [main/INFO]: [CHAT] [Who are you?]
+[00:48:31] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:48:31] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:48:31] [main/INFO]: [CHAT] [Who are you?]
+[00:48:31] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:49:35] [main/INFO]: [CHAT] [Spirit of the Forge] My name is Anasia, known to the locals as the Mother of Faces. I was born of these waters and bare a special gift, I can change the face of a willing soul who longs for a new life. Is that what you wish, child?
+[00:49:35] [main/INFO]: [CHAT] [Yes!]
+[00:49:35] [main/INFO]: [CHAT] [No, I actually like my face.]
+[00:49:45] [main/INFO]: [CHAT] [Spirit of the Forge] You are prideful, but I sense peace within you. If only others were so lucky, they may not ask me for my assistance.
+[00:49:49] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:49:49] [main/INFO]: [CHAT] [Who are you?]
+[00:49:49] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:49:49] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome child, I feel you are the one who offered to me the sacred oil of this land. What is it you wish to ask of me?
+[00:49:49] [main/INFO]: [CHAT] [Who are you?]
+[00:49:49] [main/INFO]: [CHAT] [I'm looking for someone who may have talked to you.]
+[00:51:37] [main/INFO]: [CHAT] [Spirit of the Forge] I see. Tell me child, who is this soul that you wish to find?
+[00:51:39] [main/INFO]: [CHAT] You explain the situation with the spirit.
+[00:51:41] [main/INFO]: [CHAT] [Spirit of the Forge] What a tragic existence this person has held... I do believe that I know the one of which you speak, but it is beyond my morals to reveal the identity of those who seek a new life with me.
+[00:51:41] [main/INFO]: [CHAT] [Is there nothing you can do to help?]
+[00:51:49] [main/INFO]: [CHAT] [Spirit of the Forge] Hmm... I see peace within you, a passion for righting the wrongs of man. If you can properly choose the face of the one you long to find, then I shall light the path towards them.
+[00:51:49] [main/INFO]: [CHAT] [I'll do whatever it takes.]
+[00:52:09] [main/INFO]: [CHAT] [Spirit of the Forge] Very well, my child. Come, accompany me to my Realm of Faces.
+
+[00:52:33] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome to my Realm of Faces, child. Here, you will find a few of the faces of those who have sought out a new life through me.
+[00:52:33] [main/INFO]: [CHAT] [What do you want me to do?]
+[00:52:33] [main/INFO]: [CHAT] [Spirit of the Forge] Welcome to my Realm of Faces, child. Here, you will find a few of the faces of those who have sought out a new life through me.
+[00:52:33] [main/INFO]: [CHAT] [What do you want me to do?]
+[00:52:38] [main/INFO]: [CHAT] [Spirit of the Forge] Among this selection of faces is that of the one you wish to find. I will tell you a slight amount of any that pique your attention, though be warned. If you incorrectly pick a face twice, then your spirit is more clouded than I imagined, and this Realm of Faces will reject you.
+
+[00:57:25] [main/INFO]: [CHAT] [Spirit of the Forge] On the run from sea to snow, he saw that which he should not know.
+[00:57:25] [main/INFO]: [CHAT] [Choose?]
+[00:57:28] [main/INFO]: [CHAT] [Spirit of the Forge] Yes, child. That is the face you were looking for. Come, let us leave this place now that our business is done here.
+
+[00:57:42] [main/INFO]: [CHAT] Bleeding Proof: The Mother of Faces lit the way towards the survivor. Use the updated detector to find him!
+
+[00:59:02] [main/INFO]: [CHAT] [Izzy] Well, anything interesting happen?
+[00:59:02] [main/INFO]: [CHAT] [I met a spirit who changes faces. The survivor was definitely here.]
+[00:59:05] [main/INFO]: [CHAT] [Izzy] That's amazing! Any leads?
+[00:59:05] [main/INFO]: [CHAT] [The detector was updated to find them.]
+[00:59:07] [main/INFO]: [CHAT] [Izzy] Fantastic work Sukie! Let's go find them!
+
+[01:05:40] [main/INFO]: [CHAT] [Professor Lyson] Welcome to the Academy. This is the Professors' Tower, so please try not to disturb anything.
+[01:05:40] [main/INFO]: [CHAT] [It took a lot of searching, but I finally found you.]
+[01:05:52] [main/INFO]: [CHAT] [Professor Lyson] What do you.... what do you mean?
+[01:05:52] [main/INFO]: [CHAT] [You're the survivor from the Congress, aren't you?]
+[01:05:57] [main/INFO]: [CHAT] [Professor Lyson] Oh god... I... How did you... Please I'm begging you, don't turn me into the government! I just want to live out my life in peace here!
+[01:06:00] [main/INFO]: [CHAT] You feel a familiar grip on your mind, and black out for a second.
+
+[01:06:30] [main/INFO]: [CHAT] [Professor Lyson] What in the world? Where am I? Who are you people?
+[01:06:32] [main/INFO]: [CHAT] [Izzy] Calm down, professor. We aren't here to hurt you, we just need to talk.
+[01:06:32] [main/INFO]: [CHAT] [Izzy] I'm using some enhancement crystals from Xeno's storage to keep this mind connection alive between so many people, but... I'd be lying if I said it wasn't putting a strain on me.
+[01:06:46] [main/INFO]: [CHAT] [Wilhelm] Professor, please forgive me for suddenly ripping your consciousness into this connected space, but it is one of the few places we can speak in absolute privacy.
+[01:06:54] [main/INFO]: [CHAT] [Wilhelm] Allow me to introduce the four of us. I am Wilhelm, a diplomat from Chillwind, and this is my longtime friend and counterpart within the Ishnir government, Torren. The one you have already met here is Sukie, captain of Mistport, and crew mate, Izzy.
+[01:07:01] [main/INFO]: [CHAT] [Professor Lyson] I suppose that gets the "who" out of the way. However, I'm far more curious about the "why". Are you planning to turn me into the government?
+[01:07:09] [main/INFO]: [CHAT] [Wilhelm] We have no such plans, professor. We simply need some information from you. You are the rumored survivor of the incident at the Congress, correct? What occurred on that day, and why is the government so adamant on silencing you?
+[01:07:16] [main/INFO]: [CHAT] [Professor Lyson] Why? Because a war benefits someone deep within the government. There is a man, someone from outside the Isles. He has someone planted within the Chillwind government, and keeping the nations distracted with each other is a perfect cover.
+[01:07:24] [main/INFO]: [CHAT] [Izzy] Sukie! This is it! This is the link to Calder we've been looking for. Mr. Lyson, please, if you know who the supplanted agent is, we need to know.
+[01:07:31] [main/INFO]: [CHAT] [Professor Lyson] Unfortunately, I do not. I am lucky to have survived with that information alone. The incident at the Congress was a true accident, and explosion that occurred due to some miscalculations with a magical test. There was no fault to blame, but when I returned to Chillwind, the nations had already turned the blade towards eachother.
+[01:07:39] [main/INFO]: [CHAT] [Professor Lyson] The agent within the government, he could not have any survivors if this ruse was to stay up, and so my execution was ordered. Of all the mage hunters, I am friends with a single one, and to my luck, he was the first to catch up to me. I pleaded with him that I needed time to prove the government wrong, and he turned a blind eye to me, leading the others in a false direction and allowing for my escape.
+[01:07:46] [main/INFO]: [CHAT] [Professor Lyson] I managed to get to Wispervale, but I still was not safe. That is when I learned of the power of the Mother of Faces, and used that blessing to disguise myself among the people here.
+[01:07:54] [main/INFO]: [CHAT] [Wilhelm] I see. Torren, if you would agree, I would like you to court a pharaohship appearance with Lyson. If my government cannot be trusted in this case, I must turn to yours.
+[01:08:01] [main/INFO]: [CHAT] [Torren] I see no immediate issues with that. This might be our chance to finally settle the differences between the nations.
+[01:08:09] [main/INFO]: [CHAT] [Wilhelm] Thank you, my friend. Sukie, Izzy, please make your ways to the palace of Alnera. Torren will setting up an emergency meeting at once. With the information that we have, they are sure to respond without hesitation.
+[01:08:16] [main/INFO]: [CHAT] You open your eyes and find yourself back in Wispervale.
+
+[01:09:24] [main/INFO]: [CHAT] [Professor Lyson] I'll be following you to Alnera Palace. Please, let this be the end of my suffering. The world needs to know the truth.
+[01:09:29] [main/INFO]: [CHAT] Bleeding Proof: Head to Alnera Palace for a meeting with the Pharaoh.
+
+[21:19:58] [main/INFO]: [CHAT] [Pharoah's Guard] Under request from Diplomat Torren, we present her majesty, blood of Saia, goddess of the sun, Pharaoh of the Northern Sands, Nasha Ka.
+[21:20:02] [main/INFO]: Villager class_1646['Alnera Guard'/1142861, l='ClientLevel', x=-875.50, y=-100.00, z=2512.50] died, message: 'Alnera Guard died'
+[21:20:02] [main/INFO]: Villager class_1646['Alnera Guard'/1142862, l='ClientLevel', x=-875.50, y=-100.00, z=2512.50] died, message: 'Alnera Guard died'
+[21:20:06] [main/INFO]: [CHAT] [Torren] Your highness, we humbly thank you for your acceptance of this urgent request for a meeting.
+[21:20:13] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] Torren, I have been told that you requested this meeting over a survivor from the Congress? Could this truly be correct?
+[21:20:21] [main/INFO]: [CHAT] [Torren] Yes, your majesty. This is Lyson, he had been on the run from the Chillwind government and was hiding out in Wispervale. He claims the incident at the Congress was not the fault of the Chillwind or Ishnir, but a mere accident.
+[21:20:28] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] That is a bold claim, indeed. Mr. Lyson, is what Torren speaks the truth?
+[21:20:36] [main/INFO]: [CHAT] [Professor Lyson] Yes, your highness, it is the truth. In one section of the lab, there was an experiment on clippings from the fabled Tree of Life that our efforts had discovered off on the Ring. Mages began to channel death magics into it to gauge the reaction...
+[21:20:43] [main/INFO]: [CHAT] [Professor Lyson] The power flux that was sent through the clipping reacted unexpectedly and flames exploded outward. Within seconds the entire lab was burning, and it never stopped spreading. I was the only one to survive, and I have been running for my life since.
+[21:20:51] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] I see. Now, with that out of the way, why is the Chillwind not speaking up on this. You are their native, after all.
+[21:20:58] [main/INFO]: [CHAT] [Torren] We have good reason to believe that there is a mole within the Chillwind government, wishing to stir conflict between the nations. For this reason, we respectfully ask that you allow for Lyson to be housed in Alnera for the time being.
+[21:21:06] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] This is quite a lot of information to take in, and much will need to be investigated by our forces. During this time though, yes I will allow for his passage here. If this meeting is concluded, I ask that you head back to Rahkeri, Torren. I'll certainly be sending some questions your way.
+[21:21:13] [main/INFO]: [CHAT] [Torren] Of course, your majesty. We deeply thank you for your generosity.
+
+[21:22:24] [main/INFO]: [CHAT] [Izzy] Well all things considering, that went pretty well.
+[21:22:32] [main/INFO]: [CHAT] [Professor Lyson] Yes, I am extremely grateful for you two. Finally, I am getting this information I've held out for the world to see. I just hope it's not too late.
+[21:22:39] [main/INFO]: [CHAT] [Izzy] Don't worry too much about the details, Lyson. You did the best that you could, and you survived to see this day. That's what matters.
+[21:22:47] [main/INFO]: [CHAT] [Professor Lyson] I have not seen Alnera since I was a child. I'm sure I'm going to enjoy the time here while I can.
+[21:22:54] [main/INFO]: [CHAT] [Alnera Guard] Oh we're sure you will too, you bastard traitor.
+[21:22:57] [main/INFO]: [CHAT] The guard swings his blade, cutting off Lyson's head.
+[21:22:57] [main/INFO]: [CHAT] [Izzy] LYSON!
+[21:22:57] [main/INFO]: Villager class_1646['Professor Lyson'/1142968, l='ClientLevel', x=-874.50, y=167.00, z=2510.50] died, message: 'Professor Lyson died'
+[21:22:59] [main/INFO]: [CHAT] [Alnera Guard] Silence, you trash.
+[21:22:59] [main/INFO]: [CHAT] The guard hits you over the head with the hilt of his weapon, and you black out.
+
+[21:23:30] [main/INFO]: [CHAT] Bleeding Proof: Talk to Izzy.
+
+[21:23:42] [main/INFO]: [CHAT] [Izzy] Before you even ask... Lyson's dead, you got knocked out, I teleported us to safety before they got me...
+[21:23:42] [main/INFO]: [CHAT] [Are you okay, Izzy?]
+[21:23:47] [main/INFO]: [CHAT] [Vargos] Just give him some time to breathe, Sukie. You two have been through a lot, and as tragic as this all is, we've learned a lot.
+[21:23:47] [main/INFO]: [CHAT] [Why would those guards kill Lyson?]
+[21:23:52] [main/INFO]: [CHAT] [Vargos] If what Izzy has told me about the mole in the Chillwind government is true, then I suspect the same is true for Ishnir. Calder has his bases covered quite well, and he's infiltrated both governments.
+[21:23:52] [main/INFO]: [CHAT] [What do we do now?]
+[21:23:57] [main/INFO]: [CHAT] [Vargos] If we are going to prevent these countries from killing each other, we will need to find the moles ourselves. But that's for another time, you two deserve a break for now.
+[21:23:57] [main/INFO]: [CHAT] BLEEDING PROOF COMPLETE!
+[21:23:57] [main/INFO]: [CHAT] Awarded Lyson's Head, 1 Prestige, and access to the mysterious underground of the Congress.
+
+==R is for Reprisal==
+
+
+==The Rooster Crows at Midnight==
+Building entrance at (-1292, 130, 487)
+
+[23:13:19] [main/INFO]: [CHAT] [Reserve Clerk] I can't believe it. The reserves... They're empty.
+[23:13:19] [main/INFO]: [CHAT] [They're empty? What happened?]
+[23:13:24] [main/INFO]: [CHAT] [Reserve Clerk] Go look for yourself. They took everything.
+
+#Q140I01 https://puu.sh/GLy9z/7aa8068a0c.png
+
+[23:14:30] [main/INFO]: [CHAT] THE ROOSTER CROWS AT MIDNIGHT
+[23:14:30] [main/INFO]: [CHAT] Length : Short
+[23:14:30] [main/INFO]: [CHAT] Difficulty : Hard
+[23:14:30] [main/INFO]: [CHAT] Description : Find the thieves' hideout outside of Nightroost.
+
+[23:15:15] [main/INFO]: [CHAT] The Rooster Crows at Midnight: Locate the thieves outside of Nightroost.
+
+[23:15:33] [main/INFO]: [CHAT] [Reserve Clerk] It's gone... all gone... Who could have done this?
+[23:15:33] [main/INFO]: [CHAT] [Well, the note said "The Rooster Crows at Midnight".]
+[23:15:37] [main/INFO]: [CHAT] [Reserve Clerk] Thieves? Bandits? A gang?? In Nightroost? This town is just so safe. There's no way. You must find the reserves! We need that for parties! Look around outside of town for somewhere it could be stashed!
+
+(-1417, 103, 589)
+
+https://puu.sh/GLydc/09f7ddd0df.png
+https://puu.sh/GLydA/1fe52c6aaa.png
+https://puu.sh/GLyH3/aa3e1c0375.png
+
+[23:19:15] [main/INFO]: [CHAT] You hear the floor shifting beneath you. There may be more buttons in the cabin.
+
+[23:50:54] [main/INFO]: [CHAT] The stairs open up to reveal a secret passage!
+
+[23:54:21] [main/INFO]: [CHAT] [Akema] Well this is curious...
+[23:54:21] [main/INFO]: [CHAT] [Who are you? What is this place?]
+[23:54:21] [main/INFO]: [CHAT] Payhi25 joined the game
+[23:54:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:54:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:54:25] [main/INFO]: [CHAT] [Akema] We're known as the Night Roosters, a collective dedicated to stopping the rampant corruption within Nightroost and throughout Chillwind. I'm sure you gathered as much from our little note, if you found us.
+[23:54:29] [main/INFO]: [CHAT] [Akema] You see, Nightroost is a town forgotten by the Crown of Frostgate. We don't get as much attention as the others and as a result, most of our problems are ignored or unreported.
+[23:54:34] [main/INFO]: [CHAT] [Akema] Our town was ravaged and instead of helping the citizens recover, the Crown continues to horde money and collect heavy taxes, all saved up in the reserves.
+[23:54:38] [main/INFO]: [CHAT] [Akema] They continue to fill their plates for their own gluttony and leave nothing for the rest of us. I refuse to let the masses starve because a select few want to gorge themselves.
+[23:54:38] [main/INFO]: [CHAT] [Is there anything I can do to help?]
+[23:54:38] [main/INFO]: [CHAT] [I'm not sure I like your methods.]
+
+[23:55:32] [main/INFO]: [CHAT] [I'm not sure I like your methods.]
+[23:55:34] [main/INFO]: [CHAT] [Akema] Then why come find us at all?
+[23:55:34] [main/INFO]: [CHAT] [To turn you in!]
+[23:55:34] [main/INFO]: [CHAT] [I was curious.]
+
+[23:55:39] [main/INFO]: [CHAT] [Akema] Yet not curious enough to help those in need... Shameful.
+[23:56:03] [main/INFO]: [CHAT] [Akema] Oh, you wish. If you tried, we'd be gone before you could blink, Sukie.
+
+[23:56:42] [main/INFO]: [CHAT] [Akema] Perhaps you join our cause? Before you can become a member of the Night Roosters, you must first prove that you're competent and that we can trust you though.
+[23:56:47] [main/INFO]: [CHAT] [Akema] There's a noble known as Greg the Greedy, who lives on an island off the coast of Chillwind, West of Frostgate.
+[23:56:51] [main/INFO]: [CHAT] [Akema] He likes to collect ancient treasures and he has the last piece of an important map. I need you to break into his house and retrieve it for us.
+[23:56:56] [main/INFO]: [CHAT] [Akema] Getting into his house will require some creativity, but I left something to help you with that hidden nearby. (Make sure to have an empty inventory slot) Good luck.
+[23:56:56] [main/INFO]: [CHAT] [Understood.]
+[23:56:56] [main/INFO]: [CHAT] [What is the map for?]
+[23:57:02] [main/INFO]: [CHAT] [Akema] If this goes well, you'll find out in due time.
+
+[23:57:22] [main/INFO]: [CHAT] The Rooster Crows at Midnight: Find Akema's hidden cache.
+
+[23:57:58] [main/INFO]: [CHAT] You exit the basement and the floor closes back up behind you.
+
+[00:02:12] [main/INFO]: [CHAT] You open the cache and find a crossbow.
+[00:02:12] [main/INFO]: [CHAT] You wait for the cover of darkness before beginning the heist.
+[00:02:12] [main/INFO]: Loaded 638 advancements
+[00:02:12] [main/INFO]: [CHAT] Your class has been temporarily disabled.
+[00:02:23] [main/INFO]: [CHAT] Shulkers can not be opened here
+
+#Q140I02 https://puu.sh/GLyMk/cd7fe525b5.png
+
+[00:39:32] [main/INFO]: [CHAT] The Rooster Crows at Midnight: Retrieve the map piece from Greg the Gluttonous.
+
+#Q140I03 https://puu.sh/GLzfW/2d50410acb.png
+
+[00:43:11] [main/INFO]: [CHAT] The Rooster Crows at Midnight: Return the map piece to Akema.
+
+[00:49:39] [main/INFO]: [CHAT] [Akema] Well, you've proven that you know how to handle yourself. Welcome to the Night Roosters.
+[00:49:39] [main/INFO]: [CHAT] [Akema] Feel free to keep that crossbow. You'll need it.
+[00:49:39] [main/INFO]: [CHAT] THE ROOSTER CROWS AT MIDNIGHT COMPLETE!
+[00:49:39] [main/INFO]: [CHAT] Awarded Red Rooster and 1 Prestige
+
+===R is for Reprisal===
+
+[01:20:08] [main/INFO]: [CHAT] [Wilhelm] Sukie! There is trouble brewing. Have you noticed there are more mage hunters around?
+[01:20:08] [main/INFO]: [CHAT] [I have. What's wrong?]
+[01:20:08] [main/INFO]: [CHAT] [Their patrols seem normal to me, even if they are more frequent.]
+[01:20:15] [main/INFO]: [CHAT] [Wilhelm] There have been whispers that mage hunters have found a way to infiltrate Wispervale. 
+[01:20:15] [main/INFO]: [CHAT] [Oh, that's not good.]
+[01:20:24] [main/INFO]: [CHAT] [Wilhelm] It isn't. Listen carefully, I have a contact in Wispervale that I'm worried about. I can't tell you who they are right now, but I want to make sure they're alive. The hunters seem to be keeping a close eye on me. If you can confirm that they are okay... Tell the **beautiful lady** that Wilhelm will bring her a big bouquet of roses soon.
+[01:20:24] [main/INFO]: [CHAT] [Leave it to me.]
+[01:20:24] [main/INFO]: [CHAT] [I don't think I can...]
+[01:20:39] [main/INFO]: [CHAT] [Wilhelm] I knew I could count on you.
+
+[01:20:39] [main/INFO]: [CHAT] QUEST : R IS FOR REPRISAL
+[01:20:39] [main/INFO]: [CHAT] Length : Long
+[01:20:39] [main/INFO]: [CHAT] Difficulty : Hard
+[01:20:39] [main/INFO]: [CHAT] Description : Find Wilhelm's secret contact in Wispervale and make sure they are safe.
+
+[01:21:40] [main/INFO]: [CHAT] R is for Reprisal: Investigate the academy library in Wispervale and try to decipher the hint Wilhelm gave you.
+
+Belladonna (-1720, 135, -77)
+
+[01:26:54] [main/INFO]: [CHAT] [Belladonna] Sukie? What brings you here?
+[01:26:54] [main/INFO]: [CHAT] [Wilhelm said he would bring you a big bouquet of roses soon.]
+[01:27:01] [main/INFO]: [CHAT] [Belladonna] ...He told you then? I suppose we need all the help we can get. Though, if it's you, then I'm sure we will succeed.
+[01:27:01] [main/INFO]: [CHAT] [How can I help?]
+[01:27:07] [main/INFO]: [CHAT] [Belladonna] Let me bring you up to speed on the current situation. Somehow, mage hunters have brute forced their way into the town. I don't know who they are, but it's making things difficult for me...
+[01:27:07] [main/INFO]: [CHAT] [Why?]
+[01:27:12] [main/INFO]: [CHAT] [Belladonna] I've been trying to strengthen the magical barrier that surrounds Wispervale but I'm afraid of getting caught by a hidden mage hunter. If I don't do it soon, the barrier protecting this city will disappear. But it's too risky to do anything right now.
+[01:27:12] [main/INFO]: [CHAT] [What should we do then?]
+[01:27:16] [main/INFO]: [CHAT] frogyfro has claimed a Treasures of Viridia loot cache!
+[01:27:20] [main/INFO]: [CHAT] [Belladonna] I don't think I can easily sneak around at night without getting caught. Could you take these magic crystals and set them at four points in the town?
+[01:27:20] [main/INFO]: [CHAT] [Okay, leave it to me!]
+[01:27:20] [main/INFO]: [CHAT] [I don't think I can do it.]
+[01:27:21] [main/INFO]: [CHAT] <G> KVeras » is topaz an ore?
+[01:27:28] [main/INFO]: [CHAT] <G> DDeine » Nop
+[01:27:28] [main/INFO]: [CHAT] <G> DolphDaOne » no, its a quest item
+[01:27:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:27:29] [main/INFO]: [CHAT] <G> [TCL] Sukie » it's a quest item in a chest
+[01:27:33] [main/INFO]: [CHAT] <G> DolphDaOne » look deep in the mines
+[01:27:40] [main/INFO]: [CHAT] [Belladonna] I knew I could count on you! We only have a small window of time to get this right so let me know when you're ready!
+
+[01:28:00] [main/INFO]: [CHAT] R is for Reprisal: Let Belladonna know when you're ready to begin.
+
+[01:28:48] [main/INFO]: [CHAT] [Belladonna] Are you ready to help me?
+[01:28:48] [main/INFO]: [CHAT] [Yeah! Let's do it!]
+[01:28:48] [main/INFO]: [CHAT] [I need some more time...]
+[01:28:50] [main/INFO]: [CHAT] [Belladonna] Very well, let's go.
+[01:28:57] [main/INFO]: [CHAT] LordGeek101 has claimed a Treasures of Viridia loot cache!
+[01:28:58] [main/INFO]: [CHAT] [Belladonna] Stay out of sight and take care of this quietly! Place these magic crystals around the town, right click to place them at the marked locations. Talk to me when you have taken care of all of them.
+[01:28:58] [main/INFO]: [CHAT] [Belladonna] How is it going? Time is of the essence! Place the crystals down so I can strengthen the barrier! There should be 4 spots in total.
+[01:28:58] [main/INFO]: [CHAT] [I need more Barrier Crystals.]
+[01:28:58] [main/INFO]: [CHAT] [I need to go for now.]
+[01:29:02] [main/INFO]: [CHAT] [Belladonna] Be careful with these!
+[01:29:04] [main/INFO]: [CHAT] [Belladonna] How is it going? Time is of the essence! Place the crystals down so I can strengthen the barrier! There should be 4 spots in total.
+[01:29:04] [main/INFO]: [CHAT] [I need more Barrier Crystals.]
+[01:29:04] [main/INFO]: [CHAT] [I need to go for now.]
+[01:29:05] [main/INFO]: [CHAT] [Belladonna] Be careful with these!
+
+Barrier Crystal #Q133I06
+
+[01:29:14] [main/INFO]: [CHAT] R is for Reprisal: Place down the 4 crystals across Wispervale. Belladonna can give you more if you lose them.
+
+(-4430, 139, 567)
+[01:32:32] [main/INFO]: [CHAT] You place the crystal at the base of the tree. It hums quietly.
+[01:32:32] [main/INFO]: [CHAT] The crystal faintly glows.
+
+(-4433, 140, 699)
+[01:33:49] [main/INFO]: [CHAT] You place the crystal on the ground in front of the gate. It hums quietly.
+[01:33:49] [main/INFO]: [CHAT] The crystal faintly glows.
+
+(-4374, 140, 612)
+[01:38:27] [main/INFO]: [CHAT] You place the crystal by the fire. It hums quietly.
+[01:38:27] [main/INFO]: [CHAT] The crystal faintly glows.
+
+(-444, 132, 621)
+[01:44:05] [main/INFO]: [CHAT] You place the crystal on the edge of the fountain. It hums quietly.
+[01:44:05] [main/INFO]: [CHAT] You hear some Mage Hunters talking loudly in the house nearby...
+
+[01:44:09] [main/INFO]: [CHAT] [Mage Hunter Kyle] Man, this is so boring! I can't see any mana threads and everyone is so scared of us. It's impossible to pinpoint who is a mage and who isn't!
+[01:44:14] [main/INFO]: [CHAT] [Mage Hunter Amanda] Don't worry, the Grand Hunter himself said the barrier around this town was weakening. Those scummy mages will eventually have to come out of their hiding place to restore the barrier or it will fade away.
+[01:44:15] [main/INFO]: [CHAT] <G> DolphDaOne » welcome to highwatch
+[01:44:18] [main/INFO]: [CHAT] [Mage Hunter Kyle] Really? Then we can strike when the opportunity arises! Do you think we can catch them before the meeting?
+[01:44:19] [main/INFO]: [CHAT] <G> Scaldice » the quest/prestige book doesnt help at all with my quest that i am doing DolphDaOne
+[01:44:20] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:44:23] [main/INFO]: [CHAT] [Mage Hunter Amanda] Shhh! Don't talk about the meeting! It's supposed to be a secret, what are you going to do if someone hears us and finds out!
+[01:44:27] [main/INFO]: [CHAT] [Mage Hunter Kyle] What's the worry? Everyone here knows about the curfew. How would they be able to get to Frostgate without us knowing anyways?
+[01:44:31] [main/INFO]: [CHAT] <G> KVeras » dang
+[01:44:32] [main/INFO]: [CHAT] [Mage Hunter Amanda] I guess...
+
+[01:45:57] [main/INFO]: [CHAT] [Belladonna] Excellent work, I'll quickly restore the barrier. We should be safe for now.
+[01:45:57] [main/INFO]: [CHAT] [I found out something that I think you should know.]
+[01:46:00] [main/INFO]: [CHAT] [Belladonna] Oh? Did you learn something?
+[01:46:00] [main/INFO]: [CHAT] [The mage hunters were ordered by someone called the Grand Hunter. They're holding a meeting in Frostgate soon.]
+[01:46:01] [main/INFO]: [CHAT] <G> C21J » are there ranks on this server and are they worth it?
+[01:46:04] [main/INFO]: [CHAT] [Belladonna] This is definitely helpful information, thank you. Hmm... I think that we need to find out more about this mysterious Grand Hunter.
+[01:46:04] [main/INFO]: [CHAT] [How should we go about that?]
+[01:46:07] [main/INFO]: [CHAT] <G> Ziggles_ » patreon
+[01:46:08] [main/INFO]: [CHAT] <G> idkpangs » anyone wanna buy some casino rares
+[01:46:08] [main/INFO]: [CHAT] [Belladonna] Hmm... We should try to infiltrate this meeting that is going to be held. I'll try to find out more about it, and you should put together a disguise. Your face is too recognizable though... Can you find a way to change your face? I'll take care of the rest, meet back here when you've got a disguise for your face.
+[01:46:09] [main/INFO]: [CHAT] <G> KVeras » umm
+[01:46:12] [main/INFO]: [CHAT] <G> DDeine » Only patron rank like mine
+[01:46:17] [main/INFO]: [CHAT] <G> KVeras » should i buy half dulsen
+[01:46:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[01:46:17] [main/INFO]: [CHAT] R is for Reprisal: Figure out a way to change your face - again. The Mother of Faces did predict your return...
+
+[01:47:05] [main/INFO]: [CHAT] [Johei] I have been expecting you. The great spirit has spoken! Allow me to take you to them.
+[01:47:05] [main/INFO]: [CHAT] [Yes please!]
+[01:47:05] [main/INFO]: [CHAT] [No thank you.]
+[01:47:12] [main/INFO]: [CHAT] [Johei] They await your arrival.
+
+[01:47:31] [main/INFO]: [CHAT] The spirit does not seem to notice you.
+[01:47:31] [main/INFO]: [CHAT] [Spirit of the Forge] I knew you'd return to me. I have an idea of what you need from me, but humor me. How may I help you?
+[01:47:31] [main/INFO]: [CHAT] [I need a disguise so I can enter a meeting secretly.]
+[01:47:31] [main/INFO]: [CHAT] [I need to leave.]
+[01:47:39] [main/INFO]: [CHAT] [Spirit of the Forge] Ho ho, you enjoy meddling in affairs that are far bigger than all of us don't you? Very well. If you can overcome my challenge, I will help you.
+
+[01:53:59] [main/INFO]: [CHAT] You hear mechanical grinding in the distance as the configuration becomes complete.
+
+[01:54:19] [main/INFO]: [CHAT] The spirit does not seem to notice you.
+[01:54:19] [main/INFO]: [CHAT] You feel your face tingle with magic.
+[01:54:19] [main/INFO]: [CHAT] [Spirit of the Forge] Excellent work. I've given you a face that many will see, but none will remember.
+[01:54:19] [main/INFO]: [CHAT] [Thank you.]
+[01:54:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:54:22] [main/INFO]: [CHAT] [Spirit of the Forge] Don't. Not yet at least. Now go.
+
+[01:54:25] [main/INFO]: [CHAT] R is for Reprisal: With your new disguise, return to Belladonna.
+
+[01:55:14] [main/INFO]: [CHAT] [Belladonna] Sukie? Judging by your face, you were successful. Here are robes I stole from a mage hunter. I cleaned them for you. I did some more digging and found out the meeting will be held at the Frostgate cathedral. With your disguise you should be able to get in.
+[01:55:14] [main/INFO]: [CHAT] [Got it. What do I do if they don't let me in?]
+[01:55:27] [main/INFO]: [CHAT] <G> Scaldice » its a magic wand and i think that it ays uncommon
+[01:55:28] [main/INFO]: [CHAT] [Belladonna] Well... You will probably have to find an alternative way in then. Do your best and I'll meet you there!
+[01:55:31] [main/INFO]: [CHAT] <G> Scaldice » yeah its uncommon
+[01:55:31] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[01:55:34] [main/INFO]: [CHAT] R is for Reprisal: Find a way into the Frostgate cathedral to infiltrate the meeting.
+
+[01:57:03] [main/INFO]: [CHAT] [Wet Mage Hunter] Halt! This area is reserved for a meeting!
+[01:57:03] [main/INFO]: [CHAT] [Yes, I’m here for that very meeting.]
+[01:57:03] [main/INFO]: [CHAT] [Oh, sorry… I got lost.]
+[01:57:07] [main/INFO]: [CHAT] [Wet Mage Hunter] Do you take me for a fool? Scram! I've already had to deal with falling into that broken sewer grate on my way here- I don't need your meddling to make my day worse!
+
+(-1487, 94, 978)
+[02:00:28] [main/INFO]: [CHAT] R is for Reprisal: Find a way into the Frostgate cathedral to infiltrate the meeting.
+
+[02:04:07] [main/INFO]: [CHAT] [Elite Mage Hunter Gloria] *Sniff* Eugh- did you take a swim through the sewers or something?! You stink!
+[02:04:07] [main/INFO]: [CHAT] [What is this room?]
+[02:04:09] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » huh chillwind repeater is still quick charge 3
+[02:04:09] [main/INFO]: [CHAT] <G> DolphDaOne » i can take you there in a bit
+[02:04:11] [main/INFO]: [CHAT] [Elite Mage Hunter Gloria] This? It's the Grand Hunter's trophy room I suppose. These are particularly infamous mages that we've hunted down in his honor. It's impressive no?
+[02:04:11] [main/INFO]: [CHAT] [Why are there displays for Vargos and Bhairavi? They're still alive.]
+[02:04:14] [main/INFO]: [CHAT] <G> wub_z » thank u :)
+[02:04:20] [main/INFO]: [CHAT] [Elite Mage Hunter Gloria] They're reserved spots. Those sinners are only alive for now.
+
+[02:05:05] [main/INFO]: [CHAT] [Belladonna] Sukie! You made it! Thank god, I was worried about you. Shhh! We aren't alone. Let's go in now.
+[02:05:06] [main/INFO]: [CHAT] [Belladonna] Look- the Grand Hunter!
+[02:05:10] [main/INFO]: [CHAT] R is for Reprisal: Find a way into the Frostgate cathedral to infiltrate the meeting.
+[02:05:10] [main/INFO]: [CHAT] [Elite Hunter ???] Nashor! You haven't kicked the bucket it seems.
+[02:05:15] [main/INFO]: [CHAT] [Elite Hunter Nashor] I see you're still as insufferable as ever Edlynn.
+[02:05:20] [main/INFO]: [CHAT] [Elite Hunter Edlynn] If I wasn't, you'd be too lonely dealing with the rest of these boring bookends. Anyways, how goes the hunting?
+[02:05:28] [main/INFO]: [CHAT] [Elite Hunter Nashor] Hunting is as good as always. Mages can't hide their mana trails. It's like tracking a bleeding deer on a snowy day—too easy.
+[02:05:34] [main/INFO]: [CHAT] <G> Ziggles_ » nope
+[02:05:35] [main/INFO]: [CHAT] [Elite Hunter Edlynn] Just don't hog all of the good ones, okay? I haven't had any mages put up a good fight yet. Most of them just cry and beg for mercy before they die.
+[02:05:43] [main/INFO]: [CHAT] [Elite Hunter Shirley] Most of them don't even know they're sinners. It's normal for them to be like that. The ones you need to be wary of are the ones who know what they are. 
+[02:05:50] [main/INFO]: [CHAT] [Elite Hunter Edlynn] What do you two think, hm? I've never seen you two before.
+[02:05:55] [main/INFO]: [CHAT] [Belladonna] Uh.....
+[02:05:55] [main/INFO]: [CHAT] [We are new hunters that got promoted recently!]
+[02:05:57] [main/INFO]: [CHAT] <G> DolphDaOne » kveras do you wanna kill the boss?
+[02:05:59] [main/INFO]: [CHAT] [Elite Hunter Edlynn] Really now?
+[02:05:59] [main/INFO]: [CHAT] [Yeah, we killed the infamous mage Bhargravi...]
+[02:06:00] [main/INFO]: [CHAT] <G> KVeras » ya
+[02:06:01] [main/INFO]: [CHAT] <G> Ziggles_ » 3
+[02:06:03] [main/INFO]: [CHAT] [Elite Hunter Edlynn] Impressive. Most recruits take a while to get used to killing mages because they still see them as people. I'm glad to know that we have such promising talent with us.
+[02:06:03] [main/INFO]: [CHAT] [Thanks, do you know what this meeting is about?]
+[02:06:11] [main/INFO]: [CHAT] <G> DolphDaOne » with or without my help?
+[02:06:12] [main/INFO]: [CHAT] [Elite Hunter Edlynn] It probably has to do with the order on Wispervale. I'm annoyed that I wasn't allowed to go.
+[02:06:13] [main/INFO]: [CHAT] [Elite Hunter Ashton] Silence now! If we are ready then let the Grand Hunter speak!
+[02:06:17] [main/INFO]: [CHAT] [Grand Hunter] Ashton there is no need to yell. Be at ease, let us start this meeting.
+[02:06:22] [main/INFO]: [CHAT] The Grand Hunter removes his hood.
+[02:06:27] [main/INFO]: [CHAT] <G> KVeras » umm
+[02:06:27] [main/INFO]: [CHAT] [Belladonna] *Gasp* Is that- the Royal Advisor?!
+[02:06:30] [main/INFO]: [CHAT] <G> Ziggles_ » wait
+[02:06:32] [main/INFO]: [CHAT] [Grand Hunter Ridnan] My comrades, we are close to cleansing this country of the filth that is magic. It is thanks to your efforts, and your sacrifice, that we were able to rid the land of so many mages. But we have one final hurdle to overcome before we can celebrate. Ashton, tell them what you have discovered.
+[02:06:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:06:40] [main/INFO]: [CHAT] [Elite Hunter Ashton] There are a great number of mages hiding in Wispervale. But a magical barrier stops us from seeing the mana trails we would normally be able to see. I have an inkling of who is responsible for this, so soon we will go and slaughter the rat that has turned that lovely town into a dirty sanctuary for sinners.
+[02:06:47] [main/INFO]: [CHAT] [Grand Hunter Ridnan] Well said Ashton. Once we take that barrier down, we will be able to find all of those abominations and make an example for all to see what happens when you try to hide from a hunter.
+[02:06:55] [main/INFO]: [CHAT] You hear Belladonna whimper next to you.
+[02:06:57] [main/INFO]: [CHAT] [Grand Hunter Ridnan] Let us move on to our next point of discussion. There has been a pain in our side that has been killing our hunters, and they haven't been quiet about their identity. That exiled mage from the Vall-
+[02:07:00] [main/INFO]: [CHAT] Ridnan's pendant glows. You feel a strange ripple, as if Reality has shifted around you. All eyes turn to you as the magic on your face melts off.
+[02:07:07] [main/INFO]: [CHAT] [Belladonna] Wha-
+[02:07:12] [main/INFO]: [CHAT] [Grand Hunter Ridnan] Sukie?! You-
+[02:07:12] [main/INFO]: [CHAT] [Advisor Ridnan! You're the Grand Hunter?!]
+[02:07:16] [main/INFO]: [CHAT] [Grand Hunter Ridnan] I am. It is a great honor to serve her Majesty as both the Royal Advisor and the Grand Hunter.
+[02:07:16] [main/INFO]: [CHAT] [You're the member of the Masked hiding in Chillwind!]
+[02:07:20] [main/INFO]: [CHAT] [Grand Hunter Ridnan] And? Even if I must use unsavory methods, everything I do is for the future of our country.
+[02:07:20] [main/INFO]: [CHAT] [Why would you work for a murderer like Calder?!]
+[02:07:25] [main/INFO]: [CHAT] [Grand Hunter Ridnan] Why not? Aren't you a murderer as well? What makes the life you took different from the life he took? In the end we are all killers. But mages, they are far worse than that. To steal the mana, the lifeblood of nature, from the earth itself and use it for their own selfish purposes. They eat away at the land and make it harder for the rest of us! Even if they don't know they're mages- their mere existence is a plague upon these lands!
+[02:07:25] [main/INFO]: [CHAT] [Then why are you working with Calder?! He's a mage as well!]
+[02:07:35] [main/INFO]: [CHAT] [Grand Hunter Ridnan] Calder’s power is simply a means to an end.The path I walk will be covered in blood, and allying myself with him will simply speed up the time it takes to fulfill my god-given duty. Now, get out of my way!
+
+[02:07:44] [main/INFO]: [CHAT] R is for Reprisal: Aren't you a little busy to be checking your compass? Fight Ridnan and the elite hunters!
+
+[02:08:13] [main/INFO]: [CHAT] <G> SW1FTY_LZ » wheres arian
+[02:08:40] [main/INFO]: [CHAT] Sukie was slain by §4Elite Hunter Nashor using [Monsters' Bane]
+[02:08:41] [main/INFO]: Loaded 719 advancements
+[02:08:42] [main/INFO]: [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[02:08:42] [main/INFO]: [CHAT] [Belladonna] Are you okay? You tripped on the rug and hit your head pretty hard there. Relax, you'll be fine, let's just get into this meeting already!
+
+[02:23:08] [main/INFO]: [CHAT] [Belladonna] Sukie! You made it! Thank god, I was worried about you. Shhh! We aren't alone. Let's go in now.
+[02:23:08] [main/INFO]: [CHAT] [Okay, let's go.]
+[02:23:08] [main/INFO]: [CHAT] [Can we skip the meeting this time?]
+[02:23:09] [main/INFO]: [CHAT] [Belladonna] This time? What are you talking about? I guess we can try to skip it.
+
+[02:24:51] [main/INFO]: [CHAT] Ridnan's eyes roll back before collapsing. You hear a commotion outside the room.
+
+[02:25:07] [main/INFO]: [CHAT] R is for Reprisal: Return to Wilhelm and check in.
+
+[02:25:40] [main/INFO]: [CHAT] [Synnove Obregson] ...
+[02:25:42] [main/INFO]: [CHAT] [Wilhelm] Sukie, thank goodness you're alright. I heard everything from Belladonna. I arranged a meeting with the Queen immediately. Go on, speak to her.
+[02:25:47] [main/INFO]: [CHAT] [Synnove Obregson] Sukie, I have been informed of the Grand Hunter’s betrayal. I believe that I owe you an apology for your troubles. To think that Calder had someone planted within our government without our knowing...
+[02:25:47] [main/INFO]: [CHAT] [You couldn’t have anticipated that this would happen.]
+[02:25:54] [main/INFO]: [CHAT] [Synnove Obregson] We will have to do a thorough investigation to ensure there are not more... But in the meantime, I thank you for discovering the truth.
+[02:25:54] [main/INFO]: [CHAT] [I’m glad I could stop them.]
+[02:25:58] [main/INFO]: [CHAT] [Synnove Obregson] Yes. The Masked and Calder have done enough damage; the mage hunters will be under my control for now. I will cooperate in your efforts to reconcile with Ishnir and stop the persecution of mages. I look forward to seeing what you do in the future. I must attend to some other business now, but Wilhelm looks like he wishes to speak to you.
+[02:26:00] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:26:04] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:26:09] [main/INFO]: [CHAT] R is for Reprisal: Talk to Wilhelm again.
+[02:26:10] [main/INFO]: [CHAT] [Wilhelm] Sukie, thank you so much for all you've done. Now that we are on the track to restoring relations between Chillwind and Ishnir, the future is looking so much brighter.
+[02:26:10] [main/INFO]: [CHAT] [Yeah, let's hope it gets easier from here on out.]
+[02:26:12] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:26:14] [main/INFO]: [CHAT] [Wilhelm] Haha, wishful thinking my friend. I'll call for you when I need your help again.
+[02:26:14] [main/INFO]: [CHAT] R IS FOR REPRISAL COMPLETE!
+[02:26:14] [main/INFO]: [CHAT] You have freed the Chillwind from Calder's influence, but Ishnir still needs help.
+
+[02:26:34] [main/INFO]: [CHAT] [Wilhelm] With Ridnan detained, the mages of Chillwind no longer have to hide in fear.
+[02:26:34] [main/INFO]: [CHAT] [What's going to happen to Ridnan?]
+[02:26:38] [main/INFO]: [CHAT] [Wilhelm] He will probably be executed for his crimes... We want to get some information out of him first, but he refuses to speak.
+[02:26:38] [main/INFO]: [CHAT] [Okay, now what?]
+[02:26:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:26:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:26:41] [main/INFO]: [CHAT] [Wilhelm] Let me take you back to Nightroost. We have done all we can here.
+
+==Alric's Legacy==
+
+[09:13:00] [main/INFO]: [CHAT] [Listener] The song intensifies... The doors in the depths hold secrets, but the Sleeper... He is not there. Tell me, traveler, what do you know of the disturbance sweeping these lands? Something is waking the last of the Frost Giants, Eldrask.
+[09:13:00] [main/INFO]: [CHAT] [What are the Frost Giants and how are they waking?]
+[09:13:06] [main/INFO]: [CHAT] [Listener] I hear it in the song. Do you hear it too? The Giants made these lands, and their slumbering song sustains it. Yet now time is twisting, and Eldrask wakes. This cannot be allowed to happen, else the song may end and these Isles will be no more. I beseech you. Learn their past by entering Alric’s Rift.
+[09:13:06] [main/INFO]: [CHAT] [What do I need to do?]
+[09:13:07] [main/INFO]: [CHAT] <L> [Rend] xAvocadoToast_ » um
+[09:13:09] [main/INFO]: [CHAT] [Listener] Follow the river outside this crumbling town to its end. Descend down the falls into the darkness. It is there you will find where Alric, the human king, stood against the waking Giants and destroyed their wickedness. It is there he preserved the song.
+[09:13:09] [main/INFO]: [CHAT] [I’m in.]
+[09:13:09] [main/INFO]: [CHAT] [Sorry, not now.]
+[09:13:10] [main/INFO]: [CHAT] [Listener] Go, traveler. Find Alric’s Rift at the end of the nearby river. Learn the past so you may preserve the future.
+
+[09:13:10] [main/INFO]: [CHAT] QUEST : ALRIC'S LEGACY
+[09:13:10] [main/INFO]: [CHAT] Length : Medium
+[09:13:10] [main/INFO]: [CHAT] Difficulty : Very Hard
+[09:13:10] [main/INFO]: [CHAT] Follow the river and enter Alric's Rift
+
+[09:16:05] [main/INFO]: [CHAT] Alric's Legacy: Enter Alric's Rift and solve the puzzle.
+
+[09:15:57] [main/INFO]: [CHAT] [Voice on the Wind] The Wakers among Frost Giants fell that day to my sword. Man’s luck persevered, and the song continued...
+[09:15:57] [main/INFO]: [CHAT] Those icicles seem fragile... I bet I could shoot them down if I needed to...
+
+[09:16:05] [main/INFO]: [CHAT] Alric's Legacy: Enter Alric's Rift and solve the puzzle.
+
+I P M C
+
+[09:39:35] [main/INFO]: [CHAT] The spirit on top of the crown starts to glow brighter, signalling your attention.
+
+[09:40:02] [main/INFO]: [CHAT] Alric's Legacy: Talk to Alric in the Rift.
+
+[09:40:27] [main/INFO]: [CHAT] [Alric] ...the spirit whispers through time, echoes reverberating through my very bones. Things are changing, hero. Things that have never been. Eldrask has always slumbered. He was always meant to. He is the Sleeper, meant to outlast them all.
+[09:40:27] [main/INFO]: [CHAT] [What do you mean?]
+[09:40:32] [main/INFO]: [CHAT] <G> [Rend] xAvocadoToast_ » just iron ingots?
+[09:40:43] [main/INFO]: [CHAT] [Alric] There is a being twisting the nature of time. It has disturbed the Sleeper, and now he wakes to seek fury for my actions, millennia ago.
+[09:40:43] [main/INFO]: [CHAT] [What did you do?]
+[09:40:49] [main/INFO]: [CHAT] <G> [LAG] EmilyVEVO » 3 hcs 2 iron
+[09:40:54] [main/INFO]: [CHAT] [Alric] Do they no longer sing songs of me? How long has it been since my name was known? Alric, Lord of Chilled Winds?
+[09:40:54] [main/INFO]: [CHAT] [They still sing of you.]
+[09:40:54] [main/INFO]: [CHAT] [I’m sorry, I don’t know you. I’m not from around here.]
+[09:40:54] [main/INFO]: [CHAT] [I don’t think anyone knows you anymore.]
+[09:40:58] [main/INFO]: [CHAT] <G> [Rend] xAvocadoToast_ » I have 8 iron ingots xD
+[09:41:05] [main/INFO]: [CHAT] [Alric] I am saddened that my actions have been lost to time, but I do not revel in that glory. I offer you instead understanding for what you must do.
+[09:41:05] [main/INFO]: [CHAT] [What is it that I have to do?]
+[09:41:12] [main/INFO]: [CHAT] [Alric] Let me tell you a story.
+[09:41:12] [main/INFO]: [CHAT] [Alric] When I lived, these lands were new. Forged at the hands of the Frost Giants who slumbered deeply below them, we were naive and settled them, thinking we had found a paradise. Instead, we were intruders.
+[09:41:12] [main/INFO]: [CHAT] [Somehow this seems to be a common problem.]
+[09:41:19] [main/INFO]: [CHAT] [Alric] The most sensitive among my people began to perceive a... song, for lack of a better term. A humming below the ground that somehow conveyed a story of the creation of the Isles, in the aftermath of a devastation. From that ruin, the Isles were born. But they are held together by the song itself. Without it, the magic woven into it would crumble and the land would soon follow.
+[09:41:19] [main/INFO]: [CHAT] [This seems bad.]
+[09:41:25] [main/INFO]: [CHAT] <G> [Rend] xAvocadoToast_ » Uh ok
+[09:41:34] [main/INFO]: [CHAT] [Alric] Yes. Even more horrifying was that the song told of my people. The beings singing it had noticed us, and many were not happy. They planned to wake from their slumber, cut off their song, and destroy us all.
+[09:41:34] [main/INFO]: [CHAT] [And the Isles.]
+[09:41:42] [main/INFO]: [CHAT] [Alric] Indeed. Of course, I could not have that. I sought out these beings, and met with an avatar of one called Hrimnir. He gave me a gift, both of knowledge and power. He told me there were Frost Giants yet who would not wake and who would carry on the song, but those who were waking fully must be destroyed. And for that, his gift of power would be needed. It was a power source, fueled entirely by Lightness. It was called Alei.
+[09:41:42] [main/INFO]: [CHAT] [Was it a wool?]
+[09:41:57] [main/INFO]: [CHAT] [Alric] A wool? I am unsure. I could never look directly at it, due to the powerful Light that emitted from it whenever I held it.
+[09:41:57] [main/INFO]: [CHAT] [What did you do next?]
+[09:42:03] [main/INFO]: [CHAT] [Alric] I fought the Wakers, of course. I took Alei and my very best armaments and entered this Rift, where they schemed. I slew them all, somehow. Amid this all, Alei was lost. These millenia later, after I passed, I have come here to watch the last Frost Giant, and ensure the song is never disrupted. This is why you have come here.
+[09:42:03] [main/INFO]: [CHAT] [I see. So I need to find a way to help Eldrask sleep again? I’ve done that before with Kaul in the King’s Valley.]
+[09:42:20] [main/INFO]: [CHAT] [Alric] I don’t know who that is, but you’re not quite correct. Eldrask still sleeps, but his spirit is stirring. His Avatar will appear, and he will recognize that he is alone. You must destroy it, and only then he will be cast back into stillness, and his song will remain.
+[09:42:20] [main/INFO]: [CHAT] [Seems simple enough.]
+[09:42:30] [main/INFO]: [CHAT] [Alric] You will soon find the might of a Frost Giant is not one to take lightly.
+[09:42:30] [main/INFO]: [CHAT] [We’ll see about that.]
+[09:42:32] [main/INFO]: [CHAT] [Alric] You have more work to do beyond Eldrask though, hero. The cause of his stirring is one you cannot leave alone either. I sense a great power, akin to Alei, on the move. It cannot be left to wander. Now, take this. You will need it to confront Eldrask.
+[09:42:32] [main/INFO]: [CHAT] [Thank you.]
+[09:42:40] [main/INFO]: [CHAT] [Alric] No, thank you, for being willing to preserve these lands. Now go, do glorious battle and drink in the magnificence of the song.
+
+[09:42:44] [main/INFO]: [CHAT] Alric's Legacy: Talk to Alric after beating Eldrask, the Waking Giant, and claim your reward.
+
+[14:45:48] [main/INFO]: [CHAT] [Alric] Hello again hero. I sense Eldrask’s slumber deepening once more. I am proud that you have intervened to preserve the song. Thank you.
+[14:45:48] [main/INFO]: [CHAT] ALRIC'S LEGACY COMPLETE
+[14:45:48] [main/INFO]: [CHAT] Awarded access to the trades Alric provides and the ability for him to reinforce your item!

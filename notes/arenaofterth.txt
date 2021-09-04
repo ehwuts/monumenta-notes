@@ -1,0 +1,49 @@
+
+
+arena part 1: buying guide
+- stone axe will last from purchase through wave 20 unless you're bad at critting. 
+- if it isn't the first thing you buy it's the second thing you buy, can almost always afford it as first purchase after wave 3
+- optionally buy a lower tier axe after wave 2 to make wave 3 waaay less tedious, can occasionally afford gold axe after wave 2, and last hitting things with gold axe when it's safe will pad stone durability and maybe afford a couple extra bandages
+- after stone axe can probably afford green head+feet + legs or chest on the way to wave 5, but make sure to have enough left over to buy offhand 
+- buy attack offhand after beating wave 5, it will be vaguely helpful until it turns into a chestplate after wave 15
+- buy plain leather chest and leave it in inventory so you don't forget and fail to get the artifact chest immediately after wave 15
+- buy other armor piece, a couple carrots, and as many instant bandages as you can afford
+refill/replace as used and spend excess on bandages, don't rebuy chest since you're replacing it after wave 15
+- after wave 15, use attack offhand to dye plain leather chest red, and buy artifact chest with it
+- maybe buy fat splash pots for extra safety 19/20
+
+arena part 1: overly verbose wave breakdown
+1 & 2 - punch the wimpy slow zombies and endermites
+3 - punch the durable slow zombies and endermites
+can almost always afford stone axe here as first buy, otherwise buy gold axe because screw doing next wave unarmed
+4 - double wave of endermites and fast zombies, ez unless you somehow still don't have an axe
+5 - teleporting archer boss. ez to just crit in the face repeatedly unless you somehow get stuck in a pile of the ignorable endermites
+buy attack damage offhand, where it can hang out until you've beaten wave 15
+6 - ~~bouncy~~ plague spiders and plaguebringers, spiders are easy to kill first before dealing with everything else, plaguebringers drop str+speed+poison(?) splash on death which turns nearby things into briefly much scarier things
+7 - plaguebringers and ~~helmet plaguebringers~~ plague monstrosity, main differences are monstrosities hurt a bit more and on death instead drop lingering fields of long painful poison that you really really don't want to touch
+8 - plague spiders/bringers/monstrosities
+9 - double wave plague spiders/bringers/monstrosities -> bringers/monstrosities
+10 - big slow melee boss + plaguebringer adds, ez to just crit in the face repeatedly. unless you kill a plaguebringer next to it in which case flee until speed ends
+11 - phantom archers and phantom knights, phantom archers have mildly concerning knockback and either very annoying or aggro something else and die for free, phantom knights hurt and have some kbr and move slightly faster than is comfortable
+12 - wisps/phantom knights/phantom archers, wisps can be twotapped without crits and have low damage but have fat knockback that will yeet you straight into lava if they hit you while you're in the air
+13 - wisps/phantom knights/phantom archers
+14 - "double" wave of 6 wisps -> wisp/phantom archer/phantom knight except unlike the earlier double waves part 2 happily spawns before you're done with part 1
+15 - non-teleporting archer boss. ez to just crit in the face repeatedly
+turn your damage offhand and vanilla leather chestplate into a red leather chestplate into an artifact chestplate
+16 - lesser mindfasers and their brainwashed citizen mounts, guardians on zombies with low damage laser spam, they try to run up and melee if they don't have LOS to laser, and stop and stand still if they do. run loops around pillars to keep from getting lasered, get them balled up in the middle and use the open section to casually walk up and kill their legs before running another loop to avoid getting lasered. once their legs are killed the guardians flop around mostly harmlessly and can be tediously killed or chased into lava
+17 - medium mindfasers on brainwashed knights and lessermindfasers on--, same as before except the knights are durable and hurt and faster and will stab you in the face you if you mess up the mindfaser distancing dance
+18 - water colossi/lesser mindfasers/medium mindfasers - water colossi are slow beefy melees that mostly just interfere with killing mindfaser legs
+19 - double wave. colossus/lesser mindfasers/medium mindfasers -> lesser mindfasers/medium mindfasers
+prolly wanna buy big splash pot in addition to the row of throwable bandages you've stocked up on getting here
+20 - eternal mindfaser boss, repeatedly gives you blindness and slowness that don't really matter since the guardian part permanently glows. same strat as mindfaser waves except it continually summons legless higher mindfasers flopping around and all their lasers actually hurt
+after beating wave 20 you can now die and start arena runs at wave 21
+
+> DataCrusader: the devouring weapons are not necessary + bows arent necessary at all
+> start from checkpoint, get artifact chestplate and blood charm, get advanced stone axe, buy fighters armor, and spend the rest on instant bandages, get a bit of food as a backup if you want
+> kill things and replace items as needed, try to have a totem pot for the 26-30 (ideally save it for 30)
+> get artifact pants at 30
+> dont try and crit waves 31-35 because you cant crit while blind, and because of how mc teleportation works + sound cues you can pretty easily tell where the mobs are
+> watch out for wave 33 because its a double round just like wave 34
+> get superior blood charm after wave 35
+> continue killing everything and then win
+> totem pots are good to have for the last 5 waves

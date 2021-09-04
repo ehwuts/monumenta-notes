@@ -1,0 +1,558 @@
+=Quest Guide (Rahkeri)=
+==Kingdom of Lies==
+* Difficulty: Medium
+* Requirements: Bleeding Proof, Rapacity
+* Start: Torren (-150, 167, 417)
+* Mainline Quest
+==Sabotage==
+* Difficulty: Easy
+* Requirements: None
+* Start: Lt. Aulber (-142, 178, 467)
+==A Merchant's Woe==
+* Difficulty: Easy
+* Requirements: None
+* Start: Riaz (-98, 154, 459)
+
+=Quests=
+
+==Sabotage==
+
+[16:57:45] [main/INFO]: [CHAT] [Lieutenant Aulber] Beautiful, isn't it?
+[16:57:45] [main/INFO]: [CHAT] [What?]
+[16:57:45] [main/INFO]: [CHAT] [Sure, but who are you?]
+[16:57:46] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » :C
+[16:57:47] [main/INFO]: [CHAT] [Lieutenant Aulber] The Fist of Turaal, the greatest airship ever built. Eight cannons, dozens of arrow batteries, and enough armor to shrug off anything Chillwind can throw at us. And those wretches had the gall to sabotage it!
+[16:57:47] [main/INFO]: [CHAT] [Sabotage?]
+[16:57:47] [main/INFO]: [CHAT] [Oh. Too bad.]
+[16:57:50] [main/INFO]: [CHAT] RevenantHorror has set a new world record for Mariya's Game\nNew time: 40:242
+[16:57:52] [main/INFO]: [CHAT] <G> [LAG] trijemusk » ;)
+[16:57:54] [main/INFO]: [CHAT] <G> [WAIFU] NightMessenger » wow
+[16:57:56] [main/INFO]: [CHAT] <G> [LAG] iiJei » gg
+[16:57:57] [main/INFO]: [CHAT] [Lieutenant Aulber] Yes! Behind the temple to the southeast is an old alchemist's lab; the potionmakers had been asking to trade for our infused gunpowder. We refused. They stole it. Bring eight lots of gunpowder back and you will have the gratitude of the Ishniran Military!
+[16:57:57] [main/INFO]: [CHAT] [You can count on me.]
+[16:57:57] [main/INFO]: [CHAT] [Sorry, I'm busy.]
+[16:57:57] [main/INFO]: [CHAT] <G> [WAIFU] NightMessenger » gg
+[16:58:02] [main/INFO]: [CHAT] <G> [WAIFU] NightMessenger » this is amzing
+[16:58:06] [main/INFO]: [CHAT] <G> [WAIFU] NightMessenger » amazing
+[16:58:10] [main/INFO]: [CHAT] <G> [WAIFU] NightMessenger » it is hard to beat old record now
+[16:58:13] [main/INFO]: [CHAT] [Lieutenant Aulber] Glad to hear it. Infiltrate that laboratory, reclaim the gunpowder, and good luck.
+[16:58:13] [main/INFO]: [CHAT] Lieutenant Aulber gives you a sharp salute.
+[16:58:13] [main/INFO]: [CHAT] QUEST : Sabotage
+[16:58:13] [main/INFO]: [CHAT] Length : Short
+[16:58:13] [main/INFO]: [CHAT] Difficulty : Easy
+[16:58:13] [main/INFO]: [CHAT] Recover 8 lots of the Infused Gunpowder stolen from the Fist of Turaal.
+
+[16:59:00] [main/INFO]: [CHAT] Sabotage [1/2]: Find 8 Infused Gunpowder in the Abandoned Lab.
+[16:59:02] [main/INFO]: [CHAT] Sabotage [2/2]: Once you have the Infused Gunpowder return to Lieutenant Aulber.
+
+[17:01:22] [main/INFO]: [CHAT] [Lieutenant Aulber] That's more than enough gunpowder to restock the Fist. Fantastic job, soldier! You have the thanks of the Ishniran Military, and, in case that's not enough, I have an ancient bow for you that my men recovered from some ruins. May your aim be true.
+[17:01:22] [main/INFO]: [CHAT] Aulber gives you another salute, his face beaming with pride
+[17:01:22] [main/INFO]: [CHAT] SABOTAGE COMPLETE!
+[17:01:22] [main/INFO]: [CHAT] Awarded Thousand Fists of Turaal, 32 Crystalline Shards, and 1 Prestige!
+
+==A Merchant's Woe==
+
+[17:03:34] [main/INFO]: [CHAT] [Riaz] Oh dear me.... I still haven't received my supply package yet! It's been days!
+[17:03:34] [main/INFO]: [CHAT] [Hello! Is there anything I can do to help?]
+[17:03:34] [main/INFO]: [CHAT] The man seems quite worried...
+[17:03:36] [main/INFO]: [CHAT] <G> [Legion] xAvocadoToast_ » yes vast its just a rare
+[17:03:39] [main/INFO]: [CHAT] [Riaz] Why yes! Say... Could you check on my supplier? He has probably arrived and is at a small, spruce outpost overlooking the canyon by now. Ask him if he has my goods!
+[17:03:39] [main/INFO]: [CHAT] [Sure, I'd be happy to help!]
+[17:03:39] [main/INFO]: [CHAT] [Actually, there's something that came up...]
+[17:03:45] [main/INFO]: [CHAT] [Riaz] Fantastic! Be sure to bring the goods back to me!
+[17:03:45] [main/INFO]: [CHAT] QUEST : A Merchant's Woe
+[17:03:45] [main/INFO]: [CHAT] Length : Short-Medium
+[17:03:45] [main/INFO]: [CHAT] Difficulty : Easy
+[17:03:45] [main/INFO]: [CHAT] Talk to Riaz's supplier to see where his goods are.
+
+[17:04:17] [main/INFO]: [CHAT] A Merchant's Woe: Go check on Riaz's supplier at the outpost.
+
+[17:10:41] [main/INFO]: [CHAT] The man seems to be very stressed... He looks lik
+e the right guy!
+[17:10:41] [main/INFO]: [CHAT] [Hello? Are you Riaz's supplier?]
+[17:10:42] [main/INFO]: [CHAT] Pakstf joined the game
+[17:10:44] [main/INFO]: [CHAT] [Supplier Anebos] Oh no! Has he found out already
+? I'm in so much trouble!
+[17:10:44] [main/INFO]: [CHAT] [Why? What happened?]
+[17:10:45] [main/INFO]: [CHAT] HZ_Ru left the game
+[17:10:47] [main/INFO]: [CHAT] [Supplier Anebos] Well, you see, I've... lost the
+ goods that I was supposed to have delivered to him a couple days ago!
+[17:10:47] [main/INFO]: [CHAT] [Any idea where you lost them?]
+[17:10:49] [main/INFO]: [CHAT] ACubist joined the game
+[17:10:50] [main/INFO]: [CHAT] [Supplier Anebos] Perhaps in Rockspider Cavern? M
+y cart felt a lot lighter after I left there...
+[17:10:50] [main/INFO]: [CHAT] [Alright. Thank you for your help!]
+[17:10:53] [main/INFO]: [CHAT] [Supplier Anebos] I hope you find them!
+
+[17:11:10] [main/INFO]: [CHAT] A Merchant's Woe [1/2]: Retrieve the supplies from Rockspider Cavern.
+[17:11:09] [main/INFO]: [CHAT] A Merchant's Woe [2/2]: Once you have the supplies return to Riaz.
+
+#Q121I01 https://puu.sh/GREn3/3b549fbad3.png
+
+[17:24:03] [main/INFO]: [CHAT] [Riaz] By Ishnir! You did it! You've retrieved them!
+[17:24:03] [main/INFO]: [CHAT] [All in a days work!]
+[17:24:04] [main/INFO]: [CHAT] [Riaz] Thank you so much! Now I'll be able to run my business again! Here, take this as a thank you from me.
+[17:24:04] [main/INFO]: [CHAT] [Riaz] What did you say your name was? Sukie? Thank you again- you're welcome here anytime!
+[17:24:04] [main/INFO]: [CHAT] A MERCHANT'S WOE COMPLETE!
+[17:24:04] [main/INFO]: [CHAT] Awarded Merchant's Curio and 10 Compressed Crystalline Shards!
+
+
+===Kingdom of Lies===
+[02:27:42] [main/INFO]: [CHAT] [Torren] Well met, Sukie. I hope you have had some time to recover from our last outing together. I know it has taken quite the toll on me, personally.
+[02:27:42] [main/INFO]: [CHAT] [I'm doing fine, how are things with you?]
+[02:27:42] [main/INFO]: [CHAT] [I still need some time to process it.]
+[02:27:47] [main/INFO]: [CHAT] [Torren] I wish I could say the same, but... things have been rather rough lately.
+[02:27:47] [main/INFO]: [CHAT] [Rough how?]
+[02:27:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:27:50] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:27:50] [main/INFO]: [CHAT] [Torren] I suppose I should start by asking this: I've been given word that you were recently in Molta, conspiring with a foreman against Amarion to open a sealed off mine shaft. This is correct, no?
+[02:27:50] [main/INFO]: [CHAT] [Yes, that is true.]
+[02:27:51] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:27:56] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:27:59] [main/INFO]: [CHAT] [Torren] Then, you have some familiarity with the suspicious behavior surrounding the government and this "Cursestone" that they were seeking?
+[02:27:59] [main/INFO]: [CHAT] [We found an old log mentioning it, but nothing on why the government wanted it.]
+[02:28:00] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:00] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:04] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:07] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:11] [main/INFO]: [CHAT] [Torren] That is unfortunate, because the reason it has been rough recently, as I mentioned, is that the government has once against begun their mining exploits in Molta. I believe they are once again seeking out this "Cursestone".
+[02:28:11] [main/INFO]: [CHAT] [That can't be good.]
+[02:28:13] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:21] [main/INFO]: [CHAT] [Torren] Quite. It began a few days after Lyson's death - dramatic timing, if I do say so. I figured there was not much I could do, until I was reached out to by someone on the inside. That very man you worked with before, Foreman Boris. Unfortunately, I'm stuck here under orders, unable to leave. Would you be willing to return to Molta and investigate?
+[02:28:21] [main/INFO]: [CHAT] [Yes, I'll go.]
+[02:28:21] [main/INFO]: [CHAT] [I'm a bit busy right now.]
+[02:28:21] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:26] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:28:31] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Could you enter it for me?
+[02:28:32] [main/INFO]: [CHAT] [Torren] Wonderful. Please make your way to Molta and seek out Boris with haste.
+[02:28:32] [main/INFO]: [CHAT] Kingdom of Lies
+[02:28:32] [main/INFO]: [CHAT] Length : Long
+[02:28:32] [main/INFO]: [CHAT] Difficulty : Medium
+[02:28:32] [main/INFO]: [CHAT] Investigate the Ishnir government's recent actions in Molta.
+
+[02:29:12] [main/INFO]: [CHAT] Kingdom of Lies: Foreman Boris has been in contact with Torren. Seek him out in Molta.
+
+[02:29:59] [main/INFO]: [CHAT] [Foreman Boris] Welcome to Mol- oh... Sukie... you're actually here...
+[02:29:59] [main/INFO]: [CHAT] [Whats the matter, Boris?]
+[02:30:02] [main/INFO]: [CHAT] [Foreman Boris] I... please don't be mad at me, Sukie... They threatened my family... Said they would do unspeakable things if I didn't lure you here...
+[02:30:02] [main/INFO]: [CHAT] [What are you talking about...?]
+[02:30:07] [main/INFO]: [CHAT] [Alnera Guard] Don't move, Sukie! We have you surrounded!
+[02:30:10] [main/INFO]: [CHAT] [Alnera Guard] By the authority of Alnera, you are hereby an enemy of the state!
+[02:30:21] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[02:30:22] [main/INFO]: [CHAT] Kingdom of Lies: Whelp... You got arrested. Guess you're on your own.
+
+[02:30:37] [main/INFO]: [CHAT] [Basanite Guard] Get back, prisoner. You have work to do, no breaks.
+[02:30:37] [main/INFO]: [CHAT] [Why am I here?]
+[02:30:37] [main/INFO]: [CHAT] [Why was I arrested?]
+[02:30:37] [main/INFO]: [CHAT] [Work?]
+[02:30:39] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:30:39] [main/INFO]: [CHAT] [Basanite Guard] As you were told upon your arrest, you are now an enemy of the state. You will be held in Molta until your court date, so we'll be putting you to work until then.
+[02:30:42] [main/INFO]: [CHAT] [Basanite Guard] Get back, prisoner. You have work to do, no breaks.
+[02:30:42] [main/INFO]: [CHAT] [Why am I here?]
+[02:30:42] [main/INFO]: [CHAT] [Why was I arrested?]
+[02:30:42] [main/INFO]: [CHAT] [Work?]
+[02:30:44] [main/INFO]: [CHAT] [Basanite Guard] How am I suppose to know the deeper reasoning? I'm just a guard. You can ask questions in court.
+[02:30:45] [main/INFO]: [CHAT] [Basanite Guard] Get back, prisoner. You have work to do, no breaks.
+[02:30:45] [main/INFO]: [CHAT] [Why am I here?]
+[02:30:45] [main/INFO]: [CHAT] [Why was I arrested?]
+[02:30:45] [main/INFO]: [CHAT] [Work?]
+[02:30:46] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:30:48] [main/INFO]: [CHAT] [Basanite Guard] Yes, work. This is a mine, and thus you will be mining. So get to it, like the rest of the prisoners here.
+[02:30:48] [main/INFO]: [CHAT] [All the workers here are prisoners?]
+[02:30:52] [main/INFO]: [CHAT] [Basanite Guard] Yes, obviously. Criminals from across Ishnir are sent to Molta to assist in the mining operations. What, did you think we just enslaved our own people for work or something? We aren't monsters.
+
+[02:31:32] [main/INFO]: [CHAT] [Tiq] Listen you, I'm telling you we need to secure the foundation, then mine. Do you want a collapse?
+[02:31:33] [main/INFO]: [CHAT] [Toq] And I'm telling you the rock is already secure, and you're just worrying too much. Let's just mine the stupid stuff already.
+[02:31:33] [main/INFO]: [CHAT] Looks like they're gonna keep going at this for a while.
+
+[02:31:55] [main/INFO]: [CHAT] [Leeton] What a lovely pic-- oh nevermind, you don't have one... What a shame...
+
+[02:33:09] [main/INFO]: [CHAT] [Crispy Cal] My father always told me that amazing things are always to be found at the top of waterfalls. I've always wondered if the same was true for lava, but I always get charred trying.
+
+[02:34:42] [main/INFO]: [CHAT] [Sani] Oh, hello. You must be new around here, welcome to the workforce. Name's Sani, I lead charge around here - looks like you haven't received your tool yet.
+[02:34:42] [main/INFO]: [CHAT] Sani hands you a pickaxe.
+[02:34:42] [main/INFO]: [CHAT] [You don't look like you work for the guards.]
+[02:34:49] [main/INFO]: [CHAT] [Sani] Huh? Yeah you're right, I've just been around for a while - special "top prisoner" privileges, ya know? 
+[02:34:49] [main/INFO]: [CHAT] [If you say so.]
+[02:34:52] [main/INFO]: [CHAT] [Sani] Listen kid, you'll see after some time. There's an order around these parts, always has been. If ya have any questions, feel free to bother me. Just don't bother me, got it?
+
+[02:35:10] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:35:10] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:35:10] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:35:10] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:35:12] [main/INFO]: [CHAT] [Sani] Huh? Bruce and Lee? Well... they ain't much the people type, ain't soft in any way, but they're good guys tryin' to feed their families. I hear Lee has a weird love of endermites though.
+[02:35:21] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:35:21] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:35:21] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:35:21] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:35:22] [main/INFO]: [CHAT] [Sani] I've been around, so probably a good bit, depending on who ya wanna know about.
+[02:35:22] [main/INFO]: [CHAT] [Crispy Cal]
+[02:35:22] [main/INFO]: [CHAT] [Leeton]
+[02:35:22] [main/INFO]: [CHAT] [Tiq and Toq]
+[02:35:22] [main/INFO]: [CHAT] [Wall Boy]
+[02:35:24] [main/INFO]: [CHAT] [Sani] Bit of a loon, if you ask me. Ya see, prisoners get this magic ice to keep us cool down here, and Cal is always stealing Leeton's portions.
+[02:35:28] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:35:28] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:35:28] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:35:28] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:35:30] [main/INFO]: [CHAT] [Sani] I've been around, so probably a good bit, depending on who ya wanna know about.
+[02:35:30] [main/INFO]: [CHAT] [Crispy Cal]
+[02:35:30] [main/INFO]: [CHAT] [Leeton]
+[02:35:30] [main/INFO]: [CHAT] [Tiq and Toq]
+[02:35:30] [main/INFO]: [CHAT] [Wall Boy]
+[02:35:32] [main/INFO]: [CHAT] [Sani] Bah, those two. They're brothers, but can never manage to get along. Toq is really smart though, generally always right in their arguments. That is, until he always manages to do somethin' stupid at the end.
+[02:35:35] [main/INFO]: [CHAT] <G> [MB] AtanasTDB » What is the word in the white text?
+[02:35:39] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:35:39] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:35:39] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:35:39] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:35:42] [main/INFO]: [CHAT] [Sani] I've been around, so probably a good bit, depending on who ya wanna know about.
+[02:35:42] [main/INFO]: [CHAT] [Crispy Cal]
+[02:35:42] [main/INFO]: [CHAT] [Leeton]
+[02:35:42] [main/INFO]: [CHAT] [Tiq and Toq]
+[02:35:42] [main/INFO]: [CHAT] [Wall Boy]
+[02:35:43] [main/INFO]: [CHAT] [Sani] He's nuts, been down here for too long. Ignore him. If he gives ya somethin', just throw it away.
+[02:35:46] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:35:46] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:35:46] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:35:46] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:35:48] [main/INFO]: [CHAT] [Sani] Yeah, I get it. I've had my fair share of picks dropped in the lava. Comes with the turf. Here's a fresh one.
+
+Old Pickaxe #Q132I03
+
+[02:37:08] [main/INFO]: [CHAT] [Wall Boy] Sani always lies... Sani always lies... LIES LIKE THE STONES AROUND US
+[02:37:11] [main/INFO]: [CHAT] [Wall Boy] Tell me you believe me.... TELL ME
+[02:37:11] [main/INFO]: [CHAT] [I think you're actually just crazy.]
+[02:37:11] [main/INFO]: [CHAT] [Uh... yeah, I believe you]
+[02:37:16] [main/INFO]: [CHAT] [Wall Boy] Yes... finally... Take this as a sign of understanding... finally...
+
+Small Container #Q132I01
+
+[02:42:16] [main/INFO]: [CHAT] Doesn't look like there's anything small enough to place inside right now.
+
+tiqtiqtoq to spawn endermites to put in the box
+
+[02:42:30] [main/INFO]: [CHAT] [Tiq] Listen you, I'm telling you we need to secure the foundation, then mine. Do you want a collapse?
+[02:42:32] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Sorry SphorUs that's illegal I'll have to ban you
+[02:42:35] [main/INFO]: [CHAT] [Toq] And I'm telling you the rock is already secure, and you're just worrying too much. Let's just mine the stupid stuff already.
+[02:42:40] [main/INFO]: [CHAT] [Tiq] You're entirely incompetent! Hey, new guy! What do you think?
+[02:42:40] [main/INFO]: [CHAT] [Secure it (Side with Tiq)]
+[02:42:40] [main/INFO]: [CHAT] [It's probably fine (Side with Toq)]
+[02:42:42] [main/INFO]: [CHAT] [Tiq] Ha! I knew it! Outnumbered!
+[02:42:45] [main/INFO]: [CHAT] [Toq] Now we need to figure out the pick strength needed. I think we need to call in some extra durable pickaxes for this spot. The rock is harder here.
+[02:42:45] [main/INFO]: [CHAT] <G> [DAD] SphorUs » sad!
+[02:42:50] [main/INFO]: [CHAT] [Tiq] And I think you're just being a ninny! Put your back into it, we don't need to go disturb the guards and make everyone's life miserable.
+[02:42:50] [main/INFO]: [CHAT] [Use what you have. (Side with Tiq)]
+[02:42:50] [main/INFO]: [CHAT] [Request better picks (Side with Toq)]
+[02:43:00] [main/INFO]: [CHAT] [Tiq] See! I told you, you were just being lazy. 
+[02:43:03] [main/INFO]: [CHAT] [Tiq] Final thing to determine is the vein to strike first. One wrong mistake and we could ruin the whole thing. I think we should attack from the top first.
+[02:43:08] [main/INFO]: [CHAT] [Toq] I disagree entirely. You always work from the bottom-upwards. Let the rock come to you!
+[02:43:08] [main/INFO]: [CHAT] [Start from the top (Side with Tiq)]
+[02:43:08] [main/INFO]: [CHAT] [Start from the bottom (Side with Toq)]
+[02:43:09] [main/INFO]: [CHAT] <G> wub_z » how do i unlock second dung
+[02:43:14] [main/INFO]: [CHAT] [Toq] Mmmmm I love being right.
+[02:43:17] [main/INFO]: [CHAT] [Tiq] Let's get to work!
+[02:43:19] [main/INFO]: [CHAT] <G> UsingKillAura » quests
+[02:43:22] [main/INFO]: [CHAT] [Toq] Doo da doo. Dee dee doo da dee.
+[02:43:27] [main/INFO]: [CHAT] [Tiq] Shut up! No one wants to hear you singing!
+[02:43:32] [main/INFO]: [CHAT] [Tiq] NOOOOO! IT WAS ENDERMITES ALL ALONG! GET AWAY!
+
+[02:42:19] [main/INFO]: [CHAT] You grab the endermite and quickly place it inside the container.
+
+Small Container + Endermite #Q132I02
+
+[02:44:58] [main/INFO]: [CHAT] [Leeton] What a lovely pickaxe! Mine's starting to break, so I'll take that one off of you.
+[02:44:58] [main/INFO]: [CHAT] Leeton steals your pickaxe before you can protest.
+[02:45:05] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » But there's also 4 other dungeons
+[02:45:06] [main/INFO]: [CHAT] [Leeton] What a lovely pic-- oh nevermind, you don't have one... What a shame...
+[02:48:05] [main/INFO]: [CHAT] [Leeton] Oh look at you, Mr. Double Pick today, eh? Well this one is starting to dull out as well, so I'll need a new one.
+[02:48:05] [main/INFO]: [CHAT] Leeton steals your pickaxe before you can protest.
+[02:48:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:48:10] [main/INFO]: [CHAT] <G> wub_z » i enjoyed the tutorial
+[02:48:12] [main/INFO]: [CHAT] <G> wub_z » thank u
+[02:48:14] [main/INFO]: [CHAT] [Leeton] What a lovely--- you know what, you know the drill by now.
+[02:48:14] [main/INFO]: [CHAT] Leeton steals your pickaxe before you can protest.
+
+[02:48:56] [main/INFO]: [CHAT] [Leeton] Alright newbie, I'll stop picking on you. Heh, picking - get it? Anyway, I've not been stealing your pickaxes to be a jerk. You see this wall right here? There's something behind it.
+[02:48:56] [main/INFO]: [CHAT] [You couldn't have just said that sooner?]
+[02:48:57] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Want me to tp you in?
+[02:49:00] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » yup
+[02:49:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:49:03] [main/INFO]: [CHAT] [Leeton] Obviously no, I'm busy mining away at the stupid thing, and I'm almost there. Ready for the finale?
+[02:49:03] [main/INFO]: [CHAT] [Not really...]
+[02:49:06] [main/INFO]: [CHAT] [Leeton] Watch and learn, newbie.
+[02:49:10] [main/INFO]: [CHAT] [Uh... did anything actually happen?]
+[02:49:14] [main/INFO]: [CHAT] [Leeton] Son of a.... GAHHH!!!!
+[02:49:14] [main/INFO]: [CHAT] Leeton stomps around in a fit of rage and something falls out of his pocket. You decide to take it for now.
+
+Permafrost Ice #Q132I04
+
+Empty Minecart #Q132I05
+
+[02:53:36] [main/INFO]: [CHAT] [Sani] Oh, you're back. Whacha need, kid?
+[02:53:36] [main/INFO]: [CHAT] [What can you tell me about the guards?]
+[02:53:36] [main/INFO]: [CHAT] [What can you tell me about the other prisoners?]
+[02:53:36] [main/INFO]: [CHAT] [I lost my pickaxe.]
+[02:53:36] [main/INFO]: [CHAT] [Can you send a package in a minecart down the tracks?]
+[02:53:37] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » You can do the puzzles again
+[02:53:40] [main/INFO]: [CHAT] [Sani] Sure, off it goes!
+[02:53:42] [main/INFO]: [CHAT] <G> UsingKillAura » oh
+[02:53:43] [main/INFO]: [CHAT] <G> UsingKillAura » thanks
+[02:53:50] [main/INFO]: [CHAT] <G> [DAD] SphorUs » you don't get more tesseracts from the puzzles
+[02:53:50] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » You can also get new empty tesseracts from the first puzzle
+[02:53:52] [main/INFO]: [CHAT] <G> [DAD] SphorUs » you have to buy them
+[02:53:54] [main/INFO]: [CHAT] The endermite breaks free of the box after the minecart crashes.
+[02:53:54] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Oh what
+[02:53:55] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Til
+[02:53:58] [main/INFO]: [CHAT] [Basanite Guard 1] AAAAHHHHH!!!!! KILL IT KILL IT KILL IT!!!!
+[02:54:00] [main/INFO]: [CHAT] <G> [DAD] SphorUs » there's a skull in the first room i believe
+[02:54:02] [main/INFO]: [CHAT] [Basanite Guard 2] There, it's dead. Stop screaming.
+[02:54:06] [main/INFO]: [CHAT] [Basanite Guard 1] Whew! I thought I was gonna pass out there for a sec! Hate those awful things.
+[02:54:09] [main/INFO]: [CHAT] The guard seems to have dropped something in the fray without realizing it. You pick it up while they aren't looking.
+
+Mineshaft Key #Q132I06
+
+[02:59:29] [main/INFO]: [CHAT] Kingdom of Lies: You managed to escape the mine! Might as well talk to Boris while you're in the Cyan lobby.
+[02:59:47] [main/INFO]: [CHAT] [Foreman Boris] Oh Sukie! Did you actually manage to escape?
+[02:59:47] [main/INFO]: [CHAT] [Yes I did, no thanks to you.]
+[02:59:50] [main/INFO]: [CHAT] [Foreman Boris] I'm so sorry, Sukie... I had no choice in the matter... The guards came to me before your arrival and threatened to go after my family. Surely you can understand my predicament...
+[02:59:50] [main/INFO]: [CHAT] [Regardless Boris, you were Torren's contact.]
+[02:59:57] [main/INFO]: [CHAT] [Foreman Boris] Yes, that is correct. I made a connection to Torren out of concern of Alnera's recent actions. They have been forcing our labor back into the mines to begin digging up Cursestone again. 
+[02:59:57] [main/INFO]: [CHAT] [As much as I'd love to talk this over, I need to get out of here before the guards come looking for me.]
+[03:00:05] [main/INFO]: [CHAT] [Foreman Boris] That would be a good idea, and I'm sure your partners in Mistport would be interested in this, Vargos I believe was a name Torren mentioned to me.
+
+[03:00:12] [main/INFO]: [CHAT] Kingdom of Lies: Report what's happened to Vargos in Mistport.
+
+[03:09:35] [main/INFO]: [CHAT] [Vargos] Ah, Sukie! Torren was just in contact with us, something about you being captured by guards in Molta. We were planning some means of escape for you, but I should have known you'd find your own way back.
+[03:09:35] [main/INFO]: [CHAT] [They certainly did not want me snooping around the mines.]
+[03:09:41] [main/INFO]: [CHAT] [Vargos] Yes well, whatever their goals are in Molta, I'm certain it has to do with Calder's envoy in the Ishnir government. They aren't sparing any time now that Lyson is out of the way.
+[03:09:41] [main/INFO]: [CHAT] [What do you think we should do from here?]
+[03:09:41] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » You could do a delve for a delve epic you're working towards
+[03:09:47] [main/INFO]: [CHAT] [Vargos] The most reasonable action at this point is to use the knowledge available to us to try to deduce who the culprit is.
+[03:09:47] [main/INFO]: [CHAT] [So... we know that they have a high standing within the government...]
+[03:09:48] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » already did that
+[03:09:52] [main/INFO]: [CHAT] [Vargos] They also likely have a history of corruption...
+[03:09:52] [main/INFO]: [CHAT] [And they have the ability to direct guards to do their bidding...]
+[03:09:52] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » That's my last resort when I've nothing to do
+[03:09:55] [main/INFO]: [CHAT] [Izzy] Sukie! That's it! That head guard in Alnera who assisted Xeno in the killing of Vargos' assistant. He fits all those criteria!
+[03:09:55] [main/INFO]: [CHAT] [Who? I don't really remember...]
+[03:09:55] [main/INFO]: [CHAT] [Obadiah? Yeah I guess I do remember him...]
+[03:10:00] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Do a willows delve then, that's basically an everything delve
+[03:10:04] [main/INFO]: [CHAT] [Izzy] I believe his name was Obadiah. He's the head guard of Alnera, and had some ties with Xeno's smuggling operations.
+[03:10:04] [main/INFO]: [CHAT] [Vargos] That's an astute observation, Izzy, and it's as good of a lead as we're going to get at this point. 
+[03:10:04] [main/INFO]: [CHAT] [So how do we act on it? I can't exactly go barging into Alnera right now.]
+[03:10:14] [main/INFO]: [CHAT] [Vargos] You're right, you probably can't get noticed in Alnera right now... However, we might be able to use Torren to lure Obadiah to Rahkeri, where you can intercept him.
+[03:10:14] [main/INFO]: [CHAT] [Sounds like as good of a plan as any.]
+[03:10:19] [main/INFO]: [CHAT] [Vargos] Then we'll do it. I'll make contact with Torren, you start making your way to his home in Rahkeri.
+
+[03:10:22] [main/INFO]: [CHAT] Kingdom of Lies: Return to Torren in Rahkeri.
+
+[03:11:01] [main/INFO]: [CHAT] [Torren] Ah Sukie, you made it.
+[03:11:01] [main/INFO]: [CHAT] [I assume you spoke with Vargos?]
+[03:11:03] [main/INFO]: [CHAT] [Torren] Yes I have, and he filled me in on your plan. Likewise, I sent the emergence request to Alnera for Obadiah's visit. I expect them to enter the town through the transporters at any point now.
+[03:11:03] [main/INFO]: [CHAT] [Thank you for helping us, Torren.]
+[03:11:46] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[03:12:22] [main/INFO]: [CHAT] [Torren] Of course, I... Wait, what's going on?
+[03:12:24] [main/INFO]: [CHAT] [Mysterious Voice] Oh come on, Torren. You didn't think I'd fall for your summons, did you? We've known you were working with this traitor for a while now, but thank you for giving us the proof needed to arrest you.
+[03:12:26] [main/INFO]: [CHAT] You feel some power grab on to you and get teleported away.
+
+[03:12:34] [main/INFO]: [CHAT] Kingdom of Lies: Arrested again... Why does this keep happening?
+
+[03:13:02] [main/INFO]: [CHAT] [Torren] We're... in the Alnera Palace prison... this is... really bad...
+
+[03:13:05] [main/INFO]: [CHAT] Kingdom of Lies: Arrested again... Why does this keep happening?
+
+[03:13:24] [main/INFO]: [CHAT] [Head Guard Obadiah] Keep away from the gate, prisoner.
+[03:13:24] [main/INFO]: [CHAT] [Don't think I don't know what you're up to, Obadiah.]
+[03:13:26] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » At least, if I have enough money to open the thing up :suffer:
+[03:13:27] [main/INFO]: [CHAT] [Head Guard Obadiah] What I'm up to? I have no idea what you're talking about. Regardless, you've got a scheduled appearance in the pharaoh's throne room, and you're being held here until then. 
+[03:13:27] [main/INFO]: [CHAT] [What does she want with me?]
+[03:13:33] [main/INFO]: [CHAT] [Head Guard Obadiah] I don't disclose matters that aren't my business. Just let me know when you're ready to go, and I'll escort you there.
+[03:13:33] [main/INFO]: [CHAT] [I'm ready to go.]
+[03:13:33] [main/INFO]: [CHAT] [I'm not ready.]
+[03:13:37] [main/INFO]: [CHAT] [Head Guard Obadiah] Very well...
+[03:13:46] [main/INFO]: [CHAT] [Torren] I don't believe it... I've never heard of all three pharaohs gathering to speak to a prisoner...
+[03:13:46] [main/INFO]: [CHAT] [Why are we even here? And since when have there been three?]
+[03:13:50] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] Captain of Mistport! I didn't expect to see you in this hall again so soon.
+[03:13:50] [main/INFO]: [CHAT] [Yeah, I wasn't too thrilled about it either.]
+[03:13:55] [main/INFO]: [CHAT] [Pharaoh Tyro Syl] Let's not catch the attitude so quickly. We would not have all gathered here if we did not wish to talk civilly with you. 
+[03:13:55] [main/INFO]: [CHAT] [Talk about what? Why you arrested me and threw me in a mineshaft?]
+[03:13:56] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » I also hope I get a new aleph because it actually looks way better than the frost skin now
+[03:14:02] [main/INFO]: [CHAT] [Pharaoh Kamen Den] While that may seem cruel, we needed a way to hold you until we could transport you here. Not that it worked... But the matter we wish to discuss is the man you brought from Wispervale, Lyson.
+[03:14:02] [main/INFO]: [CHAT] [What about him?]
+[03:14:08] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] As I am the one who met Lyson, I can speak for his character. What we wish to know is... Why did you bring him here to kill him?
+[03:14:08] [main/INFO]: [CHAT] [Excuse me... what?]
+[03:14:12] [main/INFO]: [CHAT] [Pharaoh Kamen Den] We have multiple credible witnesses that say after your meeting with Pharaoh Ka, you lured Lyson behind the palace and assassinated him.
+[03:14:12] [main/INFO]: [CHAT] [ME?!?! Lyson was killed by your guards!]
+[03:14:16] [main/INFO]: [CHAT] [Pharaoh Tyro Syl] That's quite the bold claim, but one I doubt you have proof over. Obadiah, can you corroborate this?
+[03:14:16] [main/INFO]: [CHAT] [Obadiah] No such thing occurred, your highness. My guards would never commit such a heinous act.
+[03:14:16] [main/INFO]: [CHAT] [Obadiah, you traitorous--]
+[03:14:20] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » frosty railgun vs magic pew pew
+[03:14:21] [main/INFO]: [CHAT] [Pharaoh Tyro Syl] Alright, I've had enough of you, Sukie. Clearly you are not interested in having a conversation. We'll have the guards interrogate your reasonings once you have some time to ponder in the palace cells. Torren, do you have anything to say for yourself.
+[03:14:21] [main/INFO]: [CHAT] [Torren, you have to tell them what's going on here.]
+[03:14:26] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » I prefer magic pewpew
+[03:14:29] [main/INFO]: [CHAT] [Torren] I... No, your majesty... Nothing that hasn't already been said.
+[03:14:29] [main/INFO]: [CHAT] [Pharaoh Kamen Den] Obadiah, return these two to the prison cells.
+
+[03:15:00] [main/INFO]: [CHAT] [Torren] We're gonna die here...
+[03:15:00] [main/INFO]: [CHAT] [Why did you not tell them more?]
+[03:15:02] [main/INFO]: [CHAT] [Torren] Perhaps it's because I thought their minds were already set... or... perhaps some doubt about you grew within me...
+
+[03:15:17] [main/INFO]: [CHAT] [Head Guard Obadiah] You know, I expected more from you, Sukie. You were suppose to change Mistport for the better, remove Xeno's corruption from this world, but turns out you're no better than him.
+[03:15:17] [main/INFO]: [CHAT] [Don't give me that! I know you're the reason I'm in this mess!]
+[03:15:18] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » np
+[03:15:23] [main/INFO]: [CHAT] [Head Guard Obadiah] What are you on about this time?
+[03:15:23] [main/INFO]: [CHAT] [I know you're the one working for Calder.]
+[03:15:25] [main/INFO]: [CHAT] Welcome ilaika to the server!
+[03:15:26] [main/INFO]: [CHAT] [Head Guard Obadiah] And who might Calder be? I've never even heard that name before.
+[03:15:26] [main/INFO]: [CHAT] [The one who told you to order your guards to attack me and kill Lyson.]
+[03:15:30] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » welcome
+[03:15:30] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Welcome!
+[03:15:31] [main/INFO]: [CHAT] <G> Scaldice » welcome
+[03:15:33] [main/INFO]: [CHAT] [Head Guard Obadiah] You're full of it. I never ordered my guards to do such a thing, and the only people besides myself who could order such a thing are the pharaohs.
+[03:15:33] [main/INFO]: [CHAT] [Wait... what?]
+[03:15:37] [main/INFO]: [CHAT] [Head Guard Obadiah] I am the head of the Alnera guard, there is no one above me in the chain of command than the pharaohs themselves. As such, they are the only ones able to mobilize troops.
+[03:15:37] [main/INFO]: [CHAT] [A pharaoh... Wait, which of the pharaohs has control of Molta? Who would be interested in the mining operations?]
+[03:15:46] [main/INFO]: [CHAT] [Head Guard Obadiah] Head of Molta? Well, Pharaoh Nasha Ka is the "Pharaoh of the Northern Sands", so technically speaking, she is in charge of the overseeing of that region of Ishnir.
+[03:15:46] [main/INFO]: [CHAT] [And she's the one that met with me and Lyson!]
+[03:15:52] [main/INFO]: [CHAT] [Head Guard Obadiah] What.... what are you getting at, Sukie?
+[03:15:52] [main/INFO]: [CHAT] [I'm saying I had it wrong. Calder's agent isn't you, it's the pharaoh!]
+[03:15:55] [main/INFO]: [CHAT] [Head Guard Obadiah] How am I suppose to respond to that? I can't just let you go attack the pharaoh. Letting you out of this cell would be enough to get me fired.
+[03:15:55] [main/INFO]: [CHAT] [Obadiah please, this whole country will go to war if you don't let me go.]
+[03:16:00] [main/INFO]: [CHAT] [Head Guard Obadiah] No, I'm not going to have anything to do with this. I'm staying here and keeping my post.
+[03:16:00] [main/INFO]: [CHAT] Obadiah looks away and "accidentally" opens the bars long enough for you to walk out.
+
+[03:16:43] [main/INFO]: [CHAT] [Thank you, Obadiah. You won't regret this.]
+[03:16:46] [main/INFO]: [CHAT] Welcome Hawajeek to the server!
+[03:16:47] [main/INFO]: [CHAT] [Head Guard Obadiah] I don't know what you're talking about.
+[03:16:47] [main/INFO]: [CHAT] He's still not looking at you.
+
+[03:18:57] [main/INFO]: [CHAT] You begin your trek outwards.
+[03:18:57] [main/WARN]: Received passengers for unknown entity
+[03:18:57] [main/WARN]: Received passengers for unknown entity
+[03:19:01] [main/INFO]: [CHAT] Why is it so dark in this hallway....
+[03:19:03] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » Only good way to deal with them is spells from like mage
+[03:19:05] [main/INFO]: [CHAT] [Unseen Guard] The prisoner has escaped! Get 'em!
+[03:19:06] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[03:19:07] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » I'll take it level 1
+[03:19:09] [main/INFO]: [CHAT] The guard kicks you back into the cell room. Guess you're gonna have to find an alternate way out afterall.
+
+The Man in the Night #Q134I07
+
+[03:35:28] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] I feel a presence in my chambers... Who dares to stumble through my belongings unannounced?
+[03:35:31] [main/WARN]: Received passengers for unknown entity
+[03:35:31] [main/WARN]: Received passengers for unknown entity
+[03:35:32] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] You... I should have known that buffoon of a guard wouldn't be able to keep you from escaping.  
+[03:35:32] [main/INFO]: [CHAT] [I know you're the one working with Calder.]
+[03:35:55] [main/INFO]: [CHAT] Kingdom of Lies: Arrested again... Why does this keep happening?
+[03:35:59] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] Yes, and what of it? I am a pharaoh. My actions are merely done for what is best for my people. You do not have the right to stand against me.
+[03:35:59] [main/INFO]: [CHAT] [How is starting a war beneficial to your people?!]
+[03:36:04] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] That man showed me a new path, one that will benefit the world for generations to come. But I have no need to answer your questions, it's time I take care of you, once and for all.
+[03:36:09] [main/INFO]: Villager class_1646['Pharaoh Nasha Ka'/79392, l='ClientLevel', x=-1551.50, y=-100.00, z=-1363.50] died, message: 'Pharaoh Nasha Ka died'
+[03:36:17] [main/WARN]: Received passengers for unknown entity
+[03:36:17] [main/WARN]: Received passengers for unknown entity
+[03:36:28] [main/WARN]: Received passengers for unknown entity
+[03:36:28] [main/WARN]: Received passengers for unknown entity
+[03:36:34] [main/WARN]: Received passengers for unknown entity
+[03:36:34] [main/WARN]: Received passengers for unknown entity
+[03:36:34] [main/INFO]: [CHAT] <G> Scaldice » wait ok TorrentialPie can u help actually
+[03:36:36] [main/INFO]: [CHAT] <G> Scaldice » lol
+[03:36:41] [main/INFO]: [CHAT] <G> [FORCE] TorrentialPie » mmkay o3o
+[03:36:47] [main/WARN]: Received passengers for unknown entity
+[03:36:47] [main/WARN]: Received passengers for unknown entity
+[03:36:50] [main/WARN]: Received passengers for unknown entity
+[03:36:50] [main/WARN]: Received passengers for unknown entity
+[03:36:56] [main/WARN]: Received passengers for unknown entity
+[03:36:56] [main/WARN]: Received passengers for unknown entity
+[03:37:02] [main/WARN]: Received passengers for unknown entity
+[03:37:02] [main/WARN]: Received passengers for unknown entity
+[03:37:11] [main/INFO]: [CHAT] <G> Scaldice » come to nyr pls
+[03:37:14] [main/WARN]: Received passengers for unknown entity
+[03:37:14] [main/WARN]: Received passengers for unknown entity
+[03:37:25] [main/WARN]: Received passengers for unknown entity
+[03:37:25] [main/WARN]: Received passengers for unknown entity
+[03:37:44] [main/INFO]: [CHAT] <G> Scaldice » ohh
+[03:37:47] [main/INFO]: [CHAT] <G> [FORCE] TorrentialPie » o3o/
+[03:37:50] [main/WARN]: Received passengers for unknown entity
+[03:37:50] [main/WARN]: Received passengers for unknown entity
+[03:38:03] [main/INFO]: [CHAT] <G> Scaldice » they say speak with them below zigguraat
+[03:38:07] [main/INFO]: [CHAT] <G> Scaldice » i have spoken to them before
+[03:38:09] [main/INFO]: [CHAT] <G> Scaldice » but i forgot
+[03:38:10] [main/INFO]: [CHAT] <G> Scaldice » lol
+[03:38:15] [main/WARN]: Received passengers for unknown entity
+[03:38:15] [main/WARN]: Received passengers for unknown entity
+[03:38:16] [main/INFO]: [CHAT] <G> Scaldice » where is zigguratt
+[03:38:21] [main/WARN]: Received passengers for unknown entity
+[03:38:21] [main/WARN]: Received passengers for unknown entity
+[03:38:24] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » The ziggurat is east of Nyr
+[03:38:26] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » On the mountain
+[03:38:27] [main/INFO]: [CHAT] <G> Scaldice » zigguraat*
+[03:38:30] [main/INFO]: [CHAT] <G> Scaldice » ok
+[03:38:40] [main/WARN]: Received passengers for unknown entity
+[03:38:40] [main/WARN]: Received passengers for unknown entity
+[03:38:53] [main/WARN]: Received passengers for unknown entity
+[03:38:53] [main/WARN]: Received passengers for unknown entity
+[03:39:05] [main/WARN]: Received passengers for unknown entity
+[03:39:05] [main/WARN]: Received passengers for unknown entity
+[03:39:11] [main/INFO]: [CHAT] <G> bruhily » lamo
+[03:39:23] [main/WARN]: Received passengers for unknown entity
+[03:39:23] [main/WARN]: Received passengers for unknown entity
+[03:39:27] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Mat in first chest moment :uwu:
+[03:39:38] [main/WARN]: Received passengers for unknown entity
+[03:39:38] [main/WARN]: Received passengers for unknown entity
+[03:39:57] [main/WARN]: Received passengers for unknown entity
+[03:39:57] [main/WARN]: Received passengers for unknown entity
+[03:40:04] [main/WARN]: Received passengers for unknown entity
+[03:40:04] [main/WARN]: Received passengers for unknown entity
+[03:40:22] [main/INFO]: [CHAT] <G> [LAG] VastPoenBV » Mat in second chest moment :uwu:
+[03:40:26] [main/INFO]: [CHAT] <G> [FORCE] rozteddy » wow
+[03:40:27] [main/WARN]: Received passengers for unknown entity
+[03:40:27] [main/WARN]: Received passengers for unknown entity
+[03:40:50] [main/WARN]: Received passengers for unknown entity
+[03:40:50] [main/WARN]: Received passengers for unknown entity
+[03:41:14] [main/WARN]: Received passengers for unknown entity
+[03:41:14] [main/WARN]: Received passengers for unknown entity
+[03:41:23] [main/INFO]: [CHAT] <G> Scaldice » when i go to my compas it leads to the middle of no where tf
+[03:41:31] [main/WARN]: Received passengers for unknown entity
+[03:41:31] [main/WARN]: Received passengers for unknown entity
+[03:41:49] [main/WARN]: Received passengers for unknown entity
+[03:41:49] [main/WARN]: Received passengers for unknown entity
+[03:41:50] [main/INFO]: [CHAT] [Pharaoh Nasha Ka] I just... wanted to make a better world... but no matter... he already has what he needs...
+[03:41:53] [main/INFO]: [CHAT] <G> [DNG] rayman520 » not middle of mowhere no
+[03:41:55] [main/INFO]: [CHAT] <G> Scaldice » and my compas sstill says "Talk to Bhairavi after going through the tleleporter down the ladder" and i have already done that
+[03:41:57] [main/INFO]: [CHAT] Kingdom of Lies: Wrap things up with Obadiah.
+[03:42:00] [main/INFO]: [CHAT] <G> [DNG] rayman520 » ut leads you to white wool lobby
+[03:42:02] [main/INFO]: [CHAT] [Head Guard Obadiah] The palace may be open to the public, but it's not a place for dilly-dallying. Keep moving.
+[03:42:02] [main/INFO]: [CHAT] [I'm sorry for blaming you earlier, Obadiah...]
+[03:42:04] [main/INFO]: [CHAT] <G> [DNG] rayman520 » you already went there
+[03:42:06] [main/INFO]: [CHAT] [Head Guard Obadiah] Oh, Sukie! No worries, I'm glad everything turned out alright, but....
+[03:42:06] [main/INFO]: [CHAT] [But what?]
+[03:42:07] [main/INFO]: [CHAT] <G> Scaldice » yes
+[03:42:08] [main/INFO]: [CHAT] [Head Guard Obadiah] Pharaohs Tyro Syl and Kamen Den are requesting your appearance immediately. I... I can't promise I'm not going to have to arrest you again...
+[03:42:08] [main/INFO]: [CHAT] [It's fine, I'll see them and clear this up once and for all.]
+[03:42:09] [main/INFO]: [CHAT] <G> [DNG] rayman520 » so just go back the same way ;p
+[03:42:14] [main/INFO]: [CHAT] [Head Guard Obadiah] Very well, let's head in.
+[03:42:14] [main/INFO]: [CHAT] [Pharaoh Tyro Syl] We meet yet again, Sukie, though I wish it were on better terms.
+[03:42:14] [main/INFO]: [CHAT] [I assume you want to ask about my involvement with Nasha.]
+[03:42:16] [main/INFO]: [CHAT] <G> Scaldice » i did
+[03:42:18] [main/INFO]: [CHAT] [Pharaoh Kamen Den] Correct. Considering the circumstances, we wish for you to fully explain in detail what occurred.
+[03:42:20] [main/INFO]: [CHAT] You begin thoroughly explaining the pharaoh's involvement with Calder.
+[03:42:25] [main/INFO]: [CHAT] [Pharaoh Kamen Den] An outsider who wanted to start a war... and Nasha was working with him in the shadows this whole time... Sukie, I must ask, do you know what their endgame in all this is? If a war was a means of distraction, what is the goal they were trying to cover up?
+[03:42:25] [main/INFO]: [CHAT] [Unfortunately, we've not yet figured that out.]
+[03:42:26] [main/INFO]: [CHAT] <G> [DNG] rayman520 » and have you talked to bahiravi inside?
+[03:42:30] [main/INFO]: [CHAT] <G> [DNG] rayman520 » like the compass tells you to
+[03:42:34] [main/INFO]: [CHAT] [Pharaoh Tyro Syl] It sounds too horrifying to be true, that someone closest to us would betray us in this way... However, your eyes are obviously unclouded, Sukie, and we will strive to assist you in repairing our relations with the Chillwind. May you walk away from this day knowing you have earned the gratitude of all of Ishnir. 
+[03:42:34] [main/INFO]: [CHAT] <G> Scaldice » inside where
+
+[03:42:37] [main/INFO]: [CHAT] KINGDOM OF LIES COMPLETE!
+[03:42:37] [main/INFO]: [CHAT] Awarded the Crest of Celsia and 2 Prestige!
+
+[03:42:37] [main/INFO]: Loaded 721 advancements
+[03:42:40] [main/INFO]: [CHAT] [Calder] Nasha... is a fool...
+[03:42:40] [main/INFO]: [CHAT] <G> [DNG] rayman520 » inside the white wool lobby...
+[03:42:43] [main/INFO]: [CHAT] <G> Scaldice » i have spoken to him in nyr
+[03:42:44] [main/INFO]: [CHAT] [Calder] And Ridnan is a failure...
+[03:42:47] [main/INFO]: [CHAT] [Calder] Very well then.... It's time I take matters into my own hands...
+

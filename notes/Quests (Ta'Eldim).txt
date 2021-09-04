@@ -1,0 +1,766 @@
+=Quest Guide (Ta'Eldim)=
+==Time to Reflect==
+* Difficulty: Medium
+* Requirements: Tlaxan Troubles
+* Start: Barras
+==Shurima's Big Day Off==
+* Difficulty: Medium
+* Requirements: Tlaxan Troubles, Fountain of Miracles
+* Start: Shurima
+==The Crystal Connection==
+* Difficulty: Medium
+* Requirements: Tlaxan Troubles and A Little Spark
+* Start: Macuniloh
+==Halid's Song==
+* Difficulty: Medium
+* Requirements: Tlaxan Troubles
+* Start: Halid
+==Crystal Visions==
+* Difficulty: Medium
+* Requirements: Shurima's Big Day Off, The Crystal Connection, Defeated Kaul, Malevolent Reverie, and Forsworn Sanctum
+* Start: Nai in the Forsworn Sanctum Lobby
+
+=Quests=
+
+==Time to Reflect==
+[02:59:29] [main/INFO]: [CHAT] [Barras] I am shrinetender here for the fallen Shamans in this sacred place. Treat it with reverence, outsider.
+[02:59:29] [main/INFO]: [CHAT] [Are these for C'Shura, C'Axtal, and C'Zanil?]
+[02:59:35] [main/INFO]: [CHAT] niwatori222 left the game
+[02:59:41] [main/INFO]: [CHAT] [Barras] Curse be upon C'Zanil! He left us and betrayed our people. His name is not fit to be spoken here. This shrine is for C'Axtal and C'Shura. The dead and the missing.
+[02:59:41] [main/INFO]: [CHAT] [Will you tell me anything of C'Zanil?]
+[02:59:41] [main/INFO]: [CHAT] [Will you tell me anything of C'Shura and C'Axtal?]
+[02:59:41] [main/INFO]: [CHAT] [Can you tell me about C'Taz?]
+[02:59:41] [main/INFO]: [CHAT] [What do you do here?]
+[02:59:45] [main/INFO]: [CHAT] [Barras] I keep the shrine and bear the reflections to maintain the sacred magic of this place. Very few can bear the load.
+[02:59:45] [main/INFO]: [CHAT] [It must take someone very special.]
+[02:59:45] [main/INFO]: [CHAT] [I wonder if I could.]
+[02:59:47] [main/INFO]: [CHAT] [Barras] If you feel so cocky, then help me strengthen the magic here. Bear the load. Reflect or be rejected.
+[02:59:47] [main/INFO]: [CHAT] [I will.]
+[02:59:47] [main/INFO]: [CHAT] [Maybe later...]
+[02:59:52] [main/INFO]: [CHAT] QUEST : TIME TO REFLECT
+[02:59:52] [main/INFO]: [CHAT] Length: Short
+[02:59:52] [main/INFO]: [CHAT] Difficulty: Medium
+[02:59:52] [main/INFO]: [CHAT] Help Barras by bearing the reflections. Enter the door in the shrine.
+[02:59:52] [main/INFO]: [CHAT] [Barras] Behind you is a door deeper into this shrine. Enter it. Prepare your mind. Challenges lie before you, and with them comes reflection.
+
+[03:00:47] [main/INFO]: [CHAT] Time to Reflect: Enter the door in the shrine. Solve the puzzle within.
+rt rb lt lm
+
+[04:14:17] [main/INFO]: [CHAT] The Tlaxans fought for what they believed in - their home. The Narsens invaded their homes, stole their land, and went to war. It all started with the Narsens. Is it their fault the Tlaxans turned to dark magic? What does that make the Empire?
+[04:14:38] [main/INFO]: [CHAT] What does that make me?
+
+[04:14:27] [main/INFO]: [CHAT] Time to Reflect: Hit the button, and make your way through the next room. Reflect on your journey.
+invisible platforming
+
+[04:21:58] [main/INFO]: [CHAT] Time to Reflect: Reflect on your time in C'Zanil's Crypt.
+
+[04:22:34] [main/INFO]: [CHAT] Even C'Zanil discovered regret. Yet decades later, after he is gone, his people he sacrificed it all for revile him. Barras curses his name within this very temple. But he did it all for the Tlaxan way of life. Was it worth it for him to do what he did?
+
+[04:22:57] [main/INFO]: [CHAT] Time to Reflect: Find a way up the ladder. Reflect upon what it means to be an adventurer. Show your courage, but never rush in without thinking.
+orange yellow pink black
+
+[15:13:44] [main/INFO]: [CHAT] Time to Reflect: Reflect upon your time in Velara.
+
+[15:13:48] [main/INFO]: [CHAT] What happened last though. The Plague... So many warnings to be safe. Was Bhairavi's recklessness due to her eagerness for knowledge? Or is it something more? She so desperately wants me to gather the wools... Is it wrong to doubt her motives, or is that the very purpose of reflection?
+
+[15:14:18] [main/INFO]: [CHAT] Time to Reflect: Seek out the light of reflection to leave Velara then return to Barras.
+
+[15:15:54] [main/INFO]: [CHAT] [Barras] You return. Have you reflected?
+[15:15:54] [main/INFO]: [CHAT] [I... Have.]
+[15:15:54] [main/INFO]: [CHAT] [I don't know.]
+[15:15:54] [main/INFO]: [CHAT] [No.]
+[15:15:59] [main/INFO]: [CHAT] [Barras] Indeed, you have. What have you learned?
+[15:15:59] [main/INFO]: [CHAT] [I have looked back on my adventures with the wools and begun to question...]
+[15:16:03] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[15:16:04] [main/INFO]: [CHAT] [Barras] And that is all I ask of you. I am impressed with you, outsider. Perhaps there is more to you than I expected. Keep those reflections with you. You have learned much today.
+[15:16:04] [main/INFO]: [CHAT] [Thank you.]
+[15:16:43] [main/INFO]: [CHAT] [Barras] Now with your reflection complete, the shrine will focus once again... Are you prepared?
+[15:16:43] [main/INFO]: [CHAT] [I am.]
+[15:16:46] [main/INFO]: [CHAT] [Barras] Texkei, amavoz, cin tekka.
+[15:16:46] [main/INFO]: [CHAT] [Barras] It is done. You have done better than I could ever imagine. Peace be upon you. You are one of us now.
+[15:16:46] [main/INFO]: [CHAT] TIME TO REFLECT COMPLETE!
+[15:16:46] [main/INFO]: [CHAT] Awarded a Sacred Herb Burner, 1 Prestige, and the ability to teleport to and from Kaul's arena using the statue near the Ta'Eldim fountain.
+[15:16:46] [main/INFO]: [CHAT] [Barras] The magic is complete. We can continue to reflect. We can continue to call out to her.
+[15:16:46] [main/INFO]: [CHAT] [Her?]
+[15:16:49] [main/INFO]: [CHAT] [Barras] C'Shura of course. We focus the magic to call her name on the wind. Feel free to return if you have more questions, Eijkir.
+
+
+
+==Shurima's Big Day Off==
+[00:54:20] [main/INFO]: [CHAT] [Shurima] You are the one who restored the flow of magic? You haven't seen my daughter Midrey, have you? She's always getting into trouble... I have so much to do and so little time...
+[00:54:20] [main/INFO]: [CHAT] [I'm sorry to hear that.]
+[00:54:26] [main/INFO]: [CHAT] [Shurima] It's fine. Anyway, I have a job for you. T'Xoc, our village leader, tells me you're doing jobs for people for goodwill or something.
+[00:54:26] [main/INFO]: [CHAT] [I guess that's a fair assessment.]
+[00:54:26] [main/INFO]: [CHAT] [Sorry, I'm pretty busy too.]
+[00:54:33] [main/INFO]: [CHAT] [Shurima] Good. I need some weight taken off my shoulders. My wedding anniversary is tomorrow and both Arkhest and I are too busy to prepare like we want to. We'll have been together for ten years now and it has to be special. It HAS to be.
+[00:54:33] [main/INFO]: [CHAT] [So what do you need me to do? Restore naturey marriage magic? Battle monsters?]
+[00:54:40] [main/INFO]: [CHAT] Vladomeme joined the game
+[00:54:48] [main/INFO]: [CHAT] [Shurima] What? No, nothing like that. I have a few tasks that I don't have the time to do and I need your help.
+[00:54:48] [main/INFO]: [CHAT] [Oh. Okay I guess.]
+[00:54:48] [main/INFO]: [CHAT] [Oh... I'm sorry, I don't have time for small tasks right now]
+[00:54:54] [main/INFO]: [CHAT] [Shurima] Excellent.
+[00:54:54] [main/INFO]: [CHAT] QUEST : SHURIMA'S BIG DAY OFF
+[00:54:54] [main/INFO]: [CHAT] Length: Medium
+[00:54:54] [main/INFO]: [CHAT] Difficulty: Medium
+[00:54:54] [main/INFO]: [CHAT] Help Shurima prepare for her wedding anniversary and enjoy a day off.
+[00:54:54] [main/INFO]: [CHAT] [Shurima] Right, so first I need you to take some money over to the moneychanger at the bar. I'm sure he could use some business instead of spending all his time getting drunk. Plus, I need Narsen currency for whatever Arkhest has planned.
+[00:54:54] [main/INFO]: [CHAT] [I didn't know Tlaxans had different currency.]
+[00:55:09] [main/INFO]: [CHAT] <G> [LoD] RainDream » moderator
+[00:55:10] [main/INFO]: [CHAT] EmilyVEVO joined the game
+[00:55:20] [main/INFO]: [CHAT] <G> [LoD] RainDream » we are stuck at the calder conversation in teal
+[00:55:27] [main/INFO]: [CHAT] <G> [LoD] Mine_Hinata » busty you make us get stuck
+[00:55:29] [main/INFO]: [CHAT] Combustible left the game
+[00:55:39] [main/INFO]: [CHAT] [Shurima] Of course we do. Do you think we didn't have money before the Narsens invaded? Here, take this and change it for me.
+[00:55:39] [main/INFO]: [CHAT] [What is this? It looks like a plant.]
+[00:55:39] [main/INFO]: [CHAT] [You got it.]
+[00:55:41] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » funny
+[00:55:52] [main/INFO]: [CHAT] [Shurima] It's money. Go and stop asking dumb questions.
+
+#Q41I01 https://puu.sh/GBPuD/0650053b68.png
+
+[00:56:34] [main/INFO]: [CHAT] Shurima's Big Day Off: Head to Moneychanger Elgort in the Tipsy Tlaxan.
+
+[00:57:12] [main/INFO]: [CHAT] [Moneychanger Elgort] *Hic*-money makes the world go 'round, they say... what can I *hic* do for you?
+[00:57:12] [main/INFO]: [CHAT] [Hi, I've been sent to change this Tlaxan money for Narsen money.]
+[00:57:16] [main/INFO]: [CHAT] [Moneychanger Elgort] Change what now-*hic*?
+[00:57:16] [main/INFO]: [CHAT] [Tlaxan currency. I need it converted.]
+[00:57:19] [main/INFO]: [CHAT] [Moneychanger Elgort] What the uh... what was the word again... Z'cur? I think that's right. Yeah what the Z'car is that?
+[00:57:19] [main/INFO]: [CHAT] [Uh... so can you convert it?]
+[00:57:23] [main/INFO]: [CHAT] He leans forward and seems to sober up.
+[00:57:23] [main/INFO]: [CHAT] [Moneychanger Elgort] I suppose I could try and cast the conversion spell the Goldmage taught us. No promises on what might happen though...
+[00:57:23] [main/INFO]: [CHAT] [Let's do it.]
+[00:57:28] [main/INFO]: [CHAT] [Moneychanger Elgort] Here we go!
+[00:57:28] [main/INFO]: [CHAT] [Moneychanger Elgort] MONEY MAKES THE WORLD GO 'ROUND!
+[00:57:28] [main/INFO]: [CHAT] [That's it? That's the whole spell?]
+[00:57:31] [main/INFO]: [CHAT] [Moneychanger Elgort] Shh... Let's see if it worked!
+[00:57:31] [main/INFO]: [CHAT] [I don't think it did...]
+[00:57:33] [main/INFO]: [CHAT] [Moneychanger Elgort] Well Z'cat. Sorry friend.
+[00:57:33] [main/INFO]: [CHAT] [I guess I'll head back to Shurima now...]
+[00:57:35] [main/INFO]: [CHAT] [Moneychanger Elgort] Good luck! She scares me!
+
+[00:57:43] [main/INFO]: [CHAT] Shurima's Big Day Off: Return to Shurima... carefully.
+
+[00:58:14] [main/INFO]: [CHAT] [Shurima] Have you spoken to the Moneychanger yet?
+[00:58:14] [main/INFO]: [CHAT] [Yes, but you're not going to like the answer.]
+[00:58:17] [main/INFO]: [CHAT] [Shurima] I hope this doesn't become a running theme... What is it?
+[00:58:17] [main/INFO]: [CHAT] [We couldn't figure out how to change the money.]
+[00:58:21] [main/INFO]: [CHAT] [Shurima] What in C'Shura's name do you mean?
+[00:58:21] [main/INFO]: [CHAT] [It's not a simple process okay?]
+[00:58:23] [main/INFO]: [CHAT] [Shurima] This is not okay! How could a moneychanger, whose only job is to change money, fail to change money?!
+[00:58:23] [main/INFO]: [CHAT] [The magic didn't recognize whatever this stuff is!]
+[00:58:28] [main/INFO]: [CHAT] [Shurima] That "STUFF" is our money! I cannot believe this. Fine. I have something else you can do instead.
+[00:58:28] [main/INFO]: [CHAT] [Great...]
+[00:58:28] [main/INFO]: [CHAT] [Sure thing!]
+[00:58:32] [main/INFO]: [CHAT] [Shurima] So if changing money is too hard for you, why don't you head back to the bar and pick out a nice wine for the dinner? Keep the money - you'll need it with Murtag, the barkeep.
+
+[00:58:51] [main/INFO]: [CHAT] Shurima's Big Day Off: Murtag, back in the Tipsy Tlaxan, might have what we need.
+
+[00:59:12] [main/INFO]: [CHAT] [Murtag] Welcome to the Tipsy Tlaxan! Step right up, grab a beer, and relax! Let all your cares wash away.
+[00:59:12] [main/INFO]: [CHAT] [I'm actually after a nice wine.]
+[00:59:15] [main/INFO]: [CHAT] [Murtag] Ah! Are you helping out Shurima and Arkhest? I heard their anniversary is coming up! What kind of wine are you after?
+[00:59:15] [main/INFO]: [CHAT] [What do you recommend? I'm not really the wine type.]
+[00:59:20] [main/INFO]: [CHAT] [Murtag] That's right, you adventurers seem to like potions more than anything. Well, I've got a nice Tlaxan Wine in my stock. Just trade me and I'll sell it to ya for half a stack of Experience Bottles.
+[00:59:20] [main/INFO]: [CHAT] [Wait, do you not take Tlaxan Currency?]
+[00:59:25] [main/INFO]: [CHAT] [Murtag] Oh goodness, no. Narsen money is the only thing a man like me needs. Elgort over there talked me into changing!
+[00:59:25] [main/INFO]: [CHAT] [Ugh... okay.]
+[00:59:31] [main/INFO]: [CHAT] [Murtag] I hope she enjoys it!
+
+[00:59:46] [main/INFO]: [CHAT] Shurima's Big Day Off [1/2]: Trade with Murtag and purchase Tlaxan Wine for Shurima.
+[00:59:48] [main/INFO]: [CHAT] Shurima's Big Day Off [2/2]: Return to Shurima once you have Tlaxan Wine.
+
+#Q41I02 https://puu.sh/GBPAp/d93470344a.png
+
+[01:01:37] [main/INFO]: [CHAT] [Shurima] Any luck with the wine yet?
+[01:01:37] [main/INFO]: [CHAT] [I've got it right here!]
+[01:01:38] [main/INFO]: [CHAT] <G> [AEUGH] daaaaaa645 » gg
+[01:01:39] [main/INFO]: [CHAT] [Shurima] Thank goodness, you CAN do simple tasks!
+[01:01:39] [main/INFO]: [CHAT] [Yeah but... Murtag isn't taking your... currency... anymore. I had to spend my own money on it.]
+[01:01:39] [main/INFO]: [CHAT] Cloud_ joined the game
+[01:01:40] [main/INFO]: [CHAT] <G> [AEUGH] niwatori222 » gg
+[01:01:40] [main/INFO]: [CHAT] <G> Buck2700 » gg
+[01:01:40] [main/INFO]: [CHAT] <G> [AEUGH] kabotyaneko » gg
+[01:01:41] [main/INFO]: [CHAT] <G> Vladomeme » gg
+[01:01:41] [main/INFO]: [CHAT] <G> SlimeKing77777 » wow
+[01:01:43] [main/INFO]: [CHAT] <G> [LoD] B_G_YG » gg
+[01:01:44] [main/INFO]: [CHAT] [Shurima] You are just full of problems today! Ugh! Just keep the money I gave you. That should be more than enough! This is absurd.
+[01:01:44] [main/INFO]: [CHAT] [You're really overreacting.]
+[01:01:45] [main/INFO]: [CHAT] <G> Payhi25 » lol
+[01:01:50] [main/INFO]: [CHAT] [Shurima] You think?! My anniversary is TOMORROW and nothing is together. We have nothing prepared, the house is a mess, our daughter is hiding somewhere, and my husband is holed up in his little library. All of this is on me, and I just asked for a bit of help.
+[01:01:50] [main/INFO]: [CHAT] [...]
+[01:01:50] [main/INFO]: [CHAT] <G> [zenkor] SirTudor » gg
+[01:01:58] [main/INFO]: [CHAT] [Shurima] Why don't you see if Arkhest needs any help. I think I'll get more done here without you.
+
+[01:02:20] [main/INFO]: [CHAT] Shurima's Big Day Off: Be a good hero and head to Arkhest.
+
+[01:02:47] [main/INFO]: [CHAT] [Arkhest] You're not a Son of the Forest after all? Thank Ixume... I'm Arkhest, the librarian. I've got lots of exciting volumes! My wife says I'm too stuck in my books, but I really love it here.
+[01:02:47] [main/INFO]: [CHAT] [I'm actually here because of your wife.]
+[01:02:52] [main/INFO]: [CHAT] [Arkhest] OH NO! Did something happen?
+[01:02:52] [main/INFO]: [CHAT] [No, nothing like that. I'm helping her prepare for your anniversary.]
+[01:02:55] [main/INFO]: [CHAT] [Arkhest] Z'Cun! That's tomorrow! I knew I was forgetting something! So what can I do for you?
+[01:02:55] [main/INFO]: [CHAT] [Actually I'm here to help you.]
+[01:02:59] [main/INFO]: [CHAT] [Arkhest] Wow, that's sweet of Shuri. She sent you to help me with my overdues I imagine. I'm glad she's got everything sorted at home then!
+[01:02:59] [main/INFO]: [CHAT] [About that...]
+[01:03:06] [main/INFO]: [CHAT] [Arkhest] Right! So I've got one more overdue to handle today. Talisa, the Crafter owner? She's had a book overdue for MONTHS! She owes a good bit of money and I really need the book back. It's called Of Shamans and Spells. It's a lovely book really, about a hero thwarting the wicked Siblings of the Trees and their attack on an Abbey. You might really like it! But yeah, Macuniloh wants to read it, so I'll need it back along with her late fee. Should be 64 of our currency, but at this point I'll take anything. Thanks Sukie! You're a big help!
+
+[01:03:38] [main/INFO]: [CHAT] Shurima's Big Day Off: Chase down the vile book thief, Talisa.
+
+[01:04:02] [main/INFO]: [CHAT] [Talisa] I'm Talisa. T'Xoc says I am to let you use my crafter. There it is.
+[01:04:02] [main/INFO]: [CHAT] [I'm actually here on behalf of Arkhest.]
+[01:04:02] [main/INFO]: [CHAT] [What can I make here?]
+[01:04:06] [main/INFO]: [CHAT] [Talisa] Oh great. Not only do you waste my time but now you come hounding me about a trashy book?
+[01:04:06] [main/INFO]: [CHAT] [So you know what he needs?]
+[01:04:10] [main/INFO]: [CHAT] [Talisa] Yes. He needs his book and his stupid late fee. I can't afford it. I didn't bring the book back cuz I didn't want to tell him. A'rexk! I didn't want to tell you either.
+[01:04:10] [main/INFO]: [CHAT] [I'm sorry. Maybe we can come to a deal?]
+[01:04:20] [main/INFO]: [CHAT] [Talisa] What kind of deal?
+[01:04:20] [main/INFO]: [CHAT] [How much do you owe?]
+[01:04:22] [main/INFO]: [CHAT] [Talisa] I owe... a stack of our currency.
+[01:04:22] [main/INFO]: [CHAT] [Lucky for you, I have a stack. Can you give me something else for it along with the book?]
+[01:04:27] [main/INFO]: [CHAT] [Talisa] No.
+[01:04:27] [main/INFO]: [CHAT] [Well, good luck then.]
+[01:04:28] [main/INFO]: [CHAT] [Talisa] WAIT! Okay then. Fine outsider. I'll tell you some recipes to use in this crafter and give the book back. How does that sound?
+[01:04:28] [main/INFO]: [CHAT] [That sounds fair.]
+[01:04:34] [main/INFO]: [CHAT] [Talisa] Here's the stupid book. Now for your recipes. You can make three potions by putting a Pulsating Dust surrounded by an ingredient for a cure for Marasmus Execratio into the crafter. They're worth it.
+
+[01:05:01] [main/INFO]: [CHAT] Shurima's Big Day Off: Return to Arkhest, victorious. At last, a win for us?
+
+#Q41I03 https://puu.sh/GBPF7/a487435e0e.png
+https://puu.sh/GBPFA/ce2c548dc1.png
+https://puu.sh/GBPFG/89afd05ead.png
+https://puu.sh/GBPFS/db86a7fe7d.png
+https://puu.sh/GBPG4/04d7439743.png
+https://puu.sh/GBPGf/d00b0b5095.png
+https://puu.sh/GBPGq/8c11216518.png
+https://puu.sh/GBPGz/d936c94f1d.png
+
+[01:12:16] [main/INFO]: [CHAT] [Arkhest] Is that my book I smell?
+[01:12:16] [main/INFO]: [CHAT] [...Yes? You can smell it?]
+[01:12:19] [main/INFO]: [CHAT] [Arkhest] Of course. Every book here I can recognize instantly. They're like my children. Now, do you mind going and changing the late fee from Talisa over to Narsen currency? We'll definitely need some.
+[01:12:19] [main/INFO]: [CHAT] [I already tried that for Shurima. It didn't work.]
+[01:12:32] [main/INFO]: [CHAT] [Arkhest] No, no. It definitely will work. I heard someone say it did. Go use Elgort in the bar. He's the best!
+
+[01:12:49] [main/INFO]: [CHAT] Shurima's Big Day Off: ...Go talk to Moneychanger Elgort. Ugh
+
+[01:13:21] [main/INFO]: [CHAT] [Moneychanger Elgort] Money makes the world go 'round!
+[01:13:21] [main/INFO]: [CHAT] [Hi again, I've been sent to change this Tlaxan money for Narsen money again... Shurima's husband thinks it'll go differently.]
+[01:13:26] [main/INFO]: [CHAT] [Moneychanger Elgort] Z'coop! I mean uh... oh no!
+[01:13:26] [main/INFO]: [CHAT] [Oh no indeed.]
+[01:13:30] [main/INFO]: [CHAT] [Moneychanger Elgort] Well uh... What do we do?
+[01:13:30] [main/INFO]: [CHAT] [I thought you were the expert.]
+[01:13:31] [main/INFO]: [CHAT] [Moneychanger Elgort] Not really. Training only took like a week. It was the background check that took forever.
+[01:13:31] [main/INFO]: [CHAT] [Oh.]
+[01:13:35] [main/INFO]: [CHAT] [Moneychanger Elgort] Yeah. Really difficult that. Anyway, want me to try the spell again?
+[01:13:35] [main/INFO]: [CHAT] [Eh... why not?]
+[01:13:37] [main/INFO]: [CHAT] Mocachaan left the game
+[01:13:41] [main/INFO]: [CHAT] [Moneychanger Elgort] Cool.
+[01:13:41] [main/INFO]: [CHAT] [Moneychanger Elgort] Money makes the world go 'round...
+[01:13:41] [main/INFO]: [CHAT] [Does your tone matter? You sounded really unenthusiastic right there.]
+[01:13:50] [main/INFO]: [CHAT] [Moneychanger Elgort] Hush, no it doesn't. Clearly, since it didn't work again. I hate this job!
+[01:13:50] [main/INFO]: [CHAT] [Me too buddy. Thanks for trying.]
+[01:13:55] [main/INFO]: [CHAT] [Moneychanger Elgort] Good luck!
+
+[01:14:12] [main/INFO]: [CHAT] Shurima's Big Day Off: Go disappoint Arkhest...
+
+[01:14:35] [main/INFO]: [CHAT] [Arkhest] How goes the changing of the money with Elgort?
+[01:14:35] [main/INFO]: [CHAT] [Like I told you, it didn't work. The spell he uses to transform money doesn't recognize this stuff.]
+[01:14:39] [main/INFO]: [CHAT] [Arkhest] That doesn't make any sense! Have him try again!
+[01:14:39] [main/INFO]: [CHAT] [...Arkhest. I'm not going to do that.]
+[01:14:41] [main/INFO]: [CHAT] [Arkhest] Why not?
+[01:14:41] [main/INFO]: [CHAT] [Because I've done it twice already and it didn't work either time. You'll have to find another way.]
+[01:14:44] [main/INFO]: [CHAT] [Arkhest] Fine... I'll just take the money then. I've got another task for you while I research how to change money myself!
+[01:14:44] [main/INFO]: [CHAT] [What can I do?]
+[01:14:48] [main/INFO]: [CHAT] [Arkhest] I mentioned that my books were like my children earlier but I ah... forgot my actual child. Can you hunt around Ta'Eldim and find Midrey for me? She's a small child and she likes to wander off...
+[01:14:48] [main/INFO]: [CHAT] [Any ideas where to start?]
+[01:14:54] [main/INFO]: [CHAT] [Arkhest] She likes the sound of water! I'd start there.
+
+[01:15:00] [main/INFO]: [CHAT] Shurima's Big Day Off: Find Midrey.
+
+[01:15:41] [main/INFO]: [CHAT] [Midrey] ...
+[01:15:41] [main/INFO]: [CHAT] [Aha, I found you!]
+[01:15:43] [main/INFO]: [CHAT] [Midrey] ...
+[01:15:43] [main/INFO]: [CHAT] [Midrey? Are you okay?]
+[01:15:45] [main/INFO]: [CHAT] [Midrey] ...
+[01:15:45] [main/INFO]: [CHAT] [Midrey?]
+[01:15:46] [main/INFO]: [CHAT] [Midrey] and so they seek the way... a Sanctum lost, a mind decayed.
+[01:15:46] [main/INFO]: [CHAT] [Excuse me?]
+[01:15:49] [main/INFO]: [CHAT] [Midrey] nowhere... nowhere left to stand... A binder of souls... lost, forsaken...
+[01:15:49] [main/INFO]: [CHAT] [Are you... talking about C'Shura?]
+[01:15:53] [main/INFO]: [CHAT] [Midrey] C'SHURA LOST IN THE DEPTHS. C'AXTAL TAKEN BY THE JUNGLE. C'SHURA C'SHURA C'SHURA.
+[01:15:53] [main/INFO]: [CHAT] [Midrey? Hey! Wake up!]
+[01:16:08] [main/INFO]: [CHAT] [Midrey] SHE LIVES. SHE SEES ALL.
+[01:16:08] [main/INFO]: [CHAT] Midrey slumps to the ground.
+[01:16:08] [main/INFO]: [CHAT] [Oh god, I need to go tell Arkhest.]
+[01:16:11] [main/INFO]: [CHAT] [Midrey] ...
+
+[01:16:23] [main/INFO]: [CHAT] Shurima's Big Day Off: Hurry back to Arkhest
+
+[01:16:55] [main/INFO]: [CHAT] [Arkhest] Any luck fin-
+[01:16:55] [main/INFO]: [CHAT] [ARKHEST! I found Midrey. Something's wrong.]
+[01:16:57] [main/INFO]: [CHAT] [Arkhest] What do you mean something's wrong?!
+[01:16:57] [main/INFO]: [CHAT] [She was unconscious and wouldn't wake. She kept saying strange things about C'Shura.]
+[01:17:00] [main/INFO]: [CHAT] [Arkhest] She was unconscious? Oh no no no. No no this isn't okay oh no oh Ixume no. This is really bad. Where is she?!
+[01:17:00] [main/INFO]: [CHAT] [Under the waterfall.]
+[01:17:04] [main/INFO]: [CHAT] Night_Ingale left the game
+[01:17:04] [main/INFO]: [CHAT] [Arkhest] Oh Ixume. Go get Shurima. Please. Oh Ixume I don't know what to do. None of my books have ever said anything about this!
+[01:17:08] [main/INFO]: [CHAT] phebelia left the game
+
+[01:17:11] [main/INFO]: [CHAT] Shurima's Big Day Off: Hurrier back to Shurima.
+
+[01:17:33] [main/INFO]: [CHAT] [Shurima] I thought I told you to go help Arkhest.
+[01:17:33] [main/INFO]: [CHAT] [He needs you. Your daughter needs you.]
+[01:17:36] [main/INFO]: [CHAT] [Shurima] Oh my god, what happened? Is something wrong?
+[01:17:36] [main/INFO]: [CHAT] [She is unconscious under the waterfall, saying very strange things.]
+[01:17:39] [main/INFO]: [CHAT] [Shurima] WHAT?! My baby?! What happened? WHAT DID YOU DO? Did you do something? What do we do?! What was she saying?
+[01:17:39] [main/INFO]: [CHAT] [She was saying some strange things about C'Shura and a place.]
+[01:17:45] [main/INFO]: [CHAT] [Shurima] T'Xoc. We need T'Xoc. This is not okay. Please go oh god, I'm so sorry I got you involved in this... Please get him. My baby...
+
+[01:17:50] [main/INFO]: [CHAT] Shurima's Big Day Off: Hurriest to T'Xoc.
+
+[01:18:16] [main/INFO]: [CHAT] [T'Xoc] Hello again Sukie. What can I do for you?
+[01:18:16] [main/INFO]: [CHAT] [I need your help.]
+[01:18:18] [main/INFO]: [CHAT] [T'Xoc] What is it?
+[01:18:18] [main/INFO]: [CHAT] [I've been... trying... to help Shurima and Arkhest with some tasks, but something's wrong with their daughter, Midrey.]
+[01:18:23] [main/INFO]: [CHAT] [T'Xoc] Wrong how?
+[01:18:23] [main/INFO]: [CHAT] [I found her unconscious and saying some weird things about C'Shura and a Sanctum.]
+[01:18:26] [main/INFO]: [CHAT] [T'Xoc] ...
+[01:18:26] [main/INFO]: [CHAT] [T'Xoc?]
+[01:18:27] [main/INFO]: [CHAT] [T'Xoc] It cannot be. Gods above. The legends are coming true...
+[01:18:27] [main/INFO]: [CHAT] [What legends?]
+[01:18:29] [main/INFO]: [CHAT] [T'Xoc] I shouldn't be telling this to an outsider, but you have been such a help. I will share. Ever since the disappearance of C'Axtal 50 years ago, it has been said that a new Soulspeaker would rise. I did not believe, as I think C'Axtal still lives, but if what you say is true... He may be gone and their daughter, Midrey, may be inheriting these powers.
+[01:18:29] [main/INFO]: [CHAT] [If C'Axtal was the Soulspeaker, why would she be saying things about C'Shura?]
+[01:18:29] [main/INFO]: [CHAT] [Is Midrey in danger?]
+[01:18:53] [main/INFO]: [CHAT] [T'Xoc] C'Shura went in search of C'Axtal in what we now call the Forsworn Sanctum, Ta'Ferna. If Midrey is seeing her... she could still be there, trapped? It was a dangerous journey and far more dangerous inside...
+[01:18:53] [main/INFO]: [CHAT] [Is Midrey in danger?]
+[01:19:01] [main/INFO]: [CHAT] [T'Xoc] Oh, goodness no. If anything, she has inherited great power. I will bring her to Barras, the shrinetender. He will take her on as a student and teach her to control these dreams.
+[01:19:01] [main/INFO]: [CHAT] [So what's next?]
+[01:19:07] [main/INFO]: [CHAT] [T'Xoc] I shall go attend to Midrey. You should go speak to her parents. I'm sure they need some reassurance. Go to her mother first. I'm sure Arkhest will have returned home.
+
+[01:19:15] [main/INFO]: [CHAT] Shurima's Big Day Off: Calmly talk to Shurima.
+
+[01:19:40] [main/INFO]: [CHAT] [Shurima] What have you heard? Did T'Xoc say anything?
+[01:19:40] [main/INFO]: [CHAT] [Midrey is going to be okay. T'Xoc has some big news though.]
+[01:19:43] [main/INFO]: [CHAT] [Shurima] What is it?
+[01:19:43] [main/INFO]: [CHAT] [Arkhest] Is she going to be okay?
+[01:19:43] [main/INFO]: [CHAT] [She's going to be fine. T'Xoc believes she may become the next Soulspeaker.]
+[01:19:46] [main/INFO]: [CHAT] [Arkhest] WHAT?!
+[01:19:46] [main/INFO]: [CHAT] [You both should go speak to him. He's going to make sure she's fine, he said.]
+[01:19:49] [main/INFO]: [CHAT] [Shurima] This is not what I expected to hear today... Our little Midrey... A Shaman? We've raised her so well, my love.
+[01:19:49] [main/INFO]: [CHAT] She and Arkhest embrace.
+[01:19:49] [main/INFO]: [CHAT] [I'm going to head back to T'Xoc and see what more I can do to help.]
+[01:19:55] [main/INFO]: [CHAT] [Shurima] Thank you. I mean it.
+
+[01:20:14] [main/INFO]: [CHAT] Shurima's Big Day Off: Have a cryptic chat with T'Xoc.
+
+[01:20:30] [main/INFO]: [CHAT] [T'Xoc] Welcome back, Sukie. How did Shurima and Arkhest take the news?
+[01:20:30] [main/INFO]: [CHAT] [They seem relieved.]
+[01:20:32] [main/INFO]: [CHAT] [T'Xoc] Wonderful. I paid a visit to Midrey. She is awake and recovering now, though I imagine she'll be back in that cave in mere minutes. I... have a bit of a task for you still, however.
+[01:20:32] [main/INFO]: [CHAT] [What's that?]
+[01:20:38] [main/INFO]: [CHAT] [T'Xoc] Would you be willing to take on the journey to the Sanctum and see if what Midrey said of C'Shura is true? I know this is very different from doing simple tasks for townsfolk, but I trust you can handle it.
+[01:20:38] [main/INFO]: [CHAT] [I'm the hero for the job!]
+[01:20:38] [main/INFO]: [CHAT] [I've got some other things to do at the moment.]
+[01:20:40] [main/INFO]: [CHAT] niwatori222 left the game
+[01:20:45] [main/INFO]: [CHAT] [T'Xoc] This is glad news. Now, listen closely, and I will reveal the way into Ta'Ferna, the fallen Sanctum.
+[01:20:45] [main/INFO]: [CHAT] [T'Xoc] Now, Ta'Ferna, yes. We Tlaxan were involved with the sealing of that forsaken place. Cursed by Kaul during the fall of C'Axtal, the Sanctum is horribly corrupted by nature. The only way there is through a fountain hidden underground beyond what you call "Farr".
+[01:20:45] [main/INFO]: [CHAT] [The Fountain of Miracles?]
+[01:21:00] [main/INFO]: [CHAT] [T'Xoc] What? That is an absurd name. Is that what the Narsens call it? It's no miracle. It's a guardian. A spirit to ward off travelers who would be foolish enough to enter the Sanctum. But I will tell you how to enter. Quite near the hot springs below us is a hidden passage, leading to a rushing stream that feeds the Red Xekkj hotspring. That stream runs right to the Sanctum. You must purify the water within, then return to me.
+[01:21:00] [main/INFO]: [CHAT] [Sounds easy enough.]
+[01:21:18] [main/INFO]: [CHAT] [T'Xoc] Go to the stream and purify the water. Instructions are available there, for those in times of great need. Return to me if you succeed at this task, and I can then open the way for you.
+
+[01:21:38] [main/INFO]: [CHAT] Shurima's Big Day Off: Find the not so hidden passage near the hot springs and solve the puzzle within.
+w1 p0 o1 b1 y0 y1 o0 w0 p1 b0
+w1 p0 o1 b1 y0 y o w p b
+
+[01:31:25] [main/INFO]: [CHAT] The spring seems to reject the water you just added.
+
+[01:31:50] [main/INFO]: [CHAT] The waters seem to glow, pure once more.
+
+[01:33:30] [main/INFO]: [CHAT] Shurima's Big Day Off: Back to T'Xoc we go.
+
+[01:34:09] [main/INFO]: [CHAT] [T'Xoc] I can feel it. The waters flow pure again... Are you ready to travel to Ta'Ferna?
+[01:34:09] [main/INFO]: [CHAT] [I am.]
+[01:34:09] [main/INFO]: [CHAT] [I need to prepare.]
+[01:34:13] [main/INFO]: [CHAT] [T'Xoc] Then go. The way forward will be open to you now.
+[01:34:13] [main/INFO]: [CHAT] You have amplified the Corrupted Caves. Go and seek out the Fountain of Miracles once more.
+
+[01:34:43] [main/INFO]: [CHAT] Shurima's Big Day Off [1/4]: Hurriest-er to the Fountain of Miracles and explore within.
+[01:34:47] [main/INFO]: [CHAT] Shurima's Big Day Off [2/4]: Once you have found your way through, speak to the one that is waiting on the other side.
+[01:34:49] [main/INFO]: [CHAT] Shurima's Big Day Off [3/4]: If the path closes on you, repurify the stream by redoing the puzzle near the hot springs...
+[01:34:52] [main/INFO]: [CHAT] Shurima's Big Day Off [4/4]: ...Then speak to T'Xoc to reopen the way once more.
+
+[15:43:07] [main/INFO]: [CHAT] As you go deeper through the cave, you begin to feel at one with nature, and the world fades away.
+[15:43:07] [main/WARN]: Received passengers for unknown entity
+[15:43:08] [main/INFO]: Loaded 339 advancements
+[15:43:11] [main/INFO]: [CHAT] <G> Compsogbrickus » lol
+[15:43:14] [main/INFO]: [CHAT] <G> Compsogbrickus » oops
+[15:43:29] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » kinda wanna go back
+[15:43:32] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » just for the luls
+[15:43:33] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » :>
+[15:43:40] [main/INFO]: [CHAT] <G> Compsogbrickus » yeah same but death is yikes
+[15:43:48] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » you know what
+[15:43:52] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » fuck it
+[15:44:00] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[15:44:02] [main/INFO]: [CHAT] <L> [LAG] VastPoenBV » Yo ugot this
+[15:44:12] [main/INFO]: [CHAT] CS_Aristotle joined the game
+[15:44:20] [main/INFO]: [CHAT] <G> [GTM] PandicornioLn » o/
+[15:44:22] [main/INFO]: [CHAT] <G> [ABA] CS_Aristotle » o/
+[15:44:30] [main/INFO]: [CHAT] <G> Jasonugget » o/
+[15:44:41] [main/INFO]: [CHAT] Dayablep has defeated Azacor the Dark Summoner on Hard!
+[15:44:43] [main/INFO]: [CHAT] SlimeKing77777 has defeated Azacor the Dark Summoner on Hard!
+[15:44:45] [main/INFO]: [CHAT] VastPoenBV has defeated Azacor the Dark Summoner on Hard!
+[15:44:46] [main/INFO]: [CHAT] <G> [AEUGH] H4TO » gg
+[15:44:47] [main/INFO]: [CHAT] <G> [ABA] CS_Aristotle » Well done
+[15:44:48] [main/INFO]: [CHAT] <G> Jasonugget » gg
+[15:44:48] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » pog
+[15:44:51] [main/INFO]: [CHAT] Compsogbrickus has defeated Azacor the Dark Summoner on Hard!
+[15:44:53] [main/INFO]: [CHAT] [Nai] You... you are no Tlaxan. How have you reached Ta'Ferna?
+[15:44:53] [main/INFO]: [CHAT] [I have been sent here by the Tlaxan of Ta'Eldim to search for C'Shura.]
+[15:44:55] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » you can get both chests
+[15:44:57] [main/INFO]: [CHAT] [Nai] A humble place, grown beyond simple roots. You have come to the right place, but I fear to allow you within. This place is overtaken by wild magics. I am here to guard the way. Why should I allow you within?
+[15:44:57] [main/INFO]: [CHAT] [I have claimed the Tlaxan gods - White, Orange, and Magenta. I can handle myself.]
+[15:44:57] [main/INFO]: [CHAT] [A child in Eldim has seen C'Shura alive inside this place.]
+[15:44:57] [main/INFO]: [CHAT] [I purified the spring to open the way, so I could investigate this place.]
+[15:45:03] [main/INFO]: [CHAT] <G> Compsogbrickus » lol I took R2 gear
+[15:45:07] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » smack both chests
+[15:45:13] [main/INFO]: [CHAT] <L> [LAG] VastPoenBV » Yasssss
+[15:45:16] [main/INFO]: [CHAT] <G> treebeard68 » Era 3 boss didn't give me a chest :?
+[15:45:16] [main/INFO]: [CHAT] <L> [WAIFU] Dayablep » :D
+[15:45:17] [main/INFO]: [CHAT] <G> treebeard68 » :/
+[15:45:19] [main/INFO]: [CHAT] <G> Jasonugget » is there an anvil anywhere?
+[15:45:20] [main/INFO]: [CHAT] <L> [LAG] VastPoenBV » Love you Blep
+[15:45:22] [main/INFO]: [CHAT] [Nai] I too believe she is. But the wild magics here have tainted all they touch. Nothing within will be as you expect. Pass, with my blessing.
+[15:45:22] [main/INFO]: [CHAT] SHURIMA'S BIG DAY OFF COMPLETE!
+[15:45:22] [main/INFO]: [CHAT] Awarded 1 Prestige, access to the Sanctum Dungeon Lobby Teleporter in Ta'Eldim, and a Forsworn Sanctum key.
+[15:45:22] [main/INFO]: [CHAT] [Nai] Be well within the Sanctum. Dangers lie around every corner. You must not take anything you own within, or it would never be able to leave.
+
+
+==The Crystal Connection==
+[01:36:10] [main/INFO]: [CHAT] [Macuniloh] My apologies for being rude earlier, outsider. I have heard from T'Xoc that you have been a big help. If you use the teleporter here, it will to take you to what you call "Fyrrr", am I saying that right?
+[01:36:10] [main/INFO]: [CHAT] [Is there anywhere else it could take me?]
+[01:36:23] [main/INFO]: [CHAT] [Macuniloh] It could, but you would need to be putting a lot of work into it. This teleporter is connected to a crystal deep inside the fallen Velara.
+[01:36:23] [main/INFO]: [CHAT] [Could I connect it to Sierhaven?]
+[01:36:31] [main/INFO]: [CHAT] [Macuniloh] What?! No, be silent. T'Xoc would not stand for us speaking of this. To him, they are still the enemy.
+[01:36:31] [main/INFO]: [CHAT] [Just to him though?]
+[01:36:37] [main/INFO]: [CHAT] [Macuniloh] There are some of us who do not agree the Narsens are still the enemy. Working safely with our neighbors in the swamp could be a benefit, some say... You have connection with their King, yes? Maybe we could forge a connection too?
+[01:36:37] [main/INFO]: [CHAT] [I'd like that.]
+[01:36:37] [main/INFO]: [CHAT] [I'll think about it. Defying T'Xoc seems like a problem.]
+[01:36:49] [main/INFO]: [CHAT] QUEST : THE CRYSTAL CONNECTION
+[01:36:49] [main/INFO]: [CHAT] Length : Medium
+[01:36:49] [main/INFO]: [CHAT] Difficulty : Medium
+[01:36:49] [main/INFO]: [CHAT] Work with Macuniloh to forge a connection from Ta'Eldim to Sierhaven.
+[01:36:49] [main/INFO]: [CHAT] [Macuniloh] Then let us begin this, Sukie. There is someone from your past you must speak with.
+[01:36:49] [main/INFO]: [CHAT] [Who is that?]
+[01:36:55] [main/INFO]: [CHAT] [Macuniloh] Follow the stairs to the east, and look behind the flowers. A path awaits you there.
+
+[01:37:26] [main/INFO]: [CHAT] The Crystal Connection [1/2]: Find the path.
+[01:37:28] [main/INFO]: [CHAT] The Crystal Connection [2/2]: Follow the path.
+
+[01:44:17] [main/INFO]: [CHAT] [T'Lm] Hello again Sukie. I knew one day we would meet here. You really made sure this place was well lit I see.
+[01:44:17] [main/INFO]: [CHAT] [T'Lm?]
+[01:44:23] [main/INFO]: [CHAT] [T'Lm] It is I, yes. I have been exploring this place since you valiantly conquered it. You came from Eldim, did you not?
+[01:44:23] [main/INFO]: [CHAT] [Yeah, Macuniloh sent me to find someone. Is that someone you?]
+[01:44:23] [main/INFO]: [CHAT] [Why is Ta'Eldim connected to this place?]
+[01:44:24] [main/INFO]: [CHAT] Nasreil left the game
+[01:44:33] [main/INFO]: [CHAT] [T'Lm] It is. I told you we would meet again. There is still work to do for Ta'Eldim. You seek the crystals within Velara. Perhaps it is time I told you more about them.
+[01:44:33] [main/INFO]: [CHAT] [I'm all ears.]
+[01:44:39] [main/INFO]: [CHAT] [T'Lm] The crystals gathered within Velara are indeed shards of magic, as I mentioned, but they are more than that. They are remnants of life. Remnants of a spirit of the place they inhabit. Kaul is not the only Genius Loci in this valley, merely the most powerful. Thousands of them rest within Velara, and they provide these crystals in their slumber.
+[01:44:39] [main/INFO]: [CHAT] [That's... terrifying.]
+[01:44:39] [main/INFO]: [CHAT] [That's... amazing.]
+[01:44:39] [main/INFO]: [CHAT] [So what do I need to do here?]
+[01:44:57] [main/INFO]: [CHAT] [T'Lm] You seek the phasing crystal within Velara yes? To bring it to your allies in Sierhaven and connect two cultures who have stayed separate for generations?
+[01:44:57] [main/INFO]: [CHAT] [I do. You seem to not agree.]
+[01:45:05] [main/INFO]: [CHAT] [T'Lm] On the contrary. I think it is time. You have proven yourself, and I think the others will too.
+[01:45:05] [main/INFO]: [CHAT] [Where is this phasing crystal?]
+[01:45:09] [main/INFO]: [CHAT] [T'Lm] In the depths of Velara, you found a crystal for the ritual. There is another path, heading north instead of south. You must take the crystal, then climb the Tlapilkoyan - the tower - upward. The crystal then must be connected within your capital swiftly.
+[01:45:09] [main/INFO]: [CHAT] [Why swiftly?]
+[01:45:22] [main/INFO]: [CHAT] [T'Lm] There are those who seek ways past the magic of Ta'Eldim. An untethered crystal is a risk I hope none will exploit. Claim the crystal, and get it safely to the capital. Now, return to Macuniloh. He waits for you.
+
+[01:45:49] [main/INFO]: [CHAT] The Crystal Connection: Return to Macuniloh
+
+[01:47:12] [main/INFO]: [CHAT] [Macuniloh] Have you followed the path?
+[01:47:12] [main/INFO]: [CHAT] [I have. T'Lm told me what I need to do to retrieve the crystal.]
+[01:47:12] [main/INFO]: [CHAT] [Are you sure this is the right thing to do?]
+[01:47:18] [main/INFO]: [CHAT] [Macuniloh] This is the way. Before you go, I need your help, however. There is a disturbance at the gates. Speak to the Gatekeeper and see what is going on.
+[01:47:18] [main/INFO]: [CHAT] [I'll get right on that.]
+[01:47:18] [main/INFO]: [CHAT] [I need to go prepare first.]
+[01:47:24] [main/INFO]: [CHAT] [Macuniloh] Thank you. Eldim needs you, outsider.
+
+[01:47:38] [main/INFO]: [CHAT] The Crystal Connection: Talk to the Ta'Eldim Guard.
+
+[01:47:56] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Do you hear that? It sounds like there's some commotion going on in the tunnel. Could we be under attack?
+[01:47:56] [main/INFO]: [CHAT] [Actually, can I just leave the town?]
+[01:47:56] [main/INFO]: [CHAT] [Sure, I'll go see what's going on.]
+[01:48:03] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Be safe!
+[01:48:03] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Sons of the Forest? Already? They're relentless! Sukie hold them off!
+[01:48:14] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] These seem a bit stronger!
+[01:48:44] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] There's only a few left! Fend them off!
+[01:49:59] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] They are gone for now... But I fear this attack has crippled our defenses, and just as we had rebuilt after you helped restore the magic's flow. The Sons have vowed to drive the Tlaxans extinct. This has happened before. T'Xoc does nothing. He is scared of the consequences.
+[01:49:59] [main/INFO]: [CHAT] [Actually, I just want to leave the town.]
+[01:49:59] [main/INFO]: [CHAT] [Why don't I go talk to him?]
+[01:50:18] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] NO! You cannot. He will just tell you nothing can be done again. It is useless. I have heard whispers you have spoken to T'Lm. He is the way now.
+[01:50:18] [main/INFO]: [CHAT] [So you support Mac too?]
+[01:50:27] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Of course. We must be protected. The Sons will never relent. You know the path you must walk, do you not? Return to Macuniloh and help this town.
+
+[01:51:03] [main/INFO]: [CHAT] The Crystal Connection: Return to Macuniloh now that the Sons are defeated.
+
+[01:51:07] [main/INFO]: [CHAT] [Macuniloh] Sons of the Forest attack again! This is dire, Sukie. T'Xoc cannot hate us now. You must go to Velara and retrieve the crystal immediately. Bring it back to me once you have it.
+[01:51:07] [main/INFO]: [CHAT] [T'Lm said to bring it right to Sierhaven.]
+[01:51:07] [main/INFO]: [CHAT] [Got it. I'll head there now.]
+[01:51:20] [main/INFO]: [CHAT] [Macuniloh] I need it briefly first. I'll need to better attune it to our modern systems. Ever wonder why this teleporter doesn't take you into Velara correctly? It's not well attuned. Now go, outsider. Be safe.
+
+[01:51:49] [main/INFO]: [CHAT] The Crystal Connection: Head into Velara and find the crystal.
+
+[02:14:20] [main/INFO]: [CHAT] The room rumbles slightly, and the lava is about to rise. Run!
+[02:14:53] [main/INFO]: [CHAT] You hear a door slide closed with a thud, blocking the lava surely right behind you.
+
+[02:15:04] [main/INFO]: [CHAT] The Crystal Connection: Now that you have the crystal, return to Macuniloh
+
+#Q42I01 https://puu.sh/GBQlE/4c42af482e.png
+0,0
+~ 463,-236
+482, -347
+
+[02:26:42] [main/INFO]: [CHAT] [Macuniloh] Outsider! Is that the crystal I feel? You have done it!
+[02:26:42] [main/INFO]: [CHAT] [I nearly drowned in lava, but I got it.]
+[02:26:47] [main/INFO]: [CHAT] [Macuniloh] How truly terrifying! Now, let me see here...
+[02:26:47] [main/INFO]: [CHAT] [What was that noise?]
+[02:26:49] [main/INFO]: [CHAT] [Macuniloh] The alarm... Something's happening. I must be taking you to safety. Come.
+[02:26:49] [main/INFO]: [CHAT] [I'm coming.]
+[02:26:49] [main/INFO]: [CHAT] [I need to go get my combat gear first.]
+[02:27:04] [main/INFO]: [CHAT] The Crystal Connection: Talk to T'Xoc
+[02:27:07] [main/INFO]: [CHAT] [T'Xoc] I know what you've done, Sukie. All I can ask you is why.
+[02:27:07] [main/INFO]: [CHAT] [I'm... sorry. I think you're wrong.]
+[02:27:07] [main/INFO]: [CHAT] [I was convinced this was the right path.]
+[02:27:26] [main/INFO]: [CHAT] [T'Xoc] Perhaps it is. Right now it does not feel like it. All I know is what is happening out there.
+[02:27:26] [main/INFO]: [CHAT] [T'Xoc] The Sons of the Forest are in Ta'Eldim. It is theirs. Whatever you have done with Macuniloh and my brother, T'Lm, has allowed them entry into this city. I do not think you meant to bring us harm. T'Lm would never allow that. There are things even he cannot see though.
+[02:27:26] [main/INFO]: [CHAT] [How did they get into the city then?]
+[02:27:41] [main/INFO]: [CHAT] [T'Xoc] I am well aware you were after the teleportation crystal connected to this city. I think your taking of it left ours disconnected. I think the Sons of the Forest took advantage of this weakness.
+[02:27:41] [main/INFO]: [CHAT] [What can I do to fix all of this?]
+[02:27:48] [main/INFO]: [CHAT] [T'Xoc] Ah, there is the right question to be asking, Sukie. My people are in this bunker, fearful. Their homes are being ransacked by evil. I ask you to go forth, defeat the Warden of the Sons of the Forest, then take your crystal to Sierhaven, as you planned.
+[02:27:48] [main/INFO]: [CHAT] [You're okay with that?]
+[02:27:57] [main/INFO]: [CHAT] [T'Xoc] Do I have any other choice, Sukie? Do what I ask, and then I will demand a meeting with your Archmage. Now go, bring your crystal to whomever is in charge of teleporting in Sierhaven. This is your disaster to clean up this time.
+[02:27:57] [main/INFO]: [CHAT] [I'm ready to do my duty.]
+[02:27:57] [main/INFO]: [CHAT] [I need time to prepare.]
+
+[02:28:13] [main/INFO]: [CHAT] The Crystal Connection: Head into Ta'Eldim and clean up your mess
+
+[02:33:05] [main/INFO]: [CHAT] [T'Xoc] The teleporter to Velara has been reopened! Go now to Cinevra, young hero of the Tlaxani.
+
+[02:33:28] [main/INFO]: [CHAT] The Crystal Connection: Escape Ta'Eldim with the crystal!
+
+[02:34:29] [main/INFO]: [CHAT] [Cinevra] I sense a strong magic on you. A Tlaxan magic is it?! What's a good little hero doing carrying around Tlaxan magics?
+[02:34:29] [main/INFO]: [CHAT] [I come with a crystal that will link to the Tlaxan village of Ta'Eldim.]
+[02:34:35] [main/INFO]: [CHAT] [Cinevra] Yeah that's amazing and all, but why would a reclusive Tlaxan village want to connect with Narsens?
+[02:34:35] [main/INFO]: [CHAT] [The Sons of the Forest have attacked. They need help.]
+[02:34:40] [main/INFO]: [CHAT] [Cinevra] The Sons attacked Tlaxans? That sounds serious.
+[02:34:40] [main/INFO]: [CHAT] [They aren't exactly allies. Look, can you hook up this crystal to the empty teleport pad downstairs or not?]
+[02:34:47] [main/INFO]: [CHAT] [Cinevra] Oh, of course I can! Give me just a few moments and I'll make it happen.
+[02:34:47] [main/INFO]: [CHAT] [Not to rush you, but this is life or death.]
+[02:34:47] [main/INFO]: [CHAT] [Take all the time you need.]
+[02:34:53] [main/INFO]: [CHAT] [Cinevra] Got it. Let's make this happen now...
+[02:34:53] [main/INFO]: [CHAT] [Did it work?]
+[02:34:55] [main/INFO]: [CHAT] [Cinevra] I'd say it works! Why don't you go give the new teleporter a try? See how your Tlaxan friends are doing, eh? I'm going to need to go speak to Vargos though. We're going to need to have a meeting with Ta'Eldim...
+
+[02:36:05] [main/INFO]: [CHAT] [Macuniloh] Z'Tkik! You scared me, Sukie! Is the teleporter working?
+[02:36:05] [main/INFO]: [CHAT] [I'd say so!]
+[02:36:08] [main/INFO]: [CHAT] [Macuniloh] Amazing. I can hardly believe an outsider managed to do all of this. I've spoken extensively to T'Xoc in your absence.
+[02:36:08] [main/INFO]: [CHAT] [...Good news I hope?]
+[02:36:12] [main/INFO]: [CHAT] [Macuniloh] I was threatened with exile.
+[02:36:12] [main/INFO]: [CHAT] [Oh.]
+[02:36:14] [main/INFO]: [CHAT] [Macuniloh] I was not exiled. I was protected from exile by the appearance of an outsider.
+[02:36:14] [main/INFO]: [CHAT] [Who?]
+[02:36:17] [main/INFO]: [CHAT] [Macuniloh] His name was Vargos. They want to meet with you.
+[02:36:17] [main/INFO]: [CHAT] [Oh.]
+[02:36:20] [main/INFO]: [CHAT] [Macuniloh] He seemed of importance.
+[02:36:20] [main/INFO]: [CHAT] [He is. He's the Archmage of Sierhaven.]
+[02:36:20] [main/INFO]: [CHAT] [Eh, he's pretty important I guess.]
+[02:36:20] [main/INFO]: [CHAT] [He's a nobody, don't worry about him.]
+[02:36:25] [main/INFO]: [CHAT] [Macuniloh] Whoa. Well, they are waiting in the bunker for you. Shall I take you there?
+[02:36:25] [main/INFO]: [CHAT] [Yes please.]
+[02:36:25] [main/INFO]: [CHAT] [You'll have to let me get ready.]
+
+[02:36:38] [main/INFO]: [CHAT] The Crystal Connection: Speak with T'Xoc.
+
+[02:37:13] [main/INFO]: [CHAT] [Vargos] T'Xoc would like to speak first.
+
+[02:37:15] [main/INFO]: [CHAT] [T'Xoc] Hello Sukie. We've been having quite a conversation about you. I knew you were well involved, but you've undergone quite a lot. You and Macuniloh - and T'Lm as well - put this town in a lot of danger. However, after speaking through things with your Archmage here, I think perhaps this linking may truly be of benefit.
+[02:37:15] [main/INFO]: [CHAT] [For real?]
+[02:37:26] [main/INFO]: [CHAT] [T'Xoc] For real. I believe you were correct. But you will NEVER mess with the magic of this town again. We cannot risk more attacks on our home. But at least we have the potential for a deep alliance with Sierhaven, unbelievably. He would like to speak with you too.
+
+[02:37:42] [main/INFO]: [CHAT] The Crystal Connection: Chat with Vargos
+
+[02:38:09] [main/INFO]: [CHAT] [Vargos] Yes, hello Sukie. You've made quite the name for yourself out here. First you're out working with Bhairavi gathering wool, and now you're forging alliances. Fellow member of the Mage Council, Cinevra, came to me after your hurried approach and sent me here. I'm not sure we've fully worked out a treaty between our two cities yet, but it's early. Thanks to your destructive tendencies, I think we're one step closer to some sort of peace in this realm. The next target should be the Sons of the Forest.
+[02:38:09] [main/INFO]: [CHAT] [I agree.]
+[02:38:30] [main/INFO]: [CHAT] [Vargos] You've done... interesting work here. I shall await more news on your work, and work with the rest of the Council - and the King too, of course, yes - on the nature of this alliance. T'Xoc has something for you now. Good seeing you again.
+
+[02:38:42] [main/INFO]: [CHAT] The Crystal Connection: Wrap up with T'Xoc
+
+[02:38:44] [main/INFO]: [CHAT] [T'Xoc] I would like to give you something as thanks for cleaning up your mess today. You caused chaos, but you fixed it, and in the end I think we came out stronger for it.
+[02:38:44] [main/INFO]: [CHAT] THE CRYSTAL CONNECTION COMPLETE!
+[02:38:44] [main/INFO]: [CHAT] Awarded access to a two-way teleporter to and from Sierhaven and Ta'Eldim, Grace of Ta'Eldim potion, and 1 Prestige
+[02:38:44] [main/INFO]: [CHAT] [T'Xoc] All I can say now is thank you for the chance at this alliance. It has more potential than I was willing to believe.
+
+
+==Halid's Song==
+[01:23:01] [main/INFO]: [CHAT] [Halid] Such misfortune...
+[01:23:01] [main/INFO]: [CHAT] [Excuse me?]
+[01:23:03] [main/INFO]: [CHAT] [Halid] Ah, hello young one. Care to join me in the hot springs? Although Eldim has not been here forever, these springs have. This spring is said to be able to clear one's mind of stress, however I fear it might only be making my situation worse.
+[01:23:03] [main/INFO]: [CHAT] [Situation?]
+[01:23:14] [main/INFO]: [CHAT] [Halid] Yes, a tragic one really. After the attack on Velara, I lost all of my musical ability. No matter how hard I try, all I can think of is that god-forsaken Anthill. I can't play, and thus I lost my title as Shaman of Song.
+[01:23:14] [main/INFO]: [CHAT] [I could investigate the Anthill.]
+[01:23:14] [main/INFO]: [CHAT] [I've got other things to do right now.]
+[01:23:27] [main/INFO]: [CHAT] [Halid] Really? You mean it? You would help a poor old fool like myself? Thank you young one, you warm my old heart. If you find anything music related, bring it back to me.
+[01:23:27] [main/INFO]: [CHAT] QUEST : HALID'S SONG
+[01:23:27] [main/INFO]: [CHAT]  Length : Very Long
+[01:23:27] [main/INFO]: [CHAT]  Difficulty : Medium
+[01:23:27] [main/INFO]: [CHAT] Search the Anthill and anything inside for anything music related.
+
+[01:23:48] [main/INFO]: [CHAT] Halid's Song: Investigate the corridors that lie within the Anthill for anything related to music, and bring it back to Halid.
+
+[00:07:14] [main/INFO]: [CHAT] [Halid] Young one, have you found anything within the Anthill yet?
+[00:07:14] [main/INFO]: [CHAT] [Well, not exactly the Anthill, but the within the corridors beneath it. I found this.]
+[00:07:14] [main/INFO]: [CHAT] [No, nothing yet, I'm still searching.]
+[00:08:23] [main/INFO]: [CHAT] [Halid] May I... see that?
+[00:08:23] [main/INFO]: [CHAT] [(Hand him the record you found)]
+[00:08:25] [main/INFO]: [CHAT] He taps the disc with his finger, and a red light ripples out.
+[00:08:25] [main/INFO]: [CHAT] [Halid] I know not what magic you've found within the corridors you speak of, child... But this record... it calls out for me. Hold on to it for now, and return when you're ready to begin. I require a moment myself.
+
+[00:09:13] [main/INFO]: [CHAT] Halid's Song: Find all 6 record discs and bring them back to Halid.
+
+> [TSKD] Moonberserker: Roguelike Discs
+ Arachnoid Caves: Web-Covered Classics
+ Haunted Halls: Ethereal Expressions 
+ Frozen Catacombs: Embalmer's Mixtape
+ Sunken Temple: Deepest Blues
+ Searing Sands: Sandy-Smooth Jazz
+ Volcanic Panic: Obsidian Hits
+
+3 possible record rooms per zone
+
+#Q47I02 https://puu.sh/GEnHC/515c28b3e4.png
+#Q47I04 https://puu.sh/GErU8/a5d302ef09.png
+#Q47I05 https://puu.sh/GEsQm/e1b0042ff1.png
+
+Ethereal Expressions, Deepest Blues, Obsidian Hits
+[00:09:31] [main/INFO]: [CHAT] [Halid] You return. I believe I am prepared for what lies ahead. Have you brought a record for me?
+[00:09:31] [main/INFO]: [CHAT] [I have. I'm ready when you are.]
+[00:09:31] [main/INFO]: [CHAT] [No, I didn't bring one.]
+[00:09:38] [main/INFO]: [CHAT] [Halid] Let us begin then.
+[00:09:38] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[00:09:38] [main/INFO]: [CHAT] [Halid] Sanctity of Silence... I wrote this after the fall of Ta'Ferna - I am sure you've heard this story before and I am unwilling to tell it myself. The amount of loss... it is painful to even think about.
+[00:09:38] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[00:09:38] [main/INFO]: [CHAT] [Halid] This... I never finished this song? How? Why? I... I was working on this before I lost my husband... It was a collection of my best memories, written into a song, but after his death I was overwhelmed with nightmares and failure, and I was never able to bring myself to finish it...
+[00:09:38] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[00:09:38] [main/INFO]: [CHAT] [Halid] I never properly named this one. Created it during my earlier years, as a battle song of sorts. I used my status to avoid fighting in the war against the Narsens out of fear and selfishness, and to avoid being shamed by my people I wrote this to fill our warriors with the might of Ixume itself. Ironic how Zanil was using Ixume's vessel to transform warriors into beasts at the same time.
+
+[00:10:45] [main/INFO]: [CHAT] [Halid] You return. I believe I am prepared for what lies ahead. Have you brought a record for me?
+[00:10:45] [main/INFO]: [CHAT] [I have. I'm ready when you are.]
+[00:10:45] [main/INFO]: [CHAT] [No, I didn't bring one.]
+[00:10:48] [main/INFO]: [CHAT] [Halid] I may be old, but I am not senile, child. Come back when you have a record for me.
+
+Embalmer's Mixtape
+[15:55:43] [main/INFO]: [CHAT] [Halid] You return. I believe I am prepared for what lies ahead. Have you brought a record for me?
+[15:55:43] [main/INFO]: [CHAT] [I have. I'm ready when you are.]
+[15:55:43] [main/INFO]: [CHAT] [No, I didn't bring one.]
+[15:55:44] [main/INFO]: [CHAT] [Halid] Let us begin then.
+[15:55:44] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[15:55:44] [main/INFO]: [CHAT] [Halid] ...I made this for my husband. He was an embalmer, and he was damn proud of it. I wasn't nearly as interested in his profession as he was, but I created this for him to listen to as he worked. A vile disease from the maw of Myrahg claimed his life over 20 years ago now - I have heard that you contained the plague since then. Knowing that no one else will suffer to it anymore, I am grateful to you, young one.
+
+sandy-smooth and web-covered
+[06:40:28] [main/INFO]: [CHAT] [Halid] You return. I believe I am prepared for what lies ahead. Have you brought a record for me?
+[06:40:28] [main/INFO]: [CHAT] [I have. I'm ready when you are.]
+[06:40:28] [main/INFO]: [CHAT] [No, I didn't bring one.]
+[06:40:30] [main/INFO]: [CHAT] [Halid] Let us begin then.
+[06:40:30] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[06:40:30] [main/INFO]: [CHAT] [Halid] Lodestar's Folly... Do you know about Erix, the last beacon-bearer? His pride was his own downfall, and nearly the downfall of those he was appointed to guide. A story for another time, young one.
+[06:40:30] [main/INFO]: [CHAT] He taps the disc rhythmically, and suddenly it shatters into a green light, enveloping him!
+[06:40:30] [main/INFO]: [CHAT] [Halid] I detest this song. I was pressured to write this one by my peers as a sign of respect towards the shamans and our elders. The same ones who led a futile war against the Narsens and paid the price with the lives of their own people. Immeasurable amounts of pain, created for nothing... I should not be speaking like this to you, young one. You are doing me a great service. Thank you.
+
+[06:41:08] [main/INFO]: [CHAT] [Halid] That... was the last record, child. I know it is so - I feel complete once again... it has been so long... I must be honest with you know, after all that you have done for me. I was not the Shaman of the Song. There is no such thing as a Shaman of Song. I was ashamed of the true circumstances that brought me to this position, and I feared you would not have helped me should you have known the truth!
+[06:41:08] [main/INFO]: [CHAT] [But why? What did you do?]
+[06:41:08] [main/INFO]: [CHAT] [Figured as much, explains why I've never heard of you before. Now what did you do exactly?]
+[06:41:28] [main/INFO]: [CHAT] [Halid] I made a deal. I caught the same plague from my husband, and it nearly took my life. But then he came to me, and offered me life in exchange for song. He said it amused him, and I accepted, thinking he would save my husband's life. Instead, he saved my own, and I've been empty ever since, my talents taken away.
+[06:41:28] [main/INFO]: [CHAT] [You should've told the truth, I still would have helped you!]
+[06:41:28] [main/INFO]: [CHAT] fan_chenn left the game
+[06:41:43] [main/INFO]: [CHAT] [Halid] You are much too kind, young one. I must compensate you - the trouble you went through to help me was surely vast and I cannot let you walk away empty handed.
+[06:41:43] [main/INFO]: [CHAT] [Halid] Here, young one, for you - it is a Tlaxan record player. I have set it up for you so you can play the 6 songs you returned to my memories, along with with a 7th song I wrote specifically for you. I also have a record disc version of that song for you to take as well. I simply cannot thank you enough for all you have done for me, I would be happy to set up the record player with any other songs you may find on your journey. I wish you good fortunes!
+[06:41:43] [main/INFO]: [CHAT] HALID'S SONG COMPLETE!
+[06:41:43] [main/INFO]: [CHAT] Awarded a Tlaxan Record Player, a new record disc, and the ability to bring Halid more songs to add to your Record Player
+
+Ballad of a Hero
+
+[06:41:43] [main/INFO]: [CHAT] [Halid] Welcome back, young one, what can I do for you?
+[06:41:43] [main/INFO]: [CHAT] [Do you know where I could find more music for you to add to the record player?]
+[06:41:43] [main/INFO]: [CHAT] [Just stopping by to say hello!]
+[06:42:20] [main/INFO]: [CHAT] [Halid] In my own attempts to restore my talent, I learned many things about Narsen music. If you could bring me one of their jukeboxes, I could fill your record player with more "jamming" tunes as you Narsens say. Additionally, I'm many other records exist across the world - it's just a matter of finding them, yes?
+
+==Crystal Visions==
+
+[01:38:32] [main/INFO]: [CHAT] [Nai] I heard a great cry from the depths. Have you found the truth within?
+[01:38:32] [main/INFO]: [CHAT] [I have. C'Shura was inside, and was corrupted by magics.]
+[01:38:32] [main/INFO]: [CHAT] [Weren't you called C'Nai when you wrote the book in Ta'Eldim?]
+[01:38:32] [main/INFO]: [CHAT] [Tell me more about the Sanctum.]
+[01:38:32] [main/INFO]: [CHAT] [I found books inside the Sanctum, but I was not able to leave with them.]
+[01:38:32] [main/INFO]: [CHAT] [Is there anything else I can do to help?]
+[01:38:35] [main/INFO]: [CHAT] <G> [DNG] rayman520 » because its CiT
+[01:38:40] [main/INFO]: [CHAT] <G> [TCL] needmoney90 » its been recommended since like 2012 for 'performance'
+[01:38:44] [main/INFO]: [CHAT] <G> [DNG] rayman520 » optifines enable to have a texture with item name
+[01:38:48] [main/INFO]: [CHAT] [Nai] ...Yes. You have much experience with Kaul, yes? Perhaps even more than C'Axtal himself. You have quelled his rage time and time again, yet it still burns hot within him. I fear he poses a threat still, not just to the Valley, but to the other Loci.
+[01:38:48] [main/INFO]: [CHAT] [How could he affect the other Loci?]
+[01:40:31] [main/INFO]: [CHAT] [Nai] The Loci are the Dreamers. You have certainly heard them called that before. However, they do not dream alone. The dream is shared amongst them all, a web of life over the Jungle. Kaul dreams the loudest. I believe his dream has filled this web, suffocating the other dreamers. But if we can enter the dream through the lesser dreamers, perhaps we can find the source of his rage undetected by him.
+[01:40:31] [main/INFO]: [CHAT] [How am I going to enter the dream?]
+[01:40:47] [main/INFO]: [CHAT] [Nai] Take this, and return to Velara. Within lies two Dreamers, strong enough to be communed with. Drink it, slowly, and you will be capable. Enter the dream.
+
+[01:40:47] [main/INFO]: [CHAT] QUEST : CRYSTAL VISIONS
+[01:40:47] [main/INFO]: [CHAT]  Length : Short
+[01:40:47] [main/INFO]: [CHAT]  Difficulty : Medium
+
+[01:40:47] [main/INFO]: [CHAT] Drink what she gave you and enter the dream via a Loci in Velara. Xototl is your best bet.
+
+[01:43:15] [main/INFO]: [CHAT] Crystal Visions: Drink the Blood of the Forest. Speak to Nai if you misplace it. You must drink it normally, quick drinking it will not work.
+
+#Q52I01
+
+[01:45:48] [main/INFO]: [CHAT] As you take a drink from the bottle, you momentarily black out, and wake up feeling nauseated, but... different.
+[01:45:53] [main/INFO]: [CHAT] Crystal Visions: Enter Velara.
+
+[01:49:10] [main/INFO]: [CHAT] Crystal Visions: Speak to Xolotl.
+
+(1000, 172, 754)
+[01:52:06] [main/INFO]: [CHAT] [Xolotl] breathe out
+[01:52:06] [main/INFO]: [CHAT] [Xolotl] can you dream
+[01:52:06] [main/INFO]: [CHAT] [Uhh... yes?]
+[01:52:10] [main/INFO]: [CHAT] [Xolotl] sleep
+
+[02:07:28] [main/INFO]: [CHAT] [Mictlan] he will not like you here
+[02:07:28] [main/INFO]: [CHAT] [Mictlan] so close to his rage
+[02:07:28] [main/INFO]: [CHAT] [Excuse me?]
+[02:07:35] [main/INFO]: [CHAT] [Mictlan] let me show you...
+
+[02:08:04] [main/INFO]: [CHAT] Crystal Visions [1/2]: Enter Velara.
+[02:08:03] [main/INFO]: [CHAT] Crystal Visions [2/2]: Open the chest.
+
+[02:08:37] [main/INFO]: [CHAT] YOU. YOU FREED MY SERVANTS, DESTROYED MY DREAM, AND WOKE ME FROM MY SLUMBER TIME AND TIME AGAIN. NOW YOU DARE VIOLATE THE DREAM ONCE MORE? DIE.
+[02:08:56] [main/INFO]: [CHAT] Crystal Visions [1/2]: Enter Velara.
+[02:08:57] [main/INFO]: [CHAT] Crystal Visions [2/2]: Defeat Kaul's Rage.
+[02:09:42] [main/INFO]: [CHAT] Sukie was slain by §4Rage Incarnate
+[02:09:44] [main/INFO]: [CHAT] You pass out as Mictlan pulls you out of the arena...
+
+[02:10:38] [main/INFO]: [CHAT] YOU. YOU FREED MY SERVANTS, DESTROYED MY DREAM, AND WOKE ME FROM MY SLUMBER TIME AND TIME AGAIN. NOW YOU DARE VIOLATE THE DREAM ONCE MORE? DIE.
+[02:10:42] [main/INFO]: [CHAT] The being falls to the ground, shattering. You feel the world fading around you, and your pockets feel heavier...
+
+#Q52I02
+
+[02:11:05] [main/INFO]: [CHAT] Crystal Visions: Return to Nai with the rage.
+
+[02:11:47] [main/INFO]: [CHAT] Crystal Visions: Speak to Xolotl if you lose the rage.
+[02:11:54] [main/INFO]: [CHAT] [Xolotl] i am eternity
+[02:11:54] [main/INFO]: [CHAT] [Xolotl] need rage
+[02:11:54] [main/INFO]: [CHAT] [Yes.]
+[02:11:56] [main/INFO]: [CHAT] [Xolotl] take
+[02:12:10] [main/INFO]: [CHAT] Crystal Visions: Return to Nai with the rage.
+
+[02:16:42] [main/INFO]: [CHAT] [Nai] You're back. I feel you've entered the dream, and brought something back. May I see it?
+[02:16:42] [main/INFO]: [CHAT] [Sure, here you go.]
+[02:16:45] [main/INFO]: [CHAT] [Nai] Pure, focused rage, pulled straight out of a dream... If you return to Kaul's nightmare, the reverie... I believe I could channel its power. But be warned - this is true anger. Returning into the nightmare with this channeled power would certainly anger Kaul even more, so be careful...
+[02:16:45] [main/INFO]: [CHAT] [Nai] Thank you, Sukie. Here - as a token of my appreciation. My time grows shorter and I need it no longer. Perhaps it will be of help conquering the nightmare again.
+[02:16:45] [main/INFO]: [CHAT] CRYSTAL VISIONS COMPLETE!
+[02:16:45] [main/INFO]: [CHAT] Awarded Nai's Cube and access to Malevolent Reverie Delves!

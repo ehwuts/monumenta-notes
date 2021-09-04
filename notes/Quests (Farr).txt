@@ -1,0 +1,540 @@
+=Quest Guide (Farr)=
+==Fountain of Miracles==
+* Difficulty: Hard
+* Requirements: None
+* Start: Drake
+==Lost in My Mind==
+* Difficulty: Easy
+* Requirements: The Alchemy Labs, 5 Prestige
+* Start: Eowen
+==Runaway Pet==
+* Difficulty: Medium
+* Requirements: None
+* Start: Leonard
+==Of Monks and Magic==
+* Difficulty: Medium-Hard
+* Requirements: Mage's Legacy
+* Start: Captain Tobias
+==Pyromania==
+* Difficulty: Medium-Hard
+* Requirements: None
+* Start: Carbocius
+==A Beast of a Book==
+* Difficulty: Hard
+* Requirements: Completed the Yellow dungeon
+* Start: Erwen (600, 99, 115)
+==Sons of the Forest==
+* Difficulty: Hard
+* Requirements: Of Monks and Magic
+* Start: Captain Tobias
+==Tlaxan Troubles==
+* Difficulty: Medium
+* Requirements: Roots of the Plague, Completed the Magenta Dungeon
+* Start: T'Lm in the Magenta lobby
+
+=Quests=
+
+==Fountain of Miracles==
+
+[00:51:12] [main/INFO]: [CHAT] [Drake] Ah, I see it in your eyes, you're an adventurer. I used to be an adventurer like you, but then a cave spider crippled my leg. Stick around and talk for a bit and I'll buy you a drink.
+[00:51:12] [main/INFO]: [CHAT] [Sure, I'll listen]
+[00:51:12] [main/INFO]: [CHAT] [Some other time]
+[00:51:26] [main/INFO]: [CHAT] [Drake] Ha, good choice. And here's that drink I promised.
+[00:51:26] [main/INFO]: [CHAT] Received 1 Awful Ale
+[00:51:26] [main/INFO]: [CHAT] [Drake] Now, I can tell you about my adventurers on the Air Rafts of Galos, Siege of Redstorm, or my search for the Fountain of Miracles.
+[00:51:26] [main/INFO]: [CHAT] [Air Rafts of Galos]
+[00:51:26] [main/INFO]: [CHAT] [Siege of Redstorm]
+[00:51:26] [main/INFO]: [CHAT] [Fountain of Miracles]
+[00:51:33] [main/INFO]: [CHAT] [Drake] Well you see, the Galos' lands have acid lakes that give off noxious fumes. So they've lashed giant wood platforms to ghasts and sail through the air. I was a sky pirate there, raiding and pillaging, but quit because the ghasts never shut up.
+[00:51:37] [main/INFO]: [CHAT] X_Shifty_X left the game
+[00:51:43] [main/INFO]: [CHAT] [Drake] Now, I can tell you about my adventurers on the Air Rafts of Galos, Siege of Redstorm, or my search for the Fountain of Miracles.
+[00:51:43] [main/INFO]: [CHAT] [Air Rafts of Galos]
+[00:51:43] [main/INFO]: [CHAT] [Siege of Redstorm]
+[00:51:43] [main/INFO]: [CHAT] [Fountain of Miracles]
+[00:51:45] [main/INFO]: [CHAT] [Drake] I was in the city of Redstorm when the Wheeler Legion put us to siege. Oh, the redstone cannons and poison launchers we had, technology you've never seen. After a year though they broke through the gates and started sacking the city, so I stole one of their uniforms and joined the party, ha!
+[00:51:56] [main/INFO]: [CHAT] [Drake] Now, I can tell you about my adventurers on the Air Rafts of Galos, Siege of Redstorm, or my search for the Fountain of Miracles.
+[00:51:56] [main/INFO]: [CHAT] [Air Rafts of Galos]
+[00:51:56] [main/INFO]: [CHAT] [Siege of Redstorm]
+[00:51:56] [main/INFO]: [CHAT] [Fountain of Miracles]
+[00:51:58] [main/INFO]: [CHAT] [Drake] Nearby, in the South of the Blackroot Jungle, the Tlaxani spoke of a magical Fountain. The waters from it could heal any wound. I spent years looking for it, but failed. You though, I think you've got a chance, what do you say?
+[00:51:58] [main/INFO]: [CHAT] [I'll start my search]
+[00:51:58] [main/INFO]: [CHAT] [Sounds too dangerous]
+[00:52:07] [main/INFO]: [CHAT] [Drake] Haha, that's the spirit! Good luck out there, and watch out for spiders!
+[00:52:07] [main/INFO]: [CHAT] QUEST : FOUNTAIN OF MIRACLES
+[00:52:07] [main/INFO]: [CHAT]  Length : Short
+[00:52:07] [main/INFO]: [CHAT]  Difficulty : Hard
+[00:52:07] [main/INFO]: [CHAT] Look in the South of the jungle for a legendary fountain.
+
+[22:28:27] [main/INFO]: [CHAT] [Spirit of the Fountain] Hello? Is someone there? If you can hear me, the fountain's source is corrupted. Dark druids have summoned foul grove creatures to pollute the water in the eastern lake. Slay the foul beasts on that forsaken island so that the fountain can be pure again.
+
+
+[22:28:39] [main/INFO]: [CHAT] Fountain of Miracles: The fountain has been corrupted! The island to the east of it must be purified by slaying the venomous spiders that dwell there.
+
+[22:32:41] [main/INFO]: [CHAT] You feel a corrupting influence lift from this forest. Perhaps you should return to the Fountain.
+
+[22:33:05] [main/INFO]: [CHAT] Fountain of Miracles: The beasts have been slain and the source purified! Return to the fountain in the caves for a blessing.
+
+[22:35:27] [main/INFO]: [CHAT] [Spirit of the Fountain] Thank you hero, you have restored the healing magic of the fountain. Bathe in it to give yourself restorative powers. My magic cannot do much else, but thank you for your kindness, and beware the druids...
+
+[22:35:36] [main/INFO]: [CHAT] Fountain of Miracles: Return to Drake and tell him that the fountain has been purified.
+
+[22:39:43] [main/INFO]: [CHAT] FOUNTAIN OF MIRACLES COMPLETE!
+[22:39:43] [main/INFO]: [CHAT] Awarded 4 Golden Apples, Water Robe, and 1 Prestige
+[22:39:43] [main/INFO]: [CHAT] [Drake] You found it? Great job, I knew an adventurer like you could find it. I think it's time for me to hobble over there and dunk my leg in it.
+
+
+==Lost in my Mind==
+[20:46:04] [Render thread/INFO]: [CHAT] [Eowen] This memorial should be beautiful. It's a lie.
+[20:46:04] [Render thread/INFO]: [CHAT] [Excuse me?]
+[20:46:06] [Render thread/INFO]: [CHAT] [Eowen] The attack on Farr 30 years ago. It killed so many. This memorial is a beautiful reminder of those who lost their lives. But it's a lie. My brother is still alive.
+[20:46:06] [Render thread/INFO]: [CHAT] [Who is your brother?]
+[20:46:11] [Render thread/INFO]: [CHAT] [Eowen] His name is Kurtis. It's right there on the memorial. I just have this overwhelming feeling he's still with us. He lived in a bunker outside town. He was sure something bad was coming. He prepared. There's no way he died.
+[20:46:11] [Render thread/INFO]: [CHAT] [Could I help you find him?]
+[20:46:16] [Render thread/INFO]: [CHAT] [Eowen] You could help, I suppose. I've been searching for him for 30 years though. Maybe some fresh eyes could find something I didn't, I guess. It's been so long...
+[20:46:16] [Render thread/INFO]: [CHAT] [Where is his bunker? I'm ready to go.]
+[20:46:16] [Render thread/INFO]: [CHAT] [I'll be back to help later.]
+[20:46:21] [Render thread/INFO]: [CHAT] [Eowen] You're serious about helping? I'll have to scrounge something up to pay you if you find something. Thank you.
+[20:46:21] [Render thread/INFO]: [CHAT] QUEST : LOST IN MY MIND
+[20:46:21] [Render thread/INFO]: [CHAT] Length : Medium
+[20:46:21] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[20:46:21] [Render thread/INFO]: [CHAT] Search Kurtis' bunker to try and find some clue as to where he went 30 years ago.
+[20:46:21] [Render thread/INFO]: [CHAT] [Eowen] His bunker is just outside the southern city gate, down a trapdoor. It should be unlocked. I'd go with you, but I can't bear to return there anymore. It just hurts too much. I miss him Sukie...
+
+https://puu.sh/GzEAy/3a76e0e5b5.png
+https://puu.sh/GzEAm/9d21152ff6.png
+https://puu.sh/GzEE3/5e0c2fcfbd.png
+https://puu.sh/GzEDL/2811fdb4e6.png
+
+[01:59:23] [Render thread/INFO]: [CHAT] [Eowen] You've come back. Is it wrong of me to be surprised? Have you found anything?
+[01:59:23] [Render thread/INFO]: [CHAT] [I think I have. I found this book inside a hidden Safe Room.]
+[01:59:26] [Render thread/INFO]: [CHAT] [Eowen] Let me see it... Hmm... I... I don't know what to say. This is real? For real? He's really alive?
+[01:59:26] [Render thread/INFO]: [CHAT] [That's what it seems.]
+[01:59:30] [Render thread/INFO]: [CHAT] [Eowen] Where is this warehouse? Who did he make a deal with? I don't understand.
+[01:59:30] [Render thread/INFO]: [CHAT] [I have the same questions. Do you have any ideas about the warehouse?]
+[01:59:30] [Render thread/INFO]: [CHAT] __Veron left the game
+[01:59:34] [Render thread/INFO]: [CHAT] [Eowen] Not off the top of my head. Did you see anything that might help?
+[01:59:34] [Render thread/INFO]: [CHAT] [There was a banner in the safe room all over. It was brown, with a white stripe and a red circle in the center.]
+[01:59:36] [Render thread/INFO]: [CHAT] [Alert] Monumenta will perform its daily restart in 15 seconds. This helps reduce lag! The server will be down for ~90 seconds.
+[01:59:39] [Render thread/INFO]: [CHAT] Tatsu43 left the game
+[01:59:40] [Render thread/INFO]: [CHAT] [Eowen] ...The Freetraders' banner? What was it doing down there?
+[01:59:40] [Render thread/INFO]: [CHAT] [The Freetraders?]
+[01:59:40] [Render thread/INFO]: [CHAT] Corrupted_Night left the game
+[01:59:42] [Render thread/INFO]: [CHAT] [Eowen] They were a group of mercenaries operating out of Sierhaven before the attack. Kurtis did work for them in the past. But they broke up before the attack, so why would their banner be in this safe room? And he mentions Maren, 'The Shady Trader'... Could something be going on in Sierhaven? This seems like a long shot though...
+[01:59:42] [Render thread/INFO]: [CHAT] [I'll go poke around. Here's hoping it works.]
+[01:59:43] [Render thread/INFO]: [CHAT] [Eowen] I'm really hoping so.
+
+[11:25:34] [Render thread/INFO]: [CHAT] WonderSim left the game
+[11:25:38] [Render thread/INFO]: [CHAT] Lost in My Mind: Try and find Kurtis; the Shady Trader might be able to lead you to him.
+[11:26:07] [Render thread/WARN]: Received passengers for unknown entity
+[11:26:09] [Render thread/WARN]: Received passengers for unknown entity
+[11:26:11] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.snow_golem.ambient
+[11:26:30] [Render thread/INFO]: [CHAT] Lost in My Mind: Try and find Kurtis; the Shady Trader might be able to lead you to him.
+[11:26:42] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » e
+[11:26:48] [Render thread/INFO]: [CHAT] <G> [GTM] Diego0552 » e
+[11:27:03] [Render thread/INFO]: [CHAT] KarlStrauss defeated the Echoes of Oblivion!
+[11:27:06] [Render thread/INFO]: [CHAT] <G> Speedfish » gg!
+[11:27:06] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » yeehaw
+[11:27:08] [Render thread/INFO]: [CHAT] <G> IcebergLettuce47 » gg
+[11:27:10] [Render thread/INFO]: [CHAT] This door is warded to keep unauthorized materials out. Best to come in empty handed.
+[11:27:11] [Render thread/INFO]: [CHAT] <G> [GTM] Diego0552 » gg
+[11:27:17] [Render thread/INFO]: [CHAT] This door is warded to keep unauthorized materials out. Best to come in empty handed.
+[11:27:33] [Render thread/INFO]: [CHAT] [Levyn] I always return to my favorite barrrrr when I have a chance!
+[11:27:36] [Render thread/INFO]: [CHAT] Lost in My Mind: Try and find Kurtis; the Shady Trader might be able to lead you to him.
+[11:27:55] [Render thread/INFO]: [CHAT] PandicornioLn joined the game
+[11:29:15] [Render thread/INFO]: [CHAT] [Shady Trader] H-hello there!
+[11:29:15] [Render thread/INFO]: [CHAT] The man struggles to smile, but his eyes dart back and forth
+[11:29:15] [Render thread/INFO]: [CHAT] [Hello.]
+[11:29:18] [Render thread/INFO]: [CHAT] [Shady Trader] Would you like to purchase some spectacular items?
+[11:29:18] [Render thread/INFO]: [CHAT] [Shady Trader] They asked me to sell to you, and I'm sure you'd love our amazing replicas.
+[11:29:18] [Render thread/INFO]: [CHAT] [Replicas?]
+[11:29:18] [Render thread/INFO]: [CHAT] [I'm not interested.]
+[11:29:25] [Render thread/INFO]: [CHAT] [Shady Trader] Yes, Replicas of items you've found on your travels! They are the finest money can buy, they told me to tell you.
+[11:29:25] [Render thread/INFO]: [CHAT] [Sure, I'm interested.]
+[11:29:25] [Render thread/INFO]: [CHAT] [I'm not interested.]
+[11:29:31] [Render thread/WARN]: Received passengers for unknown entity
+
+[11:30:32] [Render thread/INFO]: [CHAT] Lost in My Mind: Try and find Kurtis; the Shady Trader might be able to lead you to him.
+[11:30:35] [Render thread/INFO]: [CHAT] [Kurtis] Please buy from me? I was the first, why can I not leave yet?
+[11:30:35] [Render thread/INFO]: [CHAT] [You're Kurtis, aren't you?]
+[11:30:40] [Render thread/INFO]: [CHAT] [Kurtis] Yes! Are you here to buy from me?
+[11:30:40] [Render thread/INFO]: [CHAT] [No, I'm here because your brother has been searching for you. For 30 years.]
+[11:30:46] [Render thread/INFO]: [CHAT] [Kurtis] I don't have a brother. I don't have a life beyond my sales. Not until I have finished.
+[11:30:46] [Render thread/INFO]: [CHAT] [Are you sure? Eowen said a man named Kurtis used to live in Farr, in a bunker, before a massive attack on the city. He thought you were dead.]
+[11:30:59] [Render thread/INFO]: [CHAT] [Kurtis] Eowen...? My... brother? He... he's been trying to find me?
+[11:30:59] [Render thread/INFO]: [CHAT] [Yes. He's not given up for decades. He knew you were alive.]
+[11:31:04] [Render thread/INFO]: [CHAT] [Kurtis] They came to me... I was trapped... I was offered a deal...
+[11:31:04] [Render thread/INFO]: [CHAT] [And you took it. But we found you!]
+[11:31:07] [Render thread/INFO]: [CHAT] [Kurtis] I can't leave. I'm trapped. But Eowen isn't. He can live his life still. I still remember when we were just boys, playing by the banks of the river outside Farr. I fell in. I couldn't swim. He jumped in and saved me, nearly drowning in the process. He saved my life. I owe him the chance to keep living his, not hunting for me.
+[11:31:07] [Render thread/INFO]: [CHAT] [I...]
+[11:31:17] [Render thread/INFO]: [CHAT] [Kurtis] Here. I've spent a long time writing down what happened the day of the attack. Eowen needs to know. I can't stay though. I must sell... They told me... Quickly, take this, before I forget again. Memory is tough here...
+[11:31:17] [Render thread/INFO]: [CHAT] [Kurtis] Please buy from me? I was the first, why can I not leave yet?
+
+#Q37I03 https://puu.sh/GzMSi/a009680176.png
+https://puu.sh/GzMSM/50e52d5e17.png
+https://puu.sh/GzMSW/911330b5fb.png
+https://puu.sh/GzMT3/600dc7a845.png
+https://puu.sh/GzMTh/1a715529f3.png
+https://puu.sh/GzMTx/f409bdcd75.png
+https://puu.sh/GzMTE/5c0b2edc6d.png
+https://puu.sh/GzMTU/249654eeeb.png
+https://puu.sh/GzMU0/3365baa38c.png
+https://puu.sh/GzMUe/b2bb135d99.png
+https://puu.sh/GzMUp/25575b611e.png
+https://puu.sh/GzMUN/aec9eab425.png
+https://puu.sh/GzMUW/23de96e63e.png
+https://puu.sh/GzMV5/be238f9c67.png
+https://puu.sh/GzMVj/0832864bbc.png
+https://puu.sh/GzMVz/183dbcba98.png
+https://puu.sh/GzMVI/98ed92b4f6.png
+https://puu.sh/GzMVZ/87c8ad66e4.png
+https://puu.sh/GzMWa/ae2f694589.png
+
+[11:37:30] [Render thread/INFO]: [CHAT] [Eowen] You are back! Do you have any news? Why are you looking at me like that? Is something wrong?
+[11:37:30] [Render thread/INFO]: [CHAT] [I found him. He gave me his journal to give you. It isn't an easy read.]
+[11:37:30] [Render thread/INFO]: [CHAT] [I haven't managed to find your brother yet.]
+[11:37:31] [Render thread/INFO]: [CHAT] <G> [GTM] PandicornioLn » we all good lmao
+[11:37:32] [Render thread/INFO]: [CHAT] PandicornioLn left the game
+[11:37:34] [Render thread/INFO]: [CHAT] PandicornioLn joined the game
+[11:37:36] [Render thread/INFO]: [CHAT] [Eowen] You actually found him? Let me see that!
+[11:37:36] [Render thread/INFO]: [CHAT] Eowen looks at the journal, his eyes full of hope and optimism.
+[11:37:36] [Render thread/INFO]: [CHAT] As he flips through the pages his eyes begin to dim.
+[11:37:36] [Render thread/INFO]: [CHAT] As he reaches the last page his eyes are like the void, absent of the light he started with.
+[11:37:36] [Render thread/INFO]: [CHAT] [Eowen] He... is in this much pain? He felt that much guilt? He is the only reason I'm alive today, my home was leveled to the ground. I only survived since I ran and hid like a coward. I should be the one with guilt for leaving the town to die, not him.
+[11:37:36] [Render thread/INFO]: [CHAT] [Eowen] Sadly I can't honor his request. He doesn't deserve this fate, no one does. I have much research to do.
+[11:37:36] [Render thread/INFO]: [CHAT] [Eowen] In the mean time though have the reward I promised you. Thank you for showing me the path I must take.
+[11:37:36] [Render thread/INFO]: [CHAT] LOST IN MY MIND COMPLETE!
+[11:37:36] [Render thread/INFO]: [CHAT] Awarded 2 Royal Crystals
+
+
+==Runaway Pet==
+[12:06:59] [Render thread/INFO]: [CHAT] Runaway Pet [1/2]: Find 'Mr. Snuggles' in a tower near Farr.
+Creeper Tower
+[12:07:00] [Render thread/INFO]: [CHAT] Runaway Pet [2/2]: Once you find Mr. Snuggles bring him back to Leonard.
+
+[20:42:46] [Render thread/INFO]: [CHAT] [Leonard] *sob* Come back Mr Snuggles! *sob*
+[20:42:46] [Render thread/INFO]: [CHAT] [Who's Mr Snuggles?]
+[20:42:46] [Render thread/WARN]: Unable to play unknown soundEvent: epic:q.r1.09.leonard.come_back
+[20:42:49] [Render thread/INFO]: [CHAT] [Leonard] Mr Snuggles is the bestest and cuddliest and nicest pet ever but the door was open last night and he wandered out and now he's gone. *sob* Would you find him?
+[20:42:49] [Render thread/INFO]: [CHAT] [Of course!]
+[20:42:49] [Render thread/INFO]: [CHAT] [No, I'm bad with animals]
+[20:42:49] [Render thread/WARN]: Unable to play unknown soundEvent: epic:q.r1.09.leonard.mr_snuggles_is
+[20:42:50] [Render thread/INFO]: [CHAT] [Leonard] Thank you, thank you, thank you! Mr Snuggles always liked being with his friends at the big tower with the birdie on top of it. Maybe you should look there?
+[20:42:50] [Render thread/INFO]: [CHAT] QUEST : RUNAWAY PET
+[20:42:50] [Render thread/INFO]: [CHAT]  Length : Medium
+[20:42:50] [Render thread/INFO]: [CHAT]  Difficulty : Medium
+[20:42:50] [Render thread/INFO]: [CHAT] Look for Mr Snuggles nearby in a tower with a bird on it
+
+[12:29:43] [Render thread/INFO]: [CHAT] [Leonard] You found him, you found him! I'll hug him and squeeze him and we'll play outside and have so much fun! Here you take these and I'll go play with Mr Snuggles!
+[12:29:43] [Render thread/INFO]: [CHAT] RUNAWAY PET COMPLETE!
+[12:29:43] [Render thread/INFO]: [CHAT] Awarded 64 Enchanting Bottles, Mr Snuggles Doll, Tyrolean Boots, and 1 Prestige
+
+https://puu.sh/GzNVo/702ad56cf8.png
+
+
+==Of Monks and Magic==
+[20:38:02] [Render thread/INFO]: [CHAT] [Captain Tobias] Hello there, welcome to Farr. Keep an eye out while you're here; rogues and monsters surround this town, but we'll keep you safe within the walls. And tell me, do you have a bit of free time?
+[20:38:02] [Render thread/INFO]: [CHAT] [I do have time.]
+[20:38:02] [Render thread/INFO]: [CHAT] [I'm busy.]
+[20:38:05] [Render thread/INFO]: [CHAT] [Captain Tobias] Glad to hear it. Now, are you familiar with the Axtan Monastery, up in the Jaguar Tooth Mountains?
+[20:38:05] [Render thread/INFO]: [CHAT] [I've been there.]
+[20:38:05] [Render thread/INFO]: [CHAT] [Never heard of it.]
+[20:38:21] [Render thread/INFO]: [CHAT] [Captain Tobias] Good, means you won't need directions. The Monks up there normally come to town every week, trading ale and books for food and tools. We haven't seen them in twelve days. I've heard some bad rumors that make me nervous, so could you go check on them?
+[20:38:21] [Render thread/INFO]: [CHAT] [Absolutely!]
+[20:38:21] [Render thread/INFO]: [CHAT] [Not right now.]
+[20:38:22] [Render thread/INFO]: [CHAT] [Captain Tobias] Splendid. Head up north, make sure the monks are fine and assist if they are not, and then report back.
+[20:38:22] [Render thread/INFO]: [CHAT] QUEST : OF MONKS & MAGIC
+[20:38:22] [Render thread/INFO]: [CHAT]  Length : Short
+[20:38:22] [Render thread/INFO]: [CHAT]  Difficulty : Medium-Hard
+[20:38:22] [Render thread/INFO]: [CHAT] Visit the Axtan Monastery to the North and see why they haven't come to town lately.
+[20:38:22] [Render thread/INFO]: [CHAT] [Captain Tobias] Head up north, make sure the monks are fine and assist if they are not, and then report back.
+
+[CHAT] Of Monks and Magic: The Axtan Monks haven't been heard from lately. Captain Tobias asks that you see if they're alright.
+
+[14:30:32] [Render thread/INFO]: [CHAT] You feel the dark magic of the Sons of the Forest lift from the monastery!
+
+[14:30:51] [Render thread/INFO]: [CHAT] Of Monks and Magic: Talk to the Abbot and try to learn what happened.
+
+[14:32:03] [Render thread/INFO]: [CHAT] [Abbot Johann] Bless you warrior! I felt the influence of that shadowy spell lift from us. Now go, hurry back to Farr and warn Captain Tobias that the Sons of the Forest have risen again and are trying to steal secrets most ancient.
+[14:32:03] [Render thread/INFO]: [CHAT] OF MONKS & MAGIC COMPLETE!
+[14:32:03] [Render thread/INFO]: [CHAT] Awarded Monk's Robe and 1 Prestige!
+[14:32:03] [Render thread/INFO]: [CHAT] [Abbot Johann] The sooner the rest of the Empire knows that the Sons of the Forest have risen again, the better. Be wary, they seem even stronger than thirty years ago, when they first attacked.
+
+[14:32:32] [Render thread/INFO]: [CHAT] [Abbot Johann] The sooner the rest of the Empire knows that the Sons of the Forest have risen again, the better. Be wary, they seem even stronger than thirty years ago, when they first attacked.
+[14:32:35] [Render thread/INFO]: [CHAT] Of Monks and Magic: The Monks are safe for now. Return to Captain Tobias and warn him of this new threat, the Sons of the Forest.
+
+
+==Pyromania==
+[22:06:08] [Render thread/INFO]: [CHAT] [Carbocius] Welcome, welcome. I can sell you items of a particularly pyromaniacal nature, but first, a question! Look behind me at my collection, and tell me; what am I missing?
+[22:06:08] [Render thread/INFO]: [CHAT] [More rocks?]
+[22:06:08] [Render thread/INFO]: [CHAT] [Sanity?]
+[22:06:08] [Render thread/INFO]: [CHAT] [Umm...]
+[22:06:15] [Render thread/INFO]: [CHAT] [Carbocius] Ha, brilliant! Of course, I didn't hear you, but I'm sure it was a fine guess. The answer is of course, new samples! My collection of pyroclastic flows is drying up, and require new samples from the geologic features nearby. What do you say old chum, think you could dig up three fresh magma samples?
+[22:06:15] [Render thread/INFO]: [CHAT] [Sure, I like geology]
+[22:06:15] [Render thread/INFO]: [CHAT] [I don't think so]
+[22:06:25] [Render thread/INFO]: [CHAT] [Carbocius] Ah ha, I think I just heard an enthusiastic 'yes'! Brilliant old chap, it's great to see that passion for geology still runs rampant! Three magma samples from three different geologic features, bring them here quick before they harden, chop chop.
+[22:06:25] [Render thread/INFO]: [CHAT] QUEST : PYROMANIA
+[22:06:25] [Render thread/INFO]: [CHAT]  Length : Medium
+[22:06:25] [Render thread/INFO]: [CHAT]  Difficulty : Medium-Hard
+[22:06:25] [Render thread/INFO]: [CHAT] Gather magma samples from three nearby firey dungeons
+[22:06:25] [Render thread/INFO]: [CHAT] [Carbocius] Three magma samples, bring them here quickly before they harden, post-haste.
+
+[15:42:05] [Render thread/INFO]: [CHAT] Pyromania [1/4]: Carbocius needs magma samples. Retrieve one from the Volcano in the Highlands.
+[15:42:27] [Render thread/INFO]: [CHAT] Pyromania [2/4]: Carbocius needs magma samples. Retrieve one from the Fire Cave, west of the Axtan Monastery.
+[15:42:28] [Render thread/INFO]: [CHAT] Pyromania [3/4]: Carbocius needs magma samples. Retrieve one from the Molten Chasm, east of Farr.
+[15:42:28] [Render thread/INFO]: [CHAT] Pyromania [4/4]: Return to Carbocius once you have all three magma samples.
+
+#Q10I01  https://puu.sh/GAFXU/479fa1193e.png
+#Q10I02 https://puu.sh/GzSvq/18e844e154.png
+#Q10I03 https://puu.sh/GAGqS/63259cb79c.png
+
+[14:42:48] [main/INFO]: [CHAT] [Carbocius] Ha, brilliant! Look at those dolerite inclusions, simply beautiful. Here, have these. It occurs to me you might have preferred this before acquiring these samples, but look at these extrusive patterns!
+[14:42:48] [main/INFO]: [CHAT] PYROMANIA COMPLETE!
+[14:42:48] [main/INFO]: [CHAT] Awarded 128 Enchanting Bottles, Geomantic Dagger, and 1 Prestige!
+
+
+==Sons of the Forest==
+[15:04:24] [Render thread/INFO]: [CHAT] Of Monks and Magic: The Monks are safe for now. Return to Captain Tobias and warn him of this new threat, the Sons of the Forest.
+[15:04:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:04:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:04:26] [Render thread/WARN]: Received passengers for unknown entity
+[15:05:00] [Render thread/WARN]: Received passengers for unknown entity
+[15:05:00] [Render thread/WARN]: Received passengers for unknown entity
+[15:05:04] [Render thread/WARN]: Received passengers for unknown entity
+[15:05:17] [Render thread/INFO]: [CHAT] [Captain Tobias] I'm glad the monks are alive, but if the Sons of the Forest are back we may be in danger. Well, more danger than usual.
+[15:05:17] [Render thread/INFO]: [CHAT] [Who are the Sons of the Forest?]
+[15:05:17] [Render thread/INFO]: [CHAT] [What are they up to?]
+[15:05:17] [Render thread/INFO]: [CHAT] [Where are they located?]
+[15:05:22] [Render thread/INFO]: [CHAT] [Captain Tobias] They're a group of dark druids and Tlaxan blood priests. After the Blackroot Wars they vowed to destroy the Narsen Empire and spent decades attacking our towns. They vanished thirty years ago, but there's always been rumors that they still lived.
+[15:05:28] [Render thread/INFO]: [CHAT] [Captain Tobias] I'm glad the monks are alive, but if the Sons of the Forest are back we may be in danger. Well, more danger than usual.
+[15:05:28] [Render thread/INFO]: [CHAT] [Who are the Sons of the Forest?]
+[15:05:28] [Render thread/INFO]: [CHAT] [What are they up to?]
+[15:05:28] [Render thread/INFO]: [CHAT] [Where are they located?]
+[15:05:30] [Render thread/INFO]: [CHAT] [Captain Tobias] No doubt something sinister and deadly. In their last major attack thirty years ago, they tried to unleash a curse within Highwatch to turn the inhabitants into mindless monsters under their control.
+[15:05:31] [Render thread/INFO]: [CHAT] TheCrusader57 joined the game
+[15:05:31] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[15:05:31] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[15:05:36] [Render thread/INFO]: [CHAT] [Captain Tobias] I'm glad the monks are alive, but if the Sons of the Forest are back we may be in danger. Well, more danger than usual.
+[15:05:36] [Render thread/INFO]: [CHAT] [Who are the Sons of the Forest?]
+[15:05:36] [Render thread/INFO]: [CHAT] [What are they up to?]
+[15:05:36] [Render thread/INFO]: [CHAT] [Where are they located?]
+[15:05:37] [Render thread/INFO]: [CHAT] [Captain Tobias] They mostly hide within the forests of the Korbar Highlands. However, there's an encampment north-east of here which I suspect is their forward base. Think you could infiltrate it and look for anything suspicious?
+[15:05:37] [Render thread/INFO]: [CHAT] [Of course, they must be stopped.]
+[15:05:37] [Render thread/INFO]: [CHAT] [I'm not quite ready yet.]
+[15:05:42] [Render thread/INFO]: [CHAT] [Captain Tobias] Good luck.
+[15:05:42] [Render thread/INFO]: [CHAT] QUEST : SONS OF THE FOREST
+[15:05:42] [Render thread/INFO]: [CHAT]  Length : Medium-Long
+[15:05:42] [Render thread/INFO]: [CHAT]  Difficulty : Hard
+[15:05:42] [Render thread/INFO]: [CHAT] Investigate a small fortress to the North-East. Beware; the Sons of the Forest are highly dangerous.
+[15:05:42] [Render thread/INFO]: [CHAT] [Captain Tobias] The Sons of the Forest's forward base is north-east of here. Head in there and see if you can figure out what sinister thing they're up to.
+
+Sons of the Forest: A small fortified camp northeast of Farr is the Sons of the Forest's base. Attack it and see what you can find.
+
+[19:49:47] [main/INFO]: [CHAT] A powerful surge of magic bursts from the spellbook as you approach! A mysterious spell has seared itself into your mind!
+[19:49:51] [main/INFO]: [CHAT] <G> Luckified777 » oysters? wut
+[19:49:53] [main/INFO]: [CHAT] Sons of the Forest: A dark curse has been placed upon you and assassins are tracking your every move! Hurry to the capital, Vargos can remove the spell!
+[19:49:55] [main/INFO]: [CHAT] <G> [WAIFU] DataCrusader » lmao
+[19:50:00] [main/INFO]: [CHAT] kabotyaneko joined the game
+[19:50:01] [main/INFO]: [CHAT] [Screeching Voice] They have the spell! Kill them before they take it to the archmage!
+[19:50:10] [main/INFO]: [CHAT] CatProductions left the game
+[19:50:11] [main/INFO]: [CHAT] [Screeching Voice] Assassins of the Howling Wind, emerge from the shadows and slay them before they reach the archmage!
+
+[19:49:53] [main/INFO]: [CHAT] Sons of the Forest: A dark curse has been placed upon you and assassins are tracking your every move! Hurry to the capital, Vargos can remove the spell!
+
+[20:03:09] [main/INFO]: [CHAT] [Vargos] ...That's a lot of dark magic. Don't move, it looks like it's based on a Hazdremar Anchor, which means you're lucky you haven't exploded. And...
+[20:03:09] [main/INFO]: [CHAT] [Vargos] Disjuctus Facultsar!
+[20:03:09] [main/INFO]: [CHAT] You feel the dark magic pull away from you and it is captured by Vargos
+[20:03:21] [main/INFO]: [CHAT] Sons of the Forest: Talk to Vargos
+[20:03:23] [main/INFO]: [CHAT] [Vargos] The dark magic that chained itself to you was a complex spell, designed to summon something and then bind it to the caster's will. A troubling development indeed.
+[20:03:23] [main/INFO]: [CHAT] [Is that bad?]
+[20:03:23] [main/INFO]: [CHAT] [So, now what?]
+[20:03:30] [main/INFO]: [CHAT] chuwenhsuan left the game
+[20:03:35] [main/INFO]: [CHAT] [Vargos] There was enough power in that spell to summon a full-fledged Genius Loci - guardian spirits with the strength to crush cities. Even worse, I don't think the Sons of the Forest could make this spell alone. Someone is helping them...
+[20:03:44] [main/INFO]: [CHAT] Sons of the Forest: Talk to Vargos
+[20:03:46] [main/INFO]: [CHAT] [Vargos] The dark magic that chained itself to you was a complex spell, designed to summon something and then bind it to the caster's will. A troubling development indeed.
+[20:03:46] [main/INFO]: [CHAT] [Is that bad?]
+[20:03:46] [main/INFO]: [CHAT] [So, now what?]
+[20:03:49] [main/INFO]: [CHAT] [Vargos] We attack. The Sons of the Forest cannot be allowed to cast this spell, especially if they have access to a Wool. Gather your strength, go to Highwatch, and talk to Commander Haynes. Be wary; this will not be easy.
+[20:03:49] [main/INFO]: [CHAT] SONS OF THE FOREST COMPLETE!
+[20:03:49] [main/INFO]: [CHAT] Awarded Silver Knight's Hammer and 1 Prestige
+[20:03:49] [main/INFO]: [CHAT] You may now use the Warlock Class
+
+
+==Tlaxan Troubles==
+[20:21:21] [main/INFO]: [CHAT] [T'Lm] I see you have claimed the Magenta Wool. Well done.
+[20:21:21] [main/INFO]: [CHAT] [Thank you.]
+[20:21:22] [main/INFO]: [CHAT] <G> [VH] AramilNuren » next time I kick you
+[20:21:23] [main/INFO]: [CHAT] [T'Lm] I sense you will be of use... There are Tlaxans that are in need of your help.
+[20:21:23] [main/INFO]: [CHAT] [What Tlaxans?]
+[20:21:23] [main/INFO]: [CHAT] [Can you see the future?]
+[20:21:23] [main/INFO]: [CHAT] [Can you tell me more about Velara?]
+[20:21:38] [main/INFO]: [CHAT] <G> [SUN] _Noxington_ » literally was the cause of my death that run
+[20:21:38] [main/INFO]: [CHAT] [T'Lm] It was once a mighty fortress for the Tlaxans. I was its town leader, thus the T before my name. However, it crumbled and fell during the war, and the Narsens built Farr atop its ruins.
+[20:21:38] [main/INFO]: [CHAT] [What were the crystals?]
+[20:21:50] [main/INFO]: [CHAT] <G> [WAIFU] DataCrusader » he killed you?
+[20:21:51] [main/INFO]: [CHAT] [T'Lm] Secret Tlaxan magic. I cannot tell you more, I'm afraid.
+[20:21:54] [main/INFO]: [CHAT] [T'Lm] I see you have claimed the Magenta Wool. Well done.
+[20:21:54] [main/INFO]: [CHAT] [Thank you.]
+[20:21:56] [main/INFO]: [CHAT] <G> [LoD] RainDream » I was helping with extinguishing the fire during phase 2, but more fire was generated after that
+[20:21:56] [main/INFO]: [CHAT] [T'Lm] I sense you will be of use... There are Tlaxans that are in need of your help.
+[20:21:56] [main/INFO]: [CHAT] [What Tlaxans?]
+[20:21:56] [main/INFO]: [CHAT] [Can you see the future?]
+[20:21:56] [main/INFO]: [CHAT] [Can you tell me more about Velara?]
+[20:21:58] [main/INFO]: [CHAT] <G> [VH] AramilNuren » Ok well next time I see that happening I will kick whoever does it
+[20:22:04] [main/INFO]: [CHAT] <G> [SUN] _Noxington_ » the flinching borked my movement and got me meteored
+[20:22:05] [main/INFO]: [CHAT] [T'Lm] There is a village hidden away in the valley, for Tlaxans who have not just become part of the Empire. Perhaps you can be of help and prove yourself to this group... Hmm. Yes. Do you wish to help them?
+[20:22:05] [main/INFO]: [CHAT] [You can count me in.]
+[20:22:05] [main/INFO]: [CHAT] [Maybe later.]
+[20:22:12] [main/INFO]: [CHAT] QUEST : TLAXAN TROUBLES
+[20:22:12] [main/INFO]: [CHAT] Length: Medium
+[20:22:12] [main/INFO]: [CHAT] Difficulty: Medium
+[20:22:12] [main/INFO]: [CHAT] Work with T'Lm to help a hidden Tlaxan village.
+[20:22:12] [main/INFO]: [CHAT] [T'Lm] Now that you have accepted this task, I ask that you do three things. Around the jungle are three Tlaxan Totems channeling powerful magic. I must ask you to renew their power in a very specific order.
+[20:22:12] [main/INFO]: [CHAT] [How do I do that?]
+[20:22:22] [main/INFO]: [CHAT] [T'Lm] I will send you into Velara to claim three herbs. You will take these herbs to the Totems and their power will be refreshed and restored.
+[20:22:22] [main/INFO]: [CHAT] [That sounds quite simple.]
+[20:22:30] [main/INFO]: [CHAT] [T'Lm] It should be, but I sense resistance brewing deep within the jungle. You must be careful and prepared.
+[20:22:30] [main/INFO]: [CHAT] [I'll be ready!]
+[20:22:32] [main/INFO]: [CHAT] [T'Lm] Now, head back within the ruins of Velara. There is a side passage containing a cauldron. If you place water into the Cauldron, you will find the sacred herbs. Each time you add water, you will receive one herb. Be sure to bring water with you!
+
+[20:22:46] [main/INFO]: [CHAT] Tlaxan Troubles [1/2]: Return to Velara by going through Farr's sewers.
+[20:22:48] [main/INFO]: [CHAT] Tlaxan Troubles [2/2]: Fill the cauldron in Velara with water. You will need three Sacred Herbs.
+
+[00:16:09] [main/INFO]: [CHAT] The water quickly boils away, and you notice a small herb lying in the center of the cauldron.
+#Q39I01 https://puu.sh/GBOVd/2bbf098ec6.png
+
+[00:17:02] [main/INFO]: [CHAT] Tlaxan Troubles: Once you have three Sacred Herbs from filling the cauldron, head to the first Totem.
+
+[00:20:41] [main/INFO]: [CHAT] As the totem powers, the wind seems to pull you north and a vision of the Ziggurat drifts into your head.
+
+[00:20:50] [main/INFO]: [CHAT] Tlaxan Troubles: Follow the vision of the Ziggurat to the second Totem.
+
+[00:24:54] [main/INFO]: [CHAT] As the totem powers, the wind seems to pick up and pull you violently toward the Air Shrine.
+
+[00:25:01] [main/INFO]: [CHAT] Tlaxan Troubles: Follow the pull of the wind to the Air Shrine to find the third Totem.
+
+[00:28:16] [main/INFO]: [CHAT] As the totem powers, the wind roars, and figures materialize around you.
+
+[00:28:59] [main/INFO]: [CHAT] Tlaxan Troubles: Return to T'lm in the Magenta lobby.
+
+[00:36:13] [main/INFO]: [CHAT] [T'Lm] You return alive. This is wonderful news. I feel the jungle's magic flowing freely again. Tell me, what happened at the last totem?
+[00:36:13] [main/INFO]: [CHAT] [I was attacked by Sons of the Forest.]
+[00:36:17] [main/INFO]: [CHAT] [T'Lm] Of course, only they would be opposed to the natural order of things. I take it you destroyed them?
+[00:36:17] [main/INFO]: [CHAT] [They are all dead.]
+[00:36:17] [main/INFO]: [CHAT] [No. I fought, but fled before they were all dead.]
+[00:36:17] [main/INFO]: [CHAT] [I fled when they appeared.]
+[00:36:25] [main/INFO]: [CHAT] [T'Lm] A warrior indeed, I see. Take this potion, made from Amber, for showing your strength.
+[00:36:25] [main/INFO]: [CHAT] [T'Lm] Now Sukie, it is time for you to see Ta'Eldim. Go past the third totem you rekindled, past the lake before you, following the wall north. It is there you will find a way into Ta'Eldim.
+[00:36:25] [main/INFO]: [CHAT] [What will I find there?]
+[00:36:41] [main/INFO]: [CHAT] [T'Lm] You will find the refugees. Tlaxans who have hidden away from the horrors of the world, secreting away from the Sons of the Forest and their evil. Now, let me cast a Blessing of Passage upon you. They will recognize my magic and allow you through.
+[00:36:41] [main/INFO]: [CHAT] [Go ahead.]
+[00:36:50] [main/INFO]: [CHAT] [T'Lm] It is done. Go now and meet T'Xoc, the village elder. My brother.
+
+Elixir of the Jaguar https://puu.sh/GBPbk/8455c9ef07.png
+
+[00:37:38] [main/INFO]: [CHAT] Tlaxan Troubles [1/2]: Find the entrance to the city of Ta'Eldim.
+[00:37:40] [main/INFO]: [CHAT] Tlaxan Troubles [2/2]: Once inside Ta'Eldim talk to T'Xoc.
+
+[00:43:41] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Stop right there! State your business here.
+[00:43:41] [main/INFO]: [CHAT] [I was sent by T'Lm. I have the Blessing of Passage.]
+[00:43:43] [main/INFO]: [CHAT] [Ta'Eldim Gatekeeper] Very well then. Follow me.
+[00:43:43] [main/INFO]: [CHAT] He looks like he doesn't believe you for a moment, he then sighs.
+[00:43:43] [main/INFO]: [CHAT] [Lead the way.]
+
+[00:46:48] [main/INFO]: [CHAT] [T'Xoc] What's this? An outsider? With a Blessing of Passage... I sense T'Lm is to blame for this. Who are you and why are you here?
+[00:46:48] [main/INFO]: [CHAT] [I was sent here by T'Lm. He said he was your brother.]
+[00:46:52] [main/INFO]: [CHAT] [T'Xoc] That is correct. But why would he send an outsider to our village?
+[00:46:52] [main/INFO]: [CHAT] [He said you needed help. I repowered totems around the Jungle, then was told to see you.]
+[00:46:56] [main/INFO]: [CHAT] Frostvenom795 left the game
+[00:46:57] [main/INFO]: [CHAT] [T'Xoc] That was you? No wonder the magic is flowing stronger again. In that case, thank you for your help! What is your name?
+[00:46:57] [main/INFO]: [CHAT] [I am Sukie.]
+[00:47:01] [main/INFO]: [CHAT] [T'Xoc] Thank you Sukie. You and T'Lm have done us a great service. I am T'Xoc, elder and leader of Ta'Eldim. I welcome you to our town and hope you will continue to visit us. I'm sure my villagers will need some help, and if T'Lm trusts you, we do as well. Feel free to explore - there is plenty to do!
+[00:47:01] [main/INFO]: [CHAT] TLAXAN TROUBLES COMPLETE!
+[00:47:01] [main/INFO]: [CHAT] Awarded 1 Prestige and access to Ta'Eldim.
+
+==A Beast of a Book==
+Erwen (600, 99, 115)
+
+[15:40:15] [main/INFO]: [CHAT] [Erwen] Hail, adventurer. I'm Erwen, the Animal Hunter. Have you come to prove yourself and earn the Bestiary?
+[15:40:15] [main/INFO]: [CHAT] [The Bestiary?]
+[15:40:15] [main/INFO]: [CHAT] [I'm just looking for information on creatures to hunt.]
+[15:40:15] [main/INFO]: [CHAT] [No.]
+[15:40:19] [main/INFO]: [CHAT] [Erwen] Ah, you had a cowardly look of you anyways. Come back if you're ready to prove yourself otherwise.
+[15:40:23] [main/INFO]: [CHAT] [Erwen] Hail, adventurer. I'm Erwen, the Animal Hunter. Have you come to prove yourself and earn the Bestiary?
+[15:40:23] [main/INFO]: [CHAT] [The Bestiary?]
+[15:40:23] [main/INFO]: [CHAT] [I'm just looking for information on creatures to hunt.]
+[15:40:23] [main/INFO]: [CHAT] [No.]
+[15:40:25] [main/INFO]: [CHAT] [Erwen] Yes! The culmination of my life's work hunting the various beasts and monsters of this world. With my time hunting finished, I seek to help others become possibly even greater than I, and what better way to do so than to share my knowledge with the world? 
+[15:40:25] [main/INFO]: [CHAT] [What's the catch?]
+[15:40:27] [main/INFO]: [CHAT] [Erwen] Is it not clear? I can't share this with simply just anyone, no! Only those who can prove their prowess of the hunt are worthy to receive this gift. Do you wish to prove yourself?
+[15:40:27] [main/INFO]: [CHAT] [I'm in.]
+[15:40:27] [main/INFO]: [CHAT] [I'm busy right now.]
+[15:40:28] [main/INFO]: [CHAT] [Erwen] Good. Let me know when you're ready and we will begin the first hunt.
+
+[15:40:28] [main/INFO]: [CHAT] QUEST : A BEAST OF A BOOK
+[15:40:28] [main/INFO]: [CHAT] Length : Medium
+[15:40:28] [main/INFO]: [CHAT] Difficulty : Hard
+[15:40:28] [main/INFO]: [CHAT] Talk to Erwen again when you're ready to start the first hunt.
+
+[15:40:37] [main/INFO]: [CHAT] [Erwen] Your first hunt is the deadly Star Spitter. It lurks on the shores of a blighted island, south of the Oceangate. They are fragile, but getting hooked by them can prove deadly. Its ink is necessary for its special properties; I task you with killing 5 of these beasts. Return when you are successful. Oh, and don't worry about harvesting the bodies or bringing them back- I need you only to prove you can kill them in the first place. I will use my own supply of materials.
+
+[15:40:47] [main/INFO]: [CHAT] A Beast of a Book: Hunt down 5 Star Spitters in the waters around Aphelion Isle. Then return to Erwen in Farr.
+
+[16:06:44] [main/INFO]: [CHAT] [Erwen] Your first hunt is the deadly Star Spitter. It lurks on the shores of a blighted island, south of the Oceangate. They are fragile, but getting hooked by them can prove deadly. Its ink is necessary for its special properties; I task you with killing 5 of these beasts. Return when you are successful. Oh, and don't worry about harvesting the bodies or bringing them back- I need you only to prove you can kill them in the first place. I will use my own supply of materials.
+[16:06:44] [main/INFO]: [CHAT] [Erwen] Have you killed five Star Spitters?
+[16:06:44] [main/INFO]: [CHAT] [Yes, I have killed 5 Star Spitters.]
+[16:06:46] [main/INFO]: [CHAT] [Erwen] Excellent. Take a rest, and return when you are ready to begin the second hunt.
+
+[16:07:06] [main/INFO]: [CHAT] A Beast of a Book: Hunt down 5 Weeping Barklings at the Weeping Wormwood in Azacor's Grove. Then return to Erwen in Farr.
+[16:07:21] [main/INFO]: [CHAT] [Erwen] I presume you are ready? Your second hunt will take you into the depths of the demon summoner's grove, to the great Weeping Wormwood tree. You must slay 5 Weeping Barklings, for they will serve as the paper due to their latent magical properties.
+[16:07:24] [main/INFO]: [CHAT] [Erwen] I presume you are ready? Your second hunt will take you into the depths of the demon summoner's grove, to the great Weeping Wormwood tree. You must slay 5 Weeping Barklings, for they will serve as the paper due to their latent magical properties.
+
+[16:07:26] [main/INFO]: [CHAT] A Beast of a Book: Hunt down 5 Weeping Barklings at the Weeping Wormwood in Azacor's Grove. Then return to Erwen in Farr.
+
+[16:47:09] [main/INFO]: [CHAT] [Erwen] I presume you are ready? Your second hunt will take you into the depths of the demon summoner's grove, to the great Weeping Wormwood tree. You must slay 5 Weeping Barklings, for they will serve as the paper due to their latent magical properties.
+[16:47:09] [main/INFO]: [CHAT] [Erwen] Have you disposed of 5 Weeping Barklings?
+[16:47:09] [main/INFO]: [CHAT] [I've killed 5 Weeping Barklings.]
+[16:47:12] [main/INFO]: [CHAT] [Erwen] Good, good. Already you've made it farther than most who think they can become a hunter like me. Rest, and return again.
+[16:47:15] [main/INFO]: [CHAT] [Erwen] For your third hunt, a feather for a quill is required. Only the finest will do, yet the finest was hunted to extinction. But it can be brought back. Seek out an altar hidden in the jungle, a dark pool of red. Slay 3 of the hateful demons that are evocated there, and their bodies can be fashioned into what we need.
+
+[17:07:59] [main/INFO]: [CHAT] A Beast of a Book: Hunt down 3 Hate Knights in Altar of Evocation. Then return to Erwen in Farr.
+
+[17:10:01] [main/INFO]: [CHAT] [Erwen] For your third hunt, a feather for a quill is required. Only the finest will do, yet the finest was hunted to extinction. But it can be brought back. Seek out an altar hidden in the jungle, a dark pool of red. Slay 3 of the hateful demons that are evocated there, and their bodies can be fashioned into what we need.
+[17:10:01] [main/INFO]: [CHAT] [Erwen] Have the Hate Knights been eradicated?
+[17:10:01] [main/INFO]: [CHAT] [The demons have been slain.]
+[17:10:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[17:10:03] [main/INFO]: [CHAT] <G> [FORCE] NebulaeBee » untrue
+[17:10:04] [main/INFO]: [CHAT] [Erwen] I am impressed, young adventurer. Now with their remains, I can form a memory of what once was. A feather from the once elusive, now extinct, Chromatic Crane. You've certainly earned your rest this time. Take it, for the final hunt is the most difficult yet.
+[17:10:12] [main/INFO]: [CHAT] [Erwen] The final hunt. You will need Soulleather, which is made from the flesh of the legendary Questing Beast, to bind the Bestiary with. This is a special beast- to put it frankly, I don't think you can kill it.
+[17:10:12] [main/INFO]: [CHAT] [I have heard that one before, they were proven wrong.]
+[17:10:14] [main/INFO]: [CHAT] [Erwen] I do not mean to insult your skill. I meant it literally, it has powerful regenerative properties. It'll heal from a wound faster than you can make another. All you need is a cut of its flesh for the soulleather, which makes the real hunt actually locating the damn thing in the first place.
+[17:10:14] [main/INFO]: [CHAT] [Any idea where I should start looking?]
+[17:10:15] [main/INFO]: [CHAT] [Erwen] Luckily for you, I've already handled most of that. I last tracked it to somewhere in Sierhaven, which is odd now that I think about it. It rarely even steps into the swamp at all. It's gotta be hiding somewhere, but Sierhaven is a big city. The Polling Place in Sierhaven would be a good place to start. It used to be a stable you know, and I'd reckon there's some old unused space that would make a good hiding spot, due to the likely leftover water and animal feed.
+[17:10:18] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[17:10:19] [main/INFO]: [CHAT] A Beast of a Book: Search for the Questing Beast at the Polling Place in Sierhaven.
+
+[17:14:13] [main/INFO]: [CHAT] You smell it before you see it... it seems like there's something living down here.
+
+[17:17:22] [main/INFO]: [CHAT] [Donkey Attendant] What's going on down here? Oh my god, Hubert, did this person hurt you? You! Get out, right now!
+[17:17:24] [main/INFO]: [CHAT] [Donkey Attendant] What do you think you were doing? Breaking and entering, attacking my poor Hubert!
+[17:17:24] [main/INFO]: [CHAT] [Hubert? That's the Questing Beast!]
+[17:17:25] [main/WARN]: Received passengers for unknown entity
+[17:17:25] [main/WARN]: Received passengers for unknown entity
+[17:17:25] [main/WARN]: Received passengers for unknown entity
+[17:17:33] [main/INFO]: [CHAT] [Donkey Attendant] You think I don't know that? I captured him and took him down here to take care of him! He's happy here, not having to get slaughtered out in the wild for people to make clothes with his flesh! I treat him like royalty and in exchange, he lets me take trimmings from his horn.
+[17:17:33] [main/INFO]: [CHAT] [What do you need the horn trimmings for?]
+[17:17:40] [main/INFO]: [CHAT] <G> [TAG] CreepSlayerz » u could 1 tap or u could not 1 tap
+[17:17:42] [main/INFO]: [CHAT] [Donkey Attendant] Do you really not know?! Quest compasses have to come from somewhere, and Hubert's horn trimmings make excellent needles and put the "Quest" in quest compass! Now off with you! I don't want to see you back here again, you can go mail in your votes or something if you need to vote...
+
+[17:17:53] [main/INFO]: [CHAT] A Beast of a Book: Return to Erwen.
+
+[17:19:02] [main/INFO]: [CHAT] [Erwen] You return, hunter. Is the deed done?
+[17:19:02] [main/INFO]: [CHAT] [Well...]
+[17:19:04] [main/INFO]: [CHAT] You explain how the Questing Beast was already captured and likely content not having to die repeatedly.
+[17:19:04] [main/INFO]: [CHAT] [Erwen] Ah, can't say I'm upset to hear that. Much better than getting slaughtered over and over, I imagine. Still, did you get some flesh for the Soulleather?
+[17:19:04] [main/INFO]: [CHAT] [I did.]
+[17:19:06] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[17:19:12] [main/INFO]: [CHAT] [Erwen] You have done an outstanding job. I was starting to fear that maybe there really was no one worthy of receiving my gift, yet here you are. I am proud. Here is your very own Bestiary, handcrafted by me with the spoils of your hunts. May it treat you well.
+[17:19:12] [main/INFO]: [CHAT] A BEAST OF A BOOK COMPLETE!
+[17:19:12] [main/INFO]: [CHAT] Awarded the Bestiary!
+[17:19:12] [main/INFO]: [CHAT] Your inventory is full! Some items were dropped on the ground!

@@ -1,0 +1,389 @@
+=Quest Guide (Alnera)=
+==The Gem of Ishnir==
+* Difficulty: Medium
+* Requirements: The Lost Empire
+* Start: Sierhaven Smith (340, 42, 720)
+==Long Way Down==
+* Difficulty: Medium
+* Requirements: None
+* Start: Guard Myra (402, 75, 687)
+==A Lost Cause==
+* Difficulty: Medium
+* Requirements: A Merchant's Woe and Dealbreaker
+* Start: Amina (323, 47, 764)
+==Primeval Creations I==
+* Difficulty: Hard
+* Requirements: Soul of the Forest
+* Start: The Mystical Tower POI (A book found in the Alnera Archives.) (chest at 434, 59, 752)
+==Primeval Creations II==
+* Difficulty: Hard
+* Requirements: Primeval Creations I
+* Start: The Abandoned Library POI
+==Primeval Creations III==
+* Difficulty: The Mystical Tower POI
+* Requirements: Primeval Creations II
+* Start: The Smitten Library POI
+==Primeval Creations IV==
+* Difficulty: Hard
+* Requirements: Primeval Creations III, Rapacity
+* Start: The Mystical Tower POI
+==Treasure of the Past==
+* Difficulty: Medium
+* Requirements: The Lost Empire
+* Start: Zulumar (391, 57, 730)
+
+=Quests=
+==Primeval Creations I==
+#Q114I01 https://puu.sh/GFWVn/1bdccc5af4.png
+
+[03:45:14] [main/INFO]: [CHAT] [Blacksmith Ghalla] I don't really have much time to talk. Got a lot of orders to fill today.
+[03:45:14] [main/INFO]: [CHAT] [I found this book that mentions your name.]
+[03:45:16] [main/INFO]: [CHAT] [Blacksmith Ghalla] Where did you find that? Actually, it doesn't matter, just leave it on the counter so it doesn't get lost.
+[03:45:16] [main/INFO]: [CHAT] [Do you know who it belongs to?]
+[03:45:21] [main/INFO]: [CHAT] [Blacksmith Ghalla] Of course I do, it belongs to Selari. Can't you see his name etched on the spine? Anyway, he's not here right now. He left about a week ago, saying something about his research notes getting stolen. No clue when he will be back.
+
+[03:46:17] [main/INFO]: [CHAT] Little did I understand how hard it was to infuse an object with an aspect of power. The artifacts must be much more than simple sheep fur, and from that revelation, I began to invent.
+
+[03:46:33] [main/INFO]: [CHAT] Primeval Creations I: You found an old journal in the Alnera Archives. See if you can follow up on it. You can always find it there again if you lose it.
+
+[03:47:21] [main/INFO]: [CHAT] ESSENCE OF THE UNIVERSE
+[03:47:21] [main/INFO]: [CHAT] In order to gather that much energy into a single point, a pure tesseract is needed to hold the energy in place, one formed from the perfect alignment of all aspects of their power. When all 6 intersections of the three rings match, the power generated will be enough to collapse a small gem into the necessary crystalline structure.
+
+[03:51:48] [main/INFO]: [CHAT] You have no need to go into this room yet.
+[03:51:51] [main/INFO]: [CHAT] You shouldn't venture much further into the workshop just yet.
+
+[03:59:02] [main/INFO]: [CHAT] You make your way back down the narrow passage and end up back in Ghalla's shop.
+
+https://puu.sh/GG7CL/d27876217f.png
+
+[15:24:06] [main/INFO]: [CHAT] With the tesseract complete, I was able to move on and further my work. Now that an object existed that was totally untuned from all aspects of the universe, with enough pushing, it can be convinced that it aligns with a single aspect of primeval power.
+
+#Q114I02 https://puu.sh/GG7DC/afef9c5a03.png
+
+[20:09:39] [main/INFO]: [CHAT] The floor falls out from below you, and you make your way through a small passageway until you find a narrow hallway.
+[20:09:47] [main/INFO]: [CHAT] THE POWER OF SOUL
+[20:09:47] [main/INFO]: [CHAT] Of everything I have researched, the power of Soul might be the most strange. For what is a soul? Is it defined? Is it a constant? This machine attempts to answer that, and reaches deep within your soul, shaping itself to your darkest fears - that which you hoped you'd never see again, but far more painful than anything you remember. Remove all light from the soul in order to harness its true power.
+
+[20:18:26] [main/INFO]: [CHAT] The soul is definitely not constant, but it wishes for a state of stability. By harnessing that desire for stability, a soul can be bound to something physical - a person, an object, a place. That is the true power of the Aspect of Soul. Alas, this design was a failure, but I have learned greatly nonetheless. The power of Soul alone was not what I required, thus it was time to progress onwards.
+[20:18:29] [main/INFO]: [CHAT] PRIMEVAL CREATIONS I COMPLETE!
+[20:18:29] [main/INFO]: [CHAT] Awarded a Tesseract of the Soul.
+
+==Primeval Creations II==
+-5, 138, 562
+#Q114I03 https://puu.sh/GKavp/d42631074d.png
+
+[16:37:14] [main/INFO]: [CHAT] PRIMEVAL CREATIONS II
+[16:37:14] [main/INFO]: [CHAT] Length : Short
+[16:37:14] [main/INFO]: [CHAT] Difficulty : Hard
+[16:37:14] [main/INFO]: [CHAT] Description : You found another one of Selari's journals. Journey your way back into his lab and see what you can find.
+
+[16:54:55] [main/INFO]: [CHAT] Primeval Creations II: You found another one of Selari's journals. Journey back into his workshop and see what you can find. Remember to bring some uncharged tesseracts with you.
+
+[01:27:17] [main/INFO]: [CHAT] THE POWER OF BODY
+[01:27:17] [main/INFO]: [CHAT] After Soul comes Body, the physical manifestation of everything that we are, the shell with which we interact with the world. And like the soul, all bodies are different, each harboring its own strengths and weaknesses. Through a unique formation of various creatures, one may concentrate the very power of Body itself.
+
+  -        -
+W B Z    W B S
+P C S    C P Z
+
+B C S Z C W P S Z C W Z C W Z C S P C Z W S Z W S Z P C W B
+
+
+[01:52:21] [main/INFO]: [CHAT] With the body comes fortitude, and through fortitude comes strength. The absolute and total control over the physical self - this is the true power of the Aspect of Body. However, this experiment was ultimately a failure. The power of Body alone was not what I required, thus it was time to progress onwards.
+
+[01:57:24] [main/INFO]: [CHAT] THE POWER OF PESTILENCE
+[01:57:24] [main/INFO]: [CHAT] And after Body comes Pestilence, the corruption that engulfs the body and shifts it away from equilibrium. All diseases carry with them a small portion of that power and, through infecting isolated creatures with exactly one disease, that power can be collected.
+
+wither with fangilium
+spider with enderpox
+creeper with enderpox
+spider with blazoids
+creeper with creepititus
+zombie with fangilium
+
+[02:17:14] [main/INFO]: [CHAT] Pestilence spreads relentlessly, rooting its corruption to the core of that which it has infected until it ceases to exist. That is the true power of the Aspect of Pestilence. As before though, this experiment has resulted in failure. The power of Pestilence alone is not what I require, thus it is time to progress onwards.
+[02:17:15] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[02:17:17] [main/INFO]: [CHAT] PRIMEVAL CREATIONS II COMPLETE!
+[02:17:17] [main/INFO]: [CHAT] Awarded a Tesseract of the Body and a Tesseract of Pestilence.
+
+==Primeval Creations III==
+
+[02:42:15] [main/INFO]: [CHAT] PRIMEVAL CREATIONS III
+[02:42:15] [main/INFO]: [CHAT] Length : Short
+[02:42:15] [main/INFO]: [CHAT] Difficulty : Hard
+[02:42:15] [main/INFO]: [CHAT] Description : You found another one of Selari's journals. Journey your way back into his lab and see what you can find.
+
+#Q114I04 https://puu.sh/GKEl4/cd444a6eb9.png
+
+[03:04:53] [main/INFO]: [CHAT] Primeval Creations III: You found another one of Selari's journals. Journey back into his workshop and see what you can find. Remember to bring some uncharged tesseracts with you.
+
+[03:05:29] [main/INFO]: [CHAT] THE POWER OF MAGIC
+[03:05:29] [main/INFO]: [CHAT] Magic, that engrossing ecstasy that fills the veins of all those who dare seek its power. The aspect that is most commonly familiar, and yet it is so vastly misunderstood. However my experience with it can guide me, and through a specific encoding of various magic properties, I believe I can concentrate it with ease.
+
+each color is offset from displayed by base + 1/2/3/4 + 1/2/3/4
+
+displayed
+white   yellow 0
+orange  purple 1
+magenta white 2
+blue    orange 3
+yellow  pink 4
+lime    gray 5
+pink    cyan 6
+gray    blue 7
+cyan    magenta 8
+purple  lime 9
+
+1-5
+white   yellow +8 (-2)
+orange  gray +2
+magenta cyan +2
+blue    blue +2
+yellow  white +4
+lime    orange +6
+pink    pink +8 (-2)
+gray    lime +0
+cyan    magenta +8 (-2) 
+purple  purple +0
+
+thus from 1-5: orange white pink gray lime
+from 2-5: pink gray lime purple yellow
+from 3-5 lime cyan orange white purple
+etc
+
+[04:28:31] [main/INFO]: [CHAT] Potential, the ability the imagine and therefore be. The endless possibilities to change the world around you, to manipulate it to your liking, with only the requirement of dreaming of something bigger. This is the true power of the Aspect of Magic. However, while this experiment has proven fruitful, the power of Magic alone is not what I need. I shall continue pushing forward with my research.
+
+[04:34:30] [main/INFO]: [CHAT] THE POWER OF THE ELEMENTS
+[04:34:30] [main/INFO]: [CHAT] Of all the aspects I have studied, the Elements seems to be the most vague. What is an Element? The water that brings us life? The air that fills our lungs? Are these truly the primordal powers that create life? This is the answer I wish to seek. I believe that by creating a single-width node string for each element that connects 2 designated points, where no node strings cross eachother, I can harness this power.
+
+https://puu.sh/GKFTj/f903d3fe85.png
+
+[04:55:31] [main/INFO]: [CHAT] A clarity has washed over me, a realization that I had not previously seen. The world is more than a collection of elements, together they form more than the sum of their parts. They wrap and connect, and it the manipulation of this connection that forms the basis of the Aspect of the Elements. I am grateful for this experiment's informity, however the power of the Elements alone is not what I require. My research now enters a new realm.
+[04:55:32] [main/INFO]: [CHAT] PRIMEVAL CREATIONS III COMPLETE!
+[04:55:32] [main/INFO]: [CHAT] Awarded a Tesseract of Magic and a Tesseract of the Elements.
+
+==The Gem of Ishnir==
+
+[23:23:01] [main/INFO]: [CHAT] The man seems to be mumbling to himself while looking over a map.
+[23:23:01] [main/INFO]: [CHAT] [Sierhaven Smith] Just past the ruins of... No, that tomb was empty...
+[23:23:01] [main/INFO]: [CHAT] [Looking for something specific on that map?]
+[23:23:03] [main/INFO]: [CHAT] [Sierhaven Smith] Huh? Oh, my apologies- I didn't hear you come in. But yes, well, I'm a bit focused on my work at the moment. I don't believe we've met before- the name's Sierhaven Smith!
+[23:23:03] [main/INFO]: [CHAT] [Your name is... Sierhaven?]
+[23:23:03] [main/INFO]: [CHAT] [What is your work here?]
+[23:23:08] [main/INFO]: [CHAT] CatProductions left the game
+[23:23:15] [main/INFO]: [CHAT] [Sierhaven Smith] That it is, though I'm more often referred to as "Siery" for short.
+[23:23:34] [main/INFO]: [CHAT] The man seems to be mumbling to himself while looking over a map.
+[23:23:34] [main/INFO]: [CHAT] [Sierhaven Smith] Just past the ruins of... No, that tomb was empty...
+[23:23:34] [main/INFO]: [CHAT] [Looking for something specific on that map?]
+[23:23:35] [main/INFO]: [CHAT] [Sierhaven Smith] Huh? Oh, my apologies- I didn't hear you come in. But yes, well, I'm a bit focused on my work at the moment. I don't believe we've met before- the name's Sierhaven Smith!
+[23:23:35] [main/INFO]: [CHAT] [Your name is... Sierhaven?]
+[23:23:35] [main/INFO]: [CHAT] [What is your work here?]
+[23:23:37] [main/INFO]: [CHAT] [Sierhaven Smith] I'm an... archaeologist, of sorts. I explore the lands in search of secrets left by our ancestors that have been long forgotten to time: tombs of lost pharaohs, sunken temples, you get the picture. But, right now, I'm in search of the desert's greatest treasure.
+[23:23:37] [main/INFO]: [CHAT] [Which would be what?]
+[23:23:41] [main/INFO]: [CHAT] niwatori222 was slain by §4Masked Figure using [§b§lCalvarium]
+[23:23:51] [main/INFO]: [CHAT] [Sierhaven Smith] The Gem of Ishnir- a fabled diamond said to be so large that it dwarfs dunes in comparison. Myths say it was last in the possession of the Pharaoh Tehkma Ka, the second-to-last pharaoh of the Ka dynasty.
+[23:23:51] [main/INFO]: [CHAT] [Sierhaven Smith] Unfortunately, we have very little in the way of written records of that time- anything during that era is scarce to find information on. It's unknown why, exactly, but, for some reason, any accounts from then simply don't exist.
+[23:23:51] [main/INFO]: [CHAT] [So you don't actually know if it exists?]
+[23:23:59] [main/INFO]: [CHAT] [Sierhaven Smith] Technically, no, though I have a suspicion that it does; reason being that any questions on it that I ask the Pharaoh's advisors always lead to nervous sweats and short answers. Would you be interested in helping me settle this?
+[23:23:59] [main/INFO]: [CHAT] [Sure.]
+[23:24:06] [main/INFO]: [CHAT] [Sierhaven Smith] Fantastic! I suppose the first place for us to start is research into Tehkma Ka. If he really was the last one in possession of the Gem, following his tracks will be our best hope. I'll look over my information here- you go and speak to Nyra. She's the Royal Archivist to the Pharaoh. We have a... tangled past, so she won't speak much to me. Perhaps she'll give you some more information?
+[23:24:06] [main/INFO]: [CHAT] QUEST : THE GEM OF ISHNIR
+[23:24:06] [main/INFO]: [CHAT] Length : Medium
+[23:24:06] [main/INFO]: [CHAT] Difficulty : Medium
+[23:24:06] [main/INFO]: [CHAT] Help Sierhaven Smith in his search for the Gem of Ishnir.
+
+[23:24:27] [main/INFO]: [CHAT] The Gem of Ishnir: Seek out Archivist Nyra in the Pharaoh's palace.
+
+[23:25:19] [main/INFO]: [CHAT] [Archivist Nyra] Hello there. What brings you to the pharaoh's library today?
+[23:25:19] [main/INFO]: [CHAT] [Who are you?]
+[23:25:19] [main/INFO]: [CHAT] [The pharaoh's library is open to the public?]
+[23:25:19] [main/INFO]: [CHAT] [What can you tell me about Alnera?]
+[23:25:19] [main/INFO]: [CHAT] [Can you tell me anything about Pharaoh Tehkma Ka?]
+[23:25:19] [main/INFO]: [CHAT] [Can you tell me anything about the Gem of Ishnir?]
+[23:25:27] [main/INFO]: [CHAT] [Archivist Nyra] Let's see what we have on him here. Okay, Tehkma Ka, second to last pharaoh of the Ka dynasty. Born 169 CCE, died at the age of 70 in 239 CCE. Was supposedly laid to rest in the pyramid Jaldeshret, colloquially known as the Dehydrated Oasis, though no tomb has ever been found to corroborate those claims. Seems like that's all the information we have on him.
+[23:25:27] [main/INFO]: [CHAT] [His tomb has never been found?]
+[23:25:39] [main/INFO]: [CHAT] [Archivist Nyra] It's not all that surprising- this was about 600 years ago, after all. This period of time also just so happens to fall into the 200 year "blank" period in our history: the years between 53 CCE to 248 CCE. We are lucky we have as much information on him as we do.
+[23:25:39] [main/INFO]: [CHAT] [Can you tell me anything about the Gem of Ishnir?]
+[23:25:48] [main/INFO]: [CHAT] [Archivist Nyra] What, are you another treasure hunter? No, it doesn't exist. Don't even waste your time.
+[23:25:48] [main/INFO]: [CHAT] It doesn't seem like she has any more information she can give you on the subject. Best report back to Sierhaven Smith.
+
+[23:26:06] [main/INFO]: [CHAT] The Gem of Ishnir: Return to Sierhaven Smith with the information you learned from Nyra.
+
+[23:29:33] [main/INFO]: [CHAT] [Sierhaven Smith] Welcome back. Did you get any information out of Nyra?
+[23:29:33] [main/INFO]: [CHAT] [It seems like all she knew was where he was supposedly buried: the Dehydrated Oasis.]
+[23:29:36] [main/INFO]: [CHAT] <G> SharkTech » all right let me try it
+[23:29:43] [main/INFO]: [CHAT] [Sierhaven Smith] Jaldeshret, huh? I've been there countless times- in fact, I'm the one who uncovered the entrance to the tunnels underneath the pyramid. I've never seen signs that there is a tomb anywhere in there, though.
+[23:29:43] [main/INFO]: [CHAT] [Perhaps I should go see if you missed anything?]
+[23:29:51] [main/INFO]: [CHAT] [Sierhaven Smith] A fair idea- some fresh eyes are never a bad thing. Leave no stone unpressed! While you're gone, I'm going to pull out my notes from that expedition, and see if there was anything I had logged but didn't take to relevance.
+
+[23:30:06] [main/INFO]: [CHAT] The Gem of Ishnir: Enter the Dehydrated Oasis and search out clues for Tehkma Ka's tomb. Leave no stone unpressed.
+
+[23:45:31] [main/INFO]: [CHAT] You hear whispers faintly calling out to you, begging for you to release them. 'Leap into the lowest lava pool in the tunnels below, and pray your soul is guided.'
+
+[23:51:00] [main/INFO]: [CHAT] The Gem of Ishnir: Enter the Dehydrated Oasis and search out clues for Tehkma Ka's tomb. Leave no stone unpressed.
+
+1346
+[00:01:59] [main/INFO]: [CHAT] [Tehkma Ka] You fool... What have you done...?
+[00:02:03] [main/INFO]: [CHAT] A mysterious force kicks you out of the tomb, and you find yourself back outside the pyramid.
+
+[00:02:16] [main/INFO]: [CHAT] The Gem of Ishnir: You stumbled on the tomb of Tehkma Ka. Report this back to Sierhaven Smith.
+
+[00:05:10] [main/INFO]: [CHAT] [Sierhaven Smith] That was a quick trip. Find anything of note?
+[00:05:10] [main/INFO]: [CHAT] [I found the tomb of Tehkma Ka.]
+[00:05:13] [main/INFO]: [CHAT] [Sierhaven Smith] Really now?! What did you find?
+[00:05:13] [main/INFO]: [CHAT] [Tehkma Ka's journal and a locking device.]
+[00:05:16] [main/INFO]: [CHAT] [Sierhaven Smith] Mind if I see the book?
+[00:05:16] [main/INFO]: [CHAT] You hand Siery the book, and he reads through the pages slowly.
+[00:05:16] [main/INFO]: [CHAT] [Sierhaven Smith] I can't believe it! He actually mentions the Gem in here! The locking mechanism you mentioned, I assume this is the "key" he references. I assume you managed to get past it; what was it like?
+[00:05:16] [main/INFO]: [CHAT] [It looked like a stylized ankh, but something really bad seemed to happen when I activated it.]
+[00:05:27] [main/INFO]: [CHAT] [Sierhaven Smith] A stylized ankh? Wait... do you mean the symbol of the Lost Sands? What a fantastic lead, Sukie! It's time we head there then! I'll start packing my things- I'm coming with you this time!
+[00:05:27] [main/INFO]: [CHAT] [Were you listening? I really don't think this is a good idea.]
+[00:05:33] [main/INFO]: [CHAT] [Sierhaven Smith] Oh, don't chicken out on me now! The discovery of a lifetime awaits us! You go on ahead over to the Lost Sands ruins. I'll meet you there.
+
+[00:05:38] [main/INFO]: [CHAT] The Gem of Ishnir: Meet Sierhaven Smith over in the Lost Sands City ruins.
+
+[00:13:44] [main/INFO]: [CHAT] [Siery] Over here! This is the entrance to the underground. If we are to find anything, it will be here.
+
+[00:14:45] [main/INFO]: [CHAT] The Gem of Ishnir: Enter the Lost Sands City undergrounds.
+
+[23:20:36] [main/INFO]: [CHAT] [Sierhaven Smith] I... I don't believe it. Is this... a city? The tales of the Gem, they must have been warped over time. How incredible: an entire city, lost to time, and right under our noses! I can't thank you enough for your help, Sukie- Please accept my deepest gratitude!
+
+[23:20:36] [main/INFO]: [CHAT] THE GEM OF ISHNIR COMPLETE!
+[23:20:36] [main/INFO]: [CHAT] Awarded a Gray Key, an Embalmer's Trophy, access to the Gray Dungeon Teleporter, and 1 Prestige.
+
+==Long Way Down==
+[17:36:39] [main/INFO]: [CHAT] [Guard Myra] H-hello adventurer. Enjoy our beautiful c-city, but be careful not to f-fall. If you need h-help us guards are here to help you.
+[17:36:39] [main/INFO]: [CHAT] [Is something wrong? You seem scared.]
+[17:36:39] [main/INFO]: [CHAT] [I will return if I need anything.]
+[17:36:40] [main/INFO]: [CHAT] <G> Dr_Beta » Also it's a net-negative casino. And it's expensive.
+[17:36:42] [main/INFO]: [CHAT] DarkSigilKnight left the game
+[17:36:43] [main/INFO]: [CHAT] <G> bugboy0705 » time to gamble
+[17:36:47] [main/INFO]: [CHAT] [Guard Myra] E-everything is fine.
+[17:36:47] [main/INFO]: [CHAT] [Are you sure?]
+[17:36:48] [main/INFO]: [CHAT] Guard Myra lets out a long sigh.
+[17:36:48] [main/INFO]: [CHAT] [Guard Myra] W-who am I kidding? I never should have gotten myself in this situation.
+[17:36:48] [main/INFO]: [CHAT] [What type of situation?]
+[17:36:48] [main/INFO]: [CHAT] [Hopefully things get better for you.]
+[17:37:11] [main/INFO]: [CHAT] [Guard Myra] I am from the nearby town of Molta. I worked there as a guard for several years without problems. Then, I learned that there was a position open here in Alnera. I jumped at the chance to move to the city, but when I got here I learned I had a fear of heights.
+[17:37:11] [main/INFO]: [CHAT] [Is there anything I can do to help you?]
+[17:37:11] [main/INFO]: [CHAT] [Sadly that isn't something I can really help with.]
+
+[17:37:34] [main/INFO]: [CHAT] [Guard Myra] You want to help me? Well I suppose there is one way... If I had the feather of a Ponike I could use the supplies I have on hand to create a pair of boots able to cushion myself from any unfortunate falls. They tend to nest at the top of the Cinders Roost. Their feathers are super light, so you shouldn't have trouble carrying them. I would go myself, but, you know- heights.
+[17:37:34] [main/INFO]: [CHAT] [I will set out as soon as I can.]
+[17:37:34] [main/INFO]: [CHAT] [That seems a bit too dangerous for me.]
+
+[17:38:19] [main/INFO]: [CHAT] [Guard Myra] Thank you! I will wait nervously for your return.
+[17:38:19] [main/INFO]: [CHAT] QUEST : LONG WAY DOWN
+[17:38:19] [main/INFO]: [CHAT] Length : Short
+[17:38:19] [main/INFO]: [CHAT] Difficulty : Medium
+[17:38:19] [main/INFO]: [CHAT] Travel to the Cinders Roost and return with a Ponike feather
+
+?
+
+As you approach the summit you notice a Ponike, and it notices you. You are going to have to defeat it to get a feather.
+
+As the bird falls in battle you pluck a feather from its body. Somehow it is lighter than a feather and also takes up almost no room.
+
+[17:46:18] [main/INFO]: [CHAT] Long Way Down: Return to Guard Myra.
+
+[17:48:21] [main/INFO]: [CHAT] [Guard Myra] H-hello again! Have you had any luck finding a Ponike feather?
+[17:48:21] [main/INFO]: [CHAT] [I found one!]
+[17:48:21] [main/INFO]: [CHAT] [I found one, but decided not to give it to you yet.]
+
+[17:48:45] [main/INFO]: [CHAT] [Guard Myra] Wonderful! Just give me a minute... Part A goes in slot B... oh dear that doesn't look right.
+[17:48:45] [main/INFO]: [CHAT] [Guard Myra] Oh wait I'm holding it upside down...
+[17:48:45] [main/INFO]: [CHAT] After a long series of errors, Guard Myra finishes creating his new boots. He immediately puts them on.
+[17:48:45] [main/INFO]: [CHAT] [Guard Myra] I can't thank you enough. I can finally do my job without the fear of falling and the pain and the leg-breaking and the dying. As for your reward...  My old boots were designed to resist fire. You can have them, along with this week's wages.
+[17:48:45] [main/INFO]: [CHAT] LONG WAY DOWN COMPLETE!
+[17:48:45] [main/INFO]: [CHAT] Awarded 32 Crystalline Shards, Warm Crystal Boots, and 1 Prestige
+
+==Treasure of the Past==
+
+[18:04:07] [main/INFO]: [CHAT] [Zulamar] Oh, you've finally come! It feels like I'd been waiting forever for you.
+[18:04:07] [main/INFO]: [CHAT] [Who are you, and why were you waiting for me?]
+[18:04:07] [main/INFO]: [CHAT] [I should probably go... ]
+[18:04:09] [main/INFO]: [CHAT] [Zulamar] My name is Zulamar. But my name won't tell you much about me- I'm here to make a deal.
+[18:04:09] [main/INFO]: [CHAT] [A deal? I'm interested...]
+[18:04:09] [main/INFO]: [CHAT] [All of this looks very suspicious... I think I'll go...]
+[18:04:12] [main/INFO]: [CHAT] <G> RevokedBTW » on other servers its admin
+[18:04:14] [main/INFO]: [CHAT] [Zulamar] Good. You don't ask troublesome questions like the others, and you don't back down either.
+[18:04:14] [main/INFO]: [CHAT] [...]
+[18:04:14] [main/INFO]: [CHAT] [Wait! I changed my mind... I think I'll refrain from your offer.]
+[18:04:19] [main/INFO]: [CHAT] [Zulamar] Well, let's get to the point.
+[18:04:19] [main/INFO]: [CHAT] [Zulamar] According to ancient legends, there used to be a prosperous empire with a king that was very greedy for knowledge. The only legacy left of this empire are ruins, proudly towering over the ocean.
+[18:04:19] [main/INFO]: [CHAT] [Zulamar] All kingdoms have their secrets, and the Viridian Empire was no exception. Ancient texts say that King Salazar had two cursed artifacts, yet he was afraid to use them.
+[18:04:19] [main/INFO]: [CHAT] [Afraid? Why?]
+[18:04:19] [main/INFO]: [CHAT] [Sounds like a fairy-tale. Wait, are you trying to make a fool of me?]
+[18:04:26] [main/INFO]: [CHAT] <G> DDeine » So in theory I could access every single dungeon rn?
+[18:04:30] [main/INFO]: [CHAT] [Zulamar] That's none of your concern right now. But, I might tell you once you've helped me.
+[18:04:30] [main/INFO]: [CHAT] [Zulamar] I digress. As it turns out, one of those artifacts is hidden deep underground, under the Sunken Tomb to the northwest. I don't know what dangers lie within, but be careful! Once you're inside, seek out a hidden door; it should open up to a secret chamber that holds great treasure. Good luck!
+[18:04:30] [main/INFO]: [CHAT] QUEST : TREASURE OF THE PAST
+[18:04:30] [main/INFO]: [CHAT] Length : Long
+[18:04:30] [main/INFO]: [CHAT] Difficulty : Medium
+[18:04:30] [main/INFO]: [CHAT] Head to the Sunken Tomb and find the artifact that lies within
+
+[18:07:32] [main/INFO]: [CHAT] Treasure of the Past: Head to the Sunken Tomb and search for a hidden chamber.
+
+[18:21:26] [main/INFO]: [CHAT] You press the button. There is a loud banging sound right next to your ears. You start to lose consciousness.
+[18:21:26] [main/INFO]: [CHAT] Suddenly, you find yourself inside a large structure with a high ceiling.
+
+[18:21:31] [main/INFO]: [CHAT] Treasure of the Past: Find a way to retrieve the cursed artifact from the temple.
+
+[18:25:01] [main/INFO]: [CHAT] As you move inside the temple, you notice a large eye looking directly at you
+[18:25:01] [main/INFO]: [CHAT] A magical barrier blocks your way. Perhaps you should examine this room?
+[18:25:02] [main/INFO]: [CHAT] [???] Prove yourself worthy to possess this sacred relic or begone!
+
+[18:26:41] [main/INFO]: [CHAT] A magical barrier restrains you from entering...
+
+push button under room entrance
+[18:28:35] [main/INFO]: [CHAT] You hear a crackling sound
+[18:28:35] [main/INFO]: [CHAT] After a moment, a splash of water is heard at the other end of the room
+
+push button behind waterfall after sprinting against the fall to become short
+[19:30:31] [main/INFO]: [CHAT] Echoes are heard all over the hall. It seems that barrier has been broken!
+
+#Q131I01 https://puu.sh/GRGa3/6af2610115.png
+
+[19:36:13] [main/INFO]: [CHAT] [Menacing Voice] You did it, mortal. Maybe you're not so hopeless...
+
+[19:38:17] [main/INFO]: [CHAT] Treasure of the Past [1/2]: Return to Zulamar in Alnera.
+[19:38:18] [main/INFO]: [CHAT] Treasure of the Past [2/2]: If you lose the artifact you can get it back from the hidden chamber.
+
+[19:42:05] [main/INFO]: [CHAT] [Zulamar] You got it? Well, show it to me, quickly!
+[19:42:05] [main/INFO]: [CHAT] He seems both a little bit nervous and excited at the same time.
+[19:42:05] [main/INFO]: [CHAT] [I have it right here.]
+[19:42:05] [main/INFO]: [CHAT] [In a hurry? You look nervous...]
+[19:42:09] [main/INFO]: [CHAT] [Zulamar] Huh? What? Why does it bother you so much?
+[19:42:09] [main/INFO]: [CHAT] He looks away from you and tries to examine the artifact.
+[19:42:09] [main/INFO]: [CHAT] [You send me after a relic you aren't sure exists, refuse to tell me about yourself, and now you try to ignore me. I need answers.]
+[19:42:16] [main/INFO]: [CHAT] [Zulamar] FINE! Fine! Calm down! I'll tell you what you want to know, just- calm down.
+[19:42:16] [main/INFO]: [CHAT] [Zulamar] The artifact you retrieved from the sunken tomb is not a simple relic of the past, but is instead a part of a mechanism that can be used to restore the Viridian Empire to its former glory. I can't tell you the details- I'm not sure of them myself- but my employer will surely be able to answer your questions. He should be in Frostgate. His name is Zeroc- I'll let him know you helped me here. Now, where was I...
+[19:42:16] [main/INFO]: [CHAT] [I see. Let's talk about my reward now...]
+[19:42:36] [main/INFO]: [CHAT] [Zulamar] Ah, yes! Reward, indeed... You see, I have nothing but these shiny crystals- er, crystalline shards...
+[19:42:36] [main/INFO]: [CHAT] He frowns a bit and thinks for a second.
+[19:42:36] [main/INFO]: [CHAT] [Zulamar] Although... I can make a replica of this spear and imbue it with either the power of lightning, fire, or ice- whichever one you want. But choose wisely- once you pick one, there is no going back.
+[19:42:36] [main/INFO]: [CHAT] [A little thunder and lightning never hurt anyone except my enemies.]
+[19:42:36] [main/INFO]: [CHAT] [Carving a flaming path of fire through my opposition. I like the sound of that.]
+[19:42:36] [main/INFO]: [CHAT] [A slow enemy is a vulnerable enemy. I think I'll freeze my targets with ice.]
+[19:42:52] [main/INFO]: [CHAT] [Zulamar] Here you are. Leave me be- I have an artifact to examine.
+[19:42:52] [main/INFO]: [CHAT] TREASURES OF THE PAST COMPLETE!
+[19:42:52] [main/INFO]: [CHAT] Awarded Apotheosis Spear, 28 Compressed Crystalline Shards!
+
+===A Lost Cause===
+
+[19:54:08] [main/INFO]: [CHAT] [Amina] Safar, my right-hand man, informed me of an adventurer who has helped the Trade a great deal. Tell me, is that you?
+[19:54:08] [main/INFO]: [CHAT] [Yes, and here is the Amulet to prove it.]
+[19:54:17] [main/INFO]: [CHAT] She looks at the amulet in acknowledgement.
+[19:54:17] [main/INFO]: [CHAT] [Amina] Hmm... so it seems you are. I believe a greeting is in order then. My name is Amina, and I am the head of the Ishnir Trade. You, Sukie, have shown the Trade your loyalty.
+[19:54:17] [main/INFO]: [CHAT] [So why did you want to see me?]
+[19:54:26] [main/INFO]: [CHAT] [Amina] You see, a rather perplexing issue has recently emerged. Many of our outposts among the Trade Route have fallen silent- one of the larger and more important outposts being the Crystal Haven.
+[19:54:26] [main/INFO]: [CHAT] [Amina] If we were to lose contact for a prolonged period of time, the Ishnir Trade would have a much harder time moving valuables between cities.
+[19:54:26] [main/INFO]: [CHAT] [So I should check that out?]
+[19:54:26] [main/INFO]: [CHAT] [That sounds like a real issue... but I have something else to do.]
+[19:55:09] [main/INFO]: [CHAT] [Amina] Precisely.
+[19:55:09] [main/INFO]: [CHAT] QUEST : A Lost Cause
+[19:55:09] [main/INFO]: [CHAT] Length : Long
+[19:55:09] [main/INFO]: [CHAT] Difficulty : Medium
+[19:55:09] [main/INFO]: [CHAT] See why the outpost has lost contact with Amina and the Trade
+
+[19:56:25] [main/INFO]: [CHAT] A Lost Cause: See why the Crystal Haven lost contact with Amina and The Trade.

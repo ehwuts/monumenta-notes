@@ -1,0 +1,329 @@
+=Quest Guide (Molta)=
+==Dealbreaker==
+* Difficulty: Medium
+* Requirements: A Merchant's Woe
+* Start: Safar in the bar (222, 95, 30)
+==Stablemaster's Request==
+* Difficulty: Medium
+* Requirements: None
+* Start: Miane (208, 101, 8)
+==Secrets Best Left Forgotten==
+* Difficulty: Hard
+* Requirements: Gem of Ishnir and Harmonic Convergence
+* Start: Issa (273, 118, 79)
+* Dungeon Quest
+==Woof!==
+* Start: Aquamarine (281, 122, 40)
+
+=Quests=
+
+==Dealbreaker==
+
+[23:46:18] [main/INFO]: [CHAT] [Safar] Hmm... Are you, by any chance, Sukie?
+[23:46:18] [main/INFO]: [CHAT] [Yeah... How do you know my name?]
+[23:46:18] [main/INFO]: [CHAT] [Uh, stranger danger!]
+[23:46:22] [main/INFO]: [CHAT] [Safar] Fine, the Trade didn't need your help anyways...
+[23:46:24] [main/INFO]: [CHAT] [Safar] Hmm... Are you, by any chance, Sukie?
+[23:46:24] [main/INFO]: [CHAT] [Yeah... How do you know my name?]
+[23:46:24] [main/INFO]: [CHAT] [Uh, stranger danger!]
+[23:46:25] [main/INFO]: [CHAT] [Safar] I have heard tale of your good deeds from Riaz in Rahkeri...
+[23:46:25] [main/INFO]: [CHAT] [Oh, it wasn't a big deal. Helping people is what I do.]
+[23:46:32] [main/INFO]: [CHAT] [Safar] Good, good... Well, the Trade requires your assistance. In a matter of business...
+[23:46:32] [main/INFO]: [CHAT] He darts his eyes back and forth to make sure no-one is watching...
+[23:46:32] [main/INFO]: [CHAT] [Okay...What do you guys need help with?]
+[23:46:32] [main/INFO]: [CHAT] [I'm actually quite preoccupied at the moment.]
+[23:46:40] [main/INFO]: [CHAT] [Safar] Well you see, a client of ours is refusing to act on his end of a deal. We require you to retrieve our goods from him...
+[23:46:40] [main/INFO]: [CHAT] QUEST : Dealbreaker
+[23:46:40] [main/INFO]: [CHAT] Length : Medium
+[23:46:40] [main/INFO]: [CHAT] Difficulty : Medium
+[23:46:40] [main/INFO]: [CHAT] Assist in retrieving The Ishnir Trade's goods
+[23:46:40] [main/INFO]: [CHAT] [Safar] Are you ready to begin?
+[23:46:40] [main/INFO]: [CHAT] [Yes, where should I go to retrieve your items?]
+[23:46:40] [main/INFO]: [CHAT] [No, I'm busy at the moment.]
+
+[23:47:26] [main/INFO]: [CHAT] Dealbreaker: Ask Safar what The Trade wants with you.
+
+[23:47:32] [main/INFO]: [CHAT] [Safar] A house towards the outskirts here has a basement, in that basement you should find our goods. Return them to us... Be careful Sukie - I am unsure what security measures the client has.
+[23:47:32] [main/INFO]: [CHAT] He gives you a swift nod.
+
+[23:47:43] [main/INFO]: [CHAT] Dealbreaker: Search for the client's house in Molta, once inside find the basement access hatch.
+
+BGOG
+
+#Q123I01 https://puu.sh/GRJKn/de10763d8f.png
+
+[00:33:35] [main/INFO]: [CHAT] Dealbreaker: Return to Safar to see if he can decode the message.
+
+[00:34:49] [main/INFO]: [CHAT] [Safar] Have you found the Ishnir Trade's goods?
+[00:34:49] [main/INFO]: [CHAT] [Unfortunately not - the client didn't have them in his basement. However, he did have this.]
+[00:34:53] [main/INFO]: [CHAT] [Safar] Let me see that...
+[00:34:53] [main/INFO]: [CHAT] He examines the book closely.
+[00:34:53] [main/INFO]: [CHAT] [So, does that help?]
+[00:34:54] [main/INFO]: [CHAT] [Safar] Yes, it helps tremendously, actually. This is an encoded set of coordinates to a location where our client has hidden a stash of supplies.
+[00:34:54] [main/INFO]: [CHAT] He looks up from the book.
+[00:34:54] [main/INFO]: [CHAT] [Oh! So where do they lead?]
+[00:34:55] [main/INFO]: [CHAT] <G>  Combustible » But a bunch of things did, so progress at least
+[00:34:56] [main/INFO]: [CHAT] [Safar] They appear to lead to an area named the "Magmashroom Mines". Look for some exposed stone bricks, which might indicate where the stash is.
+[00:34:56] [main/INFO]: [CHAT] [I'm on it!]
+[00:34:58] [main/INFO]: [CHAT] [Safar] Good luck, Sukie.
+
+[00:35:20] [main/INFO]: [CHAT] Dealbreaker [1/2]: Travel to Magmashroom Mines in order to find the client's stash. Be on the lookout for stone bricks.
+[00:35:22] [main/INFO]: [CHAT] Dealbreaker [2/2]: Once you have the stash return to Safar.
+
+#Q123I02 https://puu.sh/GUf1z/0d73e32fb8.png
+
+
+[12:01:54] [main/INFO]: [CHAT] [Safar] So, have you retrieved the items?
+[12:01:54] [main/INFO]: [CHAT] [You bet!]
+[12:01:55] [main/INFO]: [CHAT] [Safar] Fantastic! Sukie, you have been a great help to the Ishnir Trade. We will not forget what you have done to help us...
+[12:01:55] [main/INFO]: [CHAT] He smiles at you.
+[12:01:55] [main/INFO]: [CHAT] [No problem!]
+[12:01:59] [main/INFO]: [CHAT] [Safar] We believe a reward is in order: here, ta
+ke this... The Amulet here will allow you to be recognized by my superior.
+
+[12:01:59] [main/INFO]: [CHAT] DEALBREAKER COMPLETE!
+[12:01:59] [main/INFO]: [CHAT] 2 Prestige and Amulet of the Trade!
+
+
+
+==Stablemaster's Request==
+
+[00:38:29] [main/INFO]: [CHAT] [Miane] Howdy! What brings you to these parts?
+[00:38:29] [main/INFO]: [CHAT] [This stable seems a bit empty, partner.]
+[00:38:29] [main/INFO]: [CHAT] [Just visiting the town for the moment.]
+[00:38:33] [main/INFO]: [CHAT] [Miane] Are you mocking my dialect, partner?
+[00:38:33] [main/INFO]: [CHAT] [No, I didn't mean to! I was just trying to say that you seem to be lacking horses... partner.]
+[00:38:37] [main/INFO]: [CHAT] [Miane] Well you'd be right... Say, would you be into helping me gather some horse breeds for this here stable?
+[00:38:37] [main/INFO]: [CHAT] [Sure! Where should I go?]
+[00:38:37] [main/INFO]: [CHAT] [I've actually got little time at the moment.]
+[00:38:39] [main/INFO]: [CHAT] needmoney90 joined the game
+[00:38:40] [main/INFO]: [CHAT] [Miane] Alright so, the first breed should be found near the outskirts of this Mesa, southeast of the Crystal Crown. At least, That's what my handbook tells me!
+[00:38:40] [main/INFO]: [CHAT] QUEST : Stablemaster's Request
+[00:38:40] [main/INFO]: [CHAT] Length : Medium
+[00:38:40] [main/INFO]: [CHAT] Difficulty : Easy-Medium
+[00:38:40] [main/INFO]: [CHAT] Find different horse breeds for Miane's stable.
+
+[12:29:22] [main/INFO]: [CHAT] [Miane] The first horse breed should be near the outskirts of the Mesa just past the Crystal Crown! They like to live fairly high up. Bring one back to my stable for me!
+[12:29:22] [main/INFO]: [CHAT] [Where would I get a saddle for the horse?]
+[12:29:23] [main/INFO]: [CHAT] [Miane] Oh, of course you'd need that wouldn't ya? Well, my assistant here should be able to help a bit!
+
+[00:39:05] [main/INFO]: [CHAT] Stablemaster's Request [1/2]: Follow Miane's directions to the first horse breed in the outskirts of the Mesa, southeast of the Crystal Crown.
+[00:39:07] [main/INFO]: [CHAT] Stablemaster's Request [2/2]: Once you have the horse bring it back to Miane.
+
+[11:29:03] [main/INFO]: [CHAT] Stablemaster's Request: Talk to Miane.
+
+[12:30:49] [main/INFO]: [CHAT] [Miane] Ah! You've brought back the horse- great work! Now on to the next breed...
+[12:30:49] [main/INFO]: [CHAT] [Where can I find it?]
+[12:30:49] [main/INFO]: [CHAT] She flips through her guide book's pages.
+[12:30:51] [main/INFO]: [CHAT] [Miane] These next horses love to live in caverns. I think they should reside somewhere in the Canyonlands, under the Abandoned Library seems to fit the description!
+
+[12:31:14] [main/INFO]: [CHAT] Stablemaster's Request [1/2]: Follow Miane's directions once more to find the second horse breed in the Canyonlands, in the caverns under the Abandoned Library.
+[12:31:15] [main/INFO]: [CHAT] Stablemaster's Request [2/2]: Once you have the horse bring it back to Miane.
+
+~(394, 286)
+canyon cheval horse ~(0, 67, 590)
+oasis stallion ~(-4, 103, 940)
+
+[11:29:03] [main/INFO]: [CHAT] Stablemaster's Request: Talk to Miane.
+
+[11:29:05] [main/INFO]: [CHAT] [Miane] Yeehaw! Two down, one to go! The final horse breed, if this book is correct, should reside in an area with large amounts of water. Sounds like the Oasis to me! It also mentions a spring sandwiched between the Charred Arcanery and Palm Tree Paradise.
+[11:29:05] [main/INFO]: [CHAT] [Okay, I'll head there next!]
+
+[11:32:06] [main/INFO]: [CHAT] Stablemaster's Request [1/2]: Follow Miane's directions one last time to find the final horse breed in the Oasis, near a spring sandwiched between the Charred Arcanery and Palm Tree Paradise.
+[11:32:02] [main/INFO]: [CHAT] Stablemaster's Request [2/2]: Once you have the horse bring it back to Miane.
+
+[11:29:03] [main/INFO]: [CHAT] Stablemaster's Request: Talk to Miane.
+
+[11:45:39] [main/INFO]: [CHAT] [Miane] You've done it! Now my stables are full of life once more! I can't thank you enough!
+[11:45:39] [main/INFO]: [CHAT] [You are most very welcome! Now, how about a reward?]
+[11:45:39] [main/INFO]: [CHAT] Her face lights up!
+[11:45:42] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[11:45:43] [main/INFO]: [CHAT] [Miane] Ah yes! Here, take this. I believe it should cover your troubles! Take care partner!
+[11:45:43] [main/INFO]: [CHAT] STABLEMASTER'S REQUEST COMPLETE!
+[11:45:43] [main/INFO]: [CHAT] Awarded Stablemaster's Prod and 20 Compressed Crystalline Shards!
+
+==Secrets Best Left Forgotten==
+
+[18:58:30] [main/INFO]: [CHAT] [Issa] What happened here...? Maybe... No, that can't be it... Someone must know something about this...
+[18:58:30] [main/INFO]: [CHAT] She seems too engrossed in whatever she is reading to notice you.
+[18:58:30] [main/INFO]: [CHAT] [Know what?]
+[18:58:35] [main/INFO]: [CHAT] [Issa] Oh, uh, hello there! I, um, wasn't talking about anything in here. Head along...
+[18:58:35] [main/INFO]: [CHAT] [I could hear you talking to yourself.]
+[18:58:35] [main/INFO]: [CHAT] [Okay- have a nice day!]
+[18:58:41] [main/INFO]: [CHAT] [Issa] See you...
+[18:58:41] [main/INFO]: [CHAT] She keeps an eye over her shoulder to make sure you're gone.
+[18:58:44] [main/INFO]: [CHAT] [Issa] What happened here...? Maybe... No, that can't be it... Someone must know something about this...
+[18:58:44] [main/INFO]: [CHAT] She seems too engrossed in whatever she is reading to notice you.
+[18:58:44] [main/INFO]: [CHAT] [Know what?]
+[18:58:45] [main/INFO]: [CHAT] [Issa] Oh, uh, hello there! I, um, wasn't talking about anything in here. Head along...
+[18:58:45] [main/INFO]: [CHAT] [I could hear you talking to yourself.]
+[18:58:45] [main/INFO]: [CHAT] [Okay- have a nice day!]
+[18:58:49] [main/INFO]: [CHAT] [Issa] ...Persistent, I see. Well, if you can keep a secret I'll let you in on something I've discovered.
+[18:58:49] [main/INFO]: [CHAT] [Issa] You see, this seemingly innocent mining town is hiding something. No one will confirm anything, but you can tell by the way people carry themselves here, speaking of people who, as far as the official records show, never existed. If my hunch is correct, something is being covered up, something big that caused people to go missing.
+[18:58:49] [main/INFO]: [CHAT] [That's odd. Could you use any help?]
+[18:59:06] [main/INFO]: [CHAT] [Issa] It is quite unnerving, yes. And yes, in fact, I think you could be useful.
+
+[18:59:06] [main/INFO]: [CHAT] QUEST : Secrets Best Left Forgotten
+[18:59:06] [main/INFO]: [CHAT] Length : Medium-Long
+[18:59:06] [main/INFO]: [CHAT] Difficulty : Hard
+[18:59:06] [main/INFO]: [CHAT] Help Issa to uncover the truth of Molta's past.
+
+[18:59:06] [main/INFO]: [CHAT] [Issa] I've had some bad luck with trying to get information out of the people here, but maybe you'd do better? Ask around the town- see if you can get some details out of anyone. The people most likely to know something are Foreman Boris, Governor Amarion, and Record Keeper Shani.
+
+[19:04:24] [main/INFO]: [CHAT] Secrets Best Left Forgotten [1/3]: Search around Molta for clues about the disappearances. Governor Amarion might know something.
+[19:04:26] [main/INFO]: [CHAT] Secrets Best Left Forgotten [2/3]: Search around Molta for clues about the disappearances. Foreman Boris could know something.
+[19:04:27] [main/INFO]: [CHAT] Secrets Best Left Forgotten [3/3]: Search around Molta for clues about the disappearances. Perhaps Record Keeper Shani knows something.
+
+[19:05:00] [main/INFO]: [CHAT] [Governor Amarion] Oh hello; name's Amarion. What can I do for you?
+[19:05:00] [main/INFO]: [CHAT] [How did you become governor of Molta?]
+[19:05:00] [main/INFO]: [CHAT] [What is Molta?]
+[19:05:00] [main/INFO]: [CHAT] [Anything you can tell me about the rumors of people going missing?]
+[19:05:05] [main/INFO]: [CHAT] [Governor Amarion] Eh? You nuts or something? Don't come stomping into my office with such nonsense.
+[19:05:05] [main/INFO]: [CHAT] [Quite the reaction to a simple question.]
+[19:05:09] [main/INFO]: [CHAT] [Governor Amarion] Who do you think you are? I oughta kick you out, you snooping weasel!
+[19:05:09] [main/INFO]: [CHAT] You definitely aren't going to be getting anything out of him.
+
+[19:06:28] [main/INFO]: [CHAT] [Foreman Boris] Hello there! Welcome to Molta! I run the base mining operations here, but I still have to report to Amarion.
+[19:06:28] [main/INFO]: [CHAT] [I needed to ask you something, actually.]
+[19:06:32] [main/INFO]: [CHAT] [Foreman Boris] What might that be?
+[19:06:32] [main/INFO]: [CHAT] [I've heard some rumors about people going missing. Any idea what that might be about?]
+[19:06:34] [main/INFO]: [CHAT] <G> Inkling27 » do you not have a sheild?
+[19:06:36] [main/INFO]: [CHAT] [Foreman Boris] Well... I haven't the slightest, uh, idea where you got that information there, friend! Sounds like a bunch of hoopty to me!
+[19:06:36] [main/INFO]: [CHAT] He looks rather nervous.
+[19:06:36] [main/INFO]: [CHAT] [You don't seem to confident in that answer.]
+[19:06:40] [main/INFO]: [CHAT] [Foreman Boris] Oh, I don't have to stand here and take questions from some outsider. Get out!
+[19:06:40] [main/INFO]: [CHAT] He gives you a stern look. You probably aren't going to get any more information out of him.
+
+[19:09:20] [main/INFO]: [CHAT] [Record Keeper Shani] Hello! Welcome to the Molta Archives! Let me know if I can help you with anything.
+[19:09:20] [main/INFO]: [CHAT] [Actually, there is this one thing...]
+[19:09:22] [main/INFO]: [CHAT] [Record Keeper Shani] Oh? What is it?
+[19:09:22] [main/INFO]: [CHAT] [Well, I came across a strange rumor that miners have seemingly gone missing, but there doesn't seem to be any record of that.]
+[19:09:27] [main/INFO]: [CHAT] [Record Keeper Shani] Oh... Well, I...
+[19:09:27] [main/INFO]: [CHAT] [Anything to say on it?]
+[19:09:29] [main/INFO]: [CHAT] [Record Keeper Shani] Listen, there is something to that story, but I can't say much or Amarion will have me sacked. The only thing I can do is give you this- but do not mention it to anyone, understand? Now please leave, I can't have you snooping around here or someone will notice.
+[19:09:29] [main/INFO]: [CHAT] She leans over to whisper to you.
+[19:09:29] [main/INFO]: [CHAT] [Oh! Thank you!]
+[19:09:38] [main/INFO]: [CHAT] [Record Keeper Shani] Hurry along now... Don't let Amarion see you.
+
+Redacted Mining Records (#Q109I01)
+
+[19:10:26] [main/INFO]: [CHAT] Secrets Best Left Forgotten: Return to Issa to tell her what you've found out around town.
+
+[19:11:27] [main/INFO]: [CHAT] [Issa] So have you found anything? 
+[19:11:27] [main/INFO]: [CHAT] [Sort of, Amarion and Boris are silent and abrasive, but Shani gave me these records.]
+[19:11:31] [main/INFO]: [CHAT] [Issa] Oh how interesting, let me look them over.
+[19:11:31] [main/INFO]: [CHAT] She reads the records trying to make sense of the censored words.
+[19:11:31] [main/INFO]: [CHAT] [So do those records help?]
+[19:11:34] [main/INFO]: [CHAT] [Issa] They are hard to make out but... Wait, I think I know what they've censored!
+[19:11:34] [main/INFO]: [CHAT] [And? What is it?]
+[19:11:36] [main/INFO]: [CHAT] [Issa] They are almost definitely mentioning the Basanite Bore! If memory serves, that used to be a mining operation site. Why don't you head over there and see if you can find anything relevant? I'll see what information I can dig up on the Bore while you are gone.
+
+[19:11:57] [main/INFO]: [CHAT] Secrets Best Left Forgotten: Investigate the Basanite Bore.
+
+[19:14:38] [main/INFO]: [CHAT] You begin to feel lightheaded, and everything goes black.
+[19:14:39] [main/INFO]: [CHAT] [Basanite Miners] HELP US!
+[19:14:40] [main/INFO]: [CHAT] [Basanite Miners] PLEASE!
+[19:14:41] [main/INFO]: [CHAT] [Basanite Miners] WE'RE BEGGING YOU!
+[19:14:42] [main/INFO]: [CHAT] [Basanite Miners] FREE US!
+[19:14:43] [main/INFO]: [CHAT] [Basanite Miners] LET US OUT!
+[19:14:44] [main/INFO]: [CHAT] [Basanite Miners] SAVE US!
+[19:14:45] [main/INFO]: [CHAT] [Basanite Miners] Sukie!
+[19:14:46] [main/INFO]: [CHAT] [Basanite Miners] PLEASE!
+[19:14:47] [main/INFO]: [CHAT] [Basanite Miners] SAVE US!
+[19:14:48] [main/INFO]: [CHAT] [Basanite Miners] PLEASE!
+[19:14:49] [main/INFO]: [CHAT] You open your eyes and find yourself back in Basanite. Whatever just happened, Issa will probably want to know about it.
+
+[19:19:16] [main/INFO]: [CHAT] Secrets Best Left Forgotten: Return to Issa to tell her about your strange encounter.
+
+[19:24:41] [main/INFO]: [CHAT] [Issa] What's wrong? You look startled.
+[19:24:41] [main/INFO]: [CHAT] [Something... very weird happened...]
+[19:24:43] [main/INFO]: [CHAT] [Issa] And? What was that?
+[19:24:43] [main/INFO]: [CHAT] [I had a... dream? Vision, maybe? There were these miners, begging to be rescued.]
+[19:24:46] [main/INFO]: [CHAT] [Issa] What? Were they trapped somewhere? Held hostage?
+[19:24:46] [main/INFO]: [CHAT] [I don't know, they just kept begging for help.]
+[19:24:48] [main/INFO]: [CHAT] [Issa] I suppose if they truly are alive somewhere and unable to escape, then the top priority should be to help them rather than debate details. Amarion isn't going to talk- he's a puppet of Alnera. Maybe with enough evidence though, we can swap the Foreman.
+[19:24:48] [main/INFO]: [CHAT] [Issa] In the little amount of writing I was able to find about Basanite while you were gone, I noticed that it was an operation that occured in tandem to the Terracotta mining operation. There is a mining town out near Basanite that it took place in. Head there and see if you can find anything.
+
+[19:24:56] [main/INFO]: [CHAT] Secrets Best Left Forgotten: Head to the Terracotta Mining Town to retrieve some evidence in order to get the Foreman to talk.
+
+Dusty Journal (#Q109I02)
+
+[19:52:07] [main/INFO]: [CHAT] [Foreman Boris] Oh, it's you again... I thought I told you to get out.
+[19:52:07] [main/INFO]: [CHAT] [Yes, well, I've got some more questions for you.]
+[19:52:10] [main/INFO]: [CHAT] [Foreman Boris] I told you before, whatever rumor you have heard is absurd. It's just a story.
+[19:52:10] [main/INFO]: [CHAT] [Then care to explain this?]
+[19:52:14] [main/INFO]: [CHAT] [Foreman Boris] Where did you get that?
+[19:52:14] [main/INFO]: [CHAT] He suddenly looks very worried.
+[19:52:14] [main/INFO]: [CHAT] [I found it in an old mining camp. It mentions some very interesting things, namely "The Basanite Mission".]
+[19:52:18] [main/INFO]: [CHAT] [Foreman Boris] ...
+[19:52:18] [main/INFO]: [CHAT] [Let's see, now. How about we start off with whatever "Cursestone" is?]
+[19:52:21] [main/INFO]: [CHAT] [Foreman Boris] Okay, okay! Look, I'll talk. I can't keep this a secret forever- Amarion be damned!
+[19:52:21] [main/INFO]: [CHAT] [What happened here?]
+[19:52:24] [main/INFO]: [CHAT] [Foreman Boris] Well, some years back, we lost miners- a lot of miners- to this cursed Basanite mission. If this had gotten out, our town would be out of business, and Alnera would have our heads. So we had to keep it a secret. Amarion came up with that idea, of course...
+[19:52:24] [main/INFO]: [CHAT] [I'm not entirely sure they are dead. I went to Basanite, and I think they somehow reached out to me, begging for help to escape.]
+[19:52:37] [main/INFO]: [CHAT] [Foreman Boris] I... I don't understand how that could be. We saw them die... We... we collapsed the entrance and sealed it off because we knew they were gone... No, please don't tell me we trapped them inside of that place. Damn you Amarion! Sukie, please, if this is true, I need you to head back to Basanite. Under the ground, you will find the highest level of the mine shaft- we used that as our entrance into the lower sections. I will meet you there.
+
+[19:54:21] [main/INFO]: [CHAT] Secrets Best Left Forgotten: Return to the Basanite Bore and meet Boris at the bottom of the mine.
+
+[20:00:44] [main/INFO]: [CHAT] [Basanite Miners] Sukie! Please help us! We beg of you!
+[20:00:44] [main/INFO]: [CHAT] [What can I do to help you?]
+[20:01:08] [main/INFO]: [CHAT] [Basanite Miners] Free us! Break the seal holding us inside! The cube behind you is the source of its power. Each face must only be rotated once- the correct sequence will force only a single color on each face, breaking the chains that hold us here. The first face to hit is West!
+
+(reset) west top north south east bottom
+
+submit -> boss fight
+
+[20:08:21] [main/INFO]: [CHAT] [Disembodied Voice] "Please Sukie! Help us! We need you!" Ha, your mind is so easily warped by the cries of those you perceive as below you.
+[20:08:28] [main/INFO]: [CHAT] [Disembodied Voice] Now, a path for me has been created to the surface; I shall once again be free. But you- you are no longer of service to me. Allow me to do the honors of splitting your mind in half before consuming it into my flesh.
+[20:09:35] [main/INFO]: [CHAT] As you deal the finishing blow, the room begins to melt away, and your eyes open once more.
+
+[20:10:22] [main/INFO]: [CHAT] [Foreman Boris] As I suspected, the seal is now broken, but there are no miners leaving the cave in freedom. I believe we may have been played.
+[20:10:22] [main/INFO]: [CHAT] [Something definitely wanted to be freed, but it wasn't the miners.]
+[20:10:29] [main/INFO]: [CHAT] [Foreman Boris] Well, whatever it is that's down there, please be careful. I don't have a good feeling about this, but our town needs closure- please, do this for us. I'm... no, WE, are counting on you.
+[20:10:29] [main/INFO]: [CHAT] [I won't fail you, Boris.]
+[20:10:35] [main/INFO]: [CHAT] [Foreman Boris] Godspeed Sukie.
+
+[20:10:35] [main/INFO]: [CHAT] SECRETS BEST LEFT FORGOTTEN COMPLETE!
+[20:10:35] [main/INFO]: [CHAT] Awarded a Cyan Key, Excavator's Hardlamp, access to the Cyan Dungeon Teleporter, and 1 Prestige!
+
+==Woof!==
+
+[14:29:44] [main/INFO]: [CHAT] [Aquamarine] Awooooof!
+[14:29:44] [main/INFO]: [CHAT] [Oh okay, okay! What do you want?]
+[14:29:46] [main/INFO]: [CHAT] [Aquamarine] Woof!
+[14:29:46] [main/INFO]: [CHAT] [You want me to say... what to Micha the cat in Sierhaven?]
+[14:29:48] [main/INFO]: [CHAT] [Aquamarine] Arrrrrruf! Grrrrrr!
+
+[14:33:40] [main/INFO]: [CHAT] Woof!: Woof!
+
+at some point take the Dog Bone #Q137I03 from theri backyard (280, 124, 29) and take it to Aquamarine for "completion".
+[14:34:12] [main/INFO]: [CHAT] [Aquamarine] Woof! Woof! Woof!
+[14:34:12] [main/INFO]: [CHAT] WOOF! COMPLETE!
+[14:34:12] [main/INFO]: [CHAT] Awarded Woof!, and 20 good dog points
+
+Micha the cat - Sierhaven - Teleport hub top floor, ~(-777, 133, 73)
+"You want pets" - Molta - talk to Aquamarine again
+Skobeloff - Steelmeld - (-625, 16, -509), dog up the water shaft on the way to monument
+"Makes barking noises" - talk holding an item with barking.. such as the quest reward
+Celeste - Wispervale - dog in the academy (-1807, 163, -94)
+A fallen comrade's grave in Nightroost - Puffles's resting place (-1403, 127, 541)
+chase a minecart - molta - do the Trackmaster race bronze or better
+Verdgris - Mistport - (-734, 87, 1333)
+aquamarine's ball in molta - (212, 115, 73)
+dog treat - molta - 4cs from the butchers ~(222, 92, 48)
+"pet. another dog" - wolf spawn egg, 12cxp  from wolfmaster alex outside highwatch ~(1106, 105, -58)
+
+Evil man - Highwatch - (1150 125 -128)
+Peking Moon - Lowtide - (728 68 461)
+Moonstone - Frostgate - (-1591 113 1004)
+Down the Molta well - Guess - (252 113 104)
+Sierhaven apartments basement kitten -Sierhaven - (-832 101 97)
+Cuddle bed - Molta - (286 127 37)
+Big stick - talk to Aquamarine with a vanilla stick in your inventory
+Dogcoin- talk to Aquamarine with 1cs in your inventory
+
+Grrrrrr.. Woof!
+[Arf!](?)
+Grrr!
+Woof!
+A fallen comarade's grave in Nightroost - (-1403, 127, 541)

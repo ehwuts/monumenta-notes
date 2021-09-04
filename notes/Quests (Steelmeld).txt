@@ -1,0 +1,571 @@
+=Quest Guide (Steelmeld)=
+==Fred's Bizarre Adventure==
+Difficulty: Medium
+Requirements: Completion of the Light Gray OR Cyan dungeon
+Start: Fred (-442, 14, -498)
+Dungeon Quest
+==The Olive Branch==
+Difficulty: Very Hard
+Requirements: Completion of Unmasked
+Start: Bhairavi (-543, 6, -528)
+Dungeon Quest
+==The Stone Ocean==
+Difficulty: Medium
+Requirements: Completion of The City of Shifting Waters AND The Black Willows dungeons
+Start: Fred (-442, 14, -498)
+==Pyre and Prejudice==
+Difficulty: Medium
+Requirements: None
+Start: Agricultural Engineer Nitreia (-639, 14, -465)
+==Scientists of Steelmeld I==
+Difficulty: Medium
+Requirements: None
+Start: Professor Bermuda (-541, 5, -476)
+
+
+=Quests=
+==Fred's Bizarre Adventure==
+[16:38:18] [main/INFO]: [CHAT] [Fred] Oh hello there. Sorry, I don't have much time to talk right now, I'm pretty busy.
+[16:38:18] [main/INFO]: [CHAT] [Where does this passage way lead?]
+[16:38:18] [main/INFO]: [CHAT] [Who are you?]
+[16:38:23] [main/INFO]: [CHAT] [Fred] Well, that's the question, now isn't it! You don't seem like you're from around here, mind if I ask who you are?
+[16:38:23] [main/INFO]: [CHAT] [My name is Sukie.]
+[16:38:23] [main/INFO]: [CHAT] [I do mind actually!]
+[16:38:28] [main/INFO]: [CHAT] [Fred] Sukie, what an interesting name. Well Sukie, a recent collapse in a structured wall in the garden revealed this passage way, and I've tasked myself with researching what lies beyond it.
+[16:38:28] [main/INFO]: [CHAT] [Is there something preventing you from going forward?]
+[16:38:33] [main/INFO]: [CHAT] [Fred] You mean besides the large iron bars and the obvious signs of structural foundation erosion? Yes actually, there's also a powerful seal keeping the area inaccessible.
+[16:38:33] [main/INFO]: [CHAT] [Would you like some help?]
+[16:38:38] [main/INFO]: [CHAT] [Fred] Hmm, I've not hired an assistant in a while... not since the accident that, uh... terminated my last one... So sure, why not! You're hired!
+[16:38:38] [main/INFO]: [CHAT] QUEST : FRED'S BIZARRE ADVENTURE
+[16:38:38] [main/INFO]: [CHAT] Length : Short
+[16:38:38] [main/INFO]: [CHAT] Difficulty : Medium
+[16:38:38] [main/INFO]: [CHAT] Assist Fred in researching the passageway in Steelmeld.
+[16:38:38] [main/INFO]: [CHAT] [So what's the plan?]
+[16:38:40] [main/INFO]: [CHAT] [Fred] Here's a little catch up on my research so far. After some careful study on the seal that prevents forward progress, I have found that it might be possible to counter the magical frequency using a Silvic Crystal.
+[16:38:40] [main/INFO]: [CHAT] [Fred] Since I'm sure you've brushed up on your geology like all good assistants do, you likely know that Silvic Crystals are exceedingly rare. In fact, the only place I even know they can be found is an area in the west known as the Crystalline Vault, though not many people are brave enough to attempt to enter.
+[16:38:40] [main/INFO]: [CHAT] [So in short, find the magic crystal in the dangerous vault?]
+[16:38:42] [main/INFO]: [CHAT] [Fred] As sharp as I would expect! Let us head there forthwith!
+[16:38:42] [main/INFO]: [CHAT] [Us?]
+[16:38:44] [main/INFO]: [CHAT] [Fred] Yes, us! Why would I not come with you? Have your previous employers sent you off to dangerous places on your own? How careless!
+[16:38:48] [main/INFO]: [CHAT] Delve Bounty: A valley of mysteries locked away by the power of the elements. It echoes the voice of a power now taken.
+[16:38:49] [main/INFO]: [CHAT] Monumenta Quests: Finding the starting NPC for Fred's Bizarre Adventure.
+[16:38:50] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Head to the Crystalline Vault with Fred.
+[16:38:51] [main/INFO]: [CHAT] [Fred] Come on! We need to head out to the Crystalline Vault in the western ocean!
+
+[16:42:53] [main/INFO]: [CHAT] [Fred] *gargle* GAH! Wasn't *gargle* expecting this much *gargle* water!
+[16:42:55] [main/INFO]: Villager class_1646['§6Fred'/1085902, l='ClientLevel', x=-2134.50, y=53.02, z=597.50] died, message: '§6Fred died'
+[16:42:55] [main/INFO]: [CHAT] Fred drowned
+[16:43:08] [main/INFO]: [CHAT] [Fred] Alright, I'm regeared and ready for action!
+[16:43:15] [main/INFO]: Villager class_1646['§6Fred'/1086503, l='ClientLevel', x=-2107.50, y=-141.89, z=596.50] died, message: '§6Fred died'
+
+[16:44:38] [main/INFO]: [CHAT] [Fred] Come on, slowpoke! I found one over here! I'm sure we can gather a large enough sample needed from this deposit. Let's grab it and get back to Steelmeld!
+[16:44:45] [main/INFO]: Villager class_1646['§6Fred'/1091401, l='ClientLevel', x=-2028.50, y=-141.89, z=597.50] died, message: '§6Fred died'
+
+#Q111I01 Silvic Crystal
+
+[16:45:31] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Return the crystal you got from the Vault to Steelmeld.
+
+[16:48:07] [main/INFO]: [CHAT] [Fred] Fantastic, this is just what we need! Kinda...
+[16:48:07] [main/INFO]: [CHAT] [What do you mean 'kinda'?]
+[16:48:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[16:48:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[16:48:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[16:48:10] [main/INFO]: [CHAT] [Fred] Well, there's a catch. The Silvic Crystal is gonna need a bit of tuning before it can properly negate the magic from the seal. Luckily, I have just the device to do so!
+[16:48:10] [main/INFO]: [CHAT] [Well, that's eas-]
+[16:48:16] [main/INFO]: [CHAT] [Fred] That you are going to have to get working in dramatic fashion!
+[16:48:16] [main/INFO]: [CHAT] [Of course...]
+[16:48:18] [main/INFO]: [CHAT] [Fred] To the Stone Fred!
+
+[16:48:24] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Help Fred attune the crystal.
+
+[16:51:49] [main/INFO]: [CHAT] [Fred] Fantastic! The crystal is ready, go grab it and we can head out!
+
+#Q111I02 Purified Silvic Crystal
+
+[16:51:54] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Place the new crystal on the pedestal.
+
+[16:56:09] [main/INFO]: [CHAT] [Fred] Well, it's the moment of truth. We've got a perfect crystal, a ruined structure, and a whole lot of anxiet- I mean, luck. Go and place the crystal on the pedestal and let's see what happens.
+[16:56:09] [main/INFO]: [CHAT] [I need to go back and get another crystal.]
+[16:56:14] [main/INFO]: [CHAT] <G> [GTM] CaptainJR » Buy my kings sabos it only 15hxp
+[16:56:20] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Place the new crystal on the pedestal.
+[16:56:34] [main/INFO]: [CHAT] <G> [PP] Spy21DD » Only 15? How the mighty have fallen
+[16:56:35] [main/INFO]: [CHAT] A heavy force pushes you away from the pedestal.
+[16:56:43] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Head inside the passage way with Fred.
+[16:56:44] [main/INFO]: [CHAT] [Fred] Well... It looks like it worked. There's no telling what could be ahead, we should be prepared for the worst. Are you ready?
+[16:56:44] [main/INFO]: [CHAT] [Let's go.]
+[16:56:44] [main/INFO]: [CHAT] [No, I need to prepare first.]
+[16:56:48] [main/INFO]: [CHAT] [Fred] Forward we go!
+[16:56:43] [main/INFO]: [CHAT] Fred's Bizarre Adventure: Head inside the passage way with Fred.
+
+[17:02:22] [main/INFO]: [CHAT] [Fred] Whew! What a journey! It seems like we've reached a safe point before the passage continues onward. I am so eager to find out what lies below here.
+[17:02:22] [main/INFO]: [CHAT] [What do we do now?]
+[17:02:22] [main/INFO]: [CHAT] <G> [TAG] CreepSlayerz » how many of each
+[17:02:24] [main/INFO]: [CHAT] [Fred] I've called in some assistance from some other researchers in Steelmeld. I'm sure they will be thrilled to see what we've discovered! But now, we only look forward, my faithful assistant. We've only just begun this bizarre adventure! 
+[17:02:24] [main/INFO]: [CHAT] FRED'S BIZARRE ADVENTURE COMPLETE!
+[17:02:24] [main/INFO]: [CHAT] Awarded a Shifting Waters key, 1 Prestige, and access to The City of Shifting Waters dungeon.
+
+==The Stone Ocean==
+
+
+==Pyre and Prejudice==
+
+[11:23:44] [main/INFO]: [CHAT] [Nitreia] Salutations! Er- I mean… hey! Do you understan-... do you know what my words mean?
+[11:23:44] [main/INFO]: [CHAT] [...Yes?]
+[11:23:44] [main/INFO]: [CHAT] [*Stare blankly.*]
+[11:23:48] [main/INFO]: [CHAT] [Nitreia] Oh good! Are you an adventu-… findy-fighty person? You find and fight good? Can you help me?
+[11:23:48] [main/INFO]: [CHAT] [(Play along) Yep! Am good at findy-fighty! You need thing finded, fighted, or finded AND fighted?]
+[11:23:48] [main/INFO]: [CHAT] [(Reveal your intelligence) I’m an adventurer, yes. You can be a bit more multisyllabic if you want.]
+[11:24:03] [main/INFO]: [CHAT] [Nitreia] “Multisyllabic?” Oh, thank goodness; you’ve got a functioning frontal lobe. My apologies, I’m new to field work and didn’t know what to expect of my first assistant.
+[11:24:03] [main/INFO]: [CHAT] [No offense is taken, but it’s best not to assume.]
+[11:24:09] [main/INFO]: [CHAT] [Nitreia] I’m in dire need of fresh samples of volcanic ash throughout Northern continental Ishnir. I was hoping you’d be willing to procure some for me.
+[11:24:09] [main/INFO]: [CHAT] [Certainly. Where’s the first deposit you need a sample from?]
+[11:24:09] [main/INFO]: [CHAT] [I’ll pass. This sounds depressingly familiar.]
+[11:24:30] [main/INFO]: [CHAT] [Nitreia] Wonderful! The first ash sample should be found in Scorch Valley. Please be safe! 
+
+[11:24:30] [main/INFO]: [CHAT] QUEST : Pyre and Prejudice
+[11:24:30] [main/INFO]: [CHAT] Length : Medium
+[11:24:30] [main/INFO]: [CHAT] Difficulty : Medium
+[11:24:30] [main/INFO]: [CHAT] Gather samples of volcanic ash for Nitreia, the Steelmeld agricultural engineer.
+
+[11:25:40] [main/INFO]: [CHAT] Pyre and Prejudice: Collect a volcanic ash sample from somewhere in Scorch Valley.
+
+[06:48:19] [main/INFO]: [CHAT] Pyre and Prejudice: Return to Nitreia with your sample of Sulfuric Ash.
+
+[06:48:26] [main/WARN]: Received passengers for unknown entity
+[06:48:34] [main/INFO]: [CHAT] [Nitreia] Fresh, relatively free of contaminants, sufficient amount... I'm very impressed with this.
+[06:48:34] [main/INFO]: [CHAT] [What are you hoping to learn from these samples?]
+[06:48:40] [main/INFO]: [CHAT] <G> [FPF] Headstool » IT TELEPORTED
+[06:48:48] [main/INFO]: [CHAT] [Nitreia] In preliminary testing, volcanic ash has proven very effective as a soil enhancer for agricultural use. 
+[06:48:48] [main/INFO]: [CHAT] [Nitreia] I’m hoping to identify which environments produce the best ash for this.
+[06:48:48] [main/INFO]: [CHAT] [Makes perfect sense. Where’s the next area to survey?]
+[06:48:49] [main/INFO]: [CHAT] <G> Exufox » yo
+[06:48:53] [main/INFO]: [CHAT] <G> [GTM] Rodogorgon » nameless hedges?
+[06:48:56] [main/INFO]: [CHAT] [Nitreia] Head to the village of Charn just outside Molta, to the Southeast. Be careful!
+[06:48:56] [main/INFO]: [CHAT] [Nitreia] Please return here when you have a sample of ash from Charn, South of Molta. It must be fresh, by the way.
+
+[06:49:19] [main/INFO]: [CHAT] Pyre and Prejudice: Collect a volcanic ash sample from somewhere in Charn.
+
+[06:54:49] [main/INFO]: [CHAT] Pyre and Prejudice: Return to Nitreia with your sample of Bonemeal Ash.
+
+[06:55:05] [main/INFO]: [CHAT] [Nitreia] Oh hey! Glad to see that your burns are 1st-degree and lower!
+[06:55:05] [main/INFO]: [CHAT] [Nitreia] Excellent sample; impressive purity and consistency.
+[06:55:05] [main/INFO]: [CHAT] [I’ve been meaning to ask, why are you so interested in increased crop yields?]
+[06:55:05] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[06:55:07] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[06:55:08] [main/INFO]: [CHAT] [Nitreia] Here in the ocean, space is at a premium and the seawater isn’t fit for conventional farming. So I’m looking into alternative farming methods using special blends of soil and ash to compensate!
+[06:55:08] [main/INFO]: [CHAT] [Very clever! How can I help next?]
+[06:55:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[06:55:10] [main/INFO]: [CHAT] [Nitreia] There’s one last area I want to sample, the Twilight Aqueduct, off the coast of Ishnir to the East. We’re on the home stretch now - please be safe!
+[06:55:10] [main/INFO]: [CHAT] [Nitreia] Please return here when you have a sample of ash from Twilight Aqueduct. It must be fresh, by the way. 
+[06:55:12] [main/INFO]: [CHAT] Pyre and Prejudice: Collect a volcanic ash sample from somewhere in t
+he Twilight Aqueduct.
+
+[07:22:35] [main/INFO]: [CHAT] Pyre and Prejudice: Return to Nitreia with your sample of Twilit Ash.
+
+[07:27:19] [main/INFO]: [CHAT] [Nitreia] Oh thank goodness you're still alive. Well done! 
+[07:27:19] [main/INFO]: [CHAT] [Nitreia] Not you of course, you’re medium rare at most. How did it go?
+[07:27:19] [main/INFO]: [CHAT] [I’ll let you be the judge of that.]
+[07:27:25] [main/INFO]: [CHAT] [Nitreia] Oh, this is excellent stuff. I think we have a winner here. Thank you so much. 
+[07:27:25] [main/INFO]: [CHAT] [Nitreia] This will go a long way to help the population of Steelmeld. Maybe even the Isles as a whole. 
+[07:27:25] [main/INFO]: [CHAT] PYRE AND PREJUDICE COMPLETE!
+[07:27:25] [main/INFO]: [CHAT] Awarded Agriva and 1 Prestige!
+
+==Scientists of Steelmeld I==
+
+[02:43:53] [main/INFO]: [CHAT] [Professor Bermuda] Ugh, what? I▒m busy working on my research if you haven▒t noticed.
+[02:43:53] [main/INFO]: [CHAT] [What are you working on?]
+[02:43:57] [main/INFO]: [CHAT] [Professor Bermuda] Well, I▒m working on some new magical technology.
+[02:43:57] [main/INFO]: [CHAT] [What▒s the new tech?]
+[02:43:59] [main/INFO]: [CHAT] [Professor Bermuda] Ahem- I was getting there. It▒s a magic wand that utilizes lightning magic to create temporary dimensional portals.
+[02:43:59] [main/INFO]: [CHAT] [Portals?]
+[02:44:08] [main/INFO]: [CHAT] [Professor Bermuda] Yes! Portals! Would you like to help me test it out?
+[02:44:08] [main/INFO]: [CHAT] [Sure.]
+[02:44:08] [main/INFO]: [CHAT] [No thanks.]
+[02:44:10] [main/INFO]: [CHAT] [Professor Bermuda] Wonderful! Talk to me when you▒re ready to come to my lab.
+
+[02:44:10] [main/INFO]: [CHAT] QUEST : SCIENTISTS OF STEELMELD I
+[02:44:10] [main/INFO]: [CHAT] Length : Medium
+[02:44:10] [main/INFO]: [CHAT] Difficulty : Medium
+
+[02:44:10] [main/INFO]: [CHAT] Description : Assist Professor Bermuda with her experimental technology.
+
+[02:46:04] [main/INFO]: [CHAT] Scientists of Steelmeld I: Talk to Professor Bermuda and aid her in her lab.
+
+[02:47:51] [main/INFO]: [CHAT] [Professor Bermuda] Hello Sukie, do you want to go to my lab? You need to make sure you have nothing on you for me to take you there.
+[02:47:51] [main/INFO]: [CHAT] [Yes.]
+[02:47:51] [main/INFO]: [CHAT] [No.]
+[02:47:56] [main/INFO]: [CHAT] Your class has been temporarily disabled.
+
+[02:49:21] [main/INFO]: [CHAT] [Professor Bermuda] This is my lab! Sorry I had to blindfold you- its location is secret!
+[02:49:21] [main/INFO]: [CHAT] [So▒ what do I help you with?]
+[02:49:24] [main/INFO]: [CHAT] [Professor Bermuda] Okay! I▒m glad to see you▒re so eager to help! I just need you to test a couple of courses I▒ve designed. You▒ll be using my latest version of my contraption. Just walk through those doors into the lobby next door when you're ready and we can get started.
+[02:49:24] [main/INFO]: [CHAT] [Okay.]
+[02:49:24] [main/INFO]: [CHAT] [How did you come up with this technology?]
+[02:49:24] [main/INFO]: [CHAT] [What do you call this tech?]
+[02:49:24] [main/INFO]: [CHAT] [Why don't you have anyone else helping with such interesting technology like this?]
+[02:49:32] [main/INFO]: [CHAT] [Professor Bermuda] Well- I was at a magical research summit a few months ago, and was inspired by the innovative techniques that the prodigal Cinevra Fulgarc demonstrated with the teleportation pads.
+[02:49:39] [main/INFO]: [CHAT] [Professor Bermuda] This is my lab! Sorry I had to blindfold you- its location is secret!
+[02:49:39] [main/INFO]: [CHAT] [So▒ what do I help you with?]
+[02:49:41] [main/INFO]: [CHAT] [Professor Bermuda] Okay! I▒m glad to see you▒re so eager to help! I just need you to test a couple of courses I▒ve designed. You▒ll be using my latest version of my contraption. Just walk through those doors into the lobby next door when you're ready and we can get started.
+[02:49:41] [main/INFO]: [CHAT] [Okay.]
+[02:49:41] [main/INFO]: [CHAT] [How did you come up with this technology?]
+[02:49:41] [main/INFO]: [CHAT] [What do you call this tech?]
+[02:49:41] [main/INFO]: [CHAT] [Why don't you have anyone else helping with such interesting technology like this?]
+[02:49:42] [main/INFO]: [CHAT] [Professor Bermuda] It▒s called the Cross Apportation Location Detecting Expressway Rod v1.16. You can call it C.A.L.D.E.R. for short.
+[02:49:42] [main/INFO]: [CHAT] [Uhhhhh......]
+[02:49:44] [main/INFO]: [CHAT] [Professor Bermuda] Oh I know what you▒re thinking, ▒Why would you name a magical device after a murder hobo like Calder?▒
+[02:49:44] [main/INFO]: [CHAT] [I am.]
+[02:49:47] [main/INFO]: [CHAT] [Professor Bermuda] Well, to answer your question: Before the infamous Calder became a wanted criminal across King▒s Valley and the Celsian Isles, he was a genius that created portable apportation runes. His work inspired Lady Fulgarc▒s work, and Lady Fulgarc▒s work inspired mine! So I will honor his work as a researcher with this device.
+[02:49:55] [main/INFO]: [CHAT] [Professor Bermuda] This is my lab! Sorry I had to blindfold you- its location is secret!
+[02:49:55] [main/INFO]: [CHAT] [So▒ what do I help you with?]
+[02:49:55] [main/INFO]: [CHAT] <G> LeeleeFromThe44 ▒ where did u get the gear?
+[02:49:56] [main/INFO]: [CHAT] [Professor Bermuda] Okay! I▒m glad to see you▒re so eager to help! I just need you to test a couple of courses I▒ve designed. You▒ll be using my latest version of my contraption. Just walk through those doors into the lobby next door when you're ready and we can get started.
+[02:49:56] [main/INFO]: [CHAT] [Okay.]
+[02:49:56] [main/INFO]: [CHAT] [How did you come up with this technology?]
+[02:49:56] [main/INFO]: [CHAT] [What do you call this tech?]
+[02:49:56] [main/INFO]: [CHAT] [Why don't you have anyone else helping with such interesting technology like this?]
+[02:50:08] [main/INFO]: [CHAT] <G> [FORCE] rozteddy ▒ dungeon and poi
+[02:50:11] [main/INFO]: [CHAT] <G> [FORCE] rozteddy ▒ or quest
+[02:50:16] [main/INFO]: [CHAT] <G> 6iq_ ▒ the helm from a quest
+[02:50:22] [main/INFO]: [CHAT] [Professor Bermuda] Well to make a long story short, a lot of my assistants get... lost. Portals are dangerous and if you aren't careful, you can end up in a completely different place. I created this testing zone to prevent further accidents.
+[02:50:25] [main/INFO]: [CHAT] <G> 6iq_ ▒ the chestplate from a quest
+[02:50:28] [main/INFO]: [CHAT] [Professor Bermuda] This is my lab! Sorry I had to blindfold you- its location is secret!
+[02:50:28] [main/INFO]: [CHAT] [So▒ what do I help you with?]
+[02:50:29] [main/INFO]: [CHAT] [Professor Bermuda] Okay! I▒m glad to see you▒re so eager to help! I just need you to test a couple of courses I▒ve designed. You▒ll be using my latest version of my contraption. Just walk through those doors into the lobby next door when you're ready and we can get started.
+[02:50:29] [main/INFO]: [CHAT] [Okay.]
+[02:50:29] [main/INFO]: [CHAT] [How did you come up with this technology?]
+[02:50:29] [main/INFO]: [CHAT] [What do you call this tech?]
+[02:50:29] [main/INFO]: [CHAT] [Why don't you have anyone else helping with such interesting technology like this?]
+[02:50:30] [main/INFO]: [CHAT] [Professor Bermuda] Just walk through those doors over there and we can start.
+
+[02:51:25] [main/INFO]: [CHAT] [Console] NEW ENTITY DETECTED: SCANNING ENTITY...
+[02:51:28] [main/INFO]: [CHAT] [Console] SCANNING ENTITY: HEIGHT: FIVE
+[02:51:31] [main/INFO]: [CHAT] [Console] SCANNING ENTITY: AGE: UNKNOWN
+[02:51:34] [main/INFO]: [CHAT] [Console] SCANNING ENTITY: HAIR COLOR: BROWN
+[02:51:37] [main/INFO]: [CHAT] [Console] SCANNING ENTITY: EYE COLOR: BROWN
+[02:51:40] [main/INFO]: [CHAT] [Console] NEW ENTITY SCANNED: REGISTERING ENTITY
+[02:51:43] [main/INFO]: [CHAT] [Console] ENTITY REGISTERED: WELCOME Sukie
+[02:51:45] [main/INFO]: [CHAT] [Professor Bermuda] Alright, testing- testing. Can you hear me?
+[02:51:45] [main/INFO]: [CHAT] [Loud and clear!]
+[02:51:48] [main/INFO]: [CHAT] [Professor Bermuda] Wonderful. I▒ll be communicating with you through this intercom. I▒ll be watching you from my observation room. Alright, this will be fairly straightforward. I just want to get you used to working with my technology before going further. Try it out! If you are confused, you can look at the terminals laying around for more information.
+
+[02:52:43] [main/INFO]: [CHAT] Portals can be placed on smooth stone. Make sure to aim at the lower block!
+
+[02:53:36] [main/INFO]: [CHAT] [Professor Bermuda] Excellent work! Everything is comfortable for you? Well keep going! The next stage is a little more tricky. Give it a try.
+
+[02:53:55] [main/INFO]: [CHAT] Portals can be shot through purple glass in a direct shot, even where the player can't travel!
+
+
+[02:54:36] [main/INFO]: [CHAT] [Professor Bermuda] You▒re doing an amazing job! Farther than any of my other lab ra- I mean testers have gotten so far. Keep going!
+
+[02:54:45] [main/INFO]: [CHAT] Portals conserve momentum when traveling. Try leaping into portals and converting your downward velocity!
+
+[02:57:24] [main/INFO]: [CHAT] [Professor Bermuda] Amazing! To the next stage. Nobody has gotten this far before you. So this is new for both of us now.
+
+[03:02:56] [main/INFO]: [CHAT] Some jumps may require you to sprint after exiting a portal. Ice preserves momentum better than normal blocks!
+
+[03:05:12] [main/INFO]: [CHAT] [Professor Bermuda] You▒re exceeding all of my expectations! Truly amazing! Continue onwards to the next stage.
+
+[03:11:04] [main/INFO]: [CHAT] [Professor Bermuda] Words simply cannot express how impressed I am with you! To think you could use the dimensional wand like this! You▒re truly innovative aren▒t you?
+
+[03:15:43] [main/INFO]: [CHAT] [Professor Bermuda] You▒re almost done! Keep up the amazing work!
+
+[03:16:11] [main/INFO]: [CHAT] Traveling through a blue particle gate clears any portals you have placed!
+
+[03:21:00] [main/INFO]: [CHAT] [Professor Bermuda] This is the final stretch! Do your best! I▒ll reward you handsomely if you can finish!
+
+[03:33:50] [main/INFO]: [CHAT] [Professor Bermuda] Wonderful, wonderful! This is the final stage! I have prepared a delicious reward for you at the end of this course!
+
+[03:37:11] [main/INFO]: [CHAT] [Professor Bermuda] Thank goodness you're safe! You flung yourself towards the reward but got caught in a dimensional loophole. If I hadn't caught you before you fell into the hole completely▒ Anyways! You did an excellent job.
+[03:37:11] [main/INFO]: [CHAT] [What do we do now?]
+[03:37:17] [main/INFO]: [CHAT] [Professor Bermuda] I'm going to try to fix that hole and I'll get back to you about further testing.
+[03:37:17] [main/INFO]: [CHAT] [Does that mean I should wait?]
+[03:37:20] [main/INFO]: [CHAT] [Professor Bermuda] Oh no, you can go and I'll call for you when I have more tests for you to run.
+[03:37:20] [main/INFO]: [CHAT] [Can I keep the wand?]
+[03:37:22] [main/INFO]: [CHAT] [Professor Bermuda] Unfortunately no, but I'll give you another toy to play with instead. Good work!
+[03:37:22] [main/INFO]: [CHAT] SCIENTISTS OF STEELMELD COMPLETE!
+
+[03:37:22] [main/INFO]: [CHAT] Awarded the Uncharged C.A.L.D.E.R Dimensional Wand, 128 CCS, and 1 Prestige!
+
+==The Olive Branch==
+[14:55:00] [main/INFO]: [CHAT] [Bhairavi] Sukie, I’ve got news regarding the spirit from the Teal Wool.
+[14:55:00] [main/INFO]: [CHAT] [You do?]
+[14:55:00] [main/INFO]: [CHAT] [Can you help me understand what happened inside Isharist?]
+[14:55:00] [main/INFO]: [CHAT] [Can I have another copy of your research?]
+[14:55:05] [main/INFO]: [CHAT] [Bhairavi] I do. Vargos and I called a meeting of the Mage Council and began an intense magic search across the region. I called in a few of my assistants, and I believe we’ve found things.
+[14:55:05] [main/INFO]: [CHAT] [Like what?]
+[14:55:16] [main/INFO]: [CHAT] [Bhairavi] Well, firstly, there’s a strange disturbance of magic going on under the town of Nightroost. Wexley said it was like… a song? Anyway, the spirit was absolutely involved, but is gone.
+[14:55:16] [main/INFO]: [CHAT] [That's all? Want me to go check it out?]
+[14:55:17] [main/INFO]: [CHAT] [Bhairavi] Oh, not at all. It's worse. The spirit has been active almost everywhere. We've been finding little time anomalies breaking through and creating some strangeness. But it's all been leading right to the center of the isles, to the ruins of the Congress.
+[14:55:17] [main/INFO]: [CHAT] [Oh no. That can't be good.]
+[14:55:18] [main/INFO]: [CHAT] [Bhairavi] No, it cannot. The Council is well aware of the Congress, you see. We've exchanged research with them before, and they were known to have the most extensive magical research on any topic, ever. Their exhibits were unrivaled. And according to Antigone, there's wool magic radiating from it like crazy.
+[14:55:18] [main/INFO]: [CHAT] [So you want me to go inside again?]
+[14:55:19] [main/INFO]: [CHAT] [Bhairavi] Yes I do. Into the real Congress, not just a collapsing room, as well. Also, we're coming with you. Are you in?
+[14:55:19] [main/INFO]: [CHAT] [I'm in. Also what? You're coming with me? Bhairavi, it's dangerous.]
+[14:55:19] [main/INFO]: [CHAT] [I'm not sure I'm ready for this right now.]
+[14:55:22] [main/INFO]: [CHAT] [Bhairavi] Of course it is. But I'm tired of sending you into danger alone. This is a unique situation Sukie and you're going to need my full team's experience in there.
+
+[14:55:22] [main/INFO]: [CHAT] QUEST : THE OLIVE BRANCH
+[14:55:22] [main/INFO]: [CHAT] Length : Very Long
+[14:55:22] [main/INFO]: [CHAT] Difficulty : Very Hard
+[14:55:22] [main/INFO]: [CHAT] Venture into the Ruins of the Congress with Bhairavi's team.
+
+[14:55:22] [main/INFO]: [CHAT] [Bhairavi] Head over to the Congress and see what you can find. I'll be sending Wexley to meet you this time. No more vagueness - that didn't go well before.
+
+[15:01:59] [main/INFO]: [CHAT] [Wexley] Hello Sukie! It's been far too long. I've not seen you since the Menagerie in the King's Valley. But sorry, we don't have a lot of time to chat. This area seems to be where the Teal spirit's influence can be felt.
+[15:01:59] [main/INFO]: [CHAT] [I see that. It looks... pristine here. So, do you have any idea how to get in? Or should we just go down the shaft in the center?]
+
+[15:02:04] [main/INFO]: [CHAT] The Olive Branch: Find Wexley at the Ruins of the Congress.
+
+[15:02:08] [main/INFO]: [CHAT] [Wexley] I've already checked out that other path and didn't see any way to get further yet. There's a weird misty barrier I can't pass, so this door seems to be our best bet. It looks very out of place! Maybe we can break it down?
+[15:02:08] [main/INFO]: [CHAT] [I don't know about that.]
+[15:02:09] [main/INFO]: [CHAT] [Wexley] Come on, you're strong! Brayllur says so! Give it a shot.
+
+[15:02:12] [main/INFO]: [CHAT] The Olive Branch: Find Wexley at the Ruins of the Congress.
+
+[15:02:14] [main/INFO]: [CHAT] [Wexley] Go on! Punch the door!
+[15:02:17] [main/INFO]: [CHAT] You punch the door. It doesn't seem to do much, other than hurt your hand.
+[15:02:19] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+[15:02:19] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+[15:02:19] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+[15:02:19] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+
+[15:02:21] [main/INFO]: [CHAT] The Olive Branch: That didn't work... Talk to Wexley again.
+
+[15:02:22] [main/INFO]: [CHAT] [Wexley] Hmm, that didn't work. Let me see if I can do this correctly... Once I'm done, quickly turn and hit the door. It won't last long.
+[15:02:22] [main/INFO]: [CHAT] He speaks some... words. They make your brain hurt and you can't seem to remember them.
+[15:02:22] [main/INFO]: [CHAT] [Wexley] Okay, try punching the door again.
+[15:02:26] [main/INFO]: [CHAT] You punch the door again. It quivers, but remains in place.
+[15:02:28] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+[15:02:28] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+
+[15:02:30] [main/INFO]: [CHAT] The Olive Branch: That didn't work... Talk to Wexley again.
+
+[15:02:31] [main/INFO]: [CHAT] [Wexley] No, I think I did that a bit wrong... Let me try again. Once again, as soon as I cast this, quickly, hit the door.
+[15:02:31] [main/INFO]: [CHAT] [You must be joking.]
+[15:02:33] [main/INFO]: [CHAT] [Wexley] Of course not, we got this!
+[15:02:33] [main/INFO]: [CHAT] He speaks some noises more emphatically this time. They melt out of your head almost as quickly as you hear them.
+
+[15:02:35] [main/INFO]: [CHAT] The Olive Branch: It'll definitely work this time. Break down the door!
+
+[15:02:37] [main/INFO]: [CHAT] You punch the door again. It remains closed. Like it's taunting you.
+[15:02:37] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+[15:02:37] [main/INFO]: [CHAT] For some reason you decide to punch the door again. It hurts your hand. Ouch.
+
+[15:02:39] [main/INFO]: [CHAT] The Olive Branch: It'll definitely work this time. Break down the door!
+
+[15:02:41] [main/INFO]: [CHAT] [Wexley] Well, so much for that. I hoped this strength spell would be more powerfu-
+[15:02:41] [main/INFO]: [CHAT] [Unknown Voice] Hello? Is someone out there?
+[15:02:41] [main/INFO]: [CHAT] [Um... yes?]
+[15:02:43] [main/INFO]: [CHAT] [Unknown Voice] Did you knock?
+[15:02:43] [main/INFO]: [CHAT] [...Yes, definitely! Can we uh... come in?]
+[15:02:44] [main/INFO]: [CHAT] [Unknown Voice] What's the password?
+[15:02:44] [main/INFO]: [CHAT] [Wexley] Oh, hey, I know this one. It's in the book in front of me. Check it out.
+[15:02:59] [main/INFO]: [CHAT] [Wexley] Oh, hey, I know this one. It's in the book in front of me. Check it out.
+[15:03:00] [main/INFO]: [CHAT] [Unknown Voice] What's the password?
+[15:03:00] [main/INFO]: [CHAT] [Sorrows of Phyrrys]
+[15:03:00] [main/INFO]: [CHAT] [The Last False Heart]
+[15:03:00] [main/INFO]: [CHAT] [Branch of the Grand Olive Tree]
+[15:03:03] [main/INFO]: [CHAT] [Unknown Voice] Yeah, that's the one. Come on in.
+[15:03:07] [main/INFO]: [CHAT] The Olive Branch: Talk to Hargraves, the man behind the door.
+
+[15:03:27] [main/INFO]: [CHAT] [Wexley] How does this place still exist? This reminds me of what Keller told me about the Argone Scholar's time bubble you all broke into. Could the Teal Spirit have done this?
+[15:03:27] [main/INFO]: [CHAT] [I don't know, but maybe this can get us deeper into the Congress to investigate more.]
+[15:03:34] [main/INFO]: [CHAT] [Wexley] Absolutely. Let's go talk to our guard over there.
+
+[15:03:42] [main/INFO]: [CHAT] [Hargraves] Well hello. I don't recognize you. New to the Congress?
+[15:03:42] [main/INFO]: [CHAT] [Let's say that.]
+[15:03:43] [main/INFO]: [CHAT] [Hargraves] Excellent, always nice to have a new face around. Look, I'm supposed to organize the test tubes in the walls around us, but damn, it's proper tough this time. If you can do it for me, I'll send you off to the Forum to deliver the reports and you can have the rest of the day off. Sound good?
+[15:03:43] [main/INFO]: [CHAT] [I'm in. How does this work?]
+[15:03:46] [main/INFO]: [CHAT] [Hargraves] Okay, so in these eight tubes are a number of reagent blocks. You can take the top block, one at a time, and put them into another tube. However, the block can only go into a tube if the next block down shares a color with it, or the tube is completely empty. Your goal is to get all seven colors into their own tubes, four blocks of a color per tube.
+[15:03:46] [main/INFO]: [CHAT] [Sounds complicated. I'll give it a go.]
+[15:03:47] [main/INFO]: [CHAT] [Hargraves] Great! Thank goodness, I wasn't looking forward to leaving my desk.
+
+[15:03:49] [main/INFO]: [CHAT] The Olive Branch: Solve the reagents puzzle.
+
+[15:05:50] [main/INFO]: [CHAT] [Hargraves] Hey! You did it! Let me write up a report real quick... Head back out this door and down the spiral staircase into the Labs. You should be able to get into the main Forum and deliver this to Professor Marin. Do you have an access pass?
+[15:05:50] [main/INFO]: [CHAT] [Not yet. I was uh, supposed to get one though.]
+[15:05:53] [main/INFO]: [CHAT] [Hargraves] That's fine, I'll cast it onto you. Here you go then and thanks for your help.
+
+[15:05:57] [main/INFO]: [CHAT] The Olive Branch: Leave the reagents room with your report!
+
+[15:05:59] [main/INFO]: [CHAT] [Hargraves] Off to the main Forum with you! Look for Professor Marin!
+[15:05:59] [main/INFO]: [CHAT] [I uh... lost that book.]
+[15:06:01] [main/INFO]: [CHAT] [Hargraves] Oh! No you didn't. You left it here on my desk. Here you go.
+
+[15:06:41] [main/INFO]: [CHAT] The Olive Branch [1/2]: Leave the reagents room with your report!
+[15:06:42] [main/INFO]: [CHAT] The Olive Branch [2/2]: Deliver your report to Professor Marin.
+
+[15:06:56] [main/INFO]: [CHAT] [Professor Marin] Hello, who are you?
+[15:06:56] [main/INFO]: [CHAT] [Um... hello. I'm Sukie. I've got a delivery for you, from Hargraves.]
+[15:06:58] [main/INFO]: [CHAT] [Professor Marin] Oh wonderful. I've been waiting for these reagent logs all week. Here, take this key. It should get you further into the Forum. You can get some refreshments before you head back to work.
+[15:06:58] [main/INFO]: [CHAT] [Thank you.]
+[15:07:06] [main/INFO]: [CHAT] [Professor Marin] Anyway-
+[15:07:06] [main/INFO]: [CHAT] you. i know you.
+[15:07:15] [main/INFO]: [CHAT] you should not be here.
+[15:08:00] [main/INFO]: [CHAT] i am doing what i must.
+[15:08:00] [main/WARN]: Received passengers for unknown entity
+[15:08:01] [main/INFO]: Loaded 762 advancements
+[15:08:01] [main/INFO]: [CHAT] leave. do not return.
+
+[15:08:49] [main/INFO]: [CHAT] [Bhairavi] Oh thank goodness, you're alive Sukie. Wexley says you two went to leave the time anomaly and you just vanished. What happened?
+[15:08:49] [main/INFO]: [CHAT] [I was in some other time anomaly, I think. I spoke to a professor, and then I think the Teal Spirit spoke to me. It sent me here, but I have a key to the Forum now.]
+[15:09:08] [main/INFO]: [CHAT] [Bhairavi] Fascinating. Teal's influence seems incredibly unstable. But with you back, it looks like it's time to get started then. Shall we head inside? I'll send my team ahead to secure various points and try and assist you in your dungeoneering. I've been to the Congress before, but am not sure what to expect inside following the explosion.
+
+[15:09:16] [main/INFO]: [CHAT] The Olive Branch: You have found the Fallen Forum. When ready, take a key and enter the dungeon.
+
+[03:58:06] [main/INFO]: [CHAT] [Bhairavi] That was intense. Sukie, we’ve learned so much.
+[03:58:06] [main/INFO]: [CHAT] [We’re no closer to catching Teal though.]
+[03:58:07] [main/INFO]: [CHAT] [Bhairavi] We’re not, but we know something now. The spirit is ensuring it is destroyed by Maxwell Calder. You heard what it said. It’s meddling with time now. How many events has it been playing with over the years? Is this the first, or just one of many? I must begin researching; this is a lot to take in.
+[03:58:07] [main/INFO]: [CHAT] [Can I help?]
+[03:58:08] [main/INFO]: [CHAT] [Bhairavi] As soon as I know more, you’ll be the first person I call. Incredible work in there.
+
+[03:58:08] [main/INFO]: [CHAT] THE OLIVE BRANCH COMPLETE!
+[03:58:08] [main/INFO]: [CHAT] Awarded access to The Fallen Forum and its Delves, The Olive Branch, and 1 Prestige!
+
+==The Stone Ocean==
+
+[17:07:27] [main/INFO]: [CHAT] [Fred] The assistant returns! I see you survived your "visit" to the city- unscathed, it appears.
+[17:07:27] [main/INFO]: [CHAT] [Actually, it was completely awful in there. I thought I was going to die at any moment.]
+[17:07:27] [main/INFO]: [CHAT] [Oh yeah, it was a total cakewalk. Maybe next time we can break into somewhere more difficult.]
+[17:07:31] [main/INFO]: [CHAT] <G> NebulaeBee » so L
+[17:07:35] [main/INFO]: [CHAT] [Fred] I see at least your sarcasm is still intact. Anyways, I would like to hear about your experience in the city. Even the most minute detail could be instrumental to my research!
+[17:07:36] [main/INFO]: [CHAT] <G> [TAG] CreepSlayerz » i just chose 2 every time
+[17:07:38] [main/INFO]: [CHAT] You tell him everything about your experiences in the city. You explain you had to destroy three crystals to unlo-
+[17:07:45] [main/INFO]: [CHAT] [Fred] Crystals?! Of course! Did they happen to resemble the Silvic Crystals we used to pierce the gate to enter the city? If so, this must be mean... ah, I'm getting ahead of myself. Please, continue.
+[17:07:45] [main/INFO]: [CHAT] You continue where you left off. You explained that destroying the crystals unlocked some sort of portal that took you to-
+[17:07:49] [main/INFO]: [CHAT] <G> [FPF] Derailious » CatProductions.
+[17:07:53] [main/INFO]: [CHAT] [Fred] A portal?! Could this be a... no, there's no way to know for certain yet... Sorry, continue.
+[17:07:53] [main/INFO]: [CHAT] You continue where you were left off from before the second rude interruption. You explained that the portal seemed to take you inside of the giant tree in the Black Willows, where-
+[17:07:54] [main/INFO]: [CHAT] <G> [PP] CatProductions » hi
+[17:07:54] [main/INFO]: [CHAT] <L> [Rend] Pikafan69 » aight who is claiming
+[17:07:56] [main/INFO]: [CHAT] <G> [FPF] Derailious » hi
+[17:08:01] [main/INFO]: [CHAT] [Fred] The portal must've taken you to an entirely different place! Perhaps out of this world entirely! I-
+[17:08:01] [main/INFO]: [CHAT] [Fred, if you interrupt me one more time I'm gonna toss you into the Steelmeld Passage and block the exit.]
+[17:08:01] [main/INFO]: [CHAT] [I'm sure you're excited but please stop interrupting me.]
+[17:08:39] [main/INFO]: [CHAT] [Fred] I did it again, didn't I? I promise I won't interrupt you again. Finish your story.
+[17:08:39] [main/INFO]: [CHAT] You tell him all about your experience in the Black Willows and how you're certain the portal took you there for a brief moment before taking you out of the city.
+[17:08:44] [main/INFO]: [CHAT] [Fred] That's... incredible is an understatement. This... this is outstanding, Sukie! This is exactly what I needed to know, I'll have no issue completing my research now, and I think I know the next step.
+[17:08:44] [main/INFO]: [CHAT] [Fred] So, how you entered the Willows- a doorway would be a good way to describe it, yes? I need you to go back to that doorway and gather information. Here, take this- I fashioned it with one of the Silvic Crystals we snagged from that vault. When you get to the area near the doorway, activate the crystal. It'll send energy pulsing through it, and if my theory is correct it'll cause a reaction with the doorway.
+[17:08:44] [main/INFO]: [CHAT] [No problem, I can get right to it!]
+[17:08:44] [main/INFO]: [CHAT] [As long as this won't be as... bizarre... as last time.]
+[17:09:09] [main/INFO]: [CHAT] [Fred] I make no promises. I'll be staying back here to make preparations for your return with the results, good luck!
+[17:09:09] [main/INFO]: [CHAT] QUEST : THE STONE OCEAN
+[17:09:09] [main/INFO]: [CHAT] Length : Short
+[17:09:09] [main/INFO]: [CHAT] Difficulty : Medium
+[17:09:09] [main/INFO]: [CHAT] Help Fred continue his research.
+
+[17:09:22] [main/INFO]: [CHAT] The Stone Ocean: Go to the Cave of Secrets in the King's Valley and use the tool Fred gave you near the doorway.
+
+#Q142I01 Silvic Instrument 
+
+device. Seems like you're not in the right place.
+[17:11:28] [main/INFO]: [CHAT] The device fizzles to life, and the nearby doorway starts to respond. You have a gut feeling that you should probably back away from it...
+[17:11:32] [main/INFO]: [CHAT] Suddenly, a horde of monsters exits from the doorway!
+
+[17:12:44] [main/INFO]: [CHAT] The Stone Ocean: Return to the Celsian Isles and tell Fred what happened.
+
+[17:13:25] [main/INFO]: [CHAT] That was close! You should return to Fred with your findings.
+
+[17:26:08] [main/INFO]: [CHAT] [Fred] Welcome back. How did it go?
+[17:26:08] [main/INFO]: [CHAT] [The usual, got attacked by a swarm of monsters that came out of the doorway.]
+[17:26:08] [main/INFO]: [CHAT] [The crystal seemed to interact negatively with the doorway.]
+[17:26:09] [main/INFO]: [CHAT] <G> NebulaeBee » ggs
+[17:26:09] [main/INFO]: [CHAT] <L> [Rend] Zyreon » ggg
+[17:26:15] [main/INFO]: [CHAT] [Fred] Oh relax, you'll be fine. Regardless, this may not have been exactly what I was hoping for, but it's promising. Now the instrument, if you please.
+[17:26:15] [main/INFO]: [CHAT] [Here you go.]
+[17:26:15] [main/INFO]: [CHAT] [I, uh, lost it.]
+[17:26:20] [main/INFO]: [CHAT] <L> [FORCE] Crevasse_ » F
+[17:26:20] [main/INFO]: [CHAT] Message from needmoney90: :(
+[17:26:21] [main/INFO]: [CHAT] [Fred] Don't be silly - I can clearly see it in your pocket. Now give me a moment...
+[17:26:23] [main/INFO]: [CHAT] <L> [VIS] DailyDecay » hey, if i could avoid all death in horse, i wouldn't have built it well :P
+[17:26:24] [main/INFO]: [CHAT] [Fred] ...Interesting. These readings... they're organic, moving and changing. These doorways weren't caused by some mere simple energy source. This is something... alive.
+[17:26:24] [main/INFO]: [CHAT] He fiddles with the device a bit before opening it up.
+[17:26:24] [main/INFO]: [CHAT] [Fred] Let me try and see if I can display these another way, hmm...
+[17:26:28] [main/INFO]: [CHAT] [Fred] AAGH!
+[17:26:28] [main/INFO]: [CHAT] [Fred! Are you okay?]
+[17:26:28] [main/INFO]: [CHAT] Fred stumbles back as the device shatters with a blinding flash.
+[17:26:31] [main/INFO]: [CHAT] <G> [TL] LightningGem23 » how does create serum in siege of highwatch
+[17:26:34] [main/INFO]: [CHAT] [Fred] ...I'm fine. I think I know what to do next. So Genius Loci, right? Yeah, I've done my research. They're all over the Valley, sleeping. If I'm correct, they're not too dissimilar from something a buddy of mine has been looking into...
+[17:26:34] [main/INFO]: [CHAT] [So what do you want me to do?]
+[17:26:35] [main/INFO]: [CHAT] [Fred] Well, you're gonna need this, so don't lose it. What comes next is highly confidential and you must not share the information with anyone. Go to the Monument room in Steelmeld and look for Researcher David. Tell him that the goliath has fallen and he'll fill you in on the rest.
+[17:26:39] [main/INFO]: [CHAT] <G> [TL] LightningGem23 » we have the fish and the four reagants
+[17:26:48] [main/INFO]: [CHAT] The Stone Ocean: Talk to Researcher David and find out where to go.
+
+[17:30:39] [main/INFO]: [CHAT] [Researcher David] Would you, uh, mind sitting somewhere else? I'm working on important research here and I can't allow anyone to just peak over my shoulder and look at it.
+[17:30:39] [main/INFO]: [CHAT] [Fred sent me. He told me to tell you that the goliath has fallen.]
+[17:30:41] [main/INFO]: [CHAT] [Researcher David] Wait, it's you! What's your name, uh, Sukie, right? Fred's told me about all you've done helping him out with his research, I'm not surprised he's sent you to me.
+[17:30:41] [main/INFO]: [CHAT] [Researcher David] Where to begin... Ah yes, so- I'm David, a researcher here as you already know. However, I'm not only a researcher, but also a geologist like my wife Nitreia. While she focuses on work in the Ishnir continent, I've been investigating the geology of the Chillwind.
+[17:30:41] [main/INFO]: [CHAT] [|>>]
+[17:30:45] [main/INFO]: [CHAT] [Researcher David] Years ago, I made a breakthrough discovery while investigating a dig site. The evidence was there that despite all reasoning, the masses of land we know as the Celsian Isles weren't formed naturally. Deep enough underground, samples of rock were closer to that of the ocean floor over anything else, despite the absolute lack of any signs of volcanic activity.
+[17:30:45] [main/INFO]: [CHAT] [|>>]
+[17:30:46] [main/INFO]: [CHAT] [Researcher David] I had snuck into the dig site while the workers were asleep to collect samples. For reasons unknown to me at the time, they weren't allowed to let anyone in. I know now that they did that because they had uncovered a massive door, and dug around it into an even larger fortress. Carved into the walls were vast drawings of large, humanoid beings- Giants. Within the fortress, I also found documents that referenced these Giants.
+[17:30:46] [main/INFO]: [CHAT] [|>>]
+[17:30:47] [main/INFO]: [CHAT] [Researcher David] From these documents, I have reason to believe that a Giant still lives, sleeping beneath the mountains. The documents also mentioned the rivers being the "lifeblood" of the Giants- I think that's good a lead as any. Follow the river east from the dig site and see where it leads. I hope this helps. I wish you luck.
+[17:30:47] [main/INFO]: [CHAT] [|>>]
+[17:30:47] [main/INFO]: [CHAT] [Researcher David] I hope you find what you're looking for. Since you're all caught up now, Fred can tell you what he needs you to do if you haven't figured it out. I have no clue myself, sorry.
+[17:30:47] [main/INFO]: [CHAT] [Could you tell me that story again?]
+[17:30:48] [main/INFO]: [CHAT] [Researcher David] Sure, so: Where to begin... Ah yes, so- I'm David, a researcher here as you already know. However, I'm not only a researcher, but also a geologist like my wife Nitreia. While she focuses on work in the Ishnir continent, I've been investigating the geology of the Chillwind.
+[17:30:48] [main/INFO]: [CHAT] [|>>]
+[17:30:48] [main/INFO]: [CHAT] <G> [FORCE] EmeraldVisions » ?
+[17:30:49] [main/INFO]: [CHAT] [Researcher David] Years ago, I made a breakthrough discovery while investigating a dig site. The evidence was there that despite all reasoning, the masses of land we know as the Celsian Isles weren't formed naturally. Deep enough underground, samples of rock were closer to that of the ocean floor over anything else, despite the absolute lack of any signs of volcanic activity.
+[17:30:49] [main/INFO]: [CHAT] [|>>]
+[17:30:50] [main/INFO]: [CHAT] [Researcher David] I had snuck into the dig site while the workers were asleep to collect samples. For reasons unknown to me at the time, they weren't allowed to let anyone in. I know now that they did that because they had uncovered a massive door, and dug around it into an even larger fortress. Carved into the walls were vast drawings of large, humanoid beings- Giants. Within the fortress, I also found documents that referenced these Giants.
+[17:30:50] [main/INFO]: [CHAT] [|>>]
+[17:30:51] [main/INFO]: [CHAT] [Researcher David] From these documents, I have reason to believe that a Giant still lives, sleeping beneath the mountains. The documents also mentioned the rivers being the "lifeblood" of the Giants. So, yeah. Let me know you happen to look into this yourself at all, I'd love to know more about what's in that dig site.
+[17:30:55] [main/INFO]: [CHAT] The Stone Ocean: Go to where David was talking about, follow the river to its end and use the D.R.E.A.M. Catcher. Bring it back to Fred when you're done.
+
+#Q114I02 D.R.E.A.M. Catcher
+
+[18:14:01] [main/INFO]: [CHAT] Your inventory gets slightly heavier as power draws into the rod.
+[18:14:03] [main/INFO]: [CHAT] Your inventory gets slightly heavier as power draws into the rod.
+[18:14:04] [main/INFO]: [CHAT] Your inventory gets slightly heavier as power draws into the rod.
+
+#Q114I03 Dreamt Power
+
+[18:17:29] [main/INFO]: [CHAT] [Fred] I can sense it on you Sukie... that power... Nah, I'm kidding, I'm just assuming you wouldn't come back tracking snow all over the place if you were still empty handed. You didn't, right?
+[18:17:29] [main/INFO]: [CHAT] [I got it, here you go.]
+[18:17:29] [main/INFO]: [CHAT] [No luck yet.]
+[18:17:36] [main/INFO]: [CHAT] [Fred] Hm, I was expecting something less corporeal. No matter! We have work to do, Sukie! Just tell me when you're ready and we can start the experiment.
+[18:17:42] [main/INFO]: [CHAT] The Stone Ocean: Return to Fred when you're ready to start up the Stone Fred.
+
+[18:18:00] [main/INFO]: [CHAT] [Fred] Are you ready to begin? Say the word and I'll take us to the Stone Fred.
+[18:18:00] [main/INFO]: [CHAT] [Let's do this!]
+[18:18:00] [main/INFO]: [CHAT] [I just have a question- what are we doing exactly?]
+[18:18:03] [main/INFO]: [CHAT] [Fred] Isn't it obvious? We're turning the Stone Fred into a doorway! Hopefully, at least. If we could open a stable doorway here, the possibilities it opens up... Let's not get ahead of ourselves here, though.
+[18:18:07] [main/INFO]: [CHAT] <G> [Rend] MagicalShark » Just keep them for now incase you need to use them
+[18:18:09] [main/INFO]: [CHAT] [Fred] Are you ready to begin? Say the word and I'll take us to the Stone Fred.
+[18:18:09] [main/INFO]: [CHAT] [Let's do this!]
+[18:18:09] [main/INFO]: [CHAT] [I just have a question- what are we doing exactly?]
+[18:18:10] [main/INFO]: [CHAT] [Fred] Wait, I need you to sign this liability waiver first. Ah, nevermind, it'll be fine. To the Stone Fred!
+[18:18:12] [main/INFO]: [CHAT] [Fred] Okay Sukie, the doorway is open! It appears to be stable, but I don't know how long it will stay that way. You need to enter it quickly! Oh, and try not to die!
+
+[18:18:15] [main/INFO]: [CHAT] The Stone Ocean: The doorway closed and trapped you inside! Find a way out.
+
+[18:18:42] [main/INFO]: [CHAT] [Fred] Sukie? Can you hear me? Oh, shoot... Sukie, the doorway! It's closing! You have t-
+[18:18:54] [main/INFO]: [CHAT] [Fred] Sukie, are you there? I'm gonna try and pull you out, hold on! This might hurt a lot...
+[18:18:54] [main/INFO]: [CHAT] You feel as if your entire body is being ripped out of this world as you start to black out.
+[18:18:56] [main/INFO]: [CHAT] [Fred] It worked! Sukie, are you okay? What happened in there?
+[18:18:56] [main/INFO]: [CHAT] [I got taken to the same place the doorway in the shifting city took me, except this time it left me there.]
+[18:19:13] [main/INFO]: [CHAT] [Fred] It worked! Sukie, are you okay? What happened in there?
+[18:19:13] [main/INFO]: [CHAT] [I got taken to the same place the doorway in the shifting city took me, except this time it left me there.]
+[18:19:14] [main/INFO]: [CHAT] [Fred] It worked! Sukie, are you okay? What happened in there?
+[18:19:14] [main/INFO]: [CHAT] [I got taken to the same place the doorway in the shifting city took me, except this time it left me there.]
+[18:19:15] [main/INFO]: [CHAT] [Fred] It worked! Sukie, are you okay? What happened in there?
+[18:19:15] [main/INFO]: [CHAT] [I got taken to the same place the doorway in the shifting city took me, except this time it left me there.]
+[18:19:16] [main/INFO]: [CHAT] [Fred] I'm astounded how you even survived in there for this long, it took me a few days to figure out how to get you out!
+[18:19:16] [main/INFO]: [CHAT] [A few days? I was only in there for a few minutes...]
+[18:19:22] [main/INFO]: [CHAT] [Fred] Time dilation? Interesting... Whatever happened, it doesn't seem like it wanted you in there. Did anything else happen while you were in the- Hey, what's that in your hair?
+[18:19:22] [main/INFO]: [CHAT] [I have no idea. Take a look.]
+[18:19:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:19:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:19:27] [main/INFO]: [CHAT] [Fred] Is this a protean stone attached to it? This seems like it was important... I don't like the looks of this...
+[18:19:27] [main/INFO]: [CHAT] A loud rumble emanates from the very depths of the city, shaking the walls of the lobby.
+[18:19:27] [main/INFO]: [CHAT] [Fred] Definitely not good. On the bright side though, this means our research will still continue! I volunteer you to rest up and investigate what happened in the city. Good luck!
+[18:19:27] [main/INFO]: [CHAT] [Simply wonderful, Fred. I would love to.]
+[18:19:27] [main/INFO]: [CHAT] [*Stare at him angrily*]
+[18:19:35] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:19:35] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:19:36] [main/INFO]: [CHAT] [Fred] Relax, relax, look- I made something for you out of the D.R.E.A.M. Catcher and some of that leftover dream power. Maybe it'll be useful to you?
+[18:19:36] [main/INFO]: [CHAT] THE STONE OCEAN COMPLETE!
+[18:19:36] [main/INFO]: [CHAT] Awarded the D.R.E.A.M. and access to The City of Shifting Waters Delves!

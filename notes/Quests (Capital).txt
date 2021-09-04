@@ -1,0 +1,1530 @@
+=Quest Guide (Capital)=
+==The Alchemy Labs==
+* ?
+*Prestige Awarded: 0
+==Bandit Toubles==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Octavius near the Sierhaven Bazaar
+==Bane of the Bakers==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Stefan in the Sierhaven apartments.
+==Casting For Help==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Melinda in the West Sierhaven housing district. (-889, 96, 189)
+==Clear As Glass==
+* Difficulty: Medium-Hard
+* Requirements: Nelfine's Curse, 15 Prestige
+* Start: Nelfine
+==A Crown of Madness==
+* Difficulty: Medium
+* Requirements: A Crown of Majesty, Winds of War, Completed the White Dungeon
+* Start: Antoine
+==A Crown of Majesty==
+* ?
+* Prestige Awarded: 1
+==A Crown of Topaz==
+* ?
+* Prestige Awarded: 1
+==Flash in the Pan==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Flashy near the Sierhaven apartments entrance.
+==A Little Spark==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Cinevra on the third floor of the Teleporter Hub.
+==Mage's Legacy==
+* ?
+* Started at: Vargos in his Academy office.
+Prestige Awarded: 2
+==Memories of Battle==
+* Difficulty: Hard
+* Requirements: Lost in My Mind, 15 Prestige, Completion of Wave 10 of the Arena
+* Start: Jeremiah, in the Arena of Terth
+==Nelfine's Curse==
+* Difficulty: Medium-Hard
+* Requirements: None
+* Start: 98sahd9ag87s8dhg
+=12kjadjlhgkuwg2=
+* Difficult: Oink
+* Requirements: Oink
+* Start: Oink Oink
+* https://puu.sh/GBtyy/a480cbbcd2.png
+==A Pirate's Life==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Levyn in the Sierhaven apartments
+==Port Panic==
+* ?
+* Prestige Awarded: 1
+==Scars of Magic==
+* Difficulty: Medium
+* Requirements: Words Upon Hushed Lips, Roots of the Plague, Of Monks and Magic, 15 Prestige, Completed the Magenta Dungeon
+* Start: Dimitri
+==The Scout's Codex==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Scout Laura
+==Supply and Demand==
+* Difficulty: Beginner
+* Requirements: None
+* Start: Buildmaster Jr. in his house near Sierhaven Plaza
+==Words Upon Hushed Lips==
+* Difficulty: Medium
+* Requirements: 10 Prestige
+* Start: Dimitri
+
+=Quests=
+==The Alchemy Labs==
+-
+
+==Bandit Troubles==
+[15:38:41] [Render thread/INFO]: [CHAT] [Octavius] Ah, you there! You look quite skilled, tell me, do you have any compunctions about killing thieves and ruffians?
+[15:38:41] [Render thread/INFO]: [CHAT] [None whatsoever!]
+[15:38:41] [Render thread/INFO]: [CHAT] [Not interested.]
+[15:38:41] [Render thread/INFO]: [CHAT] To talk to NPCs, open chat with t, then
+[15:38:41] [Render thread/INFO]: [CHAT] click the [purple text in brackets] to respond.
+[15:38:43] [Render thread/INFO]: [CHAT] NobodyPi defeated the Echoes of Oblivion!
+[15:38:45] [Render thread/INFO]: [CHAT] <G> BlazingGamer800 » gg
+[15:38:46] [Render thread/INFO]: [CHAT] <G> [LAG] VastPoenBV » gg!
+[15:38:46] [Render thread/INFO]: [CHAT] <G> [WAIFU] hi529 » gg
+[15:38:48] [Render thread/INFO]: [CHAT] <G> PizzaLover29 » gg :D
+[15:38:48] [Render thread/INFO]: [CHAT] [Octavius] Wonderful! I am Octavius, head of the Five Axes Trading Company. Bandits have been harassing my caravans for a while now, and the City Guard is completely inept! Kill their leaders - of the bandits, not of the Guard, haha - and I will greatly reward you.
+[15:38:48] [Render thread/INFO]: [CHAT] [I'll do what I can.]
+[15:38:48] [Render thread/INFO]: [CHAT] [Not interested.]
+[15:38:49] [Render thread/INFO]: [CHAT] <G> [FORCE] SorcererAxis81 » gg
+[15:38:58] [Render thread/INFO]: [CHAT] [Octavius] Simply wonderful! The leaders are in two camps north of the city and fly black and brown banners. Bring back some proof when they're both killed, and do what you can to make them suffer.
+[15:38:58] [Render thread/INFO]: [CHAT] QUEST : BANDIT TROUBLES
+[15:38:58] [Render thread/INFO]: [CHAT]  Length : Short
+[15:38:58] [Render thread/INFO]: [CHAT]  Difficulty : Easy
+[15:38:58] [Render thread/INFO]: [CHAT] Assassinate two Bandit Leaders at their camps North of the city. Bring back proof once they're both dead.
+
+#Q02I01 https://puu.sh/GzwHa/c899e08965.png
+https://puu.sh/GzwHH/7f968862a1.png
+#Q02I02 https://puu.sh/GzwHj/5b42998062.png
+https://puu.sh/GzwHY/780c9fc6c7.png
+
+[16:39:17] [Render thread/INFO]: [CHAT] [Octavius] Well done indeed! Those bandits won't be harrassing anyone any more. What do you think, a stack of enchanting bottles for your trouble?
+[16:39:17] [Render thread/INFO]: [CHAT] [This book the bandit had said insurance...]
+[16:39:26] [Render thread/INFO]: [CHAT] [Octavius] Hah, you're smarter than you look. Yes, there's something questionably legal here, but keep your mouth shut and don't tell the guards and there's an extra stack of bottles in it for you.
+[16:39:26] [Render thread/INFO]: [CHAT] Note : This decision will change future quest lines!
+[16:39:26] [Render thread/INFO]: [CHAT] [Make it three stacks and you've got a deal.]
+[16:39:26] [Render thread/INFO]: [CHAT] [Your bribery won't work. I'm going to Captain Murano!]
+[16:39:28] [Render thread/INFO]: [CHAT] <G> [SUN] Biw_ » Anyone selling Steak in the markets?
+[16:39:36] [Render thread/INFO]: [CHAT] <G> [TAG] CreepSlayerz » just use kapple
+[16:39:40] [Render thread/INFO]: [CHAT] <G> [SUN] Biw_ » Ew
+[16:39:45] [Render thread/INFO]: [CHAT] <G> [SUN] _Noxington_ » Veganism ugh
+[16:39:50] [Render thread/INFO]: [CHAT] [Octavius] Alas. You had such promise, and threw it away for the possibility of praise and promotion. Go, and know that if you meddle in my affairs there will be consequences.
+[16:39:50] [Render thread/INFO]: [CHAT] Bring Captain Murano the two suspicious books.
+
+[16:41:31] [Render thread/INFO]: [CHAT] [Captain Murano] Let me know if there's anything that I, or the rest of the city guard, can do for you.
+[16:41:31] [Render thread/INFO]: [CHAT] [You might be interested in these papers]
+[16:41:36] [Render thread/INFO]: [CHAT] [Captain Murano] *reads documents* That cur! We've been suspicious of Octavius for a while, but had no evidence. With this we can start building a case. I can't offer much by way of reward, but take this blade in case he sends his thugs. Thank you, and I shall tell the other guards of your honor and trustworthiness.
+[16:41:36] [Render thread/INFO]: [CHAT] BANDIT TROUBLES COMPLETE!
+[16:41:36] [Render thread/INFO]: [CHAT] Awarded Watcher's Sword and 1 Prestige!
+
+watcher's sword https://puu.sh/GzwLG/d72b802156.png
+
+==Bane of the Bakers==
+[13:49:00] [Render thread/INFO]: [CHAT] [Stefan] You look like the kind of guy who likes pretzels. You know who makes pretzels? Me, Stefan, young pretzel maker extraordinaire.
+[13:49:00] [Render thread/INFO]: [CHAT] [Aren't you a bit young to be running a business?]
+[13:49:00] [Render thread/INFO]: [CHAT] [Where are your pretzels?]
+[13:49:07] [Render thread/INFO]: [CHAT] [Stefan] Well, I've had a bit of an issue. The bakers stole my recipe. Don't ask me why, they're just jerks and like taking things from little kids. If you could get my recipe back I'll give you all the pretzels you can eat and more. I'm almost out of stock to sell!
+[13:49:07] [Render thread/INFO]: [CHAT] [I'll get the recipe.]
+[13:49:07] [Render thread/INFO]: [CHAT] [Maybe I'll have time later.]
+[13:49:17] [Render thread/INFO]: [CHAT] [Stefan] Thanks! That baker will get what he deserves. You can find him over in the bazaar along the eastern path from the plaza.
+[13:49:17] [Render thread/INFO]: [CHAT] QUEST : BANE OF THE BAKERS
+[13:49:17] [Render thread/INFO]: [CHAT] Length : Short
+[13:49:17] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[13:49:17] [Render thread/INFO]: [CHAT] Retrieve Stefan's pretzel recipe from the bakers in the bazaar.
+[13:49:17] [Render thread/INFO]: [CHAT] Using the official Monumenta Resource Pack is highly recommended.
+
+[14:06:54] [Render thread/INFO]: [CHAT] [Head Baker] Gah! That dastardly kid must have sent you for it. No, we're not giving our recipe away, especially not to that kid. Go tell him he's out of luck.
+[14:07:01] [Render thread/INFO]: [CHAT] [Baker] All our breads and pastries are made fresh each day. Try some and you won't be disappointed!
+
+[14:08:47] [Render thread/INFO]: [CHAT] [Stefan] I should have guessed they wouldn't give it up that easily. We're going to have to take it ourselves.
+[14:08:47] [Render thread/INFO]: [CHAT] [Stefan] So here's the plan. The bakers have a large kitchen below their shop. The entrance is right behind the shop and leads down to a trap filled baking and storage area. You're going to have to go in there and hunt for the recipe and then bring it back to me. I'd be careful, you have to jump around a bunch and I'm scared of heights, which is why I haven't gone down there myself. Good luck!
+
+#Q27I01 https://puu.sh/GzutP/e851c4e9f1.png
+
+[14:21:06] [Render thread/INFO]: [CHAT] [Stefan] Awesome! This recipe is perfect! Here, I baked some pretzels just for you. These should keep you going for a while. Also, here's a fun little toy I use sometimes. It's really great for helping me focus and might help you too!
+[14:21:06] [Render thread/INFO]: [CHAT] BANE OF THE BAKERS COMPLETE
+[14:21:06] [Render thread/INFO]: [CHAT] Awarded Fidget Spinner and 32 Pretzels
+fidget spinner: https://puu.sh/GzuvH/b4ec0e0309.png
+
+==Casting for Help==
+[21:11:37] [Render thread/INFO]: [CHAT] [Melinda] Hello there, you caught me at a bad time. I normally would be happy to talk to you and try to figure out why you broke into my house, but I'm a bit preoccupied with my leg.
+[21:11:37] [Render thread/INFO]: [CHAT] [What happened to your leg?]
+[21:11:37] [Render thread/INFO]: [CHAT] [You don't have anything worth stealing anyway.]
+[21:11:40] [Render thread/INFO]: [CHAT] <G> Cloud_ » I would like it biger under but yeah
+[21:11:41] [Render thread/INFO]: [CHAT] [Melinda] I was putting the finishing touches on my roof and fell off. My leg is surely broken now. I managed to make it to this chair after much struggling, but that is about all I have been able to do.
+[21:11:41] [Render thread/INFO]: [CHAT] [So you need a doctor?]
+[21:11:41] [Render thread/INFO]: [CHAT] [So you need a healing potion?]
+[21:11:44] [Render thread/INFO]: [CHAT] [Melinda] Sadly I have always been allergic to those. They don't heal me, and they make me swell up a bit.
+[21:11:47] [Render thread/INFO]: [CHAT] [Melinda] Hello there, you caught me at a bad time. I normally would be happy to talk to you and try to figure out why you broke into my house, but I'm a bit preoccupied with my leg.
+[21:11:47] [Render thread/INFO]: [CHAT] [What happened to your leg?]
+[21:11:47] [Render thread/INFO]: [CHAT] [You don't have anything worth stealing anyway.]
+[21:11:49] [Render thread/INFO]: [CHAT] [Melinda] I was putting the finishing touches on my roof and fell off. My leg is surely broken now. I managed to make it to this chair after much struggling, but that is about all I have been able to do.
+[21:11:49] [Render thread/INFO]: [CHAT] [So you need a doctor?]
+[21:11:49] [Render thread/INFO]: [CHAT] [So you need a healing potion?]
+[21:11:50] [Render thread/INFO]: [CHAT] [Melinda] I do, but Deidre would never let me hear the end of it. We were friends until she beat me in a baking contest. Her bragging got on my nerves and I haven't spoken to her since. I will have to give in and crawl over there later, it won't be a very pleasant trip.
+[21:11:50] [Render thread/INFO]: [CHAT] [I could go see Nurse Deidre for you.]
+[21:11:50] [Render thread/INFO]: [CHAT] [Have fun with that!]
+[21:11:54] [Render thread/INFO]: [CHAT] <G> [PP] Warwolf595 » hey ari
+[21:11:54] [Render thread/INFO]: [CHAT] [Melinda] You would do that for me? Thank you. I will have to think of a way to thank you for your kindness.
+[21:11:54] [Render thread/INFO]: [CHAT] QUEST : CASTING FOR HELP
+[21:11:54] [Render thread/INFO]: [CHAT] Length : Short
+[21:11:54] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[21:11:54] [Render thread/INFO]: [CHAT] Visit Nurse Deidre to find a way to help Melinda's leg
+
+[21:30:11] [Render thread/INFO]: [CHAT] [Nurse Deidre] If you're not feeling well, feel free to rest for a bit in one of the beds. A small warning though: people complained about having strange dreams recently.
+[21:30:11] [Render thread/INFO]: [CHAT] [A woman named Melinda fell off her roof and broke her leg.]
+[21:30:15] [Render thread/INFO]: [CHAT] <G> [LoD] Mine_Hinata » f
+[21:30:18] [Render thread/INFO]: [CHAT] <G> Redactified » i don't have pink tesseract
+[21:30:20] [Render thread/INFO]: [CHAT] UristMcStoutHorn joined the game
+[21:30:20] [Render thread/INFO]: [CHAT] <G> Redactified » and i dont want it
+[21:30:22] [Render thread/INFO]: [CHAT] [Nurse Deidre] Melinda? I haven't spoken to her in years. Well obviously she needs to be taken care of immediately. Unfortunately we are running a bit low on supplies at the moment due to the bandits.
+[21:30:22] [Render thread/INFO]: [CHAT] [What do you need?]
+[21:30:27] [Render thread/INFO]: [CHAT] [Nurse Deidre] I have most of the things she will need, but we are out of materials to make casts. If her leg keeps moving it will never heal, so that is rather important.
+[21:30:27] [Render thread/INFO]: [CHAT] [Can I help?]
+[21:30:27] [Render thread/INFO]: [CHAT] [Hopefully you get supplies in soon.]
+[21:30:31] [Render thread/INFO]: [CHAT] <G> LordGeek101 » what does the pink tesseract do?
+[21:30:32] [Render thread/INFO]: [CHAT] [Nurse Deidre] I'm sure Lowtide will send a shipment soon, but I worry about her leg setting wrong in the meantime.
+[21:30:34] [Render thread/INFO]: [CHAT] <G> NobodyPi » tree
+[21:30:36] [Render thread/INFO]: [CHAT] [Nurse Deidre] If you're not feeling well, feel free to rest for a bit in one of the beds. A small warning though: people complained about having strange dreams recently.
+[21:30:36] [Render thread/INFO]: [CHAT] [A woman named Melinda fell off her roof and broke her leg.]
+[21:30:38] [Render thread/INFO]: [CHAT] [Nurse Deidre] Melinda? I haven't spoken to her in years. Well obviously she needs to be taken care of immediately. Unfortunately we are running a bit low on supplies at the moment due to the bandits.
+[21:30:38] [Render thread/INFO]: [CHAT] [What do you need?]
+[21:30:39] [Render thread/INFO]: [CHAT] [Nurse Deidre] I have most of the things she will need, but we are out of materials to make casts. If her leg keeps moving it will never heal, so that is rather important.
+[21:30:39] [Render thread/INFO]: [CHAT] [Can I help?]
+[21:30:39] [Render thread/INFO]: [CHAT] [Hopefully you get supplies in soon.]
+[21:30:40] [Render thread/INFO]: [CHAT] [Nurse Deidre] If you could get 15 Spider Silk from the Swamp Sinkhole north of Sierhaven I should be able to weave it into a cast for her to wear, but it will be very dangerous.
+[21:30:40] [Render thread/INFO]: [CHAT] [I will head right there.]
+[21:30:41] [Render thread/INFO]: [CHAT] [Nurse Deidre] Good luck, retreat if you get into trouble. Last thing we need is another person getting hurt.
+
+#Q43I01 https://puu.sh/GzCX2/ec1001a6d2.png
+#Q43I02 https://puu.sh/GzCZf/306cd0855e.png
+#Q43I03 https://puu.sh/GzCWM/dd2191232b.png
+
+[23:31:37] [Render thread/INFO]: [CHAT] [Nurse Deidre] If you're not feeling well, feel free to rest for a bit in one of the beds. A small warning though: people complained about having strange dreams recently.
+[23:31:37] [Render thread/INFO]: [CHAT] [I have the Spider Silk.]
+[23:31:39] [Render thread/INFO]: [CHAT] [Nurse Deidre] Wonderful! This goes here and that goes there... Okay it should be ready to go. I'll have to do the final fitting myself obviously, but I will have to grab some equipment before I head over. Take this cast and these crutches to her, and I'll meet up with her as soon as I can.
+
+[23:34:45] [Render thread/INFO]: [CHAT] Casting for Help: Take the Cast and the Crutches back to Melinda.
+[23:34:46] [Render thread/INFO]: [CHAT] <G> Cloud_ » If you still have your instance, you can head back in
+[23:35:01] [Render thread/INFO]: [CHAT] <G> yolomon02 » yeah, but my friend finnished it
+[23:35:18] [Render thread/INFO]: [CHAT] <G> yolomon02 » its still up for 2 and a half weeks
+[23:35:22] [Render thread/INFO]: [CHAT] <G> Cloud_ » Ah ok
+[23:35:31] [Render thread/INFO]: [CHAT] <G> Cloud_ » Even if he closes, you should still have yours
+[23:35:37] [Render thread/INFO]: [CHAT] [Melinda] Have you spoken to Nurse Deidre yet?
+[23:35:37] [Render thread/INFO]: [CHAT] [I did. She gave me this cast and these crutches for you. She promised to come by in person as soon as she can.]
+[23:35:37] [Render thread/INFO]: [CHAT] <G> Cloud_ » Like, access to the shared instance
+[23:35:44] [Render thread/INFO]: [CHAT] <G> yolomon02 » cheers
+[23:36:02] [Render thread/INFO]: [CHAT] [Melinda] I can't thank you enough. My mind is clouded by pain, but I think I left some money in my basement. Would you like to go check?
+[23:36:02] [Render thread/INFO]: [CHAT] [Yes.]
+[23:36:02] [Render thread/INFO]: [CHAT] [Not right now.]
+
+[23:36:42] [Render thread/INFO]: [CHAT] There is nothing in this chest. You should go talk to Melinda
+[23:37:23] [Render thread/INFO]: [CHAT] [Melinda] I'm feeling so much better now. Deidre came by while you were down there. Did you find any money down there?
+[23:37:23] [Render thread/INFO]: [CHAT] [No, the chest was empty.]
+[23:37:23] [Render thread/INFO]: [CHAT] [No, but I found a strange book.]
+[23:37:28] [Render thread/INFO]: [CHAT] [Melinda] Oh dear, I completely forgot that I took my money with me when I bought building blocks. Sorry about making you go down there. Here is your reward. I'll throw in a few healing potions since I'm allergic to them anyway.
+[23:37:28] [Render thread/INFO]: [CHAT] CASTING FOR HELP COMPLETE!
+[23:37:28] [Render thread/INFO]: [CHAT] Awarded 64 Enchanting Bottles and 3 Potions of Healing
+
+
+==Clear as Glass==
+[04:07:57] [main/INFO]: [CHAT] [Nelfine] Hey there, Sukie! Nice to see you again.
+[04:07:57] [main/INFO]: [CHAT] [How have you been doing?]
+[04:07:57] [main/INFO]: [CHAT] [Do you happen to have another copy of that book?]
+[04:07:57] [main/INFO]: [CHAT] [Why are you still here, Nelfine?]
+[04:08:00] [main/INFO]: [CHAT] [Nelfine] I didn't want to move too far until I got my response from Arian.
+[04:08:00] [main/INFO]: [CHAT] [He still hasn't sent a response?]
+[04:08:03] [main/INFO]: [CHAT] [Nelfine] No. I'm getting slightly worried. I hope he hasn't gotten himself into too much trouble. I can't imagine how much stress he must have been in for the last few weeks, with my disappearance and all.
+[04:08:03] [main/INFO]: [CHAT] [Where did you say he was located?]
+[04:08:09] [main/INFO]: [CHAT] [Nelfine] He is stationed at Highwatch. His office is located in the tower directly north of the entrance, second floor, I believe.
+[04:08:09] [main/INFO]: [CHAT] [I'll head there now and ask him.]
+[04:08:13] [main/INFO]: [CHAT] [Nelfine] Thank you so much!
+[04:08:13] [main/INFO]: [CHAT] QUEST : CLEAR AS GLASS
+[04:08:13] [main/INFO]: [CHAT] Length : Long
+[04:08:13] [main/INFO]: [CHAT] Difficulty : Medium-Hard
+[04:08:13] [main/INFO]: [CHAT] Seek out Arian's office in Highwatch
+
+[00:35:30] [main/INFO]: [CHAT] [Scoutmaster Ursan] Only those with eagles eyes tend to come up and see me. If you're a Scout through and through, I've got equipment that might interest you, if you've got the right coin.
+[00:35:30] [main/INFO]: [CHAT] [I was told that this was Arian's office.]
+[00:35:43] [main/INFO]: [CHAT] [Scoutmaster Ursan] Arian? Now, who could have told you that? This hasn't been his office in the better part of 15 years. They moved his office to the keep, and that's where he remained until he resigned.
+[00:35:43] [main/INFO]: [CHAT] [Resigned?]
+[00:35:46] [main/INFO]: [CHAT] <G> [AEUGH] H4TO » gg
+[00:35:50] [main/INFO]: [CHAT] [Scoutmaster Ursan] Yeah, just about a week ago. No warning or anything. Told everyone he could no longer be here, and left without telling us where he was going. He didn't even take the time to pack up his office.
+[00:35:50] [main/INFO]: [CHAT] [Which office is his?]
+[00:35:52] [main/INFO]: [CHAT] Cloud_ joined the game
+[00:35:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:35:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:35:58] [main/INFO]: [CHAT] [Scoutmaster Ursan] Well, it's on the ground floor, but he sealed it off as he left. Arian has always been very secretive about his work. Only the higher ups here were allowed to know what he was doing. Knowing him, though, I can't imagine that he left himself with no way in.
+
+[00:37:04] [main/INFO]: [CHAT] Clear as Glass: Find a way into Arian's office in the Highwatch Keep and see what you can find.
+
+[00:47:11] [main/INFO]: [CHAT] [Shady Thief] ...finally, the old man's secrets's will belong to... Wait, who are you? How did you get in here? It doesn't matter, no one can know of my presence here. Die!
+[00:47:50] [main/INFO]: [CHAT] As you deal the final blow, the thief's body bursts into flames from some foul magic!
+
+[00:48:25] [main/INFO]: [CHAT] Clear as Glass [1/2]: Find a way into Arian's office in the Highwatch Keep and see what you can find.
+[00:48:28] [main/INFO]: [CHAT] Clear as Glass [2/2]: Find Arian in Farr.
+
+#Q24I01 https://puu.sh/GBcpH/fc50f0ca46.png
+
+[03:06:44] [main/INFO]: [CHAT] [Lonely Stranger] What do you want?
+[03:06:44] [main/INFO]: [CHAT] [Are you Arian?]
+[03:06:45] [main/INFO]: [CHAT] [Lonely Stranger] What does it matter to you?
+[03:06:45] [main/INFO]: [CHAT] [Nelfine had me track you down.]
+[03:06:48] [main/INFO]: [CHAT] Arian stares at you for a moment
+[03:06:48] [main/INFO]: [CHAT] [Arian] You... You're the one that sent that damn letter, aren't you? Who are you? What have I done to make you want to torture me like this?
+[03:06:48] [main/INFO]: [CHAT] [No, Nelfine sent that letter. I came because you never responded.]
+[03:06:55] [main/INFO]: [CHAT] [Arian] NELFINE IS DEAD!
+[03:06:55] [main/INFO]: [CHAT] Arian slumps back in his seat
+[03:06:55] [main/INFO]: [CHAT] [Arian] I don't know who you are, or where you heard that name from, but the woman you speak of has been dead for 30 years. Go take a look at the memorial if you don't believe me.
+[03:06:55] [main/INFO]: [CHAT] [She isn't dead. She's been stuck in a holding cell under Sierhaven for a few weeks.]
+[03:07:03] [main/INFO]: [CHAT] [Arian] A few weeks? Then explain to me where she's been for the rest of the 30 years. If you are going to lie to me, at least know your facts.
+[03:07:03] [main/INFO]: [CHAT] [I'm... I'm not lying to you Arian. She specifically told me it had only been a few weeks.]
+[03:07:10] [main/INFO]: [CHAT] [Arian] Please. Please quit making me suffer like this.
+[03:07:10] [main/INFO]: [CHAT] [I don't understand...]
+[03:07:12] [main/INFO]: [CHAT] [Arian] Nor do I.
+[03:07:12] [main/INFO]: [CHAT] You don't think you will be able to get Arian to listen to you anymore, you should return to Nelfine
+
+[03:07:40] [main/INFO]: [CHAT] Clear as Glass: Arian doesn't seem to believe you. You should probably return to Nelfine.
+
+[03:33:19] [main/INFO]: [CHAT] [Nelfine] Uh... hello?
+[03:33:19] [main/INFO]: [CHAT] [Hey Nelfine, what's with that face?]
+[03:33:22] [main/INFO]: [CHAT] [Nelfine] How did you get in here?
+[03:33:22] [main/INFO]: [CHAT] [The same way I have been coming in, why?]
+[03:33:24] [main/INFO]: [CHAT] [Nelfine] ...They told me nobody could ever get in here.
+[03:33:24] [main/INFO]: [CHAT] [Nelfine, are you okay? It's me, Sukie.]
+[03:33:26] [main/INFO]: [CHAT] [Nelfine] I'm sorry, but I never get visitors here. Every now and then, I'll hear a voice in here, proper creepy-like.
+[03:33:26] [main/INFO]: [CHAT] [Something is wrong. Why do you not remember who I am?]
+[03:33:30] [main/INFO]: [CHAT] [Nelfine] If I had to guess, it's likely because we've never met.
+[03:33:30] [main/INFO]: [CHAT] [I need to go back to Arian. Something is really wrong here..]
+[03:33:34] [main/INFO]: [CHAT] [Nelfine] Arian, you say? I don't know who that is, but there was this note lying at my feet with that name on it. Perhaps it is for him?
+
+#Q24I02 https://puu.sh/GBcLo/bee43c0b51.png
+
+[03:35:14] [main/INFO]: [CHAT] Clear as Glass: Nelfine has no memory of you! Return to Arian with the note she gave you.
+
+[03:35:33] [main/INFO]: [CHAT] [Arian] Back already? Haven't you caused me enough suffering today?
+[03:35:33] [main/INFO]: [CHAT] [Arian, something is wrong. Nelfine seems to have lost her memory again.]
+[03:35:37] [main/INFO]: [CHAT] [Arian] Another story about memory loss, eh? You could at least try to be creative.
+[03:35:37] [main/INFO]: [CHAT] [It looks like she wrote this for you before that happened though.]
+[03:35:41] [main/INFO]: [CHAT] [Arian] Here we go again...
+[03:35:41] [main/INFO]: [CHAT] Arian takes the note
+[03:35:41] [main/INFO]: [CHAT] [Arian] As clear as...
+[03:35:41] [main/INFO]: [CHAT] Arian looks at you befuddled
+[03:35:41] [main/INFO]: [CHAT] [Arian] How do you know this sign off line?
+[03:35:41] [main/INFO]: [CHAT] [It's because I didn't write that, Nelfine did.]
+[03:35:47] [main/INFO]: [CHAT] [Arian] But...
+[03:35:47] [main/INFO]: [CHAT] [She really is alive Arian. She just can't remember anything.]
+[03:35:50] [main/INFO]: [CHAT] [Arian] How did she remember enough to write me a letter then?
+[03:35:50] [main/INFO]: [CHAT] [I restored her memory with a device I found. It seems the effects were only temporary.]
+[03:35:54] [main/INFO]: [CHAT] [Arian] Well then. Go use that device again. Restore her memory again, and then bring me to her.
+
+[03:36:12] [main/INFO]: [CHAT] Clear as Glass: Find your way back to the Overgrown Laboratory and see if you can restore Nelfine's memories once again.
+
+[03:44:04] [main/INFO]: [CHAT] Clear as Glass: The old lab has been destroyed! Follow the clues in the strange book you found to see where its creator might have gone.
+
+#Q24I03 https://puu.sh/GBcS1/1085781b4b.png
+
+[14:29:18] [main/INFO]: [CHAT] [Nelfine] Oh, you're that guy from earlier.
+[14:29:18] [main/INFO]: [CHAT] [Nelfine are you alright?]
+[14:29:22] [main/INFO]: [CHAT] [Virius] You just don't know when to give up, do you? Well, she's quite fine. I wouldn't dare hurt her... yet...
+[14:29:22] [main/INFO]: [CHAT] [Who are you?]
+[14:29:26] [main/INFO]: [CHAT] [Virius] I am a researcher of certain... magical phenomena. But for all intents and purposes, I am known as Virius.
+[14:29:26] [main/INFO]: [CHAT] [What do you want with Nelfine?]
+[14:29:30] [main/INFO]: [CHAT] [Virius] Isn't it obvious? I want what she can no longer remember. I need her memories.
+[14:29:30] [main/INFO]: [CHAT] [Why would you need her memories?]
+[14:29:31] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:29:31] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:29:33] [main/INFO]: [CHAT] [Virius] Because she was there on that day, the day Farr was attacked. She was present during the explosion, and more importantly, she survived, meaning she saw what occurred afterwards. But none of this is your concern for the moment. My new device will be able to extract everything I need.
+[14:29:33] [main/INFO]: [CHAT] [You aren't going to do anything to her.]
+[14:29:43] [main/INFO]: [CHAT] [Virius] Oh, you're quite right. I'm not, you are. This machine requires two people, one person whose mind is being probed, and one who is doing the probing. Obviously I can't risk my own life with something as dangerous as this.
+[14:29:43] [main/INFO]: [CHAT] [What makes you think I'm going to do that?]
+[14:29:47] [main/INFO]: [CHAT] emeraldcore71 joined the game
+[14:29:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:29:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:29:51] [main/INFO]: [CHAT] [Virius] What makes you believe you have a choice? Now you get to do as all good adventurers do, meddle in other people's lives. Good luck
+[14:29:53] [main/INFO]: [CHAT] [Nelfine] Hello there, you must be Arian.
+[14:29:55] [main/INFO]: [CHAT] [Arian] That I am! That means you must be Nelfine.
+[14:29:58] [main/INFO]: [CHAT] [Nelfine] Yep! I just landed on the docks a few days ago! The Kings Valley is so much different than the Celsian Isles.
+[14:30:00] [main/INFO]: [CHAT] [Arian] Quite! I've been to the Chillwind before, I hear that's your home. Hopefully we can make you acquainted with this area just as comfortably.
+[14:30:02] [main/INFO]: [CHAT] samefilip left the game
+[14:30:03] [main/INFO]: [CHAT] Keep the memory on track. Their relationship from here:
+[14:30:03] [main/INFO]: [CHAT] [Blossomed]
+[14:30:03] [main/INFO]: [CHAT] [Failed]
+[14:30:03] [main/INFO]: [CHAT] [Staggered]
+[14:30:06] [main/INFO]: [CHAT] samefilip joined the game
+[14:30:12] [main/INFO]: [CHAT] Correct. You recieve a memory strand.
+[14:30:12] [main/INFO]: [CHAT] [Virius] No no, this memory is far too old. Let me adjust.
+[14:30:14] [main/INFO]: [CHAT] [Arian] What's the matter Nelfine?
+[14:30:17] [main/INFO]: [CHAT] [Nelfine] Arian, I... I need to ask a favor of you...
+[14:30:19] [main/INFO]: [CHAT] [Arian] What is it? Why do you seem so upset?
+[14:30:22] [main/INFO]: [CHAT] [Nelfine] I... I would like to be transfered... to my home... I wish to return to the tundra...
+[14:30:24] [main/INFO]: [CHAT] [Arian] I see...
+[14:30:27] [main/INFO]: [CHAT] Keep the memory on track. What is Arian's decision?
+[14:30:27] [main/INFO]: [CHAT] [Forces her to stay]
+[14:30:27] [main/INFO]: [CHAT] [Lets her leave]
+[14:30:27] [main/INFO]: [CHAT] [Does not give her an answer]
+[14:30:32] [main/INFO]: [CHAT] samefilip left the game
+[14:30:35] [main/INFO]: [CHAT] Correct. You recieve a memory strand.
+[14:30:35] [main/INFO]: [CHAT] [Virius] Still too far, but closer. Time to crank this up a little.
+[14:30:36] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:30:36] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:30:37] [main/INFO]: [CHAT] [Nelfine] What will he say to me? How much has he changed? Will he even recognize me anymore?
+[14:30:37] [main/INFO]: [CHAT] [Nelfine? Can you hear me?]
+[14:30:45] [main/INFO]: [CHAT] [Nelfine] What if he hates me? I probably deserve that, after all. I left without even asking how he felt.
+[14:30:45] [main/INFO]: [CHAT] [He doesn't hate you.]
+[14:30:50] [main/INFO]: [CHAT] [Nelfine] I wonder if this was a mistake, volunteering for this meeting. Perhaps it was best that we didn't see each other for so long.
+[14:30:50] [main/INFO]: [CHAT] Keep the memory on track. What does Nelfine do?
+[14:30:50] [main/INFO]: [CHAT] [Wait for Arian]
+[14:30:50] [main/INFO]: [CHAT] [Leave before he shows up]
+[14:31:02] [main/INFO]: [CHAT] Incorrect
+[14:31:05] [main/INFO]: [CHAT] [Nelfine] What will he say to me? How much has he changed? Will he even recognize me anymore?
+[14:31:05] [main/INFO]: [CHAT] [Nelfine? Can you hear me?]
+[14:31:08] [main/INFO]: [CHAT] [Nelfine] What if he hates me? I probably deserve that, after all. I left without even asking how he felt.
+[14:31:08] [main/INFO]: [CHAT] [He doesn't hate you.]
+[14:31:09] [main/INFO]: [CHAT] [Nelfine] I wonder if this was a mistake, volunteering for this meeting. Perhaps it was best that we didn't see each other for so long.
+[14:31:09] [main/INFO]: [CHAT] Keep the memory on track. What does Nelfine do?
+[14:31:09] [main/INFO]: [CHAT] [Wait for Arian]
+[14:31:09] [main/INFO]: [CHAT] [Leave before he shows up]
+[14:31:10] [main/INFO]: [CHAT] Correct. You recieve a memory strand.
+[14:31:10] [main/INFO]: [CHAT] [Nelfine] You. You are not meant to be here.
+[14:31:10] [main/INFO]: [CHAT] [You can see me now?]
+[14:31:17] [main/INFO]: [CHAT] [Nelfine] You are not meant to see the events that occur on this day.
+[14:31:17] [main/INFO]: [CHAT] [Nelfine, are you okay?]
+[14:31:20] [main/INFO]: [CHAT] [Nelfine] Upon the ancient powers creep, they forced him to the eternal sleep.
+[14:31:20] [main/INFO]: [CHAT] [What?]
+[14:31:23] [main/INFO]: [CHAT] [Nelfine] A lust for might they did not earn, children weep and cities burn.
+[14:31:23] [main/INFO]: [CHAT] [...]
+[14:31:26] [main/INFO]: [CHAT] [Nelfine] Parting the veil, he rose to sing; 'I am reborn, the Crimson King'
+[14:31:26] [main/INFO]: [CHAT] §b§oYou are forcefully kicked from the memory.
+[14:31:27] [main/INFO]: [CHAT] RockNRed left the game
+[14:31:28] [main/INFO]: [CHAT] [Virius] No, not now. Blasted machine, we were so close. You... You are to blame for this.
+[14:31:28] [main/INFO]: [CHAT] [Nelfine! Why is she inside the machine?]
+[14:31:35] [main/INFO]: [CHAT] [Virius] Screw your questions. I have no results to show, and no longer have time to fix things. He is going to kill me for failing, and it is your doing. So to hell with all of this, if I am going to die, you are going with me. Say goodbye, adventurer!
+[14:31:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:31:59] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:32:02] [main/INFO]: [CHAT] RockNRed joined the game
+[14:32:36] [main/INFO]: [CHAT] RockNRed left the game
+[14:32:37] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:32:37] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:32:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:32:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:33:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:33:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:33:38] [main/INFO]: [CHAT] RockNRed joined the game
+[14:34:05] [main/INFO]: [CHAT] Virius falls over, defeated after your battle.
+[14:34:05] [main/INFO]: [CHAT] [Virius] Ha... Dying here means he will blame my failure on you... You do not see the damage your meddling has wrought....
+[14:34:05] [main/INFO]: Villager class_1646['§6Nelfine'/541373, l='MpServer', x=794.50, y=33.00, z=-161.50] died, message: '§6Nelfine died'
+[14:34:07] [main/WARN]: Received passengers for unknown entity
+[14:34:07] [main/WARN]: Received passengers for unknown entity
+[14:34:07] [main/WARN]: Received passengers for unknown entity
+[14:34:19] [main/INFO]: [CHAT] [Nelfine] Thank you for saving me... Sukie, was it?
+[14:34:19] [main/INFO]: [CHAT] [These things I found in your memories, somehow they stayed with me.]
+[14:34:23] [main/INFO]: [CHAT] [Nelfine] How odd. What did you see in there?
+[14:34:23] [main/INFO]: [CHAT] [Some memories of your old life.]
+[14:34:25] [main/INFO]: [CHAT] [Nelfine] Mind if I see those for a second?
+[14:34:25] [main/INFO]: [CHAT] [Sure.]
+[14:34:26] [main/INFO]: [CHAT] Nelfine takes the Memory Strands, and they disappear in her hand
+[14:34:26] [main/INFO]: [CHAT] [Nelfine] ...Sukie? Is that you?
+[14:34:26] [main/INFO]: [CHAT] [What happened?]
+[14:34:29] [main/INFO]: [CHAT] [Nelfine] I... I remember everything... More than last time, even. Everything. My trip to Farr, the attack, wandering around the jungle aimlessly for years on end. Arian...
+[14:34:29] [main/INFO]: [CHAT] [The incident in Farr occurred 30 years ago.]
+[14:34:37] [main/INFO]: [CHAT] [Nelfine] I figured as much. Arian, I've hurt him so much, haven't I? Where is he now?
+[14:34:37] [main/INFO]: [CHAT] [He has retired to Farr.]
+[14:34:40] [main/INFO]: [CHAT] [Nelfine] I see, then I shall go see him there. I'm sure he hates me for being gone for so long, but I can't let him go another day believing I'm dead.
+[14:34:40] [main/INFO]: [CHAT] [Should I come with you?]
+[14:34:44] [main/INFO]: [CHAT] [Nelfine] Actually, no. I believe this is a matter between the two of us. We need to discuss things alone, if you would be so kind. Please feel free to come visit in a few days though, once the air has been cleared!
+[14:34:44] [main/INFO]: [CHAT] [Of course.]
+[14:34:49] [main/INFO]: [CHAT] [Nelfine] Oh, and I almost forgot. That idiot Virius had a few valuable things lying around here. Feel free to take them as payment for everything you have done for us! 
+[14:34:49] [main/INFO]: [CHAT] CLEAR AS GLASS COMPLETE!
+[14:34:49] [main/INFO]: [CHAT] Awarded 16 Concentrated Experience, a Glass Dagger, and 1 Prestige
+
+==A Crown of Madness==
+[20:39:31] [main/INFO]: [CHAT] [Antoine] I'm quite busy so ... OH IT'S YOU!
+[20:39:31] [main/INFO]: [CHAT] [Me? Do you know me?]
+[20:39:31] [main/INFO]: [CHAT] [Of course it's me!]
+[20:39:32] [main/INFO]: [CHAT] <G> insunu » youre a corner
+[20:39:33] [main/INFO]: [CHAT] Payhi25 joined the game
+[20:39:35] [main/INFO]: [CHAT] [Antoine] I've read of you in Bhairavi's notes to Vargos! You helped uncover that Spirit curse near Nyr.
+[20:39:35] [main/INFO]: [CHAT] [Ah yes, that was me.]
+[20:39:35] [main/INFO]: [CHAT] [Nope that was someone else.]
+[20:39:41] [main/INFO]: [CHAT] <G> [SUN] _Noxington_ » I originally died 3 blocks forward here
+[20:39:42] [main/INFO]: [CHAT] [Antoine] Welcome to the Official Center of Curse Research and Prevention for King's Valley! Thanks to your work with Bhairavi, the King has funded research into uncovering other curses that could still threaten the empire.
+[20:39:42] [main/INFO]: [CHAT] [That's neat! Find any curses lately?]
+[20:39:42] [main/INFO]: [CHAT] [Booooooooooring.]
+[20:39:49] [main/INFO]: [CHAT] [Antoine] Well... no. It turns out we've been pretty good at containing and removing them in the past. There was a large ban on dark magic trinkets during the war like hex stones and onyxes.
+[20:39:49] [main/INFO]: [CHAT] [Well keep up the good work!]
+[20:39:49] [main/INFO]: [CHAT] [Onyxes were banned?]
+[20:39:56] [main/INFO]: [CHAT] <G> [SUN] _Noxington_ » and the hoped items literally moved from my current left and right extremes
+[20:39:57] [main/INFO]: [CHAT] [Antoine] Yes. Didn't you know? They are extremely susceptible to the dark magics the Tlaxans would make their curses out of. They are quite dangerous.
+[20:39:57] [main/INFO]: [CHAT] [I may have retrieved an onyx for Aimee, the local jeweler.]
+[20:40:03] [main/INFO]: [CHAT] [Antoine] Say what now? Where did you even find one? You need to go check on your Jeweler friend; she could be in danger!
+[20:40:03] [main/INFO]: [CHAT] QUEST : A CROWN OF MADNESS
+[20:40:03] [main/INFO]: [CHAT] Length : Medium
+[20:40:03] [main/INFO]: [CHAT] Difficulty : Medium
+[20:40:03] [main/INFO]: [CHAT] Check on Aimee the Jeweler, whom you've probably put in mortal danger.
+
+[20:40:41] [main/INFO]: [CHAT] A Crown Of Madness: Check on Aimee the Jeweler to see if the onyx you brought her was cursed.
+
+[20:41:15] [main/INFO]: [CHAT] [Aimee] The night is dark and full of stars... dark as onyx, gleaming like gems...
+[20:41:15] [main/INFO]: [CHAT] [Aimee are you okay?]
+[20:41:18] [main/INFO]: [CHAT] [Aimee] The onyx, Sukie?! I can see the universe within that precious stone you gathered just for me.
+[20:41:18] [main/INFO]: [CHAT] [I thought that was for the King's Crown?]
+[20:41:23] [main/INFO]: [CHAT] [Aimee] So precious... So beautiful.
+[20:41:23] [main/INFO]: [CHAT] [It's too late. I need to tell Antoine you've been cursed.]
+[20:41:26] [main/INFO]: [CHAT] [Aimee] I am one with the soul of the jungle...
+
+[20:41:38] [main/INFO]: [CHAT] A Crown Of Madness: Report back to Antoine in the Academy about Aimee's condition.
+
+[20:43:14] [main/INFO]: [CHAT] [Antoine] How was the Jeweler? Is she okay?
+[20:43:14] [main/INFO]: [CHAT] [I don't think so... she seems to have gone mad.]
+[20:43:16] [main/INFO]: [CHAT] [Antoine] Hopefully it doesn't spread... Well now it's up to you to fix this. I need you to go retrieve an opal to help her.
+[20:43:16] [main/INFO]: [CHAT] [Sounds easy enough.]
+[20:43:16] [main/INFO]: [CHAT] [Why an opal?]
+[20:43:22] [main/INFO]: [CHAT] [Antoine] Opals are the opposite of onyxes. Instead of fueling and amplifying a curse, the opal will negate one.
+[20:43:22] [main/INFO]: [CHAT] [Sounds easy enough.]
+[20:43:25] [main/INFO]: [CHAT] [Antoine] You would think, but opals have been out of style for decades. After onyxes were rounded up and destroyed, merchants stopped selling 'protective amulets' and other junk and soon the demand died down completely. Last I checked, the opal mines were closed completely.
+[20:43:25] [main/INFO]: [CHAT] [Where was the mine?]
+[20:43:33] [main/INFO]: [CHAT] [Antoine] What do I look like? An atlas? I don't know! You should go ask the Royal Cartographer about the opal mine. He would know better than I. You can find him at the top of the alchemy building. Now go, and go quickly!
+[20:43:37] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[20:43:40] [main/INFO]: [CHAT] A Crown Of Madness: Speak with the Royal Cartographer about where to find the old opal mine.
+
+[20:45:07] [main/INFO]: [CHAT] [Royal Cartographer] Salutations citizen! It is rare I find myself with company! How can I be of service?
+[20:45:07] [main/INFO]: [CHAT] [I'm looking for the old opal mine.]
+[20:45:07] [main/INFO]: [CHAT] [Do you have any maps of the Valley I can see?]
+[20:45:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[20:45:11] [main/INFO]: [CHAT] [Royal Cartographer] An old opal mine eh? I think I know just the spot. It was closed in the aftermath of the war but... oh dear. Yes. That mine collapsed partially. A number of miners were killed in the collapse and their spirits are said to roam the dark shafts still. They call it the Haunted Mine now. The shaft down to the Opal Mine can be found at the end of a path of red and white-spotted mushrooms. Be careful and watch out for spirits!
+
+[20:45:25] [main/INFO]: [CHAT] A Crown Of Madness: Follow the Royal Cartographer's directions to the old opal mine.
+
+[21:13:15] [main/INFO]: [CHAT] A Crown Of Madness: Now that you've found an opal, bring it back to Antoine to see what you need to do with it.
+
+[21:13:17] [main/WARN]: Received passengers for unknown entity
+[21:13:17] [main/WARN]: Received passengers for unknown entity
+[21:13:17] [main/WARN]: Received passengers for unknown entity
+[21:13:18] [main/INFO]: [CHAT] [Antoine] It feels like you've been gone for ages! Now we need to make a crown out of this gem, but since our local jeweler is out of commission we're going to use the next best thing, the blacksmith. Find Orson at the forge and get him to make us an opal crown.
+
+#Q28I01 https://puu.sh/GBtjH/dfd7bcb844.png
+
+[21:13:39] [main/INFO]: [CHAT] A Crown Of Madness: Bring the opal to Orson the blacksmith.
+
+[21:14:41] [main/INFO]: [CHAT] [Orson] A true master of the forge knows the ancient patterns by heart.
+[21:14:41] [main/INFO]: [CHAT] [I need a crown made with this opal.]
+[21:14:41] [main/INFO]: [CHAT] [I want to learn to make something!]
+[21:14:44] [main/INFO]: [CHAT] [Orson] That is a strange request. Don't we have a local Jeweler to do fine delicates work like that?
+[21:14:44] [main/INFO]: [CHAT] [She's cursed right now! This is urgent!]
+[21:14:47] [main/INFO]: [CHAT] [Orson] Well that does sound like a good reason. Alright, I'll see what I can do.
+[21:14:47] [main/INFO]: [CHAT] Orson snatches up the opal and chisels it down, then adds it to a fresh-out-of-the-furnace helmet. He lobs off the top of the helmet, and you receive an Ugly Opal Crown.
+[21:14:55] [main/INFO]: [CHAT] [Orson] If you need another crown I still have some shards of that opal i can put on another crown. Good luck with your quest!
+[21:14:55] [main/INFO]: [CHAT] [I need another opal crown.]
+[21:14:55] [main/INFO]: [CHAT] [I want to learn to make something!]
+[21:14:58] [main/INFO]: [CHAT] JapanAll was blown up by Creeper
+[21:14:59] [main/INFO]: [CHAT] [Orson] Don't be losing this one too.
+[21:15:03] [main/INFO]: [CHAT] JapanAll left the game
+[21:15:05] [main/WARN]: Received passengers for unknown entity
+[21:15:05] [main/WARN]: Received passengers for unknown entity
+[21:15:07] [main/WARN]: Received passengers for unknown entity
+
+#Q28I02 https://puu.sh/GBtl0/184fefecfe.png
+
+[21:15:11] [main/INFO]: [CHAT] A Crown Of Madness: Bring Aimee the ugly opal crown.
+
+[21:16:04] [main/INFO]: [CHAT] [Aimee] The skies are dark. It is too quiet... It's gone. My crown is gone!
+[21:16:04] [main/INFO]: [CHAT] [Aimee, put this crown on!]
+[21:16:07] [main/INFO]: [CHAT] [Aimee] That's not it! Not it! Not it!
+[21:16:07] [main/INFO]: [CHAT] [This crown will bring back the one you lost!]
+[21:16:11] [main/INFO]: [CHAT] [Aimee] Give it here! Help me find it!
+[21:16:11] [main/INFO]: [CHAT] Aimee scrambles to get the Ugly Opal Crown on and is almost instantly noticeably cured.
+[21:16:11] [main/INFO]: [CHAT] [Aimee] Sukie? Why are you here? Everything feels like a blur...
+[21:16:11] [main/INFO]: [CHAT] [The crown you made with the Onyx cursed you. Where is it now?]
+[21:16:18] [main/INFO]: [CHAT] [Aimee] I... I think someone came in and took it from me... He said something... something about being a Crown bear? No that's not right... the Crown BEARER! He was the one who commissioned the crown originally. He told me this was all according to plan, and took it!
+[21:16:18] [main/INFO]: [CHAT] [We need to get that crown back!]
+[21:16:19] [main/INFO]: [CHAT] [Aimee] Yes we do! Hurry to the King, Sukie! He has to have been heading there.
+
+[21:16:23] [main/INFO]: [CHAT] A Crown Of Madness: Track down the cursed crown and the crown bearer who took it.
+
+[21:18:36] [main/INFO]: [CHAT] [Onyx Crownbearer] So my identity has been revealed? No matter, I'll take out you and the King in one fell swoop!
+[21:18:51] [main/INFO]: [CHAT] <G> insunu » so if i understand correctly just wands?
+[21:19:06] [main/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » well, there are some wands that are axes and swords
+[21:19:08] [main/INFO]: [CHAT] <G> insunu » i got a pyro staff so i guess satff category :p
+[21:19:14] [main/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » yeah that doesn't break
+[21:19:26] [main/INFO]: [CHAT] [Onyx Crownbearer] Don't underestimate me! After you fall, so will the King, and all of Sierhaven with him!
+[21:19:32] [main/INFO]: [CHAT] <G> insunu » its amazing lol prob wont be switching for a while.
+[21:20:00] [main/INFO]: [CHAT] [Onyx Crownbearer] Sons of the Forest, come to me! Let us conquer this place once and for all!
+[21:20:39] [main/INFO]: [CHAT] [Onyx Crownbearer] Agh! This battle ends here and now! I will not let you stall this any longer!
+[21:20:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[21:20:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[21:21:12] [main/INFO]: [CHAT] [Onyx Crownbearer] My allies, aid me! Let us finish this fight!
+[21:21:39] [main/INFO]: [CHAT] [Onyx Crownbearer] Damn you... The King... Must meet... His...
+[21:21:49] [main/INFO]: [CHAT] [The King] ...
+[21:21:52] [main/INFO]: [CHAT] [Royal Translator] What in good heavens was that?
+[21:21:52] [main/INFO]: [CHAT] [That was me saving the day.]
+[21:21:52] [main/INFO]: [CHAT] [That was an assassination attempt on the King.]
+[21:21:57] [main/INFO]: [CHAT] The King mumbles a few words.
+[21:21:57] [main/INFO]: [CHAT] [Royal Translator] The King agrees with you there. Thank you for your services to the empire!
+[21:21:57] [main/INFO]: [CHAT] [Aren't you going to reward me?]
+[21:21:57] [main/INFO]: [CHAT] [I'd best report back to Aimee.]
+[21:22:01] [main/INFO]: [CHAT] The King mumbles a few more words.
+[21:22:01] [main/INFO]: [CHAT] [Royal Translator] Well that's not really in the budget you see. You would best look for a reward elsewhere.
+[21:22:04] [main/INFO]: [CHAT] [Royal Translator] Hello brave hero! The King is forever grateful for your service to the empire.
+[21:22:06] [main/INFO]: [CHAT] [The King] ...
+
+[21:22:12] [main/INFO]: [CHAT] A Crown Of Madness: Let Aimee know what happened at the Castle.
+
+[21:23:08] [main/INFO]: [CHAT] [Aimee] Sukie I can't thank you enough for saving me.
+[21:23:08] [main/INFO]: [CHAT] [I'm just glad you're okay.]
+[21:23:11] [main/INFO]: [CHAT] [Aimee] Well, I think you're well due a reward, so I've fixed up this opal crown for you. Thank you again. You should also talk to the King again, he will most likely want to speak with you. They probably managed to find room in the budget to reward you.
+[21:23:11] [main/INFO]: [CHAT] A CROWN OF MADNESS COMPLETE!
+[21:23:11] [main/INFO]: [CHAT] Awarded 1 Prestige, 32 CXP, and an Opal Crown.
+
+[21:24:41] [main/INFO]: [CHAT] [The King] ...
+[21:24:43] [main/INFO]: [CHAT] [Royal Translator] Ahh Sukie, the King was looking for you.
+[21:24:43] [main/INFO]: [CHAT] [What for?]
+[21:24:44] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[21:24:44] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[21:24:44] [main/INFO]: [CHAT] [Royal Translator] It turns out we can reward you after all! Here, take this bounty chest. Your services to the empire are duly noted.
+[21:24:44] [main/INFO]: [CHAT] The King makes some thankful mumbles under his crown.
+
+==Crazy, Cupid, Love==
+[02:16:40] [main/INFO]: [CHAT] [Cupid] Oh my god, a living, breathing, human.
+[02:16:40] [main/INFO]: [CHAT] [Are you Cupid? Did you leave all the clues?]
+[02:16:45] [main/INFO]: [CHAT] [Cupid] Of course! I've been trying to find the King's Valley to reunite with my beloved Psychie, but I appear to have gotten lost in the clouds...
+[02:16:45] [main/INFO]: [CHAT] [I know Psychie!]
+[02:16:50] [main/INFO]: [CHAT] [Cupid] You do?! Oh goodness, tell her I'm up on Cloud Nine please! She'll have to find her way to me and then we can finally be reunited! Thank you so much!
+[02:16:53] [main/INFO]: [CHAT] <G> [WAIFU] enzosoEPIC » whats the golden key for
+[02:16:53] [main/INFO]: [CHAT] EmilyVEVO joined the game
+[02:17:35] [main/INFO]: [CHAT] <G> [zenkor] SirTudor » ritual room....up or down emily?
+[02:17:41] [main/INFO]: [CHAT] [Psychie] Woe is me! Cupid's magic has faded from this little Valley, yet he has not appeared! Perhaps he is truly lost... I will remain here for some time to see if perhaps he heeds my call. If you still have some of his magical flowers, I can still trade with you. I hope my Cupid returns to me, I miss him so...
+[02:17:41] [main/INFO]: [CHAT] [Psychie, I found Cupid!]
+[02:17:51] [main/INFO]: [CHAT] DrR1ce left the game
+[02:17:51] [main/INFO]: [CHAT] [Psychie] You did? Where, therefore art he, my Cupid?
+[02:17:51] [main/INFO]: [CHAT] [He's lost on what he calls Cloud Nine.]
+[02:17:54] [main/INFO]: [CHAT] [Psychie] Cloud Nine? Alas! I cannot reach his clouds... I must await his return ever still. Even so, I offer you a reward for letting me know he still lives.
+[02:17:54] [main/INFO]: [CHAT] CRAZY, CUPID, LOVE COMPLETE!
+[02:17:54] [main/INFO]: [CHAT] Awarded Boots of Cloud Nine
+
+==A Crown of Majesty==
+* ?
+* Prestige Awarded: 1
+
+1.15.4/2020-10-04-1.log:[01:20:35] [Render thread/INFO]: [CHAT] A CROWN OF MAJESTY COMPLETE!
+1.15.4/2020-10-04-1.log-[01:20:35] [Render thread/INFO]: [CHAT] Awarded Jeweled Tiara, 128 Enchanting Bottles, and 1 Prestige!
+
+
+==A Crown of Topaz==
+* ?
+* Prestige Awarded: 1
+
+1.15.4/2020-10-03-2.log:[23:09:49] [Render thread/INFO]: [CHAT] A CROWN OF TOPAZ COMPLETE!
+1.15.4/2020-10-03-2.log-[23:09:49] [Render thread/INFO]: [CHAT] Awarded Topaz Cap, 32 Enchanting Bottles, and 1 Prestige!
+
+
+==Flash in the Pan==
+[13:57:44] [Render thread/INFO]: [CHAT] [Flashy] Hey mate! You look like the kind of guy that runs a lot, wanna race?
+[13:57:44] [Render thread/INFO]: [CHAT] [What do you mean by 'race'?]
+[13:57:47] [Render thread/INFO]: [CHAT] [Flashy] You run, you TRY to beat my time, you win a prize if you succeed. Easy eh?
+[13:57:47] [Render thread/INFO]: [CHAT] [Let's give it a go!]
+[13:57:47] [Render thread/INFO]: [CHAT] [I'm too tired of running...]
+[13:57:50] [Render thread/INFO]: [CHAT] [Flashy] You might have a future in racing mate! Come back later for sure!
+[13:57:53] [Render thread/INFO]: [CHAT] [Flashy] Hey mate! You look like the kind of guy that runs a lot, wanna race?
+[13:57:53] [Render thread/INFO]: [CHAT] [What do you mean by 'race'?]
+[13:57:54] [Render thread/INFO]: [CHAT] [Flashy] You run, you TRY to beat my time, you win a prize if you succeed. Easy eh?
+[13:57:54] [Render thread/INFO]: [CHAT] [Let's give it a go!]
+[13:57:54] [Render thread/INFO]: [CHAT] [I'm too tired of running...]
+[13:57:55] [Render thread/INFO]: [CHAT] [Flashy] That's what I like to hear! Wanna rundown of the rules, or do you just wanna go?
+[13:57:55] [Render thread/INFO]: [CHAT] QUEST : FLASH IN THE PAN
+[13:57:55] [Render thread/INFO]: [CHAT] Length : Short
+[13:57:55] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[13:57:55] [Render thread/INFO]: [CHAT] Follow the race markers to beat Flashy's race!
+[13:57:55] [Render thread/INFO]: [CHAT] [Let's go right now!]
+[13:57:55] [Render thread/INFO]: [CHAT] [Sure, I'll listen to the rules.]
+[13:57:59] [Render thread/INFO]: [CHAT] [Flashy] Pretty simple stuff. Run through the rings you see. Every time you pass through one, you'll get a bit more time to get to the next, and so on. You gotta reach the end with time still left, and if ya do, you beat my time!
+[13:57:59] [Render thread/INFO]: [CHAT] [Okay then, let's go!]
+
+Starts with 22m and gains 2.5m per gate
+[14:01:15] [Render thread/INFO]: [CHAT]   World Record -            0:001  | ? ( +2:34:248)
+[14:01:15] [Render thread/INFO]: [CHAT] [Flashy] Okay! That was definitely not supposed to happen!\nYa did it though - Please, come back to me so I can give you a reward!
+
+[14:01:51] [Render thread/INFO]: [CHAT] [Flashy] You deserve a reward. Take this!
+[14:01:51] [Render thread/INFO]: [CHAT] FLASH IN THE PAN COMPLETE!
+[14:01:51] [Render thread/INFO]: [CHAT] Awarded Runner's Boots and access to all other Races across the King's Valley.
+
+runner's boots: https://puu.sh/GzuaJ/6edb039535.png
+
+
+==A Little Spark==
+[15:26:08] [Render thread/INFO]: [CHAT] [Cinevra] Well hello there. Welcome to my office. Who are you?
+[15:26:08] [Render thread/INFO]: [CHAT] [I'm Sukie.]
+[15:26:10] [Render thread/INFO]: [CHAT] [Cinevra] Nice to meet you Sukie! I'm Arcmage Cinevra. I'm a member of the Mage Council here in Sierhaven and was the creator of teleportation hub found across the region.
+[15:26:10] [Render thread/INFO]: [CHAT] [Wow! How does it all work then?]
+[15:26:10] [Render thread/INFO]: [CHAT] [I thought Vargos was the Archmage?]
+[15:26:10] [Render thread/INFO]: [CHAT] [So you made all these teleporters? What's the unused one downstairs for?]
+[15:26:10] [Render thread/INFO]: [CHAT] [Do you have any tasks for me?]
+[15:26:12] [Render thread/INFO]: [CHAT] [Cinevra] Oh, I'm so glad you asked! I do actually! Recently, the Apartment Complex just down the street closed up. Something about rats? Anyway, the supervisor, Vinny, has a fantastic arc-crystal I've been wanting. It's the perfect piece of Magiscience out there! If you can go get it for me, I'll give you a nice reward and teach you about the Teleport Hub here!
+[15:26:12] [Render thread/INFO]: [CHAT] [I'm in!]
+[15:26:12] [Render thread/INFO]: [CHAT] [Maybe later.]
+[15:26:16] [Render thread/INFO]: [CHAT] QUEST : A LITTLE SPARK
+[15:26:16] [Render thread/INFO]: [CHAT] Length : Short
+[15:26:16] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[15:26:16] [Render thread/INFO]: [CHAT] Go get an arc-crystal for Cinevra from Vinny in the old Apartments.
+
+[15:27:28] [Render thread/INFO]: [CHAT] [Vinny] Well hey, how ya doin' there?
+[15:27:28] [Render thread/INFO]: [CHAT] [Hi, I'm Sukie. What's this place?]
+[15:27:28] [Render thread/INFO]: [CHAT] [Hi, I'm Sukie. Cinevra sent me to ask you for an arc-crystal.]
+[15:27:30] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » holy crap p3 looks gorgeous
+[15:27:32] [Render thread/INFO]: [CHAT] [Vinny] Ah, of course she did. Girl's been wanting that crystal for ages. Alright, fine, she can have it. I stuck it in one of the old apartments upstairs. You'll have to work out my categorizing system though if you wanna get it and go fetch it yourself. It's under magical science or something like that.
+[15:27:32] [Render thread/INFO]: [CHAT] [How do I do that?]
+[15:27:35] [Render thread/INFO]: [CHAT] <G> [FORCE] SorcererAxis81 » yeah
+[15:27:38] [Render thread/INFO]: [CHAT] hi529 joined the game
+[15:27:44] [Render thread/INFO]: [CHAT] [Vinny] Have a look at this book, work out which block the arc-crystal would be in, and then check out the list down here to find the room you should visit.
+[15:27:44] [Render thread/INFO]: [CHAT] [Thank you!]
+[15:27:45] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » what's not gorgeous is that there's 7 keys :(
+[15:27:47] [Render thread/INFO]: [CHAT] <G> [ABA] CS_Aristotle » Glad you like it :)
+[15:27:50] [Render thread/INFO]: [CHAT] [Vinny] Say nothin' of it. Hey, maybe come buy an Ender Chest Expansion from the Apartments Manager over there too, eh?
+
+#Q55I01 https://puu.sh/GzvAg/ca6ab5a12d.png
+https://puu.sh/GzvAy/3c599c6dc8.png
+https://puu.sh/GzvAI/19b15d973a.png
+https://puu.sh/GzvAP/915138d28f.png
+https://puu.sh/GzvC7/a08df81a1a.png
+#Q55U02 https://puu.sh/GzvDS/c5e8ae4ff7.png
+
+[15:32:44] [Render thread/INFO]: [CHAT] [Cinevra] Amazing! Oh my goodness, this crystal is just beautiful. Thank you so much. Let me help you out here. I'm gonna give you a little zap of this crystal, which should grant you right around 10 experience levels. With that, you can go buy that ender chest expansion Vinny's having his manager sell now!
+[15:32:44] [Render thread/INFO]: [CHAT] [Thank you!]
+[15:32:45] [Render thread/INFO]: [CHAT] <G> SlimeKing77777 » Basically, small groups of OP mobs
+[15:32:49] [Render thread/INFO]: [CHAT] <G> [ABA] CS_Aristotle » Yeah Rev is great
+[15:32:55] [Render thread/INFO]: [CHAT] [Cinevra] Now, about this hub here... It's very simple. You go somewhere, you find the teleportation platform. You step on it. It brings you back here! Now you can go back through to whichever location you teleported from, as much as you'd like! I hope you use it well.
+[15:32:55] [Render thread/INFO]: [CHAT] A LITTLE SPARK COMPLETE!
+[15:32:55] [Render thread/INFO]: [CHAT] Awarded 10 levels and some knowledge about the Teleportation Hub.
+
+
+
+==Mage's Legacy==
+[13:18:13] [Render thread/INFO]: [CHAT] Mage's Legacy [2/2]: The translator wants gloop, squish dem gloopadoops to find some.
+[13:18:21] [Render thread/INFO]: [CHAT] [Hermy the Hermit] Mah gloop! I'll be eatin' good tonight. Here's yer book, all translated. Now get outta my tower!
+[13:18:21] [Render thread/WARN]: Unable to play unknown soundEvent: epic:q.r1.03.hermy.mah_gloop
+[13:18:21] [Render thread/INFO]: [CHAT] Recieved Translated Notes
+translated notes https://puu.sh/GztrS/b8633a1906.png
+https://puu.sh/Gztse/bb3455a00c.png
+
+[13:29:11] [Render thread/INFO]: [CHAT] [Vargos] So he goes by Hermy now, interesting. That aside, we can read this book now! It seems a bit cryptic, but I think if we both explore around we can solve it. Keep this copy and here, take these as well for your help. Of course a deal is a deal... Allow me a moment to steel my mind, and then I will tell you about the skull.
+[13:29:11] [Render thread/INFO]: [CHAT] MAGE'S LEGACY COMPLETE!
+[13:29:11] [Render thread/INFO]: [CHAT] Awarded Morphic Shield and 2 Prestige!
+morphic shield https://puu.sh/GztBR/2e736a15d5.png
+
+
+==Memories of Battle==
+[04:12:33] [main/INFO]: [CHAT] [Jeremiah] H-hello, welcome to the Arena of Terth!
+[04:12:33] [main/INFO]: [CHAT] [What is this place?]
+[04:12:33] [main/INFO]: [CHAT] [Who runs the arena?]
+[04:12:33] [main/INFO]: [CHAT] [Can I fight in the arena?]
+[04:12:33] [main/INFO]: [CHAT] [How can I practice for the arena?]
+[04:12:33] [main/INFO]: [CHAT] [Did you write a book? I found one after attempting the Arena...]
+[04:12:39] [main/INFO]: [CHAT] [Jeremiah] We can’t speak out in the open like this… It isn’t s-safe...
+[04:12:39] [main/INFO]: [CHAT] [Is there somewhere we CAN talk?]
+[04:12:42] [main/INFO]: [CHAT] [Jeremiah] I… Y-yes. Meet me down in the arena sh-shop? He is always l-listening, but we may be safer there.
+[04:12:42] [main/INFO]: [CHAT] QUEST : MEMORIES OF BATTLE
+[04:12:42] [main/INFO]: [CHAT] Length : Medium
+[04:12:42] [main/INFO]: [CHAT] Difficulty : Hard
+[04:12:42] [main/INFO]: [CHAT] Talk to Jeremiah in the Arena shop.
+
+[04:13:30] [main/INFO]: [CHAT] [Jeremiah] S-so... what do you want to ask me?
+[04:13:30] [main/INFO]: [CHAT] [Let's talk about this book.]
+[04:13:30] [main/INFO]: [CHAT] [Who are you?]
+[04:13:32] [main/INFO]: [CHAT] H4TO left the game
+[04:13:33] [main/INFO]: [CHAT] [Jeremiah] We n-need to move quickly now that you know what I do. Something is happening here. I’ve written f-four tomes about this and you're the f-first to come find me!
+[04:13:33] [main/INFO]: [CHAT] [Where are the other books?]
+[04:13:33] [main/INFO]: [CHAT] [What is going on?]
+[04:13:42] [main/INFO]: [CHAT] [Jeremiah] T-there's the one by the small stone Arena S-sword, one in Lenny's s-secret Arena shop, and one in m-my old... my old shop.
+[04:13:56] [main/INFO]: [CHAT] [Jeremiah] S-so... what do you want to ask me?
+[04:13:56] [main/INFO]: [CHAT] [Let's talk about this book.]
+[04:13:56] [main/INFO]: [CHAT] [Who are you?]
+[04:13:59] [main/INFO]: [CHAT] [Jeremiah] We n-need to move quickly now that you know what I do. Something is happening here. I’ve written f-four tomes about this and you're the f-first to come find me!
+[04:13:59] [main/INFO]: [CHAT] [Where are the other books?]
+[04:13:59] [main/INFO]: [CHAT] [What is going on?]
+[04:13:59] [main/INFO]: [CHAT] [Jeremiah] Are you n-not listening?! I don’t know yet! Y-Yeigar is doing something strange to these contestants and we need to get deeper into the Arena to find out what.
+[04:13:59] [main/INFO]: [CHAT] [So what do you need me to do?]
+[04:14:04] [main/INFO]: [CHAT] [Jeremiah] Ever s-since I saw Yeigar, the door to our q-quarters has been blocked. F-find a way up there, look f-for the k-key and get us in deeper so we can investigate m-more.
+
+#Q34I02 https://puu.sh/GARLT/6fb44869a0.png
+
+[04:16:44] [main/INFO]: [CHAT] [Jeremiah] You found it!
+[04:16:44] [main/INFO]: [CHAT] [I got the key, but something weird happened…]
+[04:16:44] [main/INFO]: [CHAT] [I got the key.]
+[04:16:46] [main/INFO]: [CHAT] [Jeremiah] W-what was it?
+[04:16:46] [main/INFO]: [CHAT] [Something slammed the door, and I heard a strange noise.]
+[04:16:49] [main/INFO]: [CHAT] [Jeremiah] No… no, this is worrying. How c-could he know already? We need to get moving. Go try the employee d-door with the key.
+
+
+[04:23:59] [main/INFO]: [CHAT] [Jeremiah] My old r-room. I've n-not gotten to come in h-here since the... incident.
+[04:23:59] [main/INFO]: [CHAT] [It's nice.]
+[04:23:59] [main/INFO]: [CHAT] [It's okay.]
+[04:23:59] [main/INFO]: [CHAT] [It's horrible.]
+[04:24:06] [main/INFO]: [CHAT] [Jeremiah] T-that's the best I c-could say. Have y-you found anything yet?
+[04:24:06] [main/INFO]: [CHAT] [Not yet.]
+[04:24:08] [main/INFO]: [CHAT] [Jeremiah] There's a l-locked door to the... the beast pens. M-maybe you need to l-look around and find another k-key?
+
+[04:30:25] [main/INFO]: [CHAT] Memories of Battle: Head into the employee quarters and investigate.
+
+[04:23:46] [main/INFO]: [CHAT] Come inside my head... Say my name...
+
+[04:32:42] [main/INFO]: [CHAT] [Yeigar] A name holds much power here, and it's clear you know mine. You may continue in your little journey.
+
+[04:33:35] [main/INFO]: [CHAT] [Jeremiah] I've n-never been in here before. It's where th-they store the monsters b-battled in the Arena though. Have you ever b-battled a Mindphaser before?
+[04:33:35] [main/INFO]: [CHAT] [What's a Mindphaser?]
+[04:33:35] [main/INFO]: [CHAT] [Yes.]
+[04:33:40] [main/INFO]: [CHAT] [Jeremiah] D-disgusting creatures... parasitic b-beasts. They’re scary. They r-ride a host and attack with beams… You’ll d-definitely need to find cover before they hit you… F-find a way through the P-pens and maybe we’ll find answers. You'll n-need to find the l-levers, one in each c-cage to move on.
+
+[05:29:58] [main/INFO]: [CHAT] Memories of Battle: don't let the darkness devour you...
+
+[05:08:53] [main/INFO]: [CHAT] [Aesir] The Demon Summoner's final stand was a brutal one. In the end my light was snuffed. But I saw Them come for the Demon Summoner. They came for me too. When the darkness comes and the light fades, will you go with Them as well Sukie?
+[05:12:56] [main/INFO]: [CHAT] [Chesapeake] I trusted the Owner to give me a fair fight. Instead I became something more. A sight to be seen. Come deeper, it begged. Come deeper and find the truth. But now, with the TRUTH before you Sukie, why would you not accept what They offer you?
+[06:07:38] [main/INFO]: [CHAT] [Langdon] I tried to be a hero for my daughter. I traveled beyond my home to this Valley, and it was here that death came for me, a pale specter. But then They came to me, a crimson glow. They promised me I could see her again... Through me They remembered the Isles. Oh Constanze, I'm so sorry... What will They find through you Sukie? What is your legacy?
+[06:15:39] [main/INFO]: [CHAT] [Tenoch] They came at my Shrine... Eldim, long ago... Do you know me? Do you know who I was? I felt peace when They took me. Will you let Them take you too Sukie?
+
+[06:16:09] [main/INFO]: [CHAT] Memories of Battle: step into the shadows and meet him
+[06:16:29] [main/INFO]: [CHAT] MineTOP joined the game
+[06:16:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[06:16:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[06:17:35] [main/INFO]: [CHAT] [The Owner] At last. I’ve been waiting for you to find me here. Welcome to the Halls of Memory. The King’s Deal has been calling you, I’m sure. You’ve been seeing strange things and hearing strange things, am I right? It is he, reaching out. Pulling you here, to this moment.
+[06:17:35] [main/INFO]: [CHAT] [I never made a deal. Who is this King and what does he think I have?]
+[06:17:51] [main/INFO]: [CHAT] Tatsu43 left the game
+[06:17:52] [main/INFO]: [CHAT] [The Owner] This moment is one long in the making. The King always pays his debts, but will always take what he is owed.    You are what he is owed. At last. He needs what you have.
+[06:17:52] [main/INFO]: [CHAT] [Why does he think he has a deal?]
+[06:18:02] [main/INFO]: [CHAT] [The Owner] This moment is one long in the making. The King run now always pays his debts, but will always take what he is owed. You are what he is owed. At last. He needs what you have.
+[06:18:02] [main/INFO]: [CHAT] [Why would I owe him anything?]
+[06:18:14] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » warlock good
+[06:18:15] [main/INFO]: [CHAT] [The Owner] This moment is one long in the making. The King always pays his debts, but will hurry before it is too late       always take what he is owed. You are what he is owed. At last. He needs what you have. You owe him that. He has been seeking for so long.
+[06:18:15] [main/INFO]: [CHAT] [Why won’t you answer me??]
+[06:18:23] [main/INFO]: [CHAT] MerryTacos joined the game
+[06:18:25] [main/INFO]: [CHAT] [The Owner] This moment is one long in the making. The King always pays his debts, but will always take what he is owed.     You are what he is owed. At I am taken too last. He needs what you have. You owe him that. He has been seeking for so long. Why would you make him wait?
+[06:18:25] [main/INFO]: [CHAT] [What is happening??]
+[06:18:25] [main/INFO]: [CHAT] <L> [Fox] Fwap_a_Durp » remove 1 o and you're correct
+[06:18:31] [main/INFO]: [CHAT] RevenantHorror left the game
+[06:18:32] [main/INFO]: [CHAT] <G> [Fox] Fwap_a_Durp » warlock god
+[06:18:36] [main/INFO]: [CHAT] [Yeigar] ...he has me too. I made a deal once. I am still paying for it.
+[06:18:36] [main/INFO]: [CHAT] [Who has you?]
+[06:18:40] [main/INFO]: [CHAT] [Yeigar] Are you not listening? The King. The Crimson King.   He is taking over again… I’m sorry for what must be done... The cage awaits. You must enter it of your own accord.
+[06:18:52] [main/INFO]: [CHAT] [Yeigar] The cage awaits. You must enter it of your own accord.
+[06:18:52] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » i thought warlck good
+[06:18:54] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » lol
+[06:18:59] [main/INFO]: [CHAT] Memories of Battle: the cage awaits
+[06:19:09] [main/INFO]: [CHAT] <L> [Fox] Fwap_a_Durp » bruh
+[06:19:24] [main/INFO]: [CHAT] [Jeremiah] I'm glad to see you're still alive Sukie.
+[06:19:24] [main/INFO]: [CHAT] [I am.]
+[06:19:24] [main/INFO]: [CHAT] [So are you!]
+[06:19:29] [main/INFO]: [CHAT] [Jeremiah] How did you get here? Did you meet... him?
+[06:19:29] [main/INFO]: [CHAT] [Meet who? Yeigar?]
+[06:19:29] [main/INFO]: [CHAT] [What happened to your stutter?]
+[06:19:36] [main/INFO]: [CHAT] [Jeremiah] I've been given the impetus to set my fears aside... We need to get out of here.
+[06:19:36] [main/INFO]: [CHAT] [I don't see many options.]
+[06:19:42] [main/INFO]: [CHAT] [Jeremiah] I may know a way. But first... Did he tell you of the deal?
+[06:19:42] [main/INFO]: [CHAT] [He did. Something weird was happening.]
+[06:19:45] [main/INFO]: [CHAT] [Jeremiah] Weird how?
+[06:19:45] [main/INFO]: [CHAT] [It's like he was being controlled, but he kept breaking through.]
+[06:19:47] [main/INFO]: [CHAT] [Jeremiah] A puppet without strings... How could a memory break free from the mind? He won't like this at all...
+[06:19:47] [main/INFO]: [CHAT] [Excuse me?]
+[06:19:52] [main/INFO]: [CHAT] [Jeremiah] Nothing. I have a way out for us. The Arena. The memory is still so strong here... If we can get there, maybe I can help him see reason... I can take us there if you are prepared, Sukie?
+[06:19:52] [main/INFO]: [CHAT] [I am.]
+[06:20:00] [main/INFO]: [CHAT] [Jeremiah] Then come.
+
+[06:20:29] [main/INFO]: [CHAT] <G> [GTM] Diego0552 » amplifying hex also buffs enemies?
+[06:20:38] [main/INFO]: [CHAT] Memories of Battle: the owner waits for you...
+[06:20:42] [main/INFO]: [CHAT] [Yeigar] It is not yet your time to leave, Sukie. We still have business.
+[06:20:42] [main/INFO]: [CHAT] [What business? I'm done with this place. I've been attacked, followed, and messed with for too long now. I don't know what you want anymore. Let me go.]
+[06:20:49] [main/INFO]: [CHAT] [Yeigar] I was once a fighter too. A savior. I roamed the dunes, fighting for a cause I believed in, holding the strength of thousands in my hand.
+[06:20:49] [main/INFO]: [CHAT] [What?]
+[06:20:55] [main/INFO]: [CHAT] [Yeigar] My power was mighty. I knew of none who could challenge me. The strong cowered before me; the stronger still bent the knee or broke below my heel. The weak flocked to me, their protector. From this rose my empire - no, a nation. In the end though, while I was mighty, even I could not escape a deadly plague. It was then he came to me in my dreams. An explorer from beyond the sands.
+[06:20:55] [main/INFO]: [CHAT] [The Crimson King?]
+[06:21:12] [main/INFO]: [CHAT] [Yeigar] The Crimson King. He offered me a cure to what ailed me. I could rise again, a protector once more. I accepted without thinking. Isharist lost their ruler that day. But I was not gone. Never.
+[06:21:12] [main/INFO]: [CHAT] [Where did you go?]
+[06:21:20] [main/INFO]: [CHAT] [Yeigar] I was the King’s then, and he took me for his own whims. He used my power for himself. I was alive, in a way. A shade of myself. A memory of battle. But the true battle came, and I met my match. There were things after the King, so he sent me to defend him. I was struck down by these Knights, and my King was taken. That is the last thing I knew for generations.
+[06:21:20] [main/INFO]: [CHAT] [Generations? How long ago did this happen?]
+[06:21:36] [main/INFO]: [CHAT] [Yeigar] The world I knew is nothing like what I’ve been shown here. I do not know the time frame, but I can tell you that thousands of years felt like a blink of an eye. My eyes have been closed for some time. But they did reopen, mere years ago. Something freed my King. And my King then freed me.
+[06:21:36] [main/INFO]: [CHAT] [Why did he free you?]
+[06:21:44] [main/INFO]: [CHAT] <G> [Fox] Fwap_a_Durp » no
+[06:21:49] [main/INFO]: [CHAT] [Yeigar] He needs you. I have told you this. Has Jeremiah not told you this too? All of this? The Hall? The Arena? It is all for you. I’m so sorry you’ve fallen for his voice. I am sorry as well that I must take you away now. I hear his voice, calling me...  You should run before it is too late... You must be taken. I am his and you will be as well. Step into the Arena.
+[06:21:49] [main/INFO]: [CHAT] [Yeigar] Are you ready?
+[06:21:49] [main/INFO]: [CHAT] [I am.]
+[06:21:54] [main/INFO]: [CHAT] <G> [Fox] Fwap_a_Durp » amp hex damage enemies
+[06:22:06] [main/INFO]: [CHAT] [Yeigar] It is time for you and I to battle once more. The King commands it.
+[06:22:07] [main/INFO]: [CHAT] [Yeigar] The King screams within me. He will not let you go!
+[06:22:15] [main/INFO]: [CHAT] [Yeigar] Find me once again in this sea of memories.
+
+[06:22:20] [main/INFO]: [CHAT] The world seems to quiver, then you open your eyes to find yourself back before The Owner...
+
+[13:51:29] [main/INFO]: [CHAT] [Yeigar] Are you ready?
+[13:51:29] [main/INFO]: [CHAT] [I am.]
+[13:51:31] [main/INFO]: [CHAT] [Yeigar] It is time for you and I to battle once more. The King commands it.
+[13:51:32] [main/INFO]: [CHAT] [Yeigar] Find me once again in this sea of memories.
+[13:51:40] [main/INFO]: [CHAT] [Yeigar] I will send you to his shelter. You know the TRUTH. Find the HOME...
+
+[13:55:11] [main/INFO]: [CHAT] Memories of Battle: Find HOME.
+
+H https://puu.sh/GB1mm/5d1ceca307.png
+O https://puu.sh/GB1AF/d22b2a6515.png
+M https://puu.sh/GB1np/467feed578.png
+E https://puu.sh/GB1ow/a1c552b12b.png
+
+[14:12:34] [main/INFO]: [CHAT] You hear a loud sound come from the main hallway. The pathway is now open.
+
+[14:12:57] [main/INFO]: [CHAT] At last... HOME.
+[14:12:57] [main/INFO]: [CHAT] [Jeremiah?]
+[14:12:59] [main/INFO]: [CHAT] At last, I have found the pedestal. Could it have the answers I seek? Will this offer me my way home? I have taken it from the Place of Power, away from where the others will reside one day. I suppose I should be grateful it was hidden away so well, that I could find it before people other than these... Tlaxan... could discover what they have hidden in this Jungle they protect so strongly. They have such command over memory, I have found, but yet they do not remember me.
+[14:12:59] [main/INFO]: [CHAT] [Can you hear me?]
+[14:13:26] [main/INFO]: [CHAT] I could never have found this place without the machinations of the Demon Summoner and his silly dreams to rip open the Veil. His deal was easy. He keeps his home, and I start my journey to find my own. This pedestal is only the beginning however. I need to know where the creators rest. They must be close. If they are not, all hope is lost.
+[14:13:26] [main/INFO]: [CHAT] [Is this the Crimson King?]
+[14:13:41] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » bruh
+[14:13:42] [main/INFO]: [CHAT] I sense the Veil parting again. I must depart. Perhaps this one will know what I seek. Someone will find the creators. And when they do, I will make a deal. A life for a memory eternal.
+[14:13:42] [main/INFO]: [CHAT] [What have you done to Jeremiah?!]
+[14:13:50] [main/INFO]: [CHAT] <L> [DAD] forte_927 » welp
+[14:13:51] [main/INFO]: [CHAT] [Jeremiah] I’m glad you made it.
+[14:13:51] [main/INFO]: [CHAT] [Jeremiah! What's going on?]
+[14:13:52] [main/INFO]: [CHAT] <L> [DAD] forte_927 » round 2 I guess
+[14:13:54] [main/INFO]: [CHAT] [Jeremiah] Not very much. I'm sorry, I'm sure this is confusing for you. It's all very new to me as well. I am serving as a conduit so he can speak to you.
+[14:13:54] [main/INFO]: [CHAT] [The Crimson King?]
+[14:13:59] [main/INFO]: [CHAT] [Jeremiah] Of course. Yeigar, the Owner, was too strong a memory. I am still me. The Crimson King spoke to me when we were apart, and helped me understand what he wants. He's not out to kill you Sukie. He's been trying so hard to talk to you for so long, on his own terms.
+[14:13:59] [main/INFO]: [CHAT] [What do you mean?]
+[14:14:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:14:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[14:14:11] [main/INFO]: [CHAT] [Jeremiah] The Arena. Yeigar. The Hall of Replicas. There have been others, I believe, if you have searched deeply. They are all for you.
+[14:14:11] [main/INFO]: [CHAT] [What does he want from me? Why does he think I have a deal?]
+[14:14:21] [main/INFO]: [CHAT] [Jeremiah] Perhaps I should let him tell you himself. I promise, I'm not trying to betray you Sukie. He means the best for us all, I think. He just n-needs your help. He wants to go home.
+[14:14:21] [main/INFO]: [CHAT] [The Crimson King] He speaks truth. I am not here to harm you. I needed you to see this pedestal. To understand what is at stake. Oh, it's so very nice to finally meet you face to face once more. We will have much to discuss when I return...
+[14:14:21] [main/INFO]: [CHAT] MEMORIES OF BATTLE COMPLETE!
+[14:14:21] [main/INFO]: [CHAT] Awarded the Destroyed Ancient Blade, a Normal Roguelike Key, access to the underbelly of the Arena and the Memory Vault, and 1 Prestige.
+[14:14:21] [main/INFO]: Loaded 286 advancements
+[14:14:37] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » i fucking hate myself
+[14:14:40] [main/INFO]: [CHAT] DataCrusader joined the game
+[14:14:43] [main/INFO]: [CHAT] DataCrusader left the game
+[14:14:53] [main/INFO]: [CHAT] <L> [DAD] forte_927 » same
+[14:15:00] [main/INFO]: [CHAT] [Jeremiah] I'm sorry... I f-feel like I broke your trust.
+[14:15:00] [main/INFO]: [CHAT] [I just don't understand. Why are you working with him?]
+[14:15:03] [main/INFO]: [CHAT] [Jeremiah] I told you. He told me of himself and his goals and why he's been seeking you. He showed me a place I belong. Not as a servant. As an ally. He trusts me and trusts you as well; this is why he has offered you so many gifts. He just wants to go home. Do you have more questions?
+[14:15:03] [main/INFO]: [CHAT] [What is the Crimson King?]
+[14:15:03] [main/INFO]: [CHAT] [Why is there a wool pedestal here?]
+[14:15:03] [main/INFO]: [CHAT] [How is he making all of these memories?]
+[14:15:03] [main/INFO]: [CHAT] [What is this key you gave me for?]
+[14:15:10] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » u hate yourself too or you hate me too
+[14:15:11] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » lol
+[14:15:14] [main/INFO]: [CHAT] [Jeremiah] I don't think I can answer that yet, as I'm not really sure either.
+[14:15:14] [main/INFO]: [CHAT] [WHO is the Crimson King?]
+[14:15:16] [main/INFO]: [CHAT] [Jeremiah] A lost soul, trying to find a way home. He thinks there are answers lost in your memory.
+[14:15:20] [main/INFO]: [CHAT] [Jeremiah] I'm sorry... I f-feel like I broke your trust.
+[14:15:20] [main/INFO]: [CHAT] [I just don't understand. Why are you working with him?]
+[14:15:22] [main/INFO]: [CHAT] [Jeremiah] I told you. He told me of himself and his goals and why he's been seeking you. He showed me a place I belong. Not as a servant. As an ally. He trusts me and trusts you as well; this is why he has offered you so many gifts. He just wants to go home. Do you have more questions?
+[14:15:22] [main/INFO]: [CHAT] [What is the Crimson King?]
+[14:15:22] [main/INFO]: [CHAT] [Why is there a wool pedestal here?]
+[14:15:22] [main/INFO]: [CHAT] [How is he making all of these memories?]
+[14:15:22] [main/INFO]: [CHAT] [What is this key you gave me for?]
+[14:15:24] [main/INFO]: [CHAT] <L> [DAD] forte_927 » dont worry about that
+[14:15:24] [main/INFO]: [CHAT] [Jeremiah] It is his gift. He can create memories that he has been given freely and make them new. The Hall of Replicas is a memory of a group called the Freetraders, recreated. The beings inside are all Memories too. Even the Arena is in many ways a Memory...
+[14:15:26] [main/INFO]: [CHAT] Nikolas_0113 was slain by §r§4§lKazar'thun the Mighty using [§4§lSearing Wrath]
+[14:15:35] [main/INFO]: [CHAT] <L> [GTM] Diego0552 » same damage 4.1
+[14:15:38] [main/INFO]: [CHAT] <L> [DAD] forte_927 » ffs
+[14:15:41] [main/INFO]: [CHAT] [Jeremiah] I'm sorry... I f-feel like I broke your trust.
+[14:15:41] [main/INFO]: [CHAT] [I just don't understand. Why are you working with him?]
+[14:15:42] [main/INFO]: [CHAT] [Jeremiah] I told you. He told me of himself and his goals and why he's been seeking you. He showed me a place I belong. Not as a servant. As an ally. He trusts me and trusts you as well; this is why he has offered you so many gifts. He just wants to go home. Do you have more questions?
+[14:15:42] [main/INFO]: [CHAT] [What is the Crimson King?]
+[14:15:42] [main/INFO]: [CHAT] [Why is there a wool pedestal here?]
+[14:15:42] [main/INFO]: [CHAT] [How is he making all of these memories?]
+[14:15:42] [main/INFO]: [CHAT] [What is this key you gave me for?]
+[14:15:45] [main/INFO]: [CHAT] [Jeremiah] It is his gift. He can create memories that he has been given freely and make them new. The Hall of Replicas is a memory of a group called the Freetraders, recreated. The beings inside are all Memories too. Even the Arena is in many ways a Memory...
+[14:15:53] [main/INFO]: [CHAT] [Jeremiah] I'm sorry... I f-feel like I broke your trust.
+[14:15:53] [main/INFO]: [CHAT] [I just don't understand. Why are you working with him?]
+[14:15:54] [main/INFO]: [CHAT] [Jeremiah] I told you. He told me of himself and his goals and why he's been seeking you. He showed me a place I belong. Not as a servant. As an ally. He trusts me and trusts you as well; this is why he has offered you so many gifts. He just wants to go home. Do you have more questions?
+[14:15:54] [main/INFO]: [CHAT] [What is the Crimson King?]
+[14:15:54] [main/INFO]: [CHAT] [Why is there a wool pedestal here?]
+[14:15:54] [main/INFO]: [CHAT] [How is he making all of these memories?]
+[14:15:54] [main/INFO]: [CHAT] [What is this key you gave me for?]
+[14:15:54] [main/INFO]: [CHAT] <L> [DAD] forte_927 » try noww
+[14:15:56] [main/INFO]: [CHAT] [Jeremiah] I'll leave that for you to discover, Sukie. There is so much more to find.
+
+==Nelfine's Curse==
+
+[03:48:25] [main/INFO]: [CHAT] [Nelfine] How did you get in here?
+[03:48:25] [main/INFO]: [CHAT] [I found a contraption that opened the wall and found you down here.]
+[03:48:27] [main/INFO]: [CHAT] [Nelfine] ...They told me nobody could ever get in here.
+[03:48:27] [main/INFO]: [CHAT] [How long have you been down here?]
+[03:48:30] [main/INFO]: [CHAT] [Nelfine] I'm not quite sure, the days have blended together at this point. Probably a few weeks.
+[03:48:30] [main/INFO]: [CHAT] [Who are you?]
+[03:48:33] [main/INFO]: [CHAT] [Nelfine] My name is Nelfine, but that's about as much as I can tell you.
+[03:48:33] [main/INFO]: [CHAT] [What do you mean?]
+[03:48:35] [main/INFO]: [CHAT] [Nelfine] Well as I said, I have been here for a while, but the thing is, I can't quite tell you how. I just woke up here one day with almost none of my memory intact. I've heard a voice speak to me a few times, proper creepy-like. I also found a notebook stuffed into the corner.
+[03:48:35] [main/INFO]: [CHAT] [Do you mind if I see that book?]
+[03:48:45] [main/INFO]: [CHAT] [Nelfine] Sure, I have no use for it. I feel like it's about me but none of it makes much sense.
+[03:48:45] [main/INFO]: [CHAT] QUEST : NELFINE'S CURSE
+[03:48:45] [main/INFO]: [CHAT] Length : Short
+[03:48:45] [main/INFO]: [CHAT] Difficulty : Medium
+[03:48:45] [main/INFO]: [CHAT] Search out clues as to why Nelfine is trapped underground with no memory
+
+[03:51:01] [main/INFO]: [CHAT] [Nelfine] Find anything interesting in that book?
+[03:51:01] [main/INFO]: [CHAT] [Were you being experimented on?]
+[03:51:01] [main/INFO]: [CHAT] [Actually, I think I lost it.]
+[03:51:05] [main/INFO]: [CHAT] [Nelfine] I don't think so. At least I don't remember... Will you look into this for me?
+[03:51:05] [main/INFO]: [CHAT] [I can do that.]
+[03:51:08] [main/INFO]: [CHAT] [Nelfine] Thank you. This is really bothering me now. I'm so glad the first person I remember meeting is nice. Wait... you are a person right? Of course you are. I'm just paranoid these days. Sorry.
+
+[04:03:07] [main/INFO]: [CHAT] [Mysterious Voice] This configuration... It didn't work last time. Did I do something wrong? This requires further research....
+[04:03:23] [main/INFO]: [CHAT] Nelfine's Curse: You broke the device and received a configured sample! Return it to Nelfine.
+
+[04:06:38] [main/INFO]: [CHAT] [Nelfine] Have you found anything?
+[04:06:38] [main/INFO]: [CHAT] [I did actually. I found a machine of some sort and recovered this configured sample.]
+[04:06:41] [main/INFO]: [CHAT] [Nelfine] Can I try it?
+[04:06:41] [main/INFO]: [CHAT] [Are you sure?]
+[04:06:43] [main/INFO]: [CHAT] [Nelfine] It either works or it doesn't. Or I die, but let's not think about that option.
+[04:06:43] [main/INFO]: [CHAT] She breaks the configured sample
+[04:06:43] [main/INFO]: [CHAT] [Well?]
+[04:06:48] [main/INFO]: [CHAT] [Nelfine] I... I remember!  I was in Farr. I was supposed to be meeting my friend for some business matters. But... I didn't. I can't quite recall what happened, or what kept us from seeing each other.
+[04:06:48] [main/INFO]: [CHAT] [Are you okay?]
+[04:06:54] [main/INFO]: [CHAT] [Nelfine] I... I'm fine. I just have so many memories rushing back to me at once. I think I'll need some time to think about things. I also need to send a letter to Arian. I'm sure he's been worried sick about me, since I've been down here for weeks on end.
+[04:06:54] [main/INFO]: [CHAT] [Is there anything else I can do for you?]
+[04:07:03] [main/INFO]: [CHAT] [Nelfine] No, you've done far too much for me already. I truly don't deserve such kindness. I need to give you some form of payment... That chest! I remember the combination to the lock! Let me give you something from it. I don't have much, but you deserve it.
+[04:07:03] [main/INFO]: [CHAT] NELFINE'S CURSE COMPLETE!
+[04:07:03] [main/INFO]: [CHAT] Awarded 5 Experience Bottles, 4 Bread, and Adroit Spade
+
+==A PIGCULIAR PROBLEM==
+[21:35:16] [main/INFO]: [CHAT] [Walter Jr.] Oink
+[21:35:16] [main/INFO]: [CHAT] [So cute!]
+[21:35:17] [main/INFO]: [CHAT] [Walter Jr.] Oink!
+[21:35:18] [main/INFO]: [CHAT] [Walter Jr.] Now look here, hitting such a valuable test subject is quite rude, I say!
+[21:35:18] [main/INFO]: [CHAT] [Oh my goodness! A talking pig!]
+[21:35:23] [main/INFO]: [CHAT] [Walter Jr.] Uh... Oink?
+[21:35:23] [main/INFO]: [CHAT] [Stop that! I heard you talk. How are you doing that?!]
+[21:35:23] [main/INFO]: [CHAT] [Oh, thank goodness. I thought I was crazy.]
+[21:35:26] [main/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » it tells me to investigate
+[21:35:28] [main/INFO]: [CHAT] [Walter Jr.] This is what I get for showing off... fine... I'll tell you!
+[21:35:28] [main/INFO]: [CHAT] [Yay!]
+[21:35:32] [main/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » which is...
+[21:35:35] [main/INFO]: [CHAT] [Walter Jr.] If you do me a favor!
+[21:35:35] [main/INFO]: [CHAT] [Oh... Okay.]
+[21:35:35] [main/INFO]: [CHAT] [Hmph. Not now.]
+[21:35:39] [main/INFO]: [CHAT] QUEST : A PIGCULIAR PROBLEM
+[21:35:39] [main/INFO]: [CHAT] Length : Porcine
+[21:35:39] [main/INFO]: [CHAT] Difficulty : Bacon
+[21:35:39] [main/INFO]: [CHAT] Help Walter Jr. with his task to learn the innermost secrets of Pigkind.
+[21:35:39] [main/INFO]: [CHAT] [Walter Jr.] Now, for your task. In this very valley is a wondrous place called Crescent Isle, where Pigkind lavish in beauty and luxury.
+[21:35:39] [main/INFO]: [CHAT] [That sounds majestic.]
+[21:35:39] [main/INFO]: [CHAT] [I don't believe that.]
+[21:35:54] [main/INFO]: [CHAT] [Walter Jr.] It truly is! I want you to go there and speak to Percy. He's the massage therapist there. He's got a special potion I want.
+[21:35:54] [main/INFO]: [CHAT] [Sounds easy enough.]
+[21:35:59] [main/INFO]: [CHAT] [Walter Jr.] You would think, but he likes to hide away at the top of the tower. The Isle is all the way west, across the ocean. Go sail!
+
+[21:36:40] [main/INFO]: [CHAT] A Pigculiar Problem: Oink.
+
+[22:06:56] [main/INFO]: [CHAT] <G> Sukie » yess, a congratulatory cookie
+[22:06:57] [main/INFO]: [CHAT] [Percy] Oink?
+[22:06:57] [main/INFO]: [CHAT] [You're Percy, right? I've been sent by Walter Jr. to find you.]
+[22:07:02] [main/INFO]: [CHAT] [Percy] Oh? You of humankind know of Walter Jr.? How is that fine chap?
+[22:07:02] [main/INFO]: [CHAT] [AH! A talking pig again!]
+[22:07:08] [main/INFO]: [CHAT] [Percy] ...You spoke to me in your tongue first, good sir. Now what can I do for thee?
+[22:07:08] [main/INFO]: [CHAT] [I'm sorry. I'm still not used to this... He sent me to ask about a potion?]
+[22:07:08] [main/INFO]: [CHAT] [YOU'RE A TALKING PIG!]
+[22:07:18] [main/INFO]: [CHAT] [Percy] Ah yes. The Pig Potion of Porcine Perfection and Peculiarity. I'm afraid I've not got it any longer.
+[22:07:18] [main/INFO]: [CHAT] [WHAT?!]
+[22:07:18] [main/INFO]: [CHAT] [Uhhhhh... huh?]
+[22:07:25] [main/INFO]: [CHAT] [Percy] What are you shouting for, chap? This is a place of sanctity!
+[22:07:25] [main/INFO]: [CHAT] [I went through all that trouble jumping up here and you've not even got the potion?]
+[22:07:30] [main/INFO]: [CHAT] [Percy] I'm afraid not. I've shipped it to the capital, Sierhaven. It should be in the basement of the Workshop. It's where all new arrivals go! Just find the little trapdoor and head down it.
+[22:07:30] [main/INFO]: [CHAT] [Then what?]
+[22:07:36] [main/INFO]: [CHAT] [Percy] I'm sure my agent, Peppa, will happily give it to you!
+
+[22:07:42] [main/INFO]: [CHAT] A Pigculiar Problem [1/3]: Oink.
+[22:07:43] [main/INFO]: [CHAT] A Pigculiar Problem [2/3]: Oink.
+[22:07:43] [main/INFO]: [CHAT] A Pigculiar Problem [3/3]: Oink.
+
+[22:10:52] [main/INFO]: [CHAT] [George] Help! There's a pig down there on a rampage! I don't know what to do!
+[22:10:52] [main/INFO]: [CHAT] [Don't worry, I've got this.]
+[22:10:52] [main/INFO]: [CHAT] [OH MY GOD, A TALKING HUMAN!]
+[22:10:57] [main/INFO]: [CHAT] [George] Uh...? Yes? That is what humans do... Are you okay?
+[22:10:59] [main/INFO]: [CHAT] [George] Help! There's a pig down there on a rampage! I don't know what to do!
+[22:10:59] [main/INFO]: [CHAT] [Don't worry, I've got this.]
+[22:10:59] [main/INFO]: [CHAT] [OH MY GOD, A TALKING HUMAN!]
+[22:11:00] [main/INFO]: [CHAT] [George] Thank goodness. I don't know what I'd do otherwise. I can't get down there without it trying to bite me! It stole a shipment of potions from Crescent Isle!
+
+[22:20:59] [main/INFO]: [CHAT] Peppa vanishes and leaves a potion behind in the chest below.
+
+#Q46I01 https://puu.sh/GBu9u/f75f89a771.png
+
+[22:21:45] [main/INFO]: [CHAT] [George] You scared her off! Thank you!
+[22:21:45] [main/INFO]: [CHAT] [You're very welcome.]
+[22:21:45] [main/INFO]: [CHAT] [AHH! YOU STILL TALK!]
+[22:21:48] [main/INFO]: [CHAT] [George] ...We've been through this...
+[22:21:51] [main/INFO]: [CHAT] [George] You scared her off! Thank you!
+[22:21:51] [main/INFO]: [CHAT] [You're very welcome.]
+[22:21:51] [main/INFO]: [CHAT] [AHH! YOU STILL TALK!]
+[22:21:52] [main/INFO]: [CHAT] [George] I'm glad we have random wandering heroes like you around, dealing with all these pig related problems.
+
+[22:22:38] [main/INFO]: [CHAT] [Walter Jr.] You got it! You got the potion! Amazing! May I have it?
+[22:22:38] [main/INFO]: [CHAT] [Of course.]
+[22:22:38] [main/INFO]: [CHAT] [Never! It's mine!]
+[22:22:38] [main/INFO]: [CHAT] [OH GOD, A TALKING PIG!]
+[22:22:41] [main/INFO]: [CHAT] <G> [ABA] CS_Aristotle » o/
+[22:22:47] [main/INFO]: [CHAT] [Walter Jr.] I appreciate your time so much. Now let me share the secret I have promised you... how pigkind can speak!
+[22:22:47] [main/INFO]: [CHAT] [I can't wait!]
+[22:22:51] [main/INFO]: [CHAT] [Walter Jr.] Are you truly prepared to know this mighty secret?
+[22:22:51] [main/INFO]: [CHAT] [I am!]
+[22:22:51] [main/INFO]: [CHAT] [Give me a moment to brace myself.]
+[22:22:51] [main/INFO]: [CHAT] [I might need to sit down. Hold tight.]
+[22:22:56] [main/INFO]: [CHAT] [Walter Jr.] Are you truly sure? You may want to take a seat or something.
+[22:22:56] [main/INFO]: [CHAT] [No, I am ready.]
+[22:22:56] [main/INFO]: [CHAT] [You might be right. Let me take a seat.]
+[22:23:01] [main/INFO]: [CHAT] [Walter Jr.] Excellent. So, the secret as to why Pigkind can speak is...
+[22:23:01] [main/INFO]: [CHAT] [Spit it out!]
+[22:23:03] [main/INFO]: [CHAT] [Walter Jr.] Well, it's all because of Mawrmoch.
+[22:23:03] [main/INFO]: [CHAT] [Who?]
+[22:23:07] [main/INFO]: [CHAT] [Walter Jr.] He was a member of the Mage Council! He really liked animals, see, and decided one day to try and make his pet pig, Levyn Bacon, talk.
+[22:23:07] [main/INFO]: [CHAT] [Then what?]
+[22:23:07] [main/INFO]: [CHAT] [Levyn Bacon?]
+[22:23:15] [main/INFO]: [CHAT] [Walter Jr.] Well, Levyn Bacon was able to talk after the spell resolved. But so could all other pigs. Mawrmoch really porked up.
+[22:23:15] [main/INFO]: [CHAT] [I can tell!]
+[22:23:20] [main/INFO]: [CHAT] [Walter Jr.] Thankfully you've brought me this potion. At last, I can be rid of this awful sentience. I've had my fun, but I feel so... responsible... as a talking pig. I just want to go back to the old days, before this mess.
+[22:23:20] [main/INFO]: [CHAT] [Wait, what?]
+[22:23:20] [main/INFO]: [CHAT] [What happened to Mawrmoch?]
+[22:23:30] [main/INFO]: [CHAT] [Walter Jr.] Oh, he's dead. Gone. Never returning, thank goodness.
+[22:23:34] [main/INFO]: [CHAT] [Walter Jr.] Thankfully you've brought me this potion. At last, I can be rid of this awful sentience. I've had my fun, but I feel so... responsible... as a talking pig. I just want to go back to the old days, before this mess.
+[22:23:34] [main/INFO]: [CHAT] [Wait, what?]
+[22:23:34] [main/INFO]: [CHAT] [What happened to Mawrmoch?]
+[22:23:36] [main/INFO]: [CHAT] [Walter Jr.] Percy has been seeking a way back to normalcy for Pigkind. This is the solution. I am ready to return. Thank you for your help, Sukie. Let me reward you for your help before I return to who I once was...
+[22:23:36] [main/INFO]: [CHAT] [If you must.]
+[22:23:36] [main/INFO]: [CHAT] [Ooh, rewards!]
+[22:23:46] [main/INFO]: [CHAT] [Walter Jr.] Thank you again. I offer you my commemorative mask of Levyn Bacon for your help.
+[22:23:46] [main/INFO]: [CHAT] A PIGCULIAR PROBLEM COMPLETE!
+[22:23:46] [main/INFO]: [CHAT] Awarded Levyn Bacon Mask
+[22:23:46] [main/INFO]: [CHAT] [Walter Jr.] Oink!
+[22:23:46] [main/INFO]: [CHAT] [Walter Jr.? Can you hear me?]
+[22:23:46] [main/INFO]: [CHAT] [Can I have another Mask? I've lost my old one.]
+[22:23:46] [main/INFO]: Loaded 319 advancements
+[22:23:52] [main/INFO]: [CHAT] [Walter Jr.] Oink!
+[22:23:52] [main/INFO]: [CHAT] [I'm sad... I miss that little guy...]
+[22:23:52] [main/INFO]: [CHAT] [I'm happy he got what he wanted. He's back to being a careful little pig!]
+[22:23:57] [main/INFO]: [CHAT] [Walter Jr.] Oink! Oink!
+
+==A Pirate's Life==
+[13:48:06] [Render thread/INFO]: [CHAT] [Levyn] What's up me scurvy landlubber? Would ye like to join me merry crew and ride upon the crests of the salty waves?
+[13:48:06] [Render thread/INFO]: [CHAT] [Are you hitting on me?]
+[13:48:06] [Render thread/INFO]: [CHAT] [Um... I have to go]
+[13:48:06] [Render thread/INFO]: [CHAT] To talk to NPCs, open chat with t, then
+[13:48:06] [Render thread/INFO]: [CHAT] click the [purple text in brackets] to respond.
+[13:48:23] [Render thread/INFO]: [CHAT] [Levyn] Yarrr, that's... not me intent. I be trying to make a pirate crew but I'm not a good scourge o' the seas. Maybe if I looked the part though... Hm, I'll tell ya what, find me a pegleg and I'll make ye quartermaster, deal?
+[13:48:23] [Render thread/INFO]: [CHAT] [You've got a deal!]
+[13:48:23] [Render thread/INFO]: [CHAT] [Nope, not worth it]
+[13:48:31] [Render thread/INFO]: [CHAT] [Levyn] Yar-har-har! Good call laddie! Pirates used to roam all along those old docks to the south-east, try hunting there for me new peg-leg.
+[13:48:31] [Render thread/INFO]: [CHAT] QUEST : A PIRATE'S LIFE
+[13:48:31] [Render thread/INFO]: [CHAT] Length : Short
+[13:48:31] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[13:48:31] [Render thread/INFO]: [CHAT] Search the abandoned docks east of here for a peg-leg
+
+[14:35:38] [Render thread/INFO]: [CHAT] [Levyn] Yar-har-har, that's a fine peg-leg alright! Hmm... but I don't think I look piratey enough yet... What do I be missing?
+[14:35:38] [Render thread/INFO]: [CHAT] [An eye patch?]
+[14:35:38] [Render thread/INFO]: [CHAT] [A parrot?]
+
+[14:36:16] [Render thread/INFO]: [CHAT] [Levyn] Of course me laddy! A loyal parrot would be perfect for me piratey self! I've heard that there will be a nest o' them in the 'cave o' tears', but I don't know where that be. But maybe ye could see it from a high place, like a lighthouse...
+
+spyglass: https://puu.sh/GzuSl/ebc737c105.png
+cave of tears lol: https://puu.sh/GzuTK/19dd6eb30a.png
+parrot: https://puu.sh/Gzv0H/6df26ebef0.png https://puu.sh/Gzv0O/d75b8323f6.png
+
+[14:50:56] [Render thread/INFO]: [CHAT] [Levyn] Yar, a mighty parrot indeed! Thank you me boy, there'll always be a spot for you on me ship! Here, take this as me thanks!
+[14:50:56] [Render thread/INFO]: [CHAT] A PIRATE'S LIFE COMPLETE!
+[14:50:56] [Render thread/INFO]: [CHAT] Awarded Scalawag's Hatchet, 32 Enchanting Bottles, and 1 Prestige
+[14:50:56] [Render thread/INFO]: [CHAT] [Levyn] Thank you, me matey! I won't forget your help 'ere, and when I get my crew, we'll be at your aid anytime!
+
+==Port Panic==
+* ?
+* Prestige Awarded: 1
+
+1.15.4/2020-10-04-1.log:[01:30:20] [Render thread/INFO]: [CHAT] PORT PANIC COMPLETE!
+1.15.4/2020-10-04-1.log-[01:30:20] [Render thread/INFO]: [CHAT] Awarded 32 Enchanting Bottles, 2 Strong Healing Potions, and 1 Prestige
+
+
+==Scars of Magic==
+[04:09:57] [main/INFO]: [CHAT] [Dimitri] Oh uh... Hello there Sukie. Could... Could I ask something of you?
+[04:09:57] [main/INFO]: [CHAT] [What is it?]
+[04:09:57] [main/INFO]: [CHAT] [No.]
+[04:09:58] [main/INFO]: Loaded 295 advancements
+[04:10:12] [main/INFO]: [CHAT] [Dimitri] Well... I think I might have a lead on finding Ignos, but it might be a bit of a long shot.
+[04:10:12] [main/INFO]: [CHAT] [Oh? Do tell.]
+[04:10:12] [main/INFO]: [CHAT] [I'm in.]
+[04:10:15] [main/INFO]: [CHAT] [Dimitri] I've been staring over these notes that you found, and can't quite get my mind off something. There was something at the Axtan Monastery, something he was intensely determined to find. The real reason it's sticking in my mind though is that there's a new alchemist downstairs who seems to keep mumbling about secrets surrounding the Monastery. Could you perhaps talk to him and see if you can get some information? Maybe he knows something...
+[04:10:15] [main/INFO]: [CHAT] [I'm in.]
+[04:10:15] [main/INFO]: [CHAT] [Maybe later.]
+[04:10:29] [main/INFO]: [CHAT] [Dimitri] Thank you Sukie... Your help means a lot to me.
+[04:10:29] [main/INFO]: [CHAT] Scars of Magic
+[04:10:29] [main/INFO]: [CHAT] Length : Medium
+[04:10:29] [main/INFO]: [CHAT] Difficulty : Medium
+[04:10:29] [main/INFO]: [CHAT] Follow up on Dimitri's lead about Ignos' whereabouts.
+
+[04:11:46] [main/INFO]: [CHAT] Scars of Magic: Speak to the Deranged Alchemist in the Sierhaven alchemist building.
+
+[04:12:29] [main/INFO]: [CHAT] [Deranged Alchemist] Hmm... yes yes... the Axtans...
+[04:12:29] [main/INFO]: [CHAT] [Hi, did you say Axtans?]
+[04:12:32] [main/INFO]: [CHAT] [Deranged Alchemist] Yes! Those blasted fools. If they only knew what they were hiding, then surely they would see my side.
+[04:12:32] [main/INFO]: [CHAT] [What are they hiding?]
+[04:12:32] [main/INFO]: [CHAT] [What is your side?]
+[04:12:32] [main/INFO]: [CHAT] [I've helped the Axtans before, could I do anything?]
+[04:12:40] [main/INFO]: [CHAT] [Deranged Alchemist] Power of course. Great and awesome power. But they refuse to listen to me, or anyone for that matter.
+[04:12:40] [main/INFO]: [CHAT] [I've helped the Axtans before, could I do anything?]
+[04:12:45] [main/INFO]: [CHAT] [Deranged Alchemist] I fear they wouldn't even listen to a trusted ally on this matter, but perhaps if... yes I know.
+[04:12:45] [main/INFO]: [CHAT] [What?]
+[04:12:49] [main/INFO]: [CHAT] [Deranged Alchemist] A scholar in a cottage by the Collapsed Tower is on the right path. I saw him when I finally made it out... Yes... The Axtans turned him away as well, but he has the pieces. He knows more than he thinks he does. Seek him out and aid his research.
+[04:12:49] [main/INFO]: [CHAT] [Alright I'll see what I can find out.]
+[04:12:49] [main/INFO]: [CHAT] [This is starting to get a bit too convoluted for me.]
+[04:13:00] [main/INFO]: [CHAT] [Deranged Alchemist] Splendid. Safe travels.
+
+[04:13:04] [main/INFO]: [CHAT] Scars of Magic: Speak to Keller near the Collapsed Tower.
+
+[12:39:03] [main/INFO]: [CHAT] [Keller] I'm much too busy here to chat... Oh hello Sukie, it's been a while since we last spoke. What brings you to the Highlands?
+[12:39:03] [main/INFO]: [CHAT] [I'm looking for you actually.]
+[12:39:03] [main/INFO]: [CHAT] [Just passing by.]
+[12:39:08] [main/INFO]: [CHAT] [Keller] Oh really? Did you hear about the research I was doing into the Axtans and Siershen with Antigone? Did Bhairavi send you?
+[12:39:08] [main/INFO]: [CHAT] [I have. I'm here to help you delve further, though I wasn't sent by Bhairavi.]
+[12:39:08] [main/INFO]: [CHAT] [Something like that. What are you researching about the Axtans and Siershen?]
+[12:39:08] [main/INFO]: [CHAT] [No, nothing like that. I just wanted to say hi.]
+[12:39:22] [main/INFO]: [CHAT] [Keller] That would be great but I believe I've hit a dead end here. My research and findings speak of a secret of Siershen's being guarded by the Axtans under this tower, but so far after scouring it top to bottom I've found nothing.
+[12:39:22] [main/INFO]: [CHAT] [So there's nothing I can do?]
+[12:39:29] [main/INFO]: [CHAT] [Keller] Could you explore the Collapsed Tower for me? Maybe a second set of eyes could find something I did not. It's rather dangerous in there and I've never been much of a fighter. Hopefully there is a document or a book lying around that could help us better understand it's history. If only Brayllur wasn't busy...
+[12:39:39] [main/INFO]: [CHAT] Scars of Magic [1/2]: Find the logbook within the Collapsed Tower.
+[12:39:42] [main/INFO]: [CHAT] Scars of Magic [2/2]: Once you have the logbook return to Keller.
+[12:39:45] [main/INFO]: [CHAT] [Keller] This is brilliant! Right beneath our feet there's something, we need to pursue this further.
+[12:39:45] [main/INFO]: [CHAT] [What should we do next?]
+[12:39:48] [main/INFO]: [CHAT] [Keller] Could you go and check on Antigone in Velara for me? I sent her there with some notes I found on how to unlock Siershen's study, so you should be able to follow and catch up to him. I think if we have more pieces to this puzzle things will start falling into place. I'll start researching what's in this book and I should have something for you when you return!
+[12:39:48] [main/INFO]: [CHAT] [I'll be on my way!]
+[12:39:48] [main/INFO]: [CHAT] [Maybe another time.]
+[12:40:01] [main/INFO]: [CHAT] [Keller] Thank you!
+
+[12:41:39] [main/INFO]: [CHAT] Scars of Magic [1/3]: Return to Velara through the sewers.
+[12:41:26] [main/INFO]: [CHAT] Scars of Magic [2/3]: Once inside Velara, find a way into Siershen's study.
+[12:41:27] [main/INFO]: [CHAT] Scars of Magic [3/3]: Once inside Siershen's study, talk to Antigone and help her.
+
+[12:51:14] [main/INFO]: [CHAT] [Antigone] Hello Sukie! I am actually quite glad to see you, we seem to have another puzzle on our hands.
+[12:51:14] [main/INFO]: [CHAT] [What's with the flashing lights?]
+[12:51:14] [main/INFO]: [CHAT] [Where are we?]
+[12:51:14] [main/INFO]: [CHAT] [Why are you down here?]
+[12:51:14] [main/INFO]: [CHAT] [I'm just passing through.]
+[12:51:18] [main/INFO]: [CHAT] [Antigone] It's a curious and very strange contraption, but I think it appears to be channeling energy into the central crystal. Unfortunately the age of the machine is showing and it appears out of sync.
+[12:51:18] [main/INFO]: [CHAT] [Can we fix it?]
+[12:51:20] [main/INFO]: [CHAT] GameSebas256 was slain by Dark Knight
+[12:51:21] [main/INFO]: [CHAT] [Antigone] I believe so. Stepping on those pressure pads stalls the lights for a time, so perhaps we can stall them to be in line with each other. I sadly have no sense of rhythm and have failed thus far.
+
+[12:52:11] [main/INFO]: [CHAT] [Antigone] Hello Sukie! I am actually quite glad to see you, we seem to have another puzzle on our hands.
+[12:52:11] [main/INFO]: [CHAT] [What's with the flashing lights?]
+[12:52:11] [main/INFO]: [CHAT] [Where are we?]
+[12:52:11] [main/INFO]: [CHAT] [Why are you down here?]
+[12:52:11] [main/INFO]: [CHAT] [I'm just passing through.]
+[12:52:11] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » And also he went on a rant on how blast prot is better than normal prot in r1
+[12:52:13] [main/INFO]: [CHAT] [Antigone] Siershen's study! It appears he took up residence in Velara for a while. Very strange for a non-Tlaxan.
+[12:52:13] [main/INFO]: [CHAT] [Siershen wasn't a Tlaxan?]
+[12:52:13] [main/INFO]: [CHAT] [What's with the flashing lights?]
+[12:52:14] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » good old days
+[12:52:16] [main/INFO]: [CHAT] treebeard68 left the game
+[12:52:17] [main/INFO]: [CHAT] Nikolas_0113 joined the game
+[12:52:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[12:52:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[12:52:19] [main/INFO]: [CHAT] [Antigone] Indeed he was not. But he also wasn't a Narsen. Somehow he gained the trust of C'Zanil though, even enough to be one of his closest allies.
+
+[12:52:58] [main/INFO]: [CHAT] [Antigone] Hello Sukie! I am actually quite glad to see you, we seem to have another puzzle on our hands.
+[12:52:58] [main/INFO]: [CHAT] [What's with the flashing lights?]
+[12:52:58] [main/INFO]: [CHAT] [Where are we?]
+[12:52:58] [main/INFO]: [CHAT] [Why are you down here?]
+[12:52:58] [main/INFO]: [CHAT] [I'm just passing through.]
+[12:53:00] [main/INFO]: [CHAT] [Antigone] To be honest it's still a big mystery to me. Keller found some odd notes and leads which have us going in every which direction, but it all seems to be connected to something Siershen referred to as his greatest sorrow.
+
+#Q32I01 https://puu.sh/GBlp6/c110bcd01b.png
+
+[12:54:56] [main/INFO]: [CHAT] [Antigone] You did it! I don't know what you did but you did it! It looks like you got an item as well?
+[12:54:56] [main/INFO]: [CHAT] [What does this crystal do?]
+[12:54:56] [main/INFO]: [CHAT] [What should I do now?]
+[12:55:00] [main/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » dreadful isn't cool either
+[12:55:01] [main/INFO]: [CHAT] [Antigone] I don't know that either. It is definitely emanating a magical energy, but not one I am familiar with. Keller has made himself the Siershen expert, and has the remainder of the notes from the crypt, perhaps he will know what to do with it.
+[12:55:02] [main/INFO]: [CHAT] <G> treebeard68 » or, if you're Warlock or any good AoE class, Merciless
+[12:55:07] [main/INFO]: [CHAT] _Stickers1342 left the game
+[12:55:12] [main/INFO]: [CHAT] [Antigone] You did it! I don't know what you did but you did it! It looks like you got an item as well?
+[12:55:12] [main/INFO]: [CHAT] [What does this crystal do?]
+[12:55:12] [main/INFO]: [CHAT] [What should I do now?]
+[12:55:16] [main/INFO]: [CHAT] [Antigone] I think you should speak with Keller by the Collapsed Tower with the crystal you found here. He may know what it is used for.
+
+[12:55:52] [main/INFO]: [CHAT] Scars of Magic: Return to Keller with the Temporal Crystal. If you lose it you can get another one by redoing the puzzle in Velara.
+
+[13:01:39] [main/INFO]: [CHAT] [Keller] Look at this! This crystal is exactly what Siershen described in his notes. If my hypothesis is right, this will open up a "time bubble" around the tower, and allow us to access a version of it before it collapsed. I just need to crack it here and...
+[13:01:39] [main/INFO]: [CHAT] [And what?]
+[13:01:42] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:01:42] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:01:46] [main/INFO]: [CHAT] [Keller] And we've done it!
+[13:01:46] [main/INFO]: [CHAT] [Done what?]
+[13:01:46] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:01:46] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:01:48] [main/INFO]: [CHAT] [Keller] It has something to do with changing the Collapsed Tower I think. I'm actually not quite too sure, Siershen is very vague in what he wrote. It should allow us to get into the basement and learn more though! I just need to make one final mark on the crystal and the spell will be complete.
+[13:01:48] [main/INFO]: [CHAT] You are about to amplify the Collapsing Tower PoI. If you fail, you must return to Velara and recieve another charge to amplify it again. Are you prepared?
+[13:01:48] [main/INFO]: [CHAT] [Yes.]
+[13:01:48] [main/INFO]: [CHAT] [No.]
+[13:01:50] [main/INFO]: [CHAT] Itsrasertop joined the game
+[13:02:00] [main/INFO]: [CHAT] Elsfic joined the game
+[13:02:01] [main/INFO]: [CHAT] [Keller] I'll be here when you are.
+
+[13:03:05] [main/INFO]: [CHAT] Scars of Magic: Speak to Keller to amplifiy the Collapsed Tower.
+
+[13:15:38] [main/INFO]: [CHAT] [Keller] The tower is preparing to change. Be ready for it.
+
+[13:33:10] [main/INFO]: [CHAT] As the last tower shifts into place, the large door swings open.
+
+[13:33:25] [main/INFO]: [CHAT] [Wrangler Sedol] Halt! This tunnel is protected by the Axtan order. You are trespassing. What do you have to say for yourself?
+[13:33:25] [main/INFO]: [CHAT] [Just exploring the place.]
+[13:33:25] [main/INFO]: [CHAT] [I solved a puzzle that was left here by Siershen.]
+[13:33:25] [main/INFO]: [CHAT] [I'm not entirely sure, honestly.]
+[13:33:26] [main/INFO]: [CHAT] Diego0552 left the game
+[13:33:28] [main/INFO]: [CHAT] Diego0552 joined the game
+[13:33:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:33:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:33:37] [main/INFO]: [CHAT] [Wrangler Sedol] And by doing so you have broken the seal. You're going to have to answer to the rest of the order back at the monastery.
+[13:33:37] [main/INFO]: [CHAT] [I'll go with you.]
+[13:33:37] [main/INFO]: [CHAT] [I did nothing wrong!]
+[13:33:42] [main/INFO]: [CHAT] [Wrangler Sedol] Good, let's...
+[13:33:42] [main/INFO]: [CHAT] [Deranged Alchemist] Thank you ever so kindly for unlocking the seal. I never could have done it without you. But... Your assistance is no longer required. The Bastion will be opened, and they shall be free!
+[13:33:55] [main/INFO]: [CHAT] [Brother Selim] Ahh!
+[13:33:56] [main/INFO]: [CHAT] [Wrangler Sedol] Ahh!
+
+[13:35:05] [main/INFO]: [CHAT] [Deranged Alchemist] The Bastion will finally be unlocked!
+[13:35:07] [main/INFO]: [CHAT] Diego0552 joined the game
+[13:35:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:35:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[13:35:15] [main/INFO]: [CHAT] [Deranged Alchemist] Go my pets!
+[13:35:25] [main/INFO]: [CHAT] [Deranged Alchemist] Kill them!
+[13:35:35] [main/INFO]: [CHAT] [Deranged Alchemist] Kill them!
+[13:35:36] [main/INFO]: [CHAT] [Bhairavi] Good work Sukie! Come talk to us over here before you keep going forward!
+[13:35:36] [main/WARN]: Received passengers for unknown entity
+[13:35:36] [main/WARN]: Received passengers for unknown entity
+[13:35:44] [main/INFO]: [CHAT] <G> [WAIFU] Siravia » gimme
+[13:35:45] [main/INFO]: [CHAT] [Deranged Alchemist] We have spent too long waiting for this day!
+[13:35:45] [main/INFO]: [CHAT] <G> [WAIFU] Dayablep » red
+[13:35:52] [main/INFO]: [CHAT] [Abbot Johann] Hello again Sukie. For a long time we have been waiting to see if someone would get past Siershen's seal. I am not surprised it was you.
+[13:35:52] [main/INFO]: [CHAT] [Why are you and Bhairavi here?]
+[13:35:52] [main/INFO]: [CHAT] [Why aren't you stopping me now?]
+[13:36:02] [main/INFO]: [CHAT] [Abbot Johann] After many years of turning people away to hide what lies below, I was in complete shock when your friend was able to deduce we were guarding a wool. Honestly, even us Axtans were not entirely sure what lied down there ourselves. It seems she's pieced together the trail you left behind and figured it out.
+[13:36:02] [main/INFO]: [CHAT] [I figured it out as well.]
+[13:36:12] [main/INFO]: [CHAT] [Abbot Johann] Sure you did, buddy.
+[13:36:14] [main/INFO]: [CHAT] [Wrangler Sedol] It appears there are greater threats to containing the Bastion than you. Thank you for fending off that crazed alchemist.
+[13:36:14] [main/INFO]: [CHAT] [What's down below us?]
+[13:36:14] [main/INFO]: [CHAT] [Why do you ranch creepers?]
+[13:36:22] [main/INFO]: [CHAT] [Wrangler Sedol] I think you will find out soon enough. Your friend Bhairavi will have more answers.
+[13:36:24] [main/INFO]: [CHAT] [Wrangler Sedol] It appears there are greater threats to containing the Bastion than you. Thank you for fending off that crazed alchemist.
+[13:36:24] [main/INFO]: [CHAT] [What's down below us?]
+[13:36:24] [main/INFO]: [CHAT] [Why do you ranch creepers?]
+[13:36:25] [main/INFO]: [CHAT] [Wrangler Sedol] It turns out that creepers are quite the deterrent! It tends to keep away most prying eyes, which keeps the entrance to the Bastion quite safe.
+[13:36:31] [main/INFO]: [CHAT] [Bhairavi] So good to see you Sukie, especially outside of Nyr. Keller and Antigone have informed me of what you've found so far and I had a hunch you've stumbled upon another wool!
+[13:36:31] [main/INFO]: [CHAT] [There's a wool here?]
+[13:36:31] [main/INFO]: [CHAT] [Why did you leave your office?]
+[13:36:31] [main/INFO]: [CHAT] [What should I do now?]
+[13:36:41] [main/INFO]: [CHAT] [Bhairavi] From what I've pieced together I believe that the artifact the Alchemist's Bastion is hiding is one of the wools.
+[13:36:41] [main/INFO]: [CHAT] [I'm going to go after the wool then.]
+[13:36:45] [main/INFO]: [CHAT] [Bhairavi] Excellent. I've conjured up a lobby with the Axtans at the bottom of this cave here. Head down there to begin your descent towards the wool.
+[13:36:45] [main/INFO]: [CHAT] [I'll do that.]
+[13:36:49] [main/INFO]: [CHAT] [Bhairavi] See you back in Nyr! Best of luck.
+
+[13:50:02] [main/INFO]: [CHAT] [Brother Selim] You've made it! Wonderful! I've quite honestly always wondered what's inside this place. Perhaps these can be of use to you inside. Good luck!
+[13:50:02] [main/INFO]: [CHAT] SCARS OF MAGIC COMPLETE!
+[13:50:02] [main/INFO]: [CHAT] Awarded 1 Light Blue Dungeon Key, 64 Arrows of Slowness, Siershen's Caster, Access to the Light Blue Lobby Teleporter in Sierhaven, and the ability to re-amplify the Collasped Tower PoI.
+
+[16:47:42] [main/INFO]: [CHAT] [Bhairavi] How is the lobby working for you? Have you found the wool I suspect inside the Bastion yet?
+[16:47:42] [main/INFO]: [CHAT] [It's been working well. And I have indeed.]
+[16:47:47] [main/INFO]: [CHAT] [Bhairavi] Fantastic work as always. I will send word to Vargos. It's nice to have claimed a wool and not feel like the entire Valley was about to die, I must say.
+
+[16:48:15] [main/INFO]: [CHAT] [Bhairavi] Welcome back, Sukie. Vargos is especially eager for us to investigate this wool's abilities. The Mage Council may be able to make use of this research. I will begin this project shortly myself, while the rest of my team will begin investigations into Kaul and the Yellow Wool. Do you have any questions for me?
+[16:48:15] [main/INFO]: [CHAT] [I had a few questions about our first adventure still.]
+[16:48:15] [main/INFO]: [CHAT] [Yes, I have some questions about our second adventure.]
+[16:48:15] [main/INFO]: [CHAT] [I've got a few lingering questions about our third adventure.]
+[16:48:15] [main/INFO]: [CHAT] [I have some questions left about this last adventure.]
+[16:48:27] [main/INFO]: [CHAT] [Bhairavi] Please ask! I actually have a question for you as well.
+[16:48:27] [main/INFO]: [CHAT] [What do we know about the Time Bubble?]
+[16:48:27] [main/INFO]: [CHAT] [I'd like to know more about Siershen and his history.]
+[16:48:27] [main/INFO]: [CHAT] [How did the Axtan Monks get involved? What is their purpose?]
+[16:48:27] [main/INFO]: [CHAT] [What power has the Light Blue wool granted me?]
+[16:48:27] [main/INFO]: [CHAT] [What was your question?]
+[16:48:27] [main/INFO]: [CHAT] [So what's next?]
+[16:48:27] [main/INFO]: [CHAT] <G> [WAIFU] chuwenhsuan » who broke the pumpkin
+[16:48:31] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » me
+[16:48:32] [main/INFO]: [CHAT] [Bhairavi] How did you get on the trail of the Light Blue Wool? Keller said you just came up to him and started asking questions.
+[16:48:32] [main/INFO]: [CHAT] [I did a task for an apprentice named Dimitri in Sierhaven, looking for his master, Ignos.]
+[16:48:35] [main/INFO]: [CHAT] <G> [WAIFU] chuwenhsuan » smh
+[16:48:41] [main/INFO]: [CHAT] [Bhairavi] And that brought you to the wool?
+[16:48:41] [main/INFO]: [CHAT] [Ignos's research that I found implied something of power there.]
+[16:48:42] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » It glitches the fight out
+[16:48:48] [main/INFO]: [CHAT] [Bhairavi] I see... I should go speak to Dimitri then, I assume. Thank you.
+
+
+==The Scout's Codex==
+[22:51:09] [Render thread/INFO]: [CHAT] [Scout Laura] Are you about to leave town? Let me give you some advice. If you are looking for an old mine, just follow the signs. I wouldn't suggest going too far without proper gear, it may be really dangerous...
+[22:51:09] [Render thread/INFO]: [CHAT] [Who are you?]
+[22:51:19] [Render thread/INFO]: [CHAT] <G> Redactified » lmao siege of highwatch doesnt give you a bow
+[22:51:20] [Render thread/INFO]: [CHAT] [Scout Laura] I'm a scout! Name's Laura. The north side of Sierhaven is particularly vulnerable because the Bandit's Stronghold is nearby. There are other threats to the city as well such as the... creatures... from the old Mage Tower. My assignment is to alert the guards if problems arise.
+[22:51:20] [Render thread/INFO]: [CHAT] [New post?]
+[22:51:22] [Render thread/INFO]: [CHAT] [Scout Laura] Yeah... I abandoned my old post when I was spooked by Bandits and was assigned here to make up for it. I didn't even bring back my scout's log... Hey - could you find it for me?
+[22:51:22] [Render thread/INFO]: [CHAT] [I could do that.]
+[22:51:22] [Render thread/INFO]: [CHAT] [Sorry, I've got a lot going on right now.]
+[22:51:23] [Render thread/INFO]: [CHAT] [Scout Laura] Fantastic! I was stationed on a small island south of the Bandit Stronghold, which can be found to the north. I bet my scout's log is still there.
+[22:51:23] [Render thread/INFO]: [CHAT] QUEST : THE SCOUT'S CODEX
+[22:51:23] [Render thread/INFO]: [CHAT] Length : Short
+[22:51:23] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[22:51:23] [Render thread/INFO]: [CHAT] Find Laura's scout log near the Bandit Stronghold.
+
+#Q49I01 https://puu.sh/GzCyV/9bc6915689.png
+https://puu.sh/GzCz4/3ff8be7764.png
+https://puu.sh/GzCzf/23c1cd0743.png
+https://puu.sh/GzCzk/ec1633547c.png
+https://puu.sh/GzCzr/844dda1322.png
+https://puu.sh/GzCzE/e94976873c.png
+
+[23:04:58] [Render thread/INFO]: [CHAT] [Scout Laura] Hey, it's you again! Glad to see you alive! Did you find my log?
+[23:04:58] [Render thread/INFO]: [CHAT] [Not yet, but I'm on the hunt.]
+[23:04:58] [Render thread/INFO]: [CHAT] [Scout Laura] Hey, it's you again! Glad to see you alive!
+[23:04:58] [Render thread/INFO]: [CHAT] [Thanks. I think I found your book!]
+[23:05:07] [Render thread/INFO]: [CHAT] You no longer meet the requirements for this option
+[23:05:17] [Render thread/INFO]: [CHAT] <G> Xalveris » ill give you a stack of bread for free
+[23:05:24] [Render thread/INFO]: [CHAT] <G> Redactified » no it has to be that
+[23:05:31] [Render thread/INFO]: [CHAT] <G> Redactified » its not just for right now
+[23:05:50] [Render thread/INFO]: [CHAT] <G> Cloud_ » Ah I sell starter and good food
+[23:05:51] [Render thread/INFO]: [CHAT] <G> Xalveris » most dungeons give more food from loot than you eat
+[23:05:57] [Render thread/INFO]: [CHAT] <G> Redactified » non player
+[23:05:58] [Render thread/INFO]: [CHAT] <G> Cloud_ » Not exactly
+[23:06:00] [Render thread/INFO]: [CHAT] [Scout Laura] Hey, it's you again! Glad to see you alive!
+[23:06:00] [Render thread/INFO]: [CHAT] [Thanks. I think I found your book!]
+[23:06:02] [Render thread/INFO]: [CHAT] [Scout Laura] Thank you very much! I don't have much, but perhaps these tipped arrows will be a good reward. Use them well!
+[23:06:02] [Render thread/INFO]: [CHAT] THE SCOUT'S CODEX COMPLETE!
+[23:06:02] [Render thread/INFO]: [CHAT] Awarded 128 Wither Arrows
+
+==Supply and Demand==
+[12:21:49] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Well hello. Fancy seeing a traveler wander into our little storefront. I'm Buildmaster Jr., son of the esteemed Buildmaster, the buildmaster of Sierhaven. How can we be of help today?
+[12:21:49] [Render thread/INFO]: [CHAT] [I'm just looking around.]
+[12:21:49] [Render thread/INFO]: [CHAT] [I'm trying to find somewhere to build.]
+[12:21:52] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Do you happen to have some free time then?
+[12:21:52] [Render thread/INFO]: [CHAT] [I suppose.]
+[12:21:52] [Render thread/INFO]: [CHAT] [No, sorry. Very busy.]
+[12:21:56] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Splendid! I have a job for you, if you're interested in some work of course.
+[12:21:56] [Render thread/INFO]: [CHAT] [Sign me up.]
+[12:21:56] [Render thread/INFO]: [CHAT] [Maybe later.]
+[12:21:59] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Lovely! I need you to travel around this beautifully designed capital city of Sierhaven - no bias of course - and gather a few items for me. There's been some recent bandit attacks around this area, and I'd like to send a supply package to the neighboring town of Nyr!
+[12:21:59] [Render thread/INFO]: [CHAT] [I'll do it!]
+[12:21:59] [Render thread/INFO]: [CHAT] [Maybe later.]
+[12:23:22] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] So I've got a little shopping list here. We're going to need 32 glass blocks, 16 arrows, and 5 pieces of cooked chicken. Here's some money to pay for it all, though feel free to keep it if you can gather the items yourself. Let me know when you've got it all!
+
+[12:23:22] [Render thread/INFO]: [CHAT] [Where can I get glass?]
+[12:23:22] [Render thread/INFO]: [CHAT] [Where can I get arrows?]
+[12:23:22] [Render thread/INFO]: [CHAT] [Where can I get cooked chicken?]
+[12:23:53] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] East, down the road, inside the workshop. The Block Suppliers sell it. If you check your quest compass, it should point there!
+[12:24:07] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Westward from the town square, in the Rangers' building. If you check your quest compass, it should point there!
+[12:24:09] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Head east from the town square, then take a right. Look for the pretty tents of the bazaar, then find the butchers at the pink and magenta tent. If you check your quest compass, it should point there!
+block supplier https://puu.sh/GzsxP/e5510e89d5.png
+butcher https://puu.sh/GzsCl/65a5cb74c1.png
+[12:32:12] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Wonderful, that's all the items! Thank you. Now I just need to take a moment to pack it all together, then I can send you on your way.
+[12:32:12] [Render thread/INFO]: [CHAT] [My way?]
+[12:32:20] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Of course. I need your courier services as well to transport the package to Nyr, a little town to the East of Sierhaven. It's quite nearby and you'll be well compensated, as I've mentioned before.
+[12:32:20] [Render thread/INFO]: [CHAT] [Alright then.]
+[12:32:29] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Splendid, my friend. Here's your Supply Package. I need you to take it to my friend Pauline. She lives in a very bookish little house near the Nyr docks. She says she loves being near the Nyr river! She'll take care of the rest and give you a receipt. Come back to me when you're done!
+
+[12:41:58] [Render thread/INFO]: [CHAT] [Pauline] Wait... Are those the supplies Buildmaster Jr. promised me?
+[12:41:58] [Render thread/INFO]: [CHAT] [They are.]
+[12:42:01] [Render thread/INFO]: [CHAT] [Pauline] Amazing! He really pulled through! Here's a signed receipt for him. I know how much he loves being official like that. If you're going to head back to him now, I really suggest taking the teleporter. It's just a few houses down, near the middle of town, and offers fast travel between here and the capital.
+receipt: https://puu.sh/Gztin/ee6d1c55bc.png
+
+[13:10:25] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Well look there! You did it. Thank you so much for your help, friend. You've done a good deed today. As promised, here's your compensation.
+[13:10:25] [Render thread/INFO]: [CHAT] SUPPLY AND DEMAND COMPLETE!
+[13:10:25] [Render thread/INFO]: [CHAT] Awarded 96 Bottles of Experience!
+[13:10:25] [Render thread/INFO]: [CHAT] [Buildmaster Jr.] Thank you again for your help. If I have more work for you in the future I'll be sure to let you know.
+
+==Words Upon Hushed Lips==
+
+[01:07:46] [main/INFO]: [CHAT] [Dimitri] Ex... excuse me... Could I perhaps ask you something?
+[01:07:46] [main/INFO]: [CHAT] [Sure, what is it?]
+[01:07:46] [main/INFO]: [CHAT] [No.]
+[01:07:48] [main/INFO]: [CHAT] StealthyStealthy left the game
+[01:07:49] [main/INFO]: [CHAT] [Dimitri] In your journeys, have you perhaps heard tale of the researcher Ignos?
+[01:07:49] [main/INFO]: [CHAT] [I don't believe so. Who is he?]
+[01:07:52] [main/INFO]: [CHAT] [Dimitri] He... He was the head of Magical Physics for this lab, as well my mentor. About 2 years ago, I was hired as his apprentice, and his work fascinated me to no end.
+[01:07:52] [main/INFO]: [CHAT] [What happened to him?]
+[01:07:54] [main/INFO]: [CHAT] <G> spearmkw » they say its time
+[01:07:55] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:07:56] [main/INFO]: [CHAT] <G> spearmkw » time for
+[01:07:58] [main/INFO]: [CHAT] <G> spearmkw » the bonus race
+[01:07:59] [main/INFO]: [CHAT] [Dimitri] About 8 months ago, he left to meet with the Axtan Monks, claiming there was something there that was worth researching. Although, no matter how much I asked him, he refused to tell me what had piqued his interest.
+[01:07:59] [main/INFO]: [CHAT] [You haven't seen him in 8 months?]
+[01:08:06] [main/INFO]: [CHAT] Mehaz joined the game
+[01:08:07] [main/INFO]: [CHAT] [Dimitri] Well, about 2 months later, he returned. He was no stranger to long journeys, but this one had taken him the longest to return. Something was different about him as well, something about the way he carried himself. He spoke to me about the success of the trip, but was short on details.
+[01:08:07] [main/INFO]: [CHAT] [Then what happened?]
+[01:08:15] [main/INFO]: [CHAT] [Dimitri] The next morning, I woke up, and he was gone again. He left without saying a word to me or anyone else in the lab. We haven't seen or heard from him since that day.
+[01:08:15] [main/INFO]: [CHAT] [Would you like me to investigate?]
+[01:08:20] [main/INFO]: [CHAT] [Dimitri] W...would you actually do that? I don't have much in way of payment for such a service.
+[01:08:20] [main/INFO]: [CHAT] [Sure, I'll see what I can dig up on him.]
+[01:08:20] [main/INFO]: [CHAT] [No payment? Nevermind then.]
+[01:08:23] [main/INFO]: [CHAT] QUEST : WORDS UPON HUSHED LIPS
+[01:08:23] [main/INFO]: [CHAT] Length : Short-Medium
+[01:08:23] [main/INFO]: [CHAT] Difficulty : Medium
+[01:08:23] [main/INFO]: [CHAT] Search out clues for the whereabouts of Ignos.
+
+[01:09:02] [main/INFO]: [CHAT] Words Upon Hushed Lips: Head to the Axtan Monastery to search out clues of Ignos' whereabouts.
+
+#Q30I01 https://puu.sh/GBb4W/6d1929d19b.png
+
+[01:10:18] [main/INFO]: [CHAT] [Dimitri] The Anthill? That's all the way by Farr. What could he have been searching for over there?
+
+[01:10:25] [main/INFO]: [CHAT] Words Upon Hushed Lips: Head to the Anthill to search for clues about what Ignos was doing there.
+
+#Q30I02 https://puu.sh/GBcoc/c0b10e8cdf.png
+
+[03:03:29] [main/INFO]: [CHAT] [Dimitri] His old lab? He hasn't been over there in years.
+[03:03:29] [main/INFO]: [CHAT] [Do you know where it is?]
+[03:03:31] [main/INFO]: [CHAT] [Dimitri] Sure, the entrance is connected to a ruined structure on the battlefield by Nyr.
+[03:03:31] [main/INFO]: [CHAT] [Why did he have another lab in Nyr?]
+[03:03:35] [main/INFO]: [CHAT] [Dimitri] When I first started working, he had been contracted to do some research in that area, but under Nyr law, he wasn't allowed to make a lab within the town limits. Once he was done with the work though, he never went back to that lab, so it sat abandoned.
+
+#Q30I03 https://puu.sh/GBd7V/2d2f91fa33.png
+
+[04:09:57] [main/INFO]: [CHAT] Dimitri stares at the pages of the book. The small sliver of hope fades from his eyes, and words fall silent upon his mouth. Without making the slightest sound, he reaches in his pocket and hands you payment for your efforts.
+[04:09:57] [main/INFO]: [CHAT] WORDS UPON HUSHED LIPS COMPLETE!
+[04:09:57] [main/INFO]: [CHAT] Awarded 1 Prestige, 16 Concentrated Experience, and 2 Potions of Protection
+=The Staff=
+go to mysterious cenote and get staff and book
+[01:05:31] [Render thread/INFO]: [CHAT] QUEST : THE STAFF
+[01:05:31] [Render thread/INFO]: [CHAT]  Length : Long
+[01:05:31] [Render thread/INFO]: [CHAT]  Difficulty : Easy
+#Q04I01 https://puu.sh/GA0hf/123b2bf5d2.png
+https://puu.sh/GA0hs/0cc7debe04.png
+https://puu.sh/GA0hH/33768dbd41.png
+From Nothing to Water.
+From Water to Mud.
+From Mud to Clay.
+From Clay to Life.
+
+The power of water pours into your staff!
+
+The power of earth rumbles into your staff!
+
+The power of fire arcs into your staff!
+
+[16:17:02] [main/INFO]: [CHAT] The power of air soars into your staff, completing it with a bright flash!
+
+[16:17:02] [main/INFO]: [CHAT] THE STAFF COMPLETE!
+[16:17:02] [main/INFO]: [CHAT] Awarded Elemental Staff
+
+#Q04I05 https://puu.sh/GC2dW/bd9699c075.png
+
+
+=The Staff?=
+
+[00:49:48] [main/INFO]: [CHAT] QUEST : THE STAFF?
+[00:49:48] [main/INFO]: [CHAT]  Length : Long
+[00:49:48] [main/INFO]: [CHAT]  Difficulty : Hard
+[00:49:48] [main/INFO]: [CHAT] The staff warps, ready to made anew...
+[00:49:48] [main/INFO]: [CHAT] Find the remnant of the Whirlpool within the Swamp...
+
+[21:43:15] [main/INFO]: [CHAT] The Staff?: The strange staff found here has a further task for you...
+
+

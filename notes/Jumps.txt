@@ -1,0 +1,127 @@
+=Parkour=
+
+==King's Valley==
+
+===Sierhaven===
+
+====Acrobat of the Tree====
+
+"Tree"
+Start: ()
+
+====Acrobat of Royalty====
+
+"Royal"
+Start: ()
+
+====Acrobat of the Flag====
+
+"Flag"
+Start: ()
+
+====Acrobat of the Apartments====
+
+From the northern room on the academy roof.
+
+Start: (-736, 168, 121)
+
+====Acrobat of the West====
+
+The Pigculiar Problem tower.
+
+Start: ()
+
+===Nyr===
+
+====Acrobat of Nyr====
+
+Starting from the Armory roof, work your way across rooftops SE to the windmill.
+Start: (-133, 101, -106)
+
+====Acrobat of the Armory====
+
+Starting from the Armory roof, work your way across rooftops E to the dead tree, then back W to breezemage's stash.
+Start: (-133, 101, -106)
+
+===Farr===
+
+====Acrobat of Farr====
+
+From the teleport building's upstairs balcony, work your way around town until finally reaching the Royal Herald's roof.
+
+Start: (571, 102, 183)
+
+===Lowtide===
+
+====Acrobat of the Library====
+
+Use the world border mountain to get onto the brick building, then work your way to the library.
+Start: (742, 77, 427)
+
+====Acrobat of the Ship====
+
+Climb.
+Start: (670, 74, 484)
+
+====Acrobat of the Seagate====
+
+Chains room from the chair slab.
+Start: (643, 72, 555)?
+
+===Highwatch===
+
+====Acrobat of Highwatch Castle====
+
+Reach the central Highwatch tower.
+Start: (1179, 132, -102)
+
+====Acrobat of the Bathhouse====
+
+Reach the creepy hidden bathroom.
+Start: (1145, 126, -106) OR shortcut (1148, 131, -100)
+
+====Acrobat of the Monument====
+
+Start: (1207, 158, -218)
+
+===?===
+
+====Acrobat of the Beam====
+
+?Oceangate? 
+[12:26 AM] Emerald: its on one of the vines on the northern side of the city
+[12:26 AM] Emerald: outside ofc but not on the to
+
+Climb into the tree and use the vines.
+(-1618, 130, 5)
+
+Start: ()
+
+====Acrobat of the Dream====
+
+Reverie Lobby
+
+Start: (1168, 74, 184)
+
+====Acrobat of the Demon====
+
+Azacor's Lobby
+
+Start: (1325, 10, -113) or (1297, 10, -113)
+
+====Acrobat of the Springs====
+
+??Ta'Eldim?
+Start: ()
+
+====Acrobat of the Plague====
+
+???
+Start: ()
+
+==Celsian Isles==
+
+[Ember] blobfish1203: Steelmeld Parkour Puzzle
+For the people who didn't find Steelmeld Parkour Puzzle yet:
+Go to the monument room, once you get in, look to your right, there should be a waterfall/water.
+Once there, use riptide to go ABOVE the tube, and there should be a 1x1 of water. Swim through that tunnel and you are at the parkour :D

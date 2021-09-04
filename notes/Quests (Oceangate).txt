@@ -1,0 +1,105 @@
+==Quest Guide (Oceangate)==
+Xenith (-1608, 122, 17)
+===Burning Bright===
+* Difficulty: Easy
+* Requirements: None
+* Start: Suri in the Oceangate Lighthouse (-1580, 133, 134)
+===???===
+* Difficulty: 
+* Requirements: 
+* Start: 
+===???===
+* Difficulty: 
+* Requirements: 
+* Start: 
+==Quests==
+===Burning Bright===
+[23:40:45] [main/INFO]: [CHAT] [Suri] Perhaps if I reduce the input power by half and increase the speed of our cooling systems by 20%, we can save about 14% of the currently consumed coal... But if we do that, our systems will become unusable much faster and replacements will be required sooner... We might as well not even have a beacon at that point, huh?
+[23:40:45] [main/INFO]: [CHAT] [What's going on?]
+[23:40:45] [main/INFO]: [CHAT] [I'm sorry to interrupt your thinking genius, but...]
+[23:40:45] [main/INFO]: [CHAT] [On the other hand, if you add additional fuel control systems to your control panel, perhaps you can store the surplus and reuse it? According to my calculations, this should save up to 9% of the amount of coal used daily...]
+[23:40:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:40:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:40:48] [main/INFO]: [CHAT] <G> [Legion] blobfish1203 » ayyy
+[23:40:48] [main/INFO]: [CHAT] [Suri] No buts! If you can't suggest anything useful or at least keep your silence, then you shouldn't interrupt me.
+[23:40:50] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:40:50] [main/INFO]: [CHAT] [Suri] Perhaps if I reduce the input power by half and increase the speed of our cooling systems by 20%, we can save about 14% of the currently consumed coal... But if we do that, our systems will become unusable much faster and replacements will be required sooner... We might as well not even have a beacon at that point, huh?
+[23:40:50] [main/INFO]: [CHAT] [What's going on?]
+[23:40:50] [main/INFO]: [CHAT] [I'm sorry to interrupt your thinking genius, but...]
+[23:40:50] [main/INFO]: [CHAT] [On the other hand, if you add additional fuel control systems to your control panel, perhaps you can store the surplus and reuse it? According to my calculations, this should save up to 9% of the amount of coal used daily...]
+[23:40:52] [main/INFO]: [CHAT] aokirikoya joined the game
+[23:40:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:00] [main/INFO]: [CHAT] <G> [LAG] EmilyVEVO » omg i just did my first bug report
+[23:41:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:05] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:07] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:09] [main/INFO]: [CHAT] <G> [TCL] Sukie » i keep clicking wrong dialogue options from chat scrolling
+[23:41:12] [main/INFO]: [CHAT] [Suri] Oh, nothing, just trying to keep my sanity with all these calculations I have to run. The stupid questions aren't helping much.
+[23:41:12] [main/INFO]: [CHAT] [Well, perhaps, I can help somehow?]
+[23:41:12] [main/INFO]: [CHAT] [Who are you? What is this place?]
+[23:41:12] [main/INFO]: [CHAT] [Alright... I won't distract you anymore then.]
+[23:41:17] [main/INFO]: [CHAT] <G> [TCL] Cloud_ » My /r is broke somehow
+[23:41:18] [main/INFO]: [CHAT] 0x26e has set a new world record for Royal Gambit\nNew time: 1:14:546
+[23:41:22] [main/INFO]: [CHAT] <G> Dr_Beta » Nice.
+[23:41:23] [main/INFO]: [CHAT] <G> [Legion] 0x26e » LETS GOOO
+[23:41:27] [main/INFO]: [CHAT] [Suri] You? Help? Perhaps you can... see, the thing is, we're always running low on our coal supplies and it's hard to receive constant shipments from Sierhaven.
+[23:41:27] [main/INFO]: [CHAT] [And you suggest..?]
+[23:41:27] [main/INFO]: [CHAT] [What? Why?]
+[23:41:27] [main/INFO]: [CHAT] <G> Dr_Beta » What's Master's anyway?
+[23:41:32] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[23:41:34] [main/INFO]: [CHAT] [Suri] Well, I've heard the alchemists back into Sierhaven are, or at least were, looking into solving our problem here. Except I haven't heard back on their progress in some time now. If you could head back to the Alchemy Hub and make sure they aren't just twiddling their thumbs like morons, perhaps they can help with the reagent that's been worked on.
+
+[23:41:34] [main/INFO]: [CHAT] QUEST : BURNING BRIGHT
+[23:41:34] [main/INFO]: [CHAT] Length : Medium
+[23:41:34] [main/INFO]: [CHAT] Difficulty : Medium
+[23:41:34] [main/INFO]: [CHAT] Search for the reagent in Sierhaven's Alchemy Hub.
+
+[23:42:21] [main/INFO]: [CHAT] Burning Bright: Head to the Alchemy Hub in Sierhaven and ask for details regarding a special reagent.
+
+[23:44:23] [main/INFO]: [CHAT] [Head Alchemist] Welcome to the Alchemical Workshop! My associates and I sell the finest potions in the empire!
+[23:44:23] [main/INFO]: [CHAT] [I'm searching for a reagent, one that'll make coal last longer.. Have anything like that?]
+[23:44:23] [main/INFO]: [CHAT] <G> [Legion] blobfish1203 » peace o/
+[23:44:28] [main/INFO]: [CHAT] blobfish1203 left the game
+[23:44:29] [main/INFO]: [CHAT] [Head Alchemist] No, I'm not sure we have anything like that in stock.
+[23:44:29] [main/INFO]: [CHAT] [Perhaps you know where I can find it, then?]
+[23:44:31] [main/INFO]: [CHAT] [Head Alchemist] Well... If you're not afraid of being withered, or poisoned, or poisoned and withered at the same time, then, I believe there should be something like that in the Toxin Lab. It's out in the sea, west of Sierhaven. I'm not sure what exactly happened there, but it was abandoned awhile back. Stay on your guard.
+
+[23:44:51] [main/INFO]: [CHAT] Burning Bright [1/2]: The reagent is sealed in the Toxin Lab. Head there and find your way into the Reagent Vault.
+[23:44:53] [main/INFO]: [CHAT] Burning Bright [2/2]: Once you find the reagent, head back to Suri.
+
+(-1193, 35, 126)
+[12:03:05] [main/INFO]: [CHAT] As you press the button, the elevator starts to move, slowly descend into reagent vault.
+[12:07:14] [main/INFO]: [CHAT] The door to sealed part of the vault is now open!
+[12:07:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[12:07:25] [main/INFO]: [CHAT] <G> [TCL] Sukie » lol
+[12:07:41] [main/INFO]: [CHAT] You grab the reagent and close the chest. Better get back to Suri.
+[12:09:08] [main/INFO]: [CHAT] Yet again, the gears start to spin, slowly elevating you back to the Toxin Lab.
+
+#Q56I01 https://puu.sh/GNzR8/0e984406a3.png
+
+[12:14:11] [main/INFO]: [CHAT] [Suri] Perhaps if I reduce the input power by half and increase the speed of our cooling systems by 20%, we can save about 14% of the currently consumed coal... But if we do that, our systems will become unusable much faster and replacements will be required sooner... We might as well not even have a beacon at that point, huh?
+[12:14:11] [main/INFO]: [CHAT] [About that reagent...]
+[12:14:11] [main/INFO]: [CHAT] [I'm sorry to interrupt your thinking genius, but...]
+[12:14:11] [main/INFO]: [CHAT] [On the other hand, if you add additional fuel control systems to your control panel, perhaps you can store the surplus and reuse it? According to my calculations, this should save up to 9% of the amount of coal used daily...]
+[12:14:13] [main/INFO]: [CHAT] DataCrusader left the game
+[12:14:13] [main/INFO]: [CHAT] <G> [TCL] Cloud_ » Never seen this kind of villager before
+[12:14:14] [main/INFO]: [CHAT] DataCrusader joined the game
+[12:14:16] [main/INFO]: [CHAT] <G> [TCL] Cloud_ » What profession
+[12:14:17] [main/INFO]: [CHAT] Itsrasertop left the game
+[12:14:19] [main/INFO]: [CHAT] [Suri] Hm? What reagent? Oh, it's you. Did you find it yet?
+[12:14:19] [main/INFO]: [CHAT] [I did. It was sealed in the Reagent Vault in the Toxin Lab.]
+[12:14:22] [main/INFO]: [CHAT] [Suri] Well, cut to the chase. We have a work to do!
+[12:14:22] [main/INFO]: [CHAT] [*Give the reagent*]
+[12:14:22] [main/INFO]: [CHAT] <G> [FORCE] VolatileAnomaly » 0.249 secons, that's like 5 of them or something
+[12:14:24] [main/INFO]: [CHAT] [Suri] Well, let's see...
+[12:14:26] [main/INFO]: [CHAT] [Suri] Oh..!
+[12:14:26] [main/INFO]: [CHAT] [Suri] It's...it's the exact thing I need! Finally, I can sleep well at nights and not worry about another supply shortage or missing shipment!
+[12:14:26] [main/INFO]: [CHAT] [You seem to be very excited about that.]
+[12:14:31] [main/INFO]: [CHAT] <G> [TCL] Cloud_ » Well race timings don't use ticks, they use real time
+[12:14:32] [main/INFO]: [CHAT] [Suri] Of course I am! Wouldn't you be as well? This may be a small step towards the safety of our vessels, but it's very important to our Empire.
+[12:14:32] [main/INFO]: [CHAT] She looks at the reagent once again.
+[12:14:32] [main/INFO]: [CHAT] [Suri] Simply beautiful! I suppose you deserve this, whoever you are. We can certainly spare this coal now.
+
+[12:14:32] [main/INFO]: [CHAT] BURNING BRIGHT COMPLETE!
+[12:14:32] [main/INFO]: [CHAT] Awarded Unstable Sparkler and 24 Coal Blocks!

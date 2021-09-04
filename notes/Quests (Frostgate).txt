@@ -1,0 +1,736 @@
+=Quest Guide (Frostgate)=
+==Fabled Destiny==
+* Difficulty: Medium
+* Requirements: None
+* Start: Herriot the Loyal (-1531, 101, 997)
+==A Well Deserved Rest==
+* Difficulty: Medium
+* Requirements: None
+* Start: Sam Ludvic (-1599, 106, 1007)
+==Harmonic Convergence==
+* Difficulty: Medium
+* Requirements: The Lost Empire
+* Start: Harmonious Spirit (-1560, 95, 955)
+==Bloody Banquet==
+* Difficulty: Easy
+* Requirements: None
+* Start: Bethenny in Frostgate (-1489, 101, 923)
+
+=Quests=
+
+==Harmonic Convergence==
+[20:04:59] [main/INFO]: [CHAT] [Harmonious Spirit] A utopia for but a few, or so they said. Yet here I am, stuck in my misery. Was I forsaken, or was I right all along?
+[20:04:59] [main/INFO]: [CHAT] [I'm sorry to interrupt your eternity of suffering, but what are you talking about?]
+[20:04:59] [main/INFO]: [CHAT] [Good luck with your problems, ghost.]
+[20:05:08] [main/INFO]: [CHAT] [Harmonious Spirit] ...You can see me? No one has been able to see me before... which is largely why I don't have to pay rent.
+[20:05:08] [main/INFO]: [CHAT] [Harmonious Spirit] Hm. Perhaps you have a strong connection to souls. My tale is long, do you wish for the entire story, or the short version?
+[20:05:08] [main/INFO]: [CHAT] [The short version.]
+[20:05:08] [main/INFO]: [CHAT] [The long version.]
+[20:05:09] [main/INFO]: [CHAT] Rodogorgon left the game
+[20:05:17] [main/INFO]: [CHAT] [Harmonious Spirit] My people lived in harmony with the world. We split into four groups, each aligned to a season. Part of our duty was to protect our greatest treasure, an item of immeasurable power.
+[20:05:17] [main/INFO]: [CHAT] [A wool?]
+[20:05:17] [main/INFO]: [CHAT] [What was it?]
+[20:05:18] [main/INFO]: [CHAT] Rodogorgon joined the game
+[20:05:22] [main/INFO]: [CHAT] Joan055 joined the game
+[20:05:24] [main/INFO]: [CHAT] Rodogorgon left the game
+[20:05:25] [main/INFO]: [CHAT] [Harmonious Spirit] I really don't remember- none of us on the outside did. However, those inside knew, and every year they chose one person from each of the four groups to join them inside. Once inside, they would grant their people all sorts of wonderful gifts and blessings. It was an honor to be chosen... for most, anyway.
+[20:05:25] [main/INFO]: [CHAT] [Most?]
+[20:05:25] [main/INFO]: [CHAT] [So you weren't happy.]
+[20:05:36] [main/INFO]: [CHAT] [Harmonious Spirit] Indeed, I was happy in my village. I neither wanted to leave, nor did I trust those that had went before me. I can't really say why, but something felt off about the whole thing. There were too many unanswered questions. I fought against the system.
+[20:05:36] [main/INFO]: [CHAT] [How did that go?]
+[20:05:36] [main/INFO]: [CHAT] [And now you are a ghost.]
+[20:05:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[20:05:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[20:05:46] [main/INFO]: [CHAT] [Harmonious Spirit] I don't remember much of anything past that. I recall rebelling, but everything afterwards is a blur. When I came to, I was a ghost, and everything had changed for my people. No longer were they given blessings. Even when the next group was selected, the gifts stayed absent. Soon, madness began to set in, as did desperation.
+[20:05:46] [main/INFO]: [CHAT] [Does this involve me in any way?]
+[20:05:46] [main/INFO]: [CHAT] [So you doomed your people. How am I relevant?]
+[20:05:52] [main/INFO]: [CHAT] Rodogorgon joined the game
+[20:06:01] [main/INFO]: [CHAT] [Harmonious Spirit] I want to know how I died, and why I died. Perhaps by learning that I will be able to move on. If I'm right, maybe even my people will be able to move on. As the first person to be able to see me, I must ask you to help me.
+[20:06:01] [main/INFO]: [CHAT] [What would I have to do?]
+[20:06:01] [main/INFO]: [CHAT] [I prefer not being cursed.]
+[20:06:09] [main/INFO]: [CHAT] [Harmonious Spirit] Opening the way inside shouldn't be too hard. You need to visit the four homes of my people- the seasonal shrines- and gain the blessings of each of them. They have changed somewhat over the years, but they are a peaceful people, so you shouldn't be in too much danger. Return here after you have visited all four.
+[20:06:09] [main/INFO]: [CHAT] QUEST : HARMONIC CONVERGENCE
+[20:06:09] [main/INFO]: [CHAT] Length : Long
+[20:06:09] [main/INFO]: [CHAT] Difficulty : Medium
+[20:06:09] [main/INFO]: [CHAT] Help the Harmonious Spirit discover the secrets of their people
+
+[20:06:39] [main/INFO]: [CHAT] Harmonic Convergence [1/4]: Visit the Spring Shrine.
+[20:06:39] [main/INFO]: [CHAT] Harmonic Convergence [2/4]: Visit the Summer Shrine.
+[20:06:40] [main/INFO]: [CHAT] Harmonic Convergence [3/4]: Visit the Fall Shrine.
+[20:06:41] [main/INFO]: [CHAT] Harmonic Convergence [4/4]: Visit the Winter Shrine.
+
+[20:06:39] [main/INFO]: [CHAT] Harmonic Convergence [1/4]: Pass the test of Spring.
+[20:06:39] [main/INFO]: [CHAT] Harmonic Convergence [2/4]: Pass the test of Summer.
+[20:06:40] [main/INFO]: [CHAT] Harmonic Convergence [3/4]: Pass the test of Fall.
+[20:06:41] [main/INFO]: [CHAT] Harmonic Convergence [4/4]: Pass the test of Winter.
+
+pick up flowers and take them to suddenly empty graves?
+[20:53:02] [main/INFO]: [CHAT] [Spring Soldier] Salutations, Spring's chosen. Pay your respects to those who came before you. Prove your worth to them.
+[20:58:37] [main/INFO]: [CHAT] You feel a life giving breeze blow by, and then subside. You have attuned with Spring.
+
+fight triple elite blaze
+[21:38:53] [main/INFO]: [CHAT] [Summer Sage] Welcome, chosen champion of Summer. We shall be your test; do not let your people down.
+[21:41:52] [main/INFO]: [CHAT] You feel a blazing heat consume you, and then subside. You have attuned with Summer.
+
+step on a pressure plate
+[22:00:24] [main/INFO]: [CHAT] [Autumn Ancients] Look upon these ruins and remember the betrayal of our ancestor. Do not repeat their mistake.
+
+fight triple elite rogue things
+[22:54:00] [main/INFO]: [CHAT] [Winter Wraith] Greetings, champion of Winter. To gain our blessing, you must defeat those who failed before you.
+[22:56:39] [main/INFO]: [CHAT] You feel a bitter cold engulf you, and then dissipate. You have attuned with Winter.
+
+[22:57:14] [main/INFO]: [CHAT] Harmonic Convergence: Talk to the Harmonious Spirit.
+
+[23:00:33] [main/INFO]: [CHAT] [Harmonious Spirit] You return. Have you had success?
+[23:00:33] [main/INFO]: [CHAT] [I have visited all four shrines.]
+[23:00:33] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:00:33] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:00:33] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:00:33] [main/INFO]: [CHAT] [Which season were you with?]
+[23:00:40] [main/INFO]: [CHAT] [Harmonious Spirit] Yes, I detect the blessings upon you. You are now ready to enter the Arboretum. At one point, it served as a rite of passage for my people to travel to the Arboretum's doors, but I dare not guess what it is like now.
+[23:00:40] [main/INFO]: [CHAT] [Couldn't I have just broken inside?]
+[23:00:46] [main/INFO]: [CHAT] [Harmonious Spirit] No... I mean technically? However, if something dangerous had been in there, it might have been able to escape if you had gone about it that way. In addition you wouldn't have been recognized by the magic of the area and would find it difficult to attune the teleporters to get back out. Regardless, you will need to head through the Sealed Descent to get to the Arboretum.
+[23:00:58] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:00:58] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:00:58] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:00:58] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:00:58] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:01] [main/INFO]: [CHAT] [Harmonious Spirit] What?! This... can't be right. My people have never been the type to turn to aggression and anger. I'm worried- what could have happened to them...?
+[23:01:05] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:01:05] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:01:05] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:01:05] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:01:05] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:07] [main/INFO]: [CHAT] [Harmonious Spirit] Those inside managed to gift us with good health, bountiful harvests, and general well being. We had really never known a time without these things, until I caused problems.
+[23:01:07] [main/INFO]: [CHAT] [Inside?]
+[23:01:07] [main/INFO]: [CHAT] [How do you know they were responsible?]
+[23:01:16] [main/INFO]: [CHAT] [Harmonious Spirit] They spoke to us. We didn't see them, but they saw us. I didn't trust the voices as they seemed different somehow from those I knew, but it is possible that that was just enlightenment.
+[23:01:20] [main/INFO]: [CHAT] <G> DrR1ce » damn it
+[23:01:21] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:01:21] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:01:21] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:01:21] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:01:21] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:22] [main/INFO]: [CHAT] Buck2700 fell from a high place
+[23:01:24] [main/INFO]: [CHAT] [Harmonious Spirit] Those inside managed to gift us with good health, bountiful harvests, and general well being. We had really never known a time without these things, until I caused problems.
+[23:01:24] [main/INFO]: [CHAT] [Inside?]
+[23:01:24] [main/INFO]: [CHAT] [How do you know they were responsible?]
+[23:01:25] [main/INFO]: [CHAT] <G> [FORCE] emeraldcore71 » f
+[23:01:25] [main/INFO]: [CHAT] [Harmonious Spirit] They spoke to us. We didn't see them, but they saw us. I didn't trust the voices as they seemed different somehow from those I knew, but it is possible that that was just enlightenment.
+[23:01:27] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:01:27] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:01:27] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:01:27] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:01:27] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:29] [main/INFO]: [CHAT] [Harmonious Spirit] Those inside managed to gift us with good health, bountiful harvests, and general well being. We had really never known a time without these things, until I caused problems.
+[23:01:29] [main/INFO]: [CHAT] [Inside?]
+[23:01:29] [main/INFO]: [CHAT] [How do you know they were responsible?]
+[23:01:30] [main/INFO]: [CHAT] [Harmonious Spirit] Those that reside within the Arboretum. Those that enter are said to live perfect lives dedicated to helping those on the outside. It is also where our greatest treasure resides.
+[23:01:35] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:01:35] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:01:35] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:01:35] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:01:35] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:36] [main/INFO]: [CHAT] [Harmonious Spirit] They stopped right after I rebelled against the system. It has to be related somehow. If our loved ones gave us those gifts why would one fool stop that?
+[23:01:43] [main/INFO]: [CHAT] [Harmonious Spirit] I will meet you beneath what your people know as the Sealed Descent. It is there that you will find your way into our most sacred place.
+[23:01:43] [main/INFO]: [CHAT] [Your peaceful people attacked me.]
+[23:01:43] [main/INFO]: [CHAT] [What types of gifts were your people granted?]
+[23:01:43] [main/INFO]: [CHAT] [Why do you think the gifts stopped?]
+[23:01:43] [main/INFO]: [CHAT] [Which season were you with?]
+[23:01:44] [main/INFO]: [CHAT] [Harmonious Spirit] Fall or Autumn- whichever you prefer.
+
+[23:02:13] [main/INFO]: [CHAT] Harmonic Convergence [1/2]: Make your way through the Sealed Descent. The Harmonic Arboretum awaits.
+[23:02:14] [main/INFO]: [CHAT] Harmonic Convergence [2/2]: Talk to the one waiting for you just outside the Harmonic Arboretum.
+
+[23:13:28] [main/INFO]: [CHAT] [Harmonious Spirit] You have arrived. This is the entrance to our most sacred of sites- I have built this area to serve as a sort of lobby for you. Please, enter the Arboretum and take what lies within, whatever that might be. Be on your guard, however- I died in there, after all.
+[23:13:28] [main/INFO]: [CHAT] HARMONIC CONVERGENCE COMPLETE!
+[23:13:28] [main/INFO]: [CHAT] Awarded a Pink Key, a Pink Shulker Box, access to the Pink Dungeon Teleporter, and 1 Prestige
+
+==Fabled Destiny==
+
+[23:20:55] [main/INFO]: [CHAT] [Herriot the Loyal] Good day sir! How are you faring today?
+[23:20:55] [main/INFO]: [CHAT] [Pretty well!]
+[23:20:57] [main/INFO]: [CHAT] [Herriot the Loyal] That's good to hear! I, personally, have been waiting for destiny- destiny of the greatest legends!
+[23:20:57] [main/INFO]: [CHAT] [What kind of destiny are you, uh... destined for?]
+[23:21:02] [main/INFO]: [CHAT] [Herriot the Loyal] I am destined to wield a great blade in order to protect our Queen, Synnove Obregson, from the most dangerous of threats!
+[23:21:02] [main/INFO]: [CHAT] [Could I perhaps help to quicken the arrival of that destiny?]
+[23:21:02] [main/INFO]: [CHAT] [Sounds like a worthy destiny that will eventually come!]
+[23:21:07] [main/INFO]: [CHAT] <G> [Legion] blobfish1203 » ur right
+[23:21:16] [main/INFO]: [CHAT] [Herriot the Loyal] Well, I suppose you could assist in locating the fabled blade!
+[23:21:16] [main/INFO]: [CHAT] [So do you know where this blade is located?]
+[23:21:18] [main/INFO]: [CHAT] <G> [Legion] blobfish1203 » its just, i come here for 3 minutes
+[23:21:20] [main/INFO]: [CHAT] [Herriot the Loyal] Not exactly but I have an idea of who might be gifted with this information! Have a look in the Bazaar for Anette, she should know more!
+[23:21:20] [main/INFO]: [CHAT] QUEST : Fabled Destiny
+[23:21:20] [main/INFO]: [CHAT] Length : Medium
+[23:21:20] [main/INFO]: [CHAT] Difficulty : Medium
+[23:21:20] [main/INFO]: [CHAT] Locate the destined blade for Herriot.
+
+[23:21:56] [main/INFO]: [CHAT] Fabled Destiny: Visit Anette in the Bazaar and ask her where the fabled blade might be.
+
+[23:22:38] [main/INFO]: [CHAT] [Anette] Greetings! Welcome to the Frostgate Bazaar. I'm in charge of the traders that enter this place.
+[23:22:38] [main/INFO]: [CHAT] [Herriot said you know about a destined blade?]
+[23:22:42] [main/INFO]: [CHAT] [Anette] Ach, is he going on about his destiny again? I guess, if you do find it, it might shut him up for once.
+[23:22:42] [main/INFO]: [CHAT] [So do you know where it is?]
+[23:22:46] [main/INFO]: [CHAT] [Anette] Yes but, well, from all of the ancient scrolls I've read, the only thing that tells of this sword's location is a riddle...
+[23:22:46] [main/INFO]: [CHAT] [Hit me with it!]
+[23:22:51] [main/INFO]: [CHAT] [Anette] Alright, here it is: "Tall doth stand the glowing trunks bending slight the bolete trove. On snow-strewn plains the crystal grove do hide the blade, of power drunk. Beware the crystals, oft attuned to icy grasps in the hidden shrine. But folly to the weak aligned 'tis sinister, destiny is hewn."
+
+[23:25:12] [main/INFO]: [CHAT] Fabled Destiny: Solve the riddle and travel to where it's leading you to. (Anette can always tell you the riddle again).
+Spoilers: Crystal Forest Grove
+
+[23:46:54] [main/INFO]: [CHAT] Fabled Destiny: Return to Herriot with the blade once you have retrieved it.
+
+[23:47:49] [main/INFO]: [CHAT] [Herriot the Loyal] Have you located the blade?
+[23:47:49] [main/INFO]: [CHAT] [Why yes I have!]
+[23:47:52] [main/INFO]: [CHAT] [Herriot the Loyal] Perfect! My destiny, it is being fulfilled at last! I feel the blade's power in my hand... So... magnificient...
+[23:47:52] [main/INFO]: [CHAT] He gazes in awe at the sword.
+[23:47:52] [main/INFO]: [CHAT] [Herriot? Are you ok?]
+[23:47:57] [main/INFO]: [CHAT] [Herriot the Loyal] With all of this power... I feel UNSTOPPABLE!
+[23:47:57] [main/INFO]: [CHAT] [Herriot?!]
+[23:47:57] [main/INFO]: [CHAT] Be ready for a fight!
+[23:48:10] [main/INFO]: [CHAT] [Herriot the Loyal] And you... will be the first to yield to its power!!
+
+[23:48:33] [main/INFO]: [CHAT] Fabled Destiny: Fight Herriot to knock some sense into him!
+
+[23:48:42] [main/INFO]: [CHAT] Herriot drops the sword and stumbles over by his desk.
+
+[23:48:48] [main/INFO]: [CHAT] Fabled Destiny: Speak with Herriot to see if he's ok.
+
+[23:48:49] [main/INFO]: [CHAT] [Herriot the Loyal] I'm... not worthy... what... happened to me? I'm no knight. I do not deserve this title...
+[23:48:49] [main/INFO]: [CHAT] [Herriot, are you alright?]
+[23:48:53] [main/INFO]: [CHAT] [Herriot the Loyal] Yes, I believe so. That blade is too powerful for a mortal to wield- it's a good thing it broke in our scrap. I also may have forgotten that we're both protected in the city, so both of our blows wouldn't have done anything anyways.
+[23:48:53] [main/INFO]: [CHAT] [Are you gonna be ok?]
+[23:49:03] [main/INFO]: [CHAT] [Herriot the Loyal] Yes, it appears my destiny has changed... Thank you again friend, you've made me see that.
+[23:49:03] [main/INFO]: [CHAT] FABLED DESTINY COMPLETE!
+[23:49:03] [main/INFO]: [CHAT] Awarded 16 Compressed Crystalline Shards, 1 Prestige and a Royal Shield
+
+==A Well Deserved Rest==
+
+[23:51:12] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I thought it would be great when my husband got promoted. Marshall! One of the most important men in all of Chillwind! Except now he's never, ever, ever around.
+[23:51:12] [main/INFO]: [CHAT] [I'm sure he's doing important work.]
+[23:51:12] [main/INFO]: [CHAT] [Anything I can do?]
+[23:51:20] [main/INFO]: [CHAT] [Sam Ludvic] Heh, guess he got to you too. That could've come straight from his mouth, or from his squire over there.
+[23:51:25] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I thought it would be great when my husband got promoted. Marshall! One of the most important men in all of Chillwind! Except now he's never, ever, ever around.
+[23:51:25] [main/INFO]: [CHAT] [I'm sure he's doing important work.]
+[23:51:25] [main/INFO]: [CHAT] [Anything I can do?]
+[23:51:27] [main/INFO]: [CHAT] [Sam Ludvic] I- Ma- Hmm... Well, lately it's all because of that darn coffee. I used to be able to deal with his work, but ever since he bought that barrel of it from the isles, he's been running around the city working non-stop. But, if we get rid of it...
+[23:51:27] [main/INFO]: [CHAT] [I'm out. Never mess with a man's coffee!]
+[23:51:27] [main/INFO]: [CHAT] [This seems like a bad idea.]
+[23:51:27] [main/INFO]: [CHAT] [I'm in; sounds like you need the help.]
+[23:51:44] [main/INFO]: [CHAT] [Sam Ludvic] I- Bu- Wh-
+[23:51:44] [main/INFO]: [CHAT] He sighs.
+[23:51:44] [main/INFO]: [CHAT] [Sam Ludvic] Yeah, probably. Guess I'll just wait until four in the morning, when he finally comes back and stays for an hour...
+[23:51:50] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I thought it would be great when my husband got promoted. Marshall! One of the most important men in all of Chillwind! Except now he's never, ever, ever around.
+[23:51:50] [main/INFO]: [CHAT] [I'm sure he's doing important work.]
+[23:51:50] [main/INFO]: [CHAT] [Anything I can do?]
+[23:51:51] [main/INFO]: [CHAT] [Sam Ludvic] I- Ma- Hmm... Well, lately it's all because of that darn coffee. I used to be able to deal with his work, but ever since he bought that barrel of it from the isles, he's been running around the city working non-stop. But, if we get rid of it...
+[23:51:51] [main/INFO]: [CHAT] [I'm out. Never mess with a man's coffee!]
+[23:51:51] [main/INFO]: [CHAT] [This seems like a bad idea.]
+[23:51:51] [main/INFO]: [CHAT] [I'm in; sounds like you need the help.]
+[23:51:53] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I knew I could count on you. Let's start with the easy approach. You look soldiery- go see if his squire will let you into his office.
+[23:51:53] [main/INFO]: [CHAT] QUEST : A Well Deserved Rest
+[23:51:53] [main/INFO]: [CHAT] Length : Long
+[23:51:53] [main/INFO]: [CHAT] Difficulty : Medium
+[23:51:53] [main/INFO]: [CHAT] Destroy Marshall Ludvic's coffee so he'll finally sleep
+
+[23:52:27] [main/INFO]: [CHAT] A Well Deserved Rest: See if Squire Tano will let you into the Marshall's office.
+
+[23:53:00] [main/INFO]: [CHAT] [Squire Tano] Sorry, I saw you talking to Sam over there. I know he misses the Marshall, but I still can't let either of you into his office.
+
+[23:53:08] [main/INFO]: [CHAT] A Well Deserved Rest: Talk to Sam to see what he needs for his plan to destroy the Marshall's coffee.
+
+[23:53:16] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I saw that coming. Alright, easy plan didn't work, so on to the ridiculous plan. I need you to gather some materials: a Steel Woodcutter, a Trebuchet Stone from the city's defenses, and some gloop. You'll also probably want a sword, in case I can't think of a good enough distraction...
+[23:53:16] [main/INFO]: [CHAT] [Is this plan going to end horribly?]
+[23:53:16] [main/INFO]: [CHAT] [Can you repeat that?]
+[23:53:16] [main/INFO]: [CHAT] [Steel Woodcutter?]
+[23:53:16] [main/INFO]: [CHAT] [Trebuchet Stone?]
+[23:53:16] [main/INFO]: [CHAT] [Gloop?]
+[23:53:32] [main/INFO]: [CHAT] [Sam Ludvic] Hmmm... Maybe. We'll figure that out once we try it! Go get those things- if we're lucky, we can get this done tonight!
+[23:53:35] [main/INFO]: [CHAT] [Sam Ludvic] On to the ridiculous plan. I need you to gather some materials: a Steel Woodcutter, a Trebuchet Stone from the city's defenses, and some gloop. You'll also probably want a sword if I can't think of a good enough distraction...
+[23:53:35] [main/INFO]: [CHAT] [Is this plan going to end horribly?]
+[23:53:35] [main/INFO]: [CHAT] [Steel Woodcutter?]
+[23:53:35] [main/INFO]: [CHAT] [Trebuchet Stone?]
+[23:53:35] [main/INFO]: [CHAT] [Gloop?]
+[23:53:37] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, gloop. A bouncy, slimy kind of thing. There's some cracks in the floor nearby, and, while we wouldn't be able to put a whole chunk of slime there, we could pour gloop into the cracks! Not sure I've ever heard of that anywhere in the Isles though- seems like it's more of a swampy kind of thing.
+[23:53:41] [main/INFO]: [CHAT] spearmkw joined the game
+[23:53:47] [main/INFO]: [CHAT] [Sam Ludvic] On to the ridiculous plan. I need you to gather some materials: a Steel Woodcutter, a Trebuchet Stone from the city's defenses, and some gloop. You'll also probably want a sword if I can't think of a good enough distraction...
+[23:53:47] [main/INFO]: [CHAT] [Is this plan going to end horribly?]
+[23:53:47] [main/INFO]: [CHAT] [Steel Woodcutter?]
+[23:53:47] [main/INFO]: [CHAT] [Trebuchet Stone?]
+[23:53:47] [main/INFO]: [CHAT] [Gloop?]
+[23:53:49] [main/INFO]: [CHAT] [Sam Ludvic] I mean, yeah: it rolls and it's heavy, and as long as it bounces, it'll work. Check with Bombardier Marty, maybe we'll get lucky and he'll just give you one.
+[23:53:53] [main/INFO]: [CHAT] [Sam Ludvic] On to the ridiculous plan. I need you to gather some materials: a Steel Woodcutter, a Trebuchet Stone from the city's defenses, and some gloop. You'll also probably want a sword if I can't think of a good enough distraction...
+[23:53:53] [main/INFO]: [CHAT] [Is this plan going to end horribly?]
+[23:53:53] [main/INFO]: [CHAT] [Steel Woodcutter?]
+[23:53:53] [main/INFO]: [CHAT] [Trebuchet Stone?]
+[23:53:53] [main/INFO]: [CHAT] [Gloop?]
+[23:53:55] [main/INFO]: [CHAT] [Sam Ludvic] Yep. It's a popular woodcutting axe around here; should be great for hacking a hole in the floor. Not sure any are for sale, but maybe a nearby cabin in the countryside will have one.
+
+Steel Woodcutter in a chest in Smuggler's Cabin
+[23:54:31] [main/INFO]: [CHAT] A Well Deserved Rest [1/4]: Sam needs a Steel Woodcutter for his plan. If you don't already have one, perhaps one is lying around somewhere.
+Bring gravel to Marty. The block sellers in this town even sell gravel.
+[23:54:33] [main/INFO]: [CHAT] A Well Deserved Rest [2/4]: Sam needs a Trebuchet Stone for his plan. Perhaps Bombardier Marty can give you one?
+Witch Village slimes in r1
+[23:54:34] [main/INFO]: [CHAT] A Well Deserved Rest [3/4]: Sam needs Gloop? That sounds familiar. Perhaps a boat trip is in order.
+[23:54:34] [main/INFO]: [CHAT] A Well Deserved Rest [4/4]: Once you have all three items bring them back to Sam Ludvic.
+
+[23:56:05] [main/INFO]: [CHAT] [Bombardier Marty] I may be in charge of this trebuchet, but I think we both know the rocks are more impressive. Mined and chiseled half of them myself; they're so smooth they'll fly like a bird!
+[23:56:05] [main/INFO]: [CHAT] [Can I have one?]
+[23:56:12] [main/INFO]: [CHAT] [Bombardier Marty] Wow, how bold! You must be a big rock fan yerself! Tell you what, bring me what my riddle describes and a rock's all yours. Deal?
+[23:56:12] [main/INFO]: [CHAT] [Deal]
+[23:56:17] [main/INFO]: [CHAT] [Bombardier Marty] Alright, here it is!
+[23:56:17] [main/INFO]: [CHAT]  A tomb's one of these, then add an "L".
+[23:56:17] [main/INFO]: [CHAT]  You won't find it up high, 'cause it certainly fell.
+[23:56:17] [main/INFO]: [CHAT] Bring me one of those and a boulder's all yours!
+gravel
+
+[23:58:55] [main/INFO]: [CHAT] [Bombardier Marty] Yep, that's the block! With a head that good on your shoulders, I know I can trust you with this.
+[23:58:55] [main/INFO]: [CHAT] Received Trebuchet Stone
+
+#Q126I01 https://puu.sh/GP1Re/fdc5b78b75.png
+
+[00:19:01] [main/INFO]: [CHAT] [Sam Ludvic] I- Wha- Wow! I didn't think you'd find everything so fast! Alright, let me know when you're ready, and then we'll enact my perfect plan. You, uh, came armed, right?
+[00:19:01] [main/INFO]: [CHAT] [I'm ready.]
+[00:19:05] [main/INFO]: [CHAT] PwangeRhino left the game
+[00:19:10] [main/INFO]: [CHAT] You no longer meet the requirements for this option
+[00:19:19] [main/INFO]: [CHAT] [Sam Ludvic] Now that you've found everything so quickly, we're good to go! Let me know when you're ready, and then we'll enact my perfect plan. You, uh, came armed, right?
+[00:19:19] [main/INFO]: [CHAT] [I'm ready.]
+[00:19:21] [main/INFO]: [CHAT] [Sam Ludvic] Great! Follow me!
+
+[00:19:33] [main/INFO]: [CHAT] [Sam Ludvic] First up, let's pour the gloop here and...
+[00:19:37] [main/INFO]: [CHAT] [Sam Ludvic] Hah! Y'know, this is even bouncier than I expected!
+[00:19:46] [main/INFO]: [CHAT] [Sam Ludvic] Now that the gloop's been poured, head on upstairs. Things might get a bit messy now.
+[00:19:49] [main/INFO]: [CHAT] A Well Deserved Rest: Work with Sam to enact his ridiculous scheme.
+[00:19:58] [main/INFO]: [CHAT] [Sam Ludvic] I- We- Alright, no easy way to say it. I'll hack a hole in the floor, and you hold off the guards. The city's healing aura should keep them alive no matter what, so they'll just get knocked out.
+[00:19:58] [main/INFO]: [CHAT] [Isn't this treason or something?]
+[00:19:58] [main/INFO]: [CHAT] [Let's do this.]
+[00:20:07] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I never thought about it. Probably not though, and I'm sure they'll understand in the long run.
+[00:20:11] [main/INFO]: [CHAT] [Sam Ludvic] I- We- Alright, no easy way to say it. I'll hack a hole in the floor, and you hold off the guards. The city's healing aura should keep them alive no matter what, so they'll just get knocked out.
+[00:20:11] [main/INFO]: [CHAT] [Isn't this treason or something?]
+[00:20:11] [main/INFO]: [CHAT] [Let's do this.]
+[00:20:12] [main/INFO]: [CHAT] [Sam Ludvic] Good luck!
+
+[00:20:14] [main/INFO]: [CHAT] A Well Deserved Rest: Work with Sam to enact his ridiculous scheme.
+
+[00:20:21] [main/INFO]: [CHAT] [Sam Ludvic] And here's our hole! Clear out those guards and we can finish this up!
+[00:20:31] [main/INFO]: Villager class_1646['Castle Guard'/1325068, l='ClientLevel', x=-1602.50, y=-171.36, z=997.50] died, message: 'Castle Guard died'
+[00:20:31] [main/INFO]: Villager class_1646['Castle Guard'/1325069, l='ClientLevel', x=-1602.50, y=-171.36, z=997.50] died, message: 'Castle Guard died'
+[00:20:31] [main/INFO]: Villager class_1646['Castle Guard'/1325070, l='ClientLevel', x=-1602.50, y=-171.36, z=997.50] died, message: 'Castle Guard died'
+[00:20:37] [main/INFO]: [CHAT] [Sam Ludvic] Alright! Now, if I planned this right, I can roll the trebuchet stone down the hole, then it'll bounce off of the gloop, up into that hole near his office, roll across the shelf, and then fall off and crush the barrel. Ready?
+[00:20:37] [main/INFO]: [CHAT] [Yeah!]
+[00:20:43] [main/INFO]: [CHAT] [Sam Ludvic] Here it goes!
+[00:20:47] [main/INFO]: [CHAT] [Sam Ludvic] ... Y'know. That could've gone better.
+[00:20:50] [main/INFO]: [CHAT] [Squire Tano] Okay, this is ridiculous. I'll let you into the office- just... just never do anything this ridiculous again.
+[00:20:57] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, this works too! Run downstairs and break that coffee before Tano changes his mind!
+[00:21:12] [main/INFO]: [CHAT] [Squire Tano] Just get this farce over with. The Marshall will be furious about his table; he'll probably forget about the coffee.
+[00:21:22] [main/INFO]: [CHAT] The coffee pours all over the floor
+[00:21:26] [main/INFO]: [CHAT] The coffee pours all over the floor
+[00:21:29] [main/INFO]: [CHAT] The coffee pours all over the floor
+[00:21:32] [main/INFO]: [CHAT] A Well Deserved Rest: With the coffee destroyed, talk with Sam again.
+[00:21:44] [main/INFO]: [CHAT] [Sam Ludvic] Y'know, I really can't believe this all worked out. Well, except for the table. Anyway, thank you so, so much! Hopefully he'll be able to finally get some rest now. Here, this is the least I can do.
+[00:21:44] [main/INFO]: [CHAT] A WELL DESERVED REST COMPLETE!"
+[00:21:44] [main/INFO]: [CHAT] Awarded Grindstone, 32 Crystalline Shards, and 1 Prestige!
+
+==Bloody Banquet==
+[00:36:19] [main/INFO]: [CHAT] [Bethenny] Ugh I feel terrible, why of all nights did I have to get sick…
+[00:36:19] [main/INFO]: [CHAT] [What's wrong?]
+[00:36:19] [main/INFO]: [CHAT] [You should take some medicine...]
+[00:36:23] [main/INFO]: [CHAT] [Bethenny] I should, shouldn't I?
+[00:36:25] [main/INFO]: [CHAT] [Bethenny] Ugh I feel terrible, why of all nights did I have to get sick…
+[00:36:25] [main/INFO]: [CHAT] [What's wrong?]
+[00:36:25] [main/INFO]: [CHAT] [You should take some medicine...]
+[00:36:27] [main/INFO]: [CHAT] [Bethenny] I was supposed to go to Baroness Corinne's exclusive banquet, but I'm too ill to go. Hmm... could you go in my place?
+[00:36:27] [main/INFO]: [CHAT] [I'll go in your place.]
+[00:36:27] [main/INFO]: [CHAT] [No thanks.]
+[00:36:31] [main/INFO]: [CHAT] CringeAura was blown up by Explosive's Soul
+[00:36:58] [main/INFO]: [CHAT] [Bethenny] Take good care of that. I'll let Guard Timmeh know you're going for me. He will lead you to where the banquet is being held. Have a good time! 
+[00:36:58] [main/INFO]: [CHAT] QUEST : BLOODY BANQUET
+[00:36:58] [main/INFO]: [CHAT] Length : Short
+[00:36:58] [main/INFO]: [CHAT] Difficulty : Easy
+[00:36:58] [main/INFO]: [CHAT] Talk to Guard Timmeh and attend Countess Corrine's exclusive banquet in place of Bethenny.
+
+[00:37:41] [main/INFO]: [CHAT] Bloody Banquet: Talk to Guard Timmeh and enter the Banquet.
+
+[00:37:20] [main/INFO]: [CHAT] [Guard Timmeh] Are you here for the banquet? I can lead you to the hall if you are ready.
+[00:37:20] [main/INFO]: [CHAT] [Yes, I'm ready.]
+[00:37:20] [main/INFO]: [CHAT] [Give me some more time.]
+[00:37:24] [main/INFO]: [CHAT] [Guard Timmeh] Ok, here we go.
+[00:37:24] [main/INFO]: [CHAT] Your class has been temporarily disabled.
+
+[00:37:56] [main/INFO]: [CHAT] [Guard Timmeh] Don't bother me further, I'm keeping an eye on everyone.
+[00:38:05] [main/INFO]: [CHAT] [Riley] The bathroom is really nice, like even for a guest bathroom. It’s even nicer than my bathroom at home!
+[00:38:22] [main/INFO]: [CHAT] [Countess Corinne] Welcome to my banquet! I don’t believe we’ve met before. I am Corinne, the host of tonight’s event. I see you have Bethenny’s invitation. Could she not make it?
+[00:38:22] [main/INFO]: [CHAT] [Hello, I’m Sukie. Bethenny was sick so she told me to come in her stead.]
+[00:38:29] [main/INFO]: [CHAT] [Countess Corinne] I see. Well it’s nice to meet you. I hope you enjoy your time here. Why don’t you acquaint yourself with the others? There is time before dinner.
+
+[00:38:38] [main/INFO]: [CHAT] [Susan] The Baroness recently expanded her business to the Celsian Isles. She’s known for having multiple successful ventures. She's so impressive.
+[00:38:38] [main/INFO]: [CHAT] [What kind of business does she do?]
+[00:38:43] [main/INFO]: [CHAT] [Susan] Oh, she does a variety of things like I said before. Science, art, weapons, food, construction… she’s a seriously wealthy woman. I'm not here for business though, the Baroness asked me to come because I recently visited Lier...
+[00:38:43] [main/INFO]: [CHAT] [Lier? What's that?]
+[00:38:52] [main/INFO]: [CHAT] [Susan] Oh... It's a country that's close to the Narsen Empire. It's lovely but dangerous.
+[00:38:55] [main/INFO]: [CHAT] [Tirich] I was informed that there was an unexpected guest who came. I guess that’s you.
+[00:38:55] [main/INFO]: [CHAT] [Yep, that's me. ]
+[00:38:59] [main/INFO]: [CHAT] [Tirich] The people attending today’s banquet are all from the upper class. Don't take anything mean they say to you to heart.
+[00:38:59] [main/INFO]: [CHAT] [Really? Everyone has been pretty nice so far.]
+[00:39:02] [main/INFO]: [CHAT] SirTudor left the game
+[00:39:03] [main/INFO]: [CHAT] [Tirich] Huh. Okay then. Continue to have a good time then.
+[00:39:04] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:39:11] [main/INFO]: [CHAT] [Riley] Baroness Corinne really outdid herself this time. Did she install a new chandelier? I wonder how much she spends on decoration.
+[00:39:11] [main/INFO]: [CHAT] [Why is this banquet so grand?]
+[00:39:17] [main/INFO]: [CHAT] [Riley] Well, even if she’s just a Baroness, she’s ridiculously rich! This much is nothing to her.
+[00:39:25] [main/INFO]: [CHAT] [Alex] All of the people here tonight are some serious big shots… I feel kind of out of place right now…
+[00:39:25] [main/INFO]: [CHAT] [What do you mean?]
+[00:39:28] [main/INFO]: [CHAT] [Alex] Don’t you know? Alyssa is a renowned artist that has done portraits for the Queen of Chillwind, Tirich is the owner of the biggest mines in Ishnir, Susan is a famous scholar who studied in the mountainous country of Lier, Jared used to be a personal designer for King Johannes III, and Jerry runs a successful ice cream- er I mean frozen custard shop in Frostgate.
+[00:39:58] [main/INFO]: [CHAT] [Alyssa] I don’t think we’ve met before. Aren’t you a pretty face. Are you a new business partner of Cori’s?
+[00:39:58] [main/INFO]: [CHAT] [Actually I got my invitation from Bethenny.]
+[00:39:58] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:03] [main/INFO]: [CHAT] [Alyssa] Oh? So you're not here for business? I am Alyssa Alatriss. Even if you don't know my name, you’ve probably seen my work.
+[00:40:03] [main/INFO]: [CHAT] [What kind of work do you do?]
+[00:40:03] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:07] [main/INFO]: [CHAT] [Alyssa] I see I've caught your attention! I'm a painter from the Narsen Empire, but I painted the portrait of the Queen of Chillwind! Since then, I've been quite popular in Chillwind!
+[00:40:15] [main/INFO]: [CHAT] [Jerry] The Baroness is quite kind letting a stranger like you in. I hope you don’t cause any trouble and hurt someone.
+[00:40:15] [main/INFO]: [CHAT] [I'm here in place of Bethenny.]
+[00:40:19] [main/INFO]: [CHAT] [Jerry] Bethenny! She’s practically begged for an invitation! How shameless could she get!
+[00:40:19] [main/INFO]: [CHAT] [How is she shameless? She was sick!]
+[00:40:23] [main/INFO]: [CHAT] [Jerry] That was probably her guilty conscious finally getting to her! She begged the Baroness for months to invite her to one of her functions.
+[00:40:27] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:34] [main/INFO]: [CHAT] [Terry] I came here with my brother because he said he was nervous coming to tonight’s banquet. But as soon as we got here, he was drenching the Baroness in compliments. I don’t know why he even asked me to come here.
+[00:40:34] [main/INFO]: [CHAT] [Who's your brother?]
+[00:40:34] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:34] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:41] [main/INFO]: [CHAT] [Terry] Oh, sorry. I’m Terry. My brother is Jerry. We run a restaurant in Frostgate that specializes in frozen food, literally! We call it Terry and Jerry’s Frozen Custard Shop.
+[00:40:41] [main/INFO]: [CHAT] [Why sell cold food in a place that's always snowing?]
+[00:40:47] [main/INFO]: [CHAT] [Terry] Well... You have a good point. We just wanted to open an ice cream store...
+[00:40:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:40:52] [main/INFO]: [CHAT] [Catherine] I saw Lady Alatriss eyeing me earlier. I know for a fact she’s going to pull me aside to complain about something soon.
+[00:40:52] [main/INFO]: [CHAT] [Why don’t you hide or run away from her then?]
+[00:40:56] [main/INFO]: [CHAT] [Catherine] It's not worth the effort. She will find you no matter where you hide and running will only give her another thing to complain about!
+[00:41:02] [main/INFO]: [CHAT] [Jared] Oh hello there, I'm Jared. Have you tried the juice yet? Don't go too wild. I remember last time I had a glass too many. Ugh. Bad memories.
+[00:41:02] [main/INFO]: [CHAT] [Do you come to these parties often?]
+[00:41:07] [main/INFO]: [CHAT] [Jared] I do! I try to come to every one I can since everything is so high class. The downside is that I gain weight every time...
+[00:41:07] [main/INFO]: [CHAT] [That sounds like a lot of fun.]
+[00:41:11] [main/INFO]: [CHAT] [Jared] It is! If I see you next time I'll show you how to sneak food out without getting caught.
+
+[00:41:23] [main/INFO]: [CHAT] Bloody Banquet: Talk to Baroness Corinne.
+
+[00:41:25] [main/INFO]: [CHAT] [Countess Corinne]  I see you’ve acquainted yourself with everyone.
+[00:41:27] [main/INFO]: [CHAT] [Countess Corinne] It's actually quite refreshing to have a new face here. I can tell you're a good person.
+[00:41:27] [main/INFO]: [CHAT] [How would you know that?]
+[00:41:31] [main/INFO]: [CHAT] [Countess Corinne] Haha, when you get to be my age, you get the hang of things like that…
+[00:41:31] [main/INFO]: [CHAT] [There were a lot of people who were surprised to see me here.]
+[00:41:31] [main/INFO]: [CHAT] [All the people here seem to be here for business.]
+[00:42:35] [main/INFO]: [CHAT] [Countess Corinne] I have been told I have an eye for potential. I've had immense success with all my businesses so many people flock to me in hopes they can also share that success. Not everyone here is like that though. Just some.
+[00:42:35] [main/INFO]: [CHAT] [Countess Corinne] Well it’s about time for the banquet to start, so just get comfortable. I need to get something from my study. I’ll chat later.
+[00:42:37] [main/INFO]: [CHAT] After Baroness Corinne goes to her study, the lights suddenly cut out.
+[00:42:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:42:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+[00:42:54] [main/INFO]: [CHAT] Bloody Banquet: Talk to Guard Timmeh to learn more about what happened.
+
+[00:43:13] [main/INFO]: [CHAT] [Guard Timmeh] Sukie right? It seems that the Baroness was killed at her own banquet. I've heard a lot of good things about you so I kept an eye on you during the entire banquet.
+[00:43:13] [main/INFO]: [CHAT] [Keeping an eye on me?]
+[00:43:21] [main/INFO]: [CHAT] [Guard Timmeh] And a good thing too. I think it's safe to say that you aren't the one who killed the Baroness. You were out here where I could see you the whole time. The others however...
+[00:43:21] [main/INFO]: [CHAT] [What are you going to do then?]
+[00:43:26] [main/INFO]: [CHAT] [Guard Timmeh] Nobody will be allowed to leave the banquet until we find the killer, I'm keeping an eye out on the crime scene so that nobody tampers with the evidence. I can't be two places at once, but if I stand here then I can't properly investigate the murder... Could you help me?
+[00:43:26] [main/INFO]: [CHAT] [Sure!]
+[00:43:26] [main/INFO]: [CHAT] [Sorry, I don't think I'm cut out for this.]
+[00:43:36] [main/INFO]: [CHAT] [Guard Timmeh] That would help a lot! You can start by examining the Countess's body. Let me know if you find anything.
+[00:43:40] [main/INFO]: [CHAT] Bloody Banquet: Take a look at the crime scene and find some clues.
+
+[00:47:56] [main/INFO]: [CHAT] Bloody Banquet [1/2]: Take a look at the crime scene and find some clues.
+[00:47:58] [main/INFO]: [CHAT] Bloody Banquet [2/2]: Talk to Guard Timmeh about what you've found.
+
+[00:50:17] [main/INFO]: [CHAT] [Guard Timmeh] Did you find something? Let me have a look.
+[00:50:17] [main/INFO]: [CHAT] [The Baroness was holding that cloth. Do you think it belongs to her killer?]
+[00:50:22] [main/INFO]: [CHAT] [Guard Timmeh] I think so. We have ourselves a lead. Keep up the good work!
+[00:50:23] [main/INFO]: [CHAT] [Guard Timmeh] We should look for the weapon that was used to kill the Baroness. Find it and use this on it. It's a kit that will hopefully get a fingerprint from the weapon. 
+[00:50:23] [main/INFO]: [CHAT] Right click on an object with the kit in hand to get a fingerprint from it.
+[00:50:23] [main/INFO]: [CHAT] [Guard Timmeh] We will need a fingerprint from the murder weapon. Oh- and if you can, go around and see if you can get some fingerprints from things that people have touched. If we find a match then it will be easier to narrow the suspect list down. Here, use this to write down any notes you think are important.
+
+[01:47:05] [main/INFO]: [CHAT] [Alyssa] Oh god... Cori....
+[01:47:05] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:05] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:05] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:05] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:08] [main/INFO]: [CHAT] [Alyssa] Everyone here was personally invited by Cori, I can’t imagine anyone wanting her dead... But if I had to point out someone strange... Lady Susan was wearing a Gorgeous Brooch earlier but it was so last season… I mean---it was beautiful don’t get me wrong, but when Sir Jared told her that it was last season, she cried and left for a bit. When I saw her next, she wasn’t wearing the Gorgeous Brooch.
+[01:47:12] [main/INFO]: [CHAT] [Alyssa] Oh god... Cori....
+[01:47:12] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:12] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:12] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:12] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:14] [main/INFO]: [CHAT] [Alyssa] I was talking to Lady Catherine about the curtains, they are an awful shade of mustard yellow and make the room feel more gaudy. I wish I could have told Cori that she needed to change the curtains before she...
+[01:47:14] [main/INFO]: [CHAT] [Alyssa] Oh god... Cori....
+[01:47:14] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:14] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:14] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:14] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:16] [main/INFO]: [CHAT] [Alyssa] We were friends as children and she's been a good patron of mine ever since we became adults. 
+[01:47:17] [main/INFO]: [CHAT] [Alyssa] Oh god... Cori....
+[01:47:17] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:17] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:17] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:17] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:18] [main/INFO]: [CHAT] [Alyssa] We had a bit of a falling out because she had hired that witch Morina to paint her official portrait but I wanted to make up with her tonight. I acted immaturely because Morina and I have a fairly heated rivalry and I was angry because Cori knew this, but I understand why she asked Morina to paint her portrait. Her late father had asked Morina in the past to paint his portrait so she must have done so to honor his memory...
+[01:47:22] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:47:22] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:22] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:22] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:22] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:23] [main/INFO]: [CHAT] [Riley] I saw Terry shuffling around the room looking for his brother. He seemed pretty nervous.
+[01:47:24] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:47:24] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:24] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:24] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:24] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:25] [main/INFO]: [CHAT] [Riley] I was trying to sneak some snacks in before the banquet because I didn't know what they were going to serve. I'm not a picky eater but the last time I was at a banquet they served peacock. It was tasty but I lost my appetite thinking about it!
+[01:47:26] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:47:26] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:26] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:26] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:26] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:28] [main/INFO]: [CHAT] [Riley] When the Baroness was still doing business in King's Valley, she hired me as her accountant. I moved from the Valley to Frostgate so that I could continue to assist her.
+[01:47:29] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:47:29] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:29] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:29] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:29] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:30] [main/INFO]: [CHAT] [Riley] The Baroness recently hired an accountant from Ishnir to help with her businesses in the Isles, but he messed something up and blamed me. I cleared it up with her but man was she angry.
+[01:47:36] [main/INFO]: [CHAT] [Susan] It would be horrible if someone else were to get hurt… Someone should catch the killer soon and bring the Baroness to justice!
+[01:47:36] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:36] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:36] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:36] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:37] [main/INFO]: [CHAT] [Susan] Earlier I saw Jerry drinking out of an Ornate Canteen. Honestly! They provide fine wine and he decides to drink something else! He went out of my sight for a while and didn’t have the canteen on him afterwards.
+[01:47:38] [main/INFO]: [CHAT] [Susan] It would be horrible if someone else were to get hurt… Someone should catch the killer soon and bring the Baroness to justice!
+[01:47:38] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:38] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:38] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:38] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:42] [main/INFO]: [CHAT] [Susan] I was in the Greenhouse admiring the lovely flowers that the Baroness had grown. The begonias were so lovely I just had to pick a few--but don’t tell the gardener! He’ll definitely yell at me.
+[01:47:43] [main/INFO]: [CHAT] [Susan] It would be horrible if someone else were to get hurt… Someone should catch the killer soon and bring the Baroness to justice!
+[01:47:43] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:43] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:43] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:43] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:45] [main/INFO]: [CHAT] [Susan] She reached out to me because she was interested in taking a trip to the mountainous country Lier. I wasn't too keen on going back to Lier but eventually I agreed. I came here tonight because I wanted to plan the trip with her...
+[01:47:46] [main/INFO]: [CHAT] [Susan] It would be horrible if someone else were to get hurt… Someone should catch the killer soon and bring the Baroness to justice!
+[01:47:46] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:46] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:46] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:46] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:47] [main/INFO]: [CHAT] [Susan] Not really? We haven't known each other for a long time like some of the other people here. She's been interested in making connections in a new country for a while so when she heard from my father that I studied in Lier, she jumped on that and has been inviting me to her banquets non-stop. It's been exhausting, but I'd rather have her bother me than be dead...
+[01:47:51] [main/INFO]: [CHAT] [Terry] Wow, the Baroness is dead… I’m worried about my brother, he was going to start a business with her soon. But now that she’s dead, he has to do all of the work… I hope he will be okay…
+[01:47:51] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:51] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:51] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:51] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:53] [main/INFO]: [CHAT] [Terry] I don't think it's related, but I saw Alex go into the Kitchen and come out with a huge plate of smoked fish. I can't believe he can eat during a time like this!
+[01:47:54] [main/INFO]: [CHAT] [Terry] Wow, the Baroness is dead… I’m worried about my brother, he was going to start a business with her soon. But now that she’s dead, he has to do all of the work… I hope he will be okay…
+[01:47:54] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:54] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:54] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:54] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:55] [main/INFO]: [CHAT] [Terry] I was chatting with Tirich and admiring the paintings. 
+[01:47:55] [main/INFO]: [CHAT] [Terry] Wow, the Baroness is dead… I’m worried about my brother, he was going to start a business with her soon. But now that she’s dead, he has to do all of the work… I hope he will be okay…
+[01:47:55] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:55] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:55] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:55] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:57] [main/INFO]: [CHAT] [Terry] She sponsored the business that my brother and I run. Honestly I don't know why she did... Ice cream in Chillwind...
+[01:47:57] [main/INFO]: [CHAT] [Terry] Wow, the Baroness is dead… I’m worried about my brother, he was going to start a business with her soon. But now that she’s dead, he has to do all of the work… I hope he will be okay…
+[01:47:57] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:47:57] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:47:57] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:47:57] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:47:58] [main/INFO]: [CHAT] [Terry] To my knowledge, nothing bad has happened. But... my brother has been a bit nervous since he introduced his most recent business proposal to the Baroness. They were going to open a pizza parlor in Frostgate.
+[01:48:18] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:48:18] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:18] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:18] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:18] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:19] [main/INFO]: [CHAT] [Riley] I saw Terry shuffling around the room looking for his brother. He seemed pretty nervous.
+[01:48:20] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:48:20] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:20] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:20] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:20] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:21] [main/INFO]: [CHAT] [Riley] I was trying to sneak some snacks in before the banquet because I didn't know what they were going to serve. I'm not a picky eater but the last time I was at a banquet they served peacock. It was tasty but I lost my appetite thinking about it!
+[01:48:22] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:48:22] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:22] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:22] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:22] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:24] [main/INFO]: [CHAT] [Riley] When the Baroness was still doing business in King's Valley, she hired me as her accountant. I moved from the Valley to Frostgate so that I could continue to assist her.
+[01:48:25] [main/INFO]: [CHAT] [Riley] Oh. My. God. A dead body! Wait, this is totally going to make the newspaper.
+[01:48:25] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:25] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:25] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:25] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:26] [main/INFO]: [CHAT] [Riley] The Baroness recently hired an accountant from Ishnir to help with her businesses in the Isles, but he messed something up and blamed me. I cleared it up with her but man was she angry.
+[01:48:28] [main/INFO]: [CHAT] [Tirich] Hello there, this party went from great to gruesome in a matter of minutes, huh? I just want to go home but the guards won’t let anyone go until this murder is solved…
+[01:48:28] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:28] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:28] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:28] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:30] [main/INFO]: [CHAT] [Tirich] Well… I saw Alyssa in the Greenhouse earlier drawing with a beautiful Feather Quill. I was going to ask her why she would draw when she could socialize with everyone else in the Main Hall, but she disappeared.
+[01:48:31] [main/INFO]: [CHAT] [Tirich] Hello there, this party went from great to gruesome in a matter of minutes, huh? I just want to go home but the guards won’t let anyone go until this murder is solved…
+[01:48:31] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:31] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:31] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:31] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:34] [main/INFO]: [CHAT] [Tirich] Me? I was in the Main Hall admiring the paintings. There was a smudge on Lady Corinne’s portrait so I cleaned it.
+[01:48:35] [main/INFO]: [CHAT] [Tirich] Hello there, this party went from great to gruesome in a matter of minutes, huh? I just want to go home but the guards won’t let anyone go until this murder is solved…
+[01:48:35] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:35] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:35] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:35] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:36] [main/INFO]: [CHAT] [Tirich] She invested in my mining business. It used to be extremely successful but one of my mines shut down and I’ve been struggling a bit since then. The Baroness has been very kind and understanding of my situation. I… am saddened by this loss because she was a very kind person. Many will miss her.
+[01:48:37] [main/INFO]: [CHAT] [Tirich] Hello there, this party went from great to gruesome in a matter of minutes, huh? I just want to go home but the guards won’t let anyone go until this murder is solved…
+[01:48:37] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:37] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:37] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:37] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:38] [main/INFO]: [CHAT] [Tirich] It was less of a dispute and more of a worry of mine... You see, my father used to run an opal mining operation in King's Valley, but used them to practice black magic. The Baroness is also a Narsen citizen so she knows of the crimes of my father... When she found out that my mining operation in Ishnir was mainly harvesting opals, I thought she was going to flip and stop supporting me. But... she simply accepted it and continued to support me... 
+[01:48:40] [main/INFO]: [CHAT] [Jared] It’s such a tragedy that Baroness Corinne was killed. I hope they find the killer soon… They’re among us and that’s so nerve wracking!
+[01:48:40] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:40] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:40] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:40] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:41] [main/INFO]: [CHAT] [Jared] I saw Tirich in the Main Hall taking notes in a Well Worn Journal. I don’t know what he was writing but he was staring at each person and then writing some things. Honestly it was a bit concerning…
+[01:48:42] [main/INFO]: [CHAT] [Jared] It’s such a tragedy that Baroness Corinne was killed. I hope they find the killer soon… They’re among us and that’s so nerve wracking!
+[01:48:42] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:42] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:42] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:42] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:43] [main/INFO]: [CHAT] [Jared] I was in the Kitchen looking for a snack. I had one too many glasses of wine and was feeling peckish. I saw some deviled eggs on the counter and ate a good amount. Oh, I hope that there are enough for the rest...
+[01:48:43] [main/INFO]: [CHAT] [Jared] It’s such a tragedy that Baroness Corinne was killed. I hope they find the killer soon… They’re among us and that’s so nerve wracking!
+[01:48:43] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:43] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:43] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:43] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:45] [main/INFO]: [CHAT] [Jared] I'm a fairly popular designer that does work in the Isles as well as the Valley, even the late King Johannes III asked me to make some suits for him. While my designs are sought after by many, the Baroness is probably my favorite patron because of her peculiar taste in clothes. She has a style that makes her stand out in the crowd. I was drawn to that so I offered to be her personal designer. 
+[01:48:46] [main/INFO]: [CHAT] [Jared] It’s such a tragedy that Baroness Corinne was killed. I hope they find the killer soon… They’re among us and that’s so nerve wracking!
+[01:48:46] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:48:46] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:48:46] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:48:46] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:48:47] [main/INFO]: [CHAT] [Jared] Recently the Baroness has been complaining that my designs are too extravagant so I've been getting frustrated with her. The last time we spoke before today, she told me to not come back until I made something that didn't look like I had glued the royal treasury onto a dress. So today I came here with a bunch of designs to show her!
+[01:49:04] [main/INFO]: [CHAT] [Alex] I can’t believe they’re making us all wait for this to be solved. I want to go home. It’s obviously not me so those stupid guards should just let me out.
+[01:49:04] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:04] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:04] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:04] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:06] [main/INFO]: [CHAT] [Alex] Well, I did see Riley kick around a chair and try to play it off as an accident. Does that count?
+[01:49:06] [main/INFO]: [CHAT] [Alex] I can’t believe they’re making us all wait for this to be solved. I want to go home. It’s obviously not me so those stupid guards should just let me out.
+[01:49:06] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:06] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:06] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:06] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:08] [main/INFO]: [CHAT] [Alex] I was trying to talk to Catherine, but Alyssa came up to her and drowned me out with her obnoxious blabber about curtains.
+[01:49:09] [main/INFO]: [CHAT] [Alex] I can’t believe they’re making us all wait for this to be solved. I want to go home. It’s obviously not me so those stupid guards should just let me out.
+[01:49:09] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:09] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:09] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:09] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:10] [main/INFO]: [CHAT] [Alex] The Baroness introduced me to Tirich, and I helped them with setting up their mining operation here.
+[01:49:11] [main/INFO]: [CHAT] [Alex] I can’t believe they’re making us all wait for this to be solved. I want to go home. It’s obviously not me so those stupid guards should just let me out.
+[01:49:11] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:11] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:11] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:11] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:12] [main/INFO]: [CHAT] [Alex] We've never fought. I'm pretty good about keeping my business partners happy.
+[01:49:18] [main/INFO]: [CHAT] [Catherine] Oh my god is that blood? I think I'm gonna be sick...
+[01:49:18] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:18] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:18] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:18] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:19] [main/INFO]: [CHAT] [Catherine] Suspicious? No. But I saw something that will be a bigger scandal than this murder! I saw Susan and Tirich go into the garden together and guess what? Tirich's cravat is missing now! Can you believe that?!
+[01:49:19] [main/INFO]: [CHAT] [Catherine] Oh my god is that blood? I think I'm gonna be sick...
+[01:49:19] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:19] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:19] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:19] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:21] [main/INFO]: [CHAT] [Catherine] Oh god. Alyssa was yapping my ear off about how the curtains were too yellow. I'm so glad that Riley came by and distracted her with something else. She complained for what seemed like hours!
+[01:49:21] [main/INFO]: [CHAT] [Catherine] Oh my god is that blood? I think I'm gonna be sick...
+[01:49:21] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:21] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:21] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:21] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:25] [main/INFO]: [CHAT] [Catherine] The Baroness is a famous businesswoman from the Narsen Empire, but has been expanding her business to the Celsian Isles. I was one of her first contacts. She sponsored my fishing business in Frostgate.
+[01:49:26] [main/INFO]: [CHAT] [Catherine] Oh my god is that blood? I think I'm gonna be sick...
+[01:49:26] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:26] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:26] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:26] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:27] [main/INFO]: [CHAT] [Catherine] Not in particular. Well... I once called her shoes clunky, but that's not really a dispute. Right?
+[01:49:30] [main/INFO]: [CHAT] [Jerry] I can’t believe the Baroness is dead! This is unbelievable, the Baroness and I were about to start a huge business together!
+[01:49:30] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:30] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:30] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:30] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:32] [main/INFO]: [CHAT] [Jerry] Me? I think I saw Jared enter the Bathroom with a Glass of Wine. But guess what? He didn't come out with it! Can you believe that?! He didn’t even try to clean up after himself! Unbelievable!
+[01:49:33] [main/INFO]: [CHAT] [Jerry] I can’t believe the Baroness is dead! This is unbelievable, the Baroness and I were about to start a huge business together!
+[01:49:33] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:33] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:33] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:33] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:37] [main/INFO]: [CHAT] [Jerry] Me? I went to the bathroom and there was a leaky pipe. I fixed it before coming out.
+[01:49:37] [main/INFO]: [CHAT] [Jerry] I can’t believe the Baroness is dead! This is unbelievable, the Baroness and I were about to start a huge business together!
+[01:49:37] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:37] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:37] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:37] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:39] [main/INFO]: [CHAT] [Jerry] We were going to open a business together here in Chillwind. I recently took a trip to the Narsen Empire and discovered a delicious Tlaxan cuisine. They said they eat it during religious ceremonies but it's just too good to not have more often. They called it pizza?
+[01:49:39] [main/INFO]: [CHAT] [Jerry] I can’t believe the Baroness is dead! This is unbelievable, the Baroness and I were about to start a huge business together!
+[01:49:39] [main/INFO]: [CHAT] [Have you seen anyone suspicious?]
+[01:49:39] [main/INFO]: [CHAT] [Where were you before the Baroness was murdered?]
+[01:49:39] [main/INFO]: [CHAT] [What was your relationship with the Baroness?]
+[01:49:39] [main/INFO]: [CHAT] [Have you and the Baroness had any disputes recently?]
+[01:49:40] [main/INFO]: [CHAT] [Jerry] None that I know of. The Baroness and I have been getting along quite well.
+
+#Q139I01 https://puu.sh/GP2p4/f3404c8b49.png
+#Q139I02 https://puu.sh/GP2rH/ad0cc7ef8b.png
+#Q139I03 https://puu.sh/GP2oF/738908394e.png https://puu.sh/GP2Lq/d2fa3b37da.png
+#Q139I04 https://puu.sh/GP2IE/67166c3a54.png https://puu.sh/GP2Jn/d8f080b159.png
+#Q139I05 https://puu.sh/GP2Bu/df68122514.png https://puu.sh/GP2Le/22836f6636.png
+#Q139I06 https://puu.sh/GP2Ch/d2dc5b05f2.png https://puu.sh/GP2Kf/54fb5d16cf.png
+#Q139I07 https://puu.sh/GP2DT/77a532dae5.png https://puu.sh/GP2JO/da2fb659a5.png
+#Q139I08 https://puu.sh/GP2wn/47ce13b842.png https://puu.sh/GP2L0/cb89c2441a.png
+https://puu.sh/GP2KH/87aae3c3a9.png
+[01:04:23] [main/INFO]: [CHAT] The plate of deviled eggs has been cleared. Only one remains. Who could have eaten so many?
+https://puu.sh/GP2JE/882399a61c.png
+[01:05:30] [main/INFO]: [CHAT] A picked flower lies on the ground. Its still-fresh petals are beginning to wilt. 
+https://puu.sh/GP376/c67806c1d1.png
+[01:42:56] [main/INFO]: [CHAT] There is a thin film of dust on the painting except for a small spot at the bottom. It seems someone cleaned the painting.
+https://puu.sh/GP3b7/424f6acec7.png
+[01:52:39] [main/INFO]: [CHAT] This pipe has a leak in it! Better tell someone to fix it quick!
+
+Fingerprint matches canteen. 
+
+Alyssa says the brooch is Susan's and that she took it off when Jared demeaned it. 
+Susan says Jerry was drinking out of the Canteen.
+Jared says saw Tirich taking notes in journal.
+Tirich says he saw Alyssa with the Quill until she disappeared.
+Catherine says he saw Susan and Tirich go into the garden and then Tirich's cravat went missing.
+Jerry says the glass of wine is Jared's.
+
+
+Alyssa had an argument due to hating Morina.
+Riley was sneaking kitchen snacks.
+Terry was admiring the painting with Tirich.
+Susan admits to picking begonias.
+Jared admits to devouring the deviled eggs.
+Tirich says he was cleaning a smudge off Lady Corinne's portrait.
+Alex says he was failing to talk up Catherine while Alyssa talked about curtains.
+Catherine says she was getting trolled by Alyssa's curtains until Riley distracted her.
+Jerry says he was fixing a leaky pipe in the bathroom.
+
+[01:53:32] [main/INFO]: [CHAT] [Guard Timmeh] So you think Jerry killed the Baroness?
+[01:53:34] [main/INFO]: [CHAT] [Guard Timmeh] It looks like he was the owner of the Ornate Canteen, whose fingerprint matched the print we found on the murder weapon. He also lied about his whereabouts at the time of the murder. And finally, if you look at his attire, the Scrap of Cloth we found in the hand of the Baroness matches his jacket. Based on the evidence you found, he's definitely the killer. Excellent work. I'll detain him immediately!
+[01:54:11] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:54:20] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[01:55:07] [main/INFO]: [CHAT] [Guard Timmeh] Thank you once again for helping me with this case. You were a great help. We will make sure that Jerry pays for his crimes. 
+[01:55:07] [main/INFO]: [CHAT] [I'm glad I could help catch the killer.]
+[01:55:12] [main/INFO]: [CHAT] [Guard Timmeh] You did a great job. Thank you.
+[01:55:12] [main/INFO]: [CHAT] BLOODY BANQUET COMPLETE!
+[01:55:12] [main/INFO]: [CHAT] Awarded Nettlegold Shiv, 1 HCS

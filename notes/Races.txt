@@ -1,0 +1,293 @@
+=Races=
+
+==Dungeons==
+The first time completing each dungeon race awards the cost of its key.
+
+===Swift Alchemy (Labs)===
+* Finish - 3:20:000
+
+===Speedsworn (Sanctum)===
+* Finish - 25:00:000
+
+===Bursting Bonus (Willows)===
+* Finish - 10:00:000
+
+===C'Ircuit (Reverie)===
+
+===Blood Rush (White)===
+* Finish - 15:00:000
+
+===Zoo Tour (Orange)===
+* Finish - 10:00:000
+
+===Miasma Theory (Magenta)===
+* Finish - ::000
+
+===Truly Occult (Light Blue)===
+* Finish - ::000
+
+===Wild Waltz (Yellow)===
+* Finish - ::000
+
+===Ruined Run (Lime)===
+* Finish - ::000
+
+===Season's Grace (Pink)===
+* Finish - ::000
+
+===Sand Struggles (Gray)===
+* Finish - ::000
+
+===Light Footed (Light Gray)===
+* Finish - ::000
+
+===Mind's Eye (Cyan)===
+* Finish - ::000
+
+===Pirate Pass (Purple)===
+* Finish - ::000
+
+===Time Flies (Teal)===
+* Finish - ::000
+
+==King's Valley==
+
+===Royal Gambit (Oceangate)===
+Magistr (-1610, 139, 125)
+
+Times
+* Master - 56:100
+* Gold - 1:08:000
+* Silver - 1:18:000
+* Bronze - 1:28:000
+* Complete - 1:45:000
+
+Rewards
+* Master - 
+* Gold - [[Standard Lighter]]
+* Silver - 128 XP
+* Bronze - 64 XP
+
+===Tutorial+ (Sierhaven)===
+Flashy (-780, 101, 36)
+
+Times
+* Master - 1:36:000
+* Gold - 3:00:000
+* Silver - 3:20:000
+* Bronze - 4:00:000
+* Complete - 4:10:000
+
+First-time Rewards
+* Master - [Flashy] Aaaaaaaaand.... TIME!\nWow, I can't believe it! You actually beat my dad's time! You are a step above the rest, bud - I have nothing left to teach you. If only my dad could see this!
+* Gold - [Flashy] Aaaaaaaaand.... TIME!\nWow, know that's what I call speed! You've still got a bit of training to do before you have beaten my dad's time, but you are closing the gap quickly!
+* Silver - [Flashy] Aaaaaaaaand.... TIME!\nWow, you have been putting in the work to improve your speed! You've still got a bit of training to do before you have beaten my dad's time though!
+* Bronze - [Flashy] Aaaaaaaaand.... TIME!\nWow, you put some pep in your step on that one! You've still got a bit of training to do before you have beaten my dad's time though!
+* Complete - [Flashy] Aaaaaaaaand.... TIME!\nWow, you actually finished the track! You have some more training to do before you've beaten my dad's time, but that was a solid run regardless!
+
+===Mariya's Game (Nyr)===
+Mariya (-134, 92, -12)
+
+Times
+* Master - 59:000
+* Gold - 1:22:000
+* Silver - 1:30:000
+* Bronze - 1:50:000
+* Complete - 2:10:000
+
+First-time Rewards
+* Master - [[Mariya's Doll]]
+* Gold - [[Pink Racing Cloak]]
+* Silver - 128 XP
+* Bronze - 32 XP
+
+
+===Elemental Shuffle (Nyr/Overworld)===
+Numah (-200, 93, -65) Short ways west of Nyr.
+
+Times
+* Master - 3:40:000
+* Gold - 4:10:000
+* Silver - 4:40:000
+* Bronze - 5:30:000
+* Complete - 6:40:000
+
+First-time Rewards
+* Master - [[Primordial Coif]]
+* Gold - 32 CXP
+* Silver - 128 XP
+* Bronze - 32 XP
+
+===Get The Cluck Out (Nyr/Misc)===
+Master of Clucks (-106, 97, -63)
+Repeatable race unlocked(?) by completing Clucked Up. Can be completed repeatedly for a [[Jar of Clucks]] each time.
+Might also be doable by climbing on top of the Hawk Fortress canopy to visit the poultrygeists direct.
+
+* Complete - 4:00:000
+
+===Velara-ocity (Velara)===
+Kirkk (946, 206, 724), up water from (939, 197, 727)
+
+Times
+* Master - 55:024
+* Gold - 1:10:000
+* Silver - 1:30:000
+* Bronze - 1:55:000
+* Complete - 2:30:000
+
+Rewards
+* Master - 
+* Gold - 32 CXP
+* Silver - 128 XP
+* Bronze - 32 XP
+
+===Tree Hopping Madness (Farr/Overworld)===
+Dalisay (649, 102, 118)
+
+Times
+* Master - 35:000
+* Gold - 40:000
+* Silver - 50:000
+* Bronze - 1:00:000
+* Complete - 1:10:000
+
+Rewards
+* Master - [[Speedleaf Helmet]]
+* Gold -  [[Speedleaf]]
+* Silver - 128 XP
+* Bronze - 32 XP
+
+===High to Low (Highwatch/Overworld)===
+Linebeck (1041, 102, -113) Short ways west of Highwatch.
+
+Times
+* Master - 1:40:000
+* Gold - 2:14:000
+* Silver - 3:40:000
+* Bronze - 5:00:000
+* Complete - 6:40:000
+
+Rewards
+* Master - [[Fish Fin]]
+* Gold - [[Swimming Shoes]]
+* Silver - 128 XP
+* Bronze - 32 XP
+
+==Celsian Isles==
+
+===Runners of Mist (Mistport)===
+Speedy (-709, 86, 1352)
+
+Times
+* Master - 00:44:044
+* Gold - 01:05:0000
+* Silver - 1:10:000
+* Bronze - 1:45:000
+* Complete - 2:30:000
+
+Rewards
+* Master - 
+* Gold - 64 cs
+* Silver - 32 CS
+* Bronze - 16 CS
+
+===Misty Waters (Mistport/Overworld)===
+Humphrey (-934, 83, 1416). Shortly W of Mistport.
+
+Times
+* Master - ::000
+* Gold - ::000
+* Silver - ::000
+* Bronze - ::000
+* Complete - ::000
+
+Rewards
+* Master - 
+* Gold - 
+* Silver - 
+* Bronze - 
+
+===Fast Whispers (Whispervale)===
+Louise (-1754, 140, 15)
+
+Times
+* Master - ::000
+* Gold - ::000
+* Silver - ::000
+* Bronze - ::000
+* Complete - ::000
+
+Rewards
+* Master - 
+* Gold - 
+* Silver - 
+* Bronze - 
+
+
+===Speed Fitness (Rahkeri)===
+Rahkeri
+
+Times
+* Master - 44:060
+* Gold - 50:000
+* Silver - 1:10:000
+* Bronze - 1:30:000
+* Complete - 2:00:000
+
+Rewards
+* Master - [[Yoga Pants]]
+* Gold - 32 CCS
+* Silver - 16 CCS
+* Bronze - 8 CCS
+
+
+===All For Nera (Alnera)===
+Sera ~(367, 7, 814)
+
+Times
+* Master - ::000
+* Gold - ::000
+* Silver - ::000
+* Bronze - ::000
+* Complete - ::000
+
+Rewards
+* Master - 
+* Gold - 
+* Silver - 
+* Bronze - 
+
+===Six Shot Sprint (Molta)===
+Fire Eagle (165, 131, 172), additionally eridium?
+
+Times
+* Master - 1:46:500
+* Gold - 2:20:000
+* Silver - 3:00:000
+* Bronze - 3:30:000
+* Complete - 5:00:000
+
+[Fire Eagle] ...AND TIME! Now that was FAST! I'll be taking that ammo, thank you. Now here's that exciting reward I promised ya... you've earned it! I can turn it right an Enriched Eridium Ingot for a bit of Pulsating Powder, and you can use that ingot for a number of useful items!
+eridium for each tier silver+?
+
+Rewards
+* Master - 
+* Gold - 32 ccs
+* Silver - 16 ccs
+* Bronze - 8 ccs
+
+===Trackmaster (Molta)===
+Bofur (238, 120, 58)
+
+Times
+* Master - 1:05:181
+* Gold - 1:20:000
+* Silver - 1:40:000
+* Bronze - 2:00:000
+* Complete - 3:40:000
+
+Rewards
+* Master - 
+* Gold - 
+* Silver - 
+* Bronze - 8ccs

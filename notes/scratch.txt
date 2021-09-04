@@ -1,0 +1,911 @@
+(242, 136, 65) "launch pad"
+(229, 141, 88)
+
+20,8 = 7
+30,8 = 17
+
+1.625%?
+
+
+5 New lore books have been added around the western parts of the Narsen Sea
+
+1 book in stargazers hideaway "it was in the weird corner"
+
+
+
+oceangate parkour -1619 131 8
+
+mystery r2 button https://puu.sh/GUgk7/0a9ac79f9e.png
+
+9 totems
+1 - ne. second  floor down
+2 - e ne. drop down to suicide run e of 1
+3 - se, on the climb back up from spiders through 2
+4 - second floor down, nw maze's lava pits
+5 - nw hole in the wall?
+6 - hallway to murderroom by 4's maze entrance
+7 - lower se balcony 
+8 - ne bottom balcony
+*9 - n watery bottom
+
+6 crystals
+1 - descent
+2 - first building on the left https://puu.sh/GBGzQ/8376400c8a.png
+3 - first building on the right, barracks
+4 - nw bridge to potion lab 2, or n across lower broken bridge
+5 - potion lab 1
+6 - across upper n bridge
+
+
+grass leads high
+dirt leads low
+the first lever is upper white
+w1 p0 o1 b1 y0 y1 o0 w0 p1 b0
+
+random once per week lore book? https://puu.sh/GJggN/88e299b07a.png
+random item fusion book https://puu.sh/GKEax/f85e4f10f9.png
+
+17x23
+
+key 1, bazaar https://puu.sh/GPH3i/d8c5bcd91d.png
+key 2, labs https://puu.sh/GRqtv/834f94b0ae.png
+key 3, apartments index https://puu.sh/GR5Lg/4a416545f0.png
+key 4, apartments roof spiral https://puu.sh/GR68I/9ec6d6139d.png
+key 5, academy roof https://puu.sh/GPIa0/a02fe782a3.png
+key 6, castle nw upstairs https://puu.sh/GR7dX/189e465b03.png
+
+91, 7, 173
+
+cloak blitz assassin repo
+
+R https://puu.sh/GL8jD/5c842bb4a3.png
+
+suspicious chicken spawner 1485 141 237
+
+water cavern gives polished jade
+
+azzy
+restless bone - hallowed hedge (1300, 100, -52) https://puu.sh/GKfh5/015ce9157e.png
+sulfuric powder - maplewood town (1396, 89, 257) https://puu.sh/GLLq8/bc3e7f61f2.png
+corrupted staff - consecrated grounds (1497, 174, 62) https://puu.sh/GHdr8/7f334dfa26.png
+ancient grimoire - azacor's manor (1291, 192, 301) https://puu.sh/GKf76/984eedf990.png
+wormwood oil - weeping wormwood (1395, 206, 158) https://puu.sh/GHelB/1242c8ecdb.png
+
+corrupted rock salt (1331,215,162) https://puu.sh/GHegV/504db3a894.png
+ 
+mistport rooster cache https://puu.sh/GMkrf/7649983d66.png
+[02:41:13] [main/INFO]: [CHAT] Congratulations! You've found a Rooster Cache and are awarded a Golden Feather!
+ 
+rift of the drowneds
+9 spawners
+3+2? chests
+tier1-2 loots
+
+experiencinator https://puu.sh/GMunY/727446e432.png
+experiencinator (u) https://puu.sh/GMuph/7093d0219d.png
+crystallizer https://puu.sh/GOzlM/1b49043e51.png
+crystallizer (u) https://puu.sh/GODph/001ee31845.png
+perfect crystallizer https://puu.sh/GODpS/1093ae8c56.png
+
+Q55I01
+vincent variable system: https://puu.sh/GztOw/e322639d5e.png
+
+=speed=
+R2 + R1 Cities - Gas Mask/Heaven's Lullaby/Desert Explorer/Peripatetic Sandals/Dragonbone Dagger/Intellect Incarnate
+phasing minor downgrade from lullaby
+
+head - 18% speed, gas mask, breather + infuser from dueling fleets -> frostgate trader -> crafter recipe
+chest - +20% speed, heaven's lullaby, archangel's mail (r2 overworld rare) + 3 powder + puzzle -> trade by whispervale
+		+20% base speed -10% speed , phasing chestplate, ?
+legs - +25% speed, desert explorer, roguelike rare floor 3 searing sands
+feet - +20% speed, peripatetic sandals, white's rare shoes + money -> patron trade
+offhand - +20% base speed, dragonbone dagger, r2 carnival epic, 60k r2 carnival tickets (1.2k - 3k tokens)
+		+20% speed plebian warblade, r2 patron, Sierhaven PP plot (-539, 110, 138), (Necromancer's Sigil (R2 rare) + 2 Twisted Strand)
+mainhand - 18% speed, intellect incarnate, mistport intellect crystallizer (xp level 200)
+1.81 1.2
+2.01x1.2 = 2.412 (dragonbone)
+1.71x1.4 = 2.394 (phasing dragonbone)
+1.91x1.2 = 2.292 (phasing plebian)
+
+10 tokens = 20 tickets (2 bundles)
+20 tokens = 3-4 bundles (up to 10 if git gud)
+dagger = 6000 tickets (600 bundles)
+100 tickets market for 1hcs
+.66 x0
+.33 x3
+
+
+R1 noncity - Primordial Coif/Cobaltean Cape/Desert Explorer/Corrupted Tyrolean Boots/Abyssal Flame/Shapeshifter's Wand or Clearcut
+
+head - +12% speed, primordial coif, master elemental shuffle
+chest - 18% speed, cobaltean cape, patron item corrupted caves warlock
+		15% speed, whispering chains, azzy artifact
+legs - 25% speed, desert explorer, roguelike rare floor 3 searing sands
+feet - 15% speed, corrupted tyrolean boots, c'axtal artifact
+		+10% speed, tyrolean boots, quest unique
+offhand - +10% base speed, abyssal flame, ??
+		15% speed, that t4 dagger
+		15% speed, various
+mainhand - 15% speed, shapeshifter's wand, orange rare
+		15% speed, clearcut, forsworn sanctum end rare 
+		15% speed, wayfinder's compass, forsworn sanctum uncommon
+		15% speed, tome of the jungle, kaul uncommon
+		15% speed, plunderer's charm, enhanced overworld uncommon
+		=2.035 vs 2.0
+
+=kings=
+crown - 24 shards of the mantle + 16hxp
+shards of the mantle - don't fail kaul
+24/24 shards
+12/16 hxp
+
+warden - 1/800 slots
+4hxp=64chip
+50hxp = avg 1 warden
+
+greaves - 5 royal crystals + 32 pulsating gold
+32 pulsating gold = 64 royal dust
+rare fragment -> pulsating dust
+64 rares at 28cxp ea = 28hxp
+at 32cxp each = 32hxp
+
+pulsating gold 60cxp
+
+~~ground -2735, 825 white 26, orange 28, purple 30~~ VH'd
+ground -2735, 811 1x white 24
+ground -2756, 796 white and orange 28
+subflr -2732, 768 white 24 orange 28
+sublvl -2802, 799 casino/white/orange 24
+sublvl -2791, 854 white/orange 28 
+sublvl -2793, 864 white/lb/orange/casino 28
+sublvl -2793, 865 1 magenta 26, 1 lb 28
+grnd  -2793, 811 pulsating gold 60cxp ~30cxp rares
+roguelike rare service best deal: -2804, 82, 852
+	fish roguelike service same deals but understocked
+	same deal in pagodas downstairs
+	better deal at -2754,63,802
+misc r2 t5s 3.5 ccs ea -2732, 63, 840
+
+
+sabatons - 24 pulsating ticket books
+ticket books - 32 circus tickets + pulsating dust
+tickets = feed t5s to ticketing
+dust = feed t5s to dust
+768 tickets ~ 12hxp
+
+1 t5 = 3 tickets 
+non t5 = 1 ticket
+4 t5 + 12cxp = 1 pulsating dust
+4.5 hxp reagents
+4.5 hxp t5s (96 t5s)
+
+sublvl -2781, 795 t5s for 5cxp ea
+sublvl -2801, 842 t4s for 9xp ea
+sublvl -2780, 865 t5s for 5 ea
+
+crown: 31hxp @40cxp/shard
+warden: 50hxp avg
+greaves: 30hxp +5 crystals @30cxp/rare
+sabatons: 21hxp @1cxp/ticket
+
+trial spirit
+494,88,-543
+
+[06:05:24] [main/INFO]: [CHAT] [Trial Spirit] Hello, hero. How may I be of assistance?
+[06:05:24] [main/INFO]: [CHAT] [What is this place?]
+[06:05:26] [main/INFO]: [CHAT] [Trial Spirit] This is the trial of vitality. You must attempt to survive 53 seconds of withering using powerful equipment, and in turn you will be given access to a reward. There are some rules, however.
+[06:05:26] [main/INFO]: [CHAT] [Rules?]
+[06:05:40] [main/INFO]: [CHAT] [Trial Spirit] Yes. You cannot bring any food, healing items, or totems of undying in to the trial. Regeneration equipment is allowed, however. Additionally you cannot take off your armor or drop items during the trial. Lastly, I should warn you, you will need to be in the best of the best equipment and be fully healed and saturated to complete the trial. If you wish to undertake this trial, pull the lever to begin. Good luck, hero.
+
+=roguelike discs=
+1 chest and 1 elite spawner (control point) per room
+
+> [TSKD] Moonberserker: Roguelike Discs
+ Arachnoid Caves: Web-Covered Classics
+ Haunted Halls: Ethereal Expressions 
+ Frozen Catacombs: Embalmer's Mixtape
+ Sunken Temple: Deepest Blues
+ Searing Sands: Sandy-Smooth Jazz
+ Volcanic Panic: Obsidian Hits
+
+3 possible record rooms per zone
+
+0,1 point no chest
+
+Floor 1 Haunted Halls or Arachnoid Caves
+
+Haunted Halls 
+	#Q47I02 https://puu.sh/GEnHC/515c28b3e4.png
+	Animated Potions (invisible fakeblast creeper with blind weaken slow splash)
+	Poltergeist (levitation arrow skeleton)
+	Mansion Wraith
+	e) Haunted Keeper -> Keeper's Shade
+	Soulleather Banshee
+	Possessed Esquire 
+sewers
+	chest https://puu.sh/GGSEZ/1492ebc517.png
+	point https://puu.sh/GGSGJ/01f8ba37cd.png
+mineshaft 
+	chest https://puu.sh/GGSwR/0b218141df.png
+	point https://puu.sh/GGSBE/534f924ae7.png
+stairwell
+	chest https://puu.sh/GGSJ3/acc35bbf32.png
+	point https://puu.sh/GGSKG/d5c1cf4d0f.png
+slimy ruin
+	point https://puu.sh/GGSOK/e62a935297.png
+	chest https://puu.sh/GGSSB/6d29592744.png
+cramped library
+	point https://puu.sh/GGSY1/94649b4c3b.png
+	chest https://puu.sh/GGT0u/8fa26ec8ee.png
+sprawling library
+	point https://puu.sh/GGT1K/9adf1f3b8a.png
+	chest https://puu.sh/GGT3E/f66fc704a1.png
+dusty hallways
+	chest https://puu.sh/GGT51/0a636eb893.png
+	point https://puu.sh/GGTcB/439f0f41e0.png
+storerooms
+	record room https://puu.sh/GEpNP/f0c57acac2.png
+	record location https://puu.sh/GEnFJ/1f759ec603.png
+	
+Floor 2 Sunken Temple or Frozen Catacombs
+
+Sunken Temple 
+	#Q47I04 https://puu.sh/GErU8/a5d302ef09.png
+	https://puu.sh/GErTJ/48e1e13e4b.png
+	https://puu.sh/GErVc/9680dc32a8.png
+
+Frozen Catacombs
+	#47I03 https://puu.sh/GGU9x/9efde0bbf6.png
+	Creeper
+	Ice Ghoul (casually hits twice as hard as the elite)
+	Frost Wisp (melee stray)
+	Frozen Cryptkeeper (wither skeleton)
+	Ice Archer (high punch slow arrow skelly)
+	e) Frostbitten Warrior (wither skeleton)
+book altar
+	point https://puu.sh/GGTpn/249b8ad8a2.png
+	chest https://puu.sh/GGTtr/d042ec057f.png
+cells
+	point https://puu.sh/GGTDp/9cd08c881e.png
+	chest https://puu.sh/GGTGz/ebe84b61cf.png
+crypt
+	chest https://puu.sh/GGTJ8/4177b51429.png
+	point https://puu.sh/GGTKG/967821a1c3.png
+icy pits
+	point https://puu.sh/GGTPt/302a736495.png
+	chest https://puu.sh/GGTVp/4773f4b43c.png
+roomy halls
+	point https://puu.sh/GGTXC/484af46c51.png
+	chest https://puu.sh/GGTZx/4c6314dd81.png
+doors
+	point https://puu.sh/GGU5Y/5015114193.png
+	chest https://puu.sh/GGU7h/9605c57677.png
+	record https://puu.sh/GGU9l/e61f723da9.png
+soggy pit of hatred
+	point https://puu.sh/GGUeK/75c7366b2b.png
+	chest https://puu.sh/GGUpc/9c2b0a46ad.png
+	
+Floor 3 Volcanic Panic or Searing Sands
+
+Volcanic Panic
+#Q47I05 https://puu.sh/GEsQm/e1b0042ff1.png
+https://puu.sh/GEsR2/bde6d5efbd.png
+ [FISH] TKTOM7: I found my one in the lava mineshaft room down a drop with a bunch of skeletons, sitting on a mine platform
+[6:57 AM] [FISH] TKTOM7: A lava mineshaft lmao
+[6:57 AM] [FISH] TKTOM7: wooden bridges in tight tunnels with rails on them
+
+Searing Sands
+	Child Mummy (Baby Pigman)
+	Petrified Archer (Fire arrow pigman)
+	Creeper (with fire resist)
+	Blaze
+	Mummy (Pigman)
+	e) Radiant Mummy (wither skelly archer?)
+burning hole
+	point https://puu.sh/GGUBo/39fdbcd145.png
+caves 
+	point https://puu.sh/GH5nz/2672cacdf5.png
+	chest https://puu.sh/GH5uU/e826b9eb26.png
+overgrown ruin
+	chest https://puu.sh/GH5H4/2059217e3a.png
+	point https://puu.sh/GH5IX/38909e2fca.png
+pyramid
+	point https://puu.sh/GH5RX/39dd025ac2.png
+	chest https://puu.sh/GH5TX/b8735c02ca.png
+lava pit cave
+	point https://puu.sh/GH634/446cbe2ded.png
+endstone hallways
+	point https://puu.sh/GH6eN/4d4fc47a72.png
+	chest https://puu.sh/GH6mL/bf762c5ae9.png
+exploding floor buttons
+	point https://puu.sh/GH6xA/53c7880ddf.png
+		https://puu.sh/GH6xS/aa91b3a49f.png
+	chest https://puu.sh/GH6Gl/9729466bab.png
+
+
+
+=Barton=
+trades: https://puu.sh/GztYn/c63292e9d3.png
+[13:50:36] [Render thread/INFO]: [CHAT] [Barton] Hello, welcome to the snowman emissary. What brings you here?
+[13:50:36] [Render thread/INFO]: [CHAT] [Who are you?]
+[13:50:36] [Render thread/INFO]: [CHAT] [What's with the snowman?]
+[13:50:36] [Render thread/INFO]: [CHAT] [What can you do for me?]
+[13:50:41] [Render thread/INFO]: [CHAT] [Barton] My name is Barton, I used to own the pub in this apartment complex, but I retired some time ago. I began to get tired of the heat. So I built an igloo house. Now I'm starting to get tired of the cold.
+[13:50:43] [Render thread/INFO]: [CHAT] <G> [GTM] creeper_joh » the best u can do is combine them
+[13:50:47] [Render thread/INFO]: [CHAT] [Barton] Hello, welcome to the snowman emissary. What brings you here?
+[13:50:47] [Render thread/INFO]: [CHAT] [Who are you?]
+[13:50:47] [Render thread/INFO]: [CHAT] [What's with the snowman?]
+[13:50:47] [Render thread/INFO]: [CHAT] [What can you do for me?]
+[13:50:49] [Render thread/INFO]: [CHAT] <G> [GTM] creeper_joh » OH GOD
+[13:50:49] [Render thread/INFO]: [CHAT] [Barton] Odd thing to ask someone after you break into their home. While my friend here has already found his family, we are still holding snowball fights. Marshmallow handles the powerful winter magic, but I'm not completely useless. I can mix you up some of my old pub favorites if you do well enough, and you can also purchase some of this leftover gear.
+[13:50:57] [Render thread/INFO]: [CHAT] [Barton] Hello, welcome to the snowman emissary. What brings you here?
+[13:50:57] [Render thread/INFO]: [CHAT] [Who are you?]
+[13:50:57] [Render thread/INFO]: [CHAT] [What's with the snowman?]
+[13:50:57] [Render thread/INFO]: [CHAT] [What can you do for me?]
+[13:51:00] [Render thread/INFO]: [CHAT] [Barton] Marshmallow? He just showed up one day. Apparently he was looking for his family and saw my igloo. He found his family, but we had become such good friends he moved in permanently.
+[13:51:17] [Render thread/INFO]: [CHAT] <G> PizzaLover29 » oh ty
+[13:51:23] [Render thread/INFO]: [CHAT] <G> [WAIFU] KarlStrauss » aleph is ghast LASER
+[13:51:26] [Render thread/INFO]: [CHAT] mudkip709 left the game
+[13:51:39] [Render thread/INFO]: [CHAT] <G> [GTM] creeper_joh » u can't even chat in rod :c
+
+
+=Misc=
+[14:10:18] [Render thread/INFO]: [CHAT] The Plague: Nyr is infected with a mysterious illness! Only a Tlaxan Shaman can help save the town.
+[14:10:19] [Render thread/INFO]: [CHAT] Winds of War: Vargos has advised you to speak to Bhairavi in Nyr.
+[14:10:20] [Render thread/INFO]: [CHAT] A Pirate's Life [1/2]: Find a peg-leg for Levyn at the Ruined Docks.
+[14:10:23] [Render thread/INFO]: [CHAT] Emitler joined the game
+[14:10:42] [Render thread/INFO]: [CHAT] A Pirate's Life [1/2]: Find a peg-leg for Levyn at the Ruined Docks.
+[14:10:43] [Render thread/INFO]: [CHAT] A Pirate's Life [2/2]: Return to Levyn once you have found a peg-leg at the Ruined Docks.
+[14:10:44] [Render thread/INFO]: [CHAT] Bane of the Bakers: Break into the bakers' kitchen and steal the recipe!
+
+=Dimitri=
+[15:22:31] [Render thread/INFO]: [CHAT] [Dimitri] Ex... excuse me... Could I perhaps ask you something?
+[15:22:31] [Render thread/INFO]: [CHAT] [Sure, what is it?]
+[15:22:34] [Render thread/INFO]: [CHAT] [Dimitri] Actually um... nevermind. I think I'm in need of someone who has traveled the world a bit more.
+[15:22:34] [Render thread/INFO]: [CHAT] You can talk to Dimitri once you have achieved 10 Prestige
+
+=Mara=
+[15:24:44] [Render thread/INFO]: [CHAT] [Mara] Hi there, I'm Mara. I work for Cinevra. You should have a chat with her! She's very clever, and may have a task for you if you ask nicely.
+
+=Cinevra=
+[15:25:16] [Render thread/INFO]: [CHAT] [Cinevra] Well hello there. Welcome to my office. Who are you?
+[15:25:16] [Render thread/INFO]: [CHAT] [I'm Sukie.]
+[15:25:18] [Render thread/INFO]: [CHAT] [Cinevra] Nice to meet you Sukie! I'm Arcmage Cinevra. I'm a member of the Mage Council here in Sierhaven and was the creator of teleportation hub found across the region.
+[15:25:18] [Render thread/INFO]: [CHAT] [Wow! How does it all work then?]
+[15:25:18] [Render thread/INFO]: [CHAT] [I thought Vargos was the Archmage?]
+[15:25:18] [Render thread/INFO]: [CHAT] [So you made all these teleporters? What's the unused one downstairs for?]
+[15:25:18] [Render thread/INFO]: [CHAT] [Do you have any tasks for me?]
+[15:25:27] [Render thread/INFO]: [CHAT] [Cinevra] Ah! Lovely! You really want to know? Well, it's pretty simple. Basically, you use an object's thaumic signature to transmit it through elemental phases via the application of an arc-crystal. You then have a specific end-point in mind coded with runes and then...
+[15:25:27] [Render thread/INFO]: [CHAT] Your mind begins to wander...
+[15:25:27] [Render thread/INFO]: [CHAT] [...Oh! Wow that sounds so cool.]
+[15:25:35] [Render thread/INFO]: [CHAT] [Cinevra] Thanks, I'm glad you think so! I wasn't done yet however. I have so much more I can tell you!
+[15:25:35] [Render thread/INFO]: [CHAT] [Maybe some other time.]
+[15:25:39] [Render thread/INFO]: [CHAT] [Cinevra] Okay! Come back soon!
+[15:25:43] [Render thread/INFO]: [CHAT] [Cinevra] Well hello there. Welcome to my office. Who are you?
+[15:25:43] [Render thread/INFO]: [CHAT] [I'm Sukie.]
+[15:25:44] [Render thread/INFO]: [CHAT] [Cinevra] Nice to meet you Sukie! I'm Arcmage Cinevra. I'm a member of the Mage Council here in Sierhaven and was the creator of teleportation hub found across the region.
+[15:25:44] [Render thread/INFO]: [CHAT] [Wow! How does it all work then?]
+[15:25:44] [Render thread/INFO]: [CHAT] [I thought Vargos was the Archmage?]
+[15:25:44] [Render thread/INFO]: [CHAT] [So you made all these teleporters? What's the unused one downstairs for?]
+[15:25:44] [Render thread/INFO]: [CHAT] [Do you have any tasks for me?]
+[15:25:45] [Render thread/INFO]: [CHAT] <G> [LAG] VastPoenBV » omg I can do a bounty
+[15:25:46] [Render thread/INFO]: [CHAT] [Cinevra] Oh, no! You misheard me! I'm an ARCmage, not an Archmage! I never noticed the similarity before... how silly. I work with lightning in a magical way to create new things!
+[15:25:55] [Render thread/INFO]: [CHAT] <G> [FORCE] SorcererAxis81 » yeah
+[15:25:59] [Render thread/INFO]: [CHAT] [Cinevra] Well hello there. Welcome to my office. Who are you?
+[15:25:59] [Render thread/INFO]: [CHAT] [I'm Sukie.]
+[15:26:01] [Render thread/INFO]: [CHAT] [Cinevra] Nice to meet you Sukie! I'm Arcmage Cinevra. I'm a member of the Mage Council here in Sierhaven and was the creator of teleportation hub found across the region.
+[15:26:01] [Render thread/INFO]: [CHAT] [Wow! How does it all work then?]
+[15:26:01] [Render thread/INFO]: [CHAT] [I thought Vargos was the Archmage?]
+[15:26:01] [Render thread/INFO]: [CHAT] [So you made all these teleporters? What's the unused one downstairs for?]
+[15:26:01] [Render thread/INFO]: [CHAT] [Do you have any tasks for me?]
+[15:26:04] [Render thread/INFO]: [CHAT] [Cinevra] I'm not sure yet! It just felt wrong having a single teleporter on that floor, so in case we ever expand the empire further, I wanted to keep our options open.
+[15:26:07] [Render thread/INFO]: [CHAT] koreyou joined the game
+[15:26:08] [Render thread/INFO]: [CHAT] [Cinevra] Well hello there. Welcome to my office. Who are you?
+[15:26:08] [Render thread/INFO]: [CHAT] [I'm Sukie.]
+[15:26:10] [Render thread/INFO]: [CHAT] [Cinevra] Nice to meet you Sukie! I'm Arcmage Cinevra. I'm a member of the Mage Council here in Sierhaven and was the creator of teleportation hub found across the region.
+[15:26:10] [Render thread/INFO]: [CHAT] [Wow! How does it all work then?]
+[15:26:10] [Render thread/INFO]: [CHAT] [I thought Vargos was the Archmage?]
+[15:26:10] [Render thread/INFO]: [CHAT] [So you made all these teleporters? What's the unused one downstairs for?]
+[15:26:10] [Render thread/INFO]: [CHAT] [Do you have any tasks for me?]
+[15:26:12] [Render thread/INFO]: [CHAT] [Cinevra] Oh, I'm so glad you asked! I do actually! Recently, the Apartment Complex just down the street closed up. Something about rats? Anyway, the supervisor, Vinny, has a fantastic arc-crystal I've been wanting. It's the perfect piece of Magiscience out there! If you can go get it for me, I'll give you a nice reward and teach you about the Teleport Hub here!
+[15:26:12] [Render thread/INFO]: [CHAT] [I'm in!]
+[15:26:12] [Render thread/INFO]: [CHAT] [Maybe later.]
+[15:26:16] [Render thread/INFO]: [CHAT] QUEST : A LITTLE SPARK
+[15:26:16] [Render thread/INFO]: [CHAT] Length : Short
+[15:26:16] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[15:26:16] [Render thread/INFO]: [CHAT] Go get an arc-crystal for Cinevra from Vinny in the old Apartments.
+
+
+
+
+=Jeremiah=
+[18:50:24] [Render thread/INFO]: [CHAT] [Jeremiah] H-hello, welcome to the Arena of Terth!
+[18:50:24] [Render thread/INFO]: [CHAT] [What is this place?]
+[18:50:24] [Render thread/INFO]: [CHAT] [Who runs the arena?]
+[18:50:24] [Render thread/INFO]: [CHAT] [Can I fight in the arena?]
+[18:50:24] [Render thread/INFO]: [CHAT] [How can I practice for the arena?]
+[18:50:26] [Render thread/INFO]: [CHAT] [Jeremiah] This is the Arena of Terth. Back in the day it was the greatest test of skill in the land where warriors from across the world sought to prove their might. Then there were a series of rather unfortunate incidents that led to it being shut down by royal order... But its back now and better than ever!
+[18:50:30] [Render thread/INFO]: [CHAT] [Jeremiah] H-hello, welcome to the Arena of Terth!
+[18:50:30] [Render thread/INFO]: [CHAT] [What is this place?]
+[18:50:30] [Render thread/INFO]: [CHAT] [Who runs the arena?]
+[18:50:30] [Render thread/INFO]: [CHAT] [Can I fight in the arena?]
+[18:50:30] [Render thread/INFO]: [CHAT] [How can I practice for the arena?]
+[18:50:31] [Render thread/INFO]: [CHAT] [Jeremiah] You... really shouldn't be asking questions like that. He really doesn't like to be bothered. H-he's very busy overseeing the Arena and doesn't need people asking questions about him at all...
+[18:50:38] [Render thread/INFO]: [CHAT] [Jeremiah] H-hello, welcome to the Arena of Terth!
+[18:50:38] [Render thread/INFO]: [CHAT] [What is this place?]
+[18:50:38] [Render thread/INFO]: [CHAT] [Who runs the arena?]
+[18:50:38] [Render thread/INFO]: [CHAT] [Can I fight in the arena?]
+[18:50:38] [Render thread/INFO]: [CHAT] [How can I practice for the arena?]
+[18:50:40] [Render thread/INFO]: [CHAT] [Jeremiah] Yes, but your inventory must be completely empty. The protective magic that protects you from serious harm in there would destroy anything else you took in!
+[18:50:40] [Render thread/INFO]: [CHAT] Note: The arena is a spectator sport. Your run will end if you spend more than 30 minutes in the shop (after any one wave) or 40 minutes fighting (any one wave). Logging out is discouraged but allowed as long as you stick to these time periods.
+[18:50:53] [Render thread/INFO]: [CHAT] [Jeremiah] H-hello, welcome to the Arena of Terth!
+[18:50:53] [Render thread/INFO]: [CHAT] [What is this place?]
+[18:50:53] [Render thread/INFO]: [CHAT] [Who runs the arena?]
+[18:50:53] [Render thread/INFO]: [CHAT] [Can I fight in the arena?]
+[18:50:53] [Render thread/INFO]: [CHAT] [How can I practice for the arena?]
+[18:50:55] [Render thread/INFO]: [CHAT] [Jeremiah] There are two main ways. Y-you could head off into the world and hone your skills elsewhere, or you could try practice mode.
+[18:50:55] [Render thread/INFO]: [CHAT] Practice mode allows you to play through a single wave of your choosing. Wave practice is available for any wave group that you have reached so far.
+
+=???=
+
+#Q34I01 https://puu.sh/GzA7n/5e6bf6263c.png
+https://puu.sh/GzAbu/85db14bc0c.png
+https://puu.sh/GzAbD/dce568e388.png
+https://puu.sh/GzAbH/fedcb6fed3.png
+https://puu.sh/GzAbQ/44d66772de.png
+https://puu.sh/GzAbV/668546c832.png
+https://puu.sh/GzAc2/5a611314c7.png
+https://puu.sh/GzAc8/14e819ff2c.png
+https://puu.sh/GzAch/733a7f267e.png
+https://puu.sh/GzAcr/684f27bccc.png
+
+
+
+==bunny slippers==
+[21:23:39] [main/INFO]: [CHAT] [The Bunny Baron] WELCOME to the lair of the BUNNY BARON!
+[21:23:39] [main/INFO]: [CHAT] [Uh... hello?]
+[21:23:42] [main/INFO]: [CHAT] [The Bunny Baron] Do YOU come seeking the CARROTS? Nay, mayhaps the BUNNIES THEMSELVES? Or do you seek the true treasure, my JEWELED BUNNY SLIPPERS?!
+[21:23:42] [main/INFO]: [CHAT] [The carrots, I suppose]
+[21:23:42] [main/INFO]: [CHAT] [I'm here for the bunnies!]
+[21:23:42] [main/INFO]: [CHAT] [Those Bunny Slippers sound delightful.]
+[21:23:42] [main/INFO]: [CHAT] [Actually I'm here about an Easter Egg for the Master of Clucks. He told me you had one.]
+[21:23:42] [main/INFO]: [CHAT] phebelia left the game
+[21:23:50] [main/INFO]: [CHAT] [The Bunny Baron] Ahhh, you seek the Slippers. Well, it will be a perilous journey. You must find me Polished Jade and three Immaculate Hides of a special rabbit!
+[21:23:50] [main/INFO]: [CHAT] [Where can I find the Jade?]
+[21:23:50] [main/INFO]: [CHAT] [Where can I find the hides?]
+[21:23:56] [main/INFO]: [CHAT] [The Bunny Baron] Jade can only be polished properly deep UNDERWATER. If there are any caverns around here with plenty of rushing water, they may contain the Jade I need.
+[21:24:01] [main/INFO]: [CHAT] [The Bunny Baron] WELCOME to the lair of the BUNNY BARON!
+[21:24:01] [main/INFO]: [CHAT] [Uh... hello?]
+[21:24:02] [main/INFO]: [CHAT] [The Bunny Baron] Do YOU come seeking the CARROTS? Nay, mayhaps the BUNNIES THEMSELVES? Or do you seek the true treasure, my JEWELED BUNNY SLIPPERS?!
+[21:24:02] [main/INFO]: [CHAT] [The carrots, I suppose]
+[21:24:02] [main/INFO]: [CHAT] [I'm here for the bunnies!]
+[21:24:02] [main/INFO]: [CHAT] [Those Bunny Slippers sound delightful.]
+[21:24:02] [main/INFO]: [CHAT] [Actually I'm here about an Easter Egg for the Master of Clucks. He told me you had one.]
+[21:24:04] [main/INFO]: [CHAT] [The Bunny Baron] Ahhh, you seek the Slippers. Well, it will be a perilous journey. You must find me Polished Jade and three Immaculate Hides of a special rabbit!
+[21:24:04] [main/INFO]: [CHAT] [Where can I find the Jade?]
+[21:24:04] [main/INFO]: [CHAT] [Where can I find the hides?]
+[21:24:05] [main/INFO]: [CHAT] [The Bunny Baron] Of THIS, I am unsure. Perhaps my friend Erwen in Farr could help you. He's an animal hunter!
+
+==Breathing Module==
+[02:40:16] [main/INFO]: [CHAT] [Quegon] Hello my friend! Tell me, have you ever come across any diving helmet components in your travels? I was supposed to receive two shipments with different parts to help adventurers like yourself craft them, but the ships never arrived.
+[02:40:16] [main/INFO]: [CHAT] [I haven't, but would you like me to look for these ships?]
+[02:40:27] [main/INFO]: [CHAT] [Quegon] Please do! If you ever happened to find any I could combine the pieces into a Breathing Module for you. Then all you would need to do is find a suitable crafting machine. The Breathing Module in the center, a Hyper Crystalline Shard below, and surrounded by pulsating silver.
+
+==Unfinished Rapier==
+Cal in Molta @ 220, 94, 61
+4 Mytarium + 3 Empowered Dust = Unfinshed Rapier
+
+=Block suppliers=
+molta
+glazed terracottas each color 32/12cs
+sierhaven, 16xp > 32 purpur block @ Marigold (-816, 96, 190)
+nyr, 16xp > 32 glass, 16 xp > 4 sea lantern @ Private Arnie, (-124, 94, -11)
+frostgate, 10cs -> 32 stone brick, mossy stone brick, cracked stone brick, chiseled stone brick, stone, polished andesite, gravel
+whispervale, 12cs -> 32 each wool color.
+
+
+==Brown Corp Hangouts==
+Hall of Kings - (-728, 135, -98) up the sierhaven castle stairs https://puu.sh/GMCH3/1c6216c019.png
+Isle of Susan - (-968, 94, 439) mooshroom island immediately east of the sierhaven lighthouse https://puu.sh/GME8x/459003fb9a.png
+Apartment 666 - (-158, 96, -112) nyr wheat field https://puu.sh/GMDAQ/bd24547d27.png
+Jungle Workshop - (205, 123, -37) OR (207, 128, -9) straight south from the tlaxan ziggurat (white poi), are two holes in the ground set into bushes https://puu.sh/GMQPY/b1058b7c1d.png https://puu.sh/GMQQB/53c30e9e87.png
+The House on the Cliffside - (-84, 218, -278) ne shortly out of nyr like 120 blocks up the world border https://puu.sh/GMDGJ/33b9a309bc.png
+The Meme Team Balloon - (420, 174, 167) lowest balloon at hawk fortress. jump onto the roof then up the fence mooring https://puu.sh/GMDIU/10b1cdc717.png
+Farr Out - (573, 97, 158) shortly north of the tp house, hard to miss https://puu.sh/GMDYy/c841908ac9.png
+End of the World - (686, 71, -94) bust through oak wood in jungle tree on little island west of kaulport https://puu.sh/GMCCe/da20dc94d2.png
+The Death of Browncorp - (1086, 125, -183) under a grave in the graveyard https://puu.sh/GMDVH/af62e38248.png
+
+
+==?==
+[22:48:38] [main/INFO]: [CHAT] [Sunlit Warlock] Hello Traveler. 
+[22:48:38] [main/INFO]: [CHAT] [Hello.]
+[22:48:38] [main/INFO]: [CHAT] [Ah! A ghost! Get away from me!]
+[22:48:51] [main/INFO]: [CHAT] [Sunlit Warlock] Hello Traveler. 
+[22:48:51] [main/INFO]: [CHAT] [Hello.]
+[22:48:51] [main/INFO]: [CHAT] [Ah! A ghost! Get away from me!]
+[22:48:53] [main/INFO]: [CHAT] [Sunlit Warlock] Fine night, isn't it? Clear sky. Lots of sunlight.
+[22:48:53] [main/INFO]: [CHAT] [Sunlight?]
+[22:48:55] [main/INFO]: [CHAT] [Sunlit Warlock] Yes, sunlight! Reflected from the Moon. The Sun is the fuel for all life in this land, even in the darkest of night.
+[22:48:55] [main/INFO]: [CHAT] [You seem to know a lot about the Sun.]
+[22:48:59] [main/INFO]: [CHAT] [Sunlit Warlock] Of course! I spent my life researching it. Bring me some gold from a cave of cinders located across the sea, then go to my study on the Chillwind Coast, near the statue of the Light. You should find my research there.
+
+4 sunlit gold > sunlit charm https://puu.sh/GLxSJ/338b6ace79.png
+
+==sanctum==
+lore book 1
+https://puu.sh/GIAle/ee46572fdb.png
+https://puu.sh/GIAlm/d79d4baf49.png
+https://puu.sh/GIAlr/24b211471f.png
+https://puu.sh/GIAlu/f05c0ad51e.png
+
+lore book 2
+https://puu.sh/GIL6J/42655d5429.png
+https://puu.sh/GIL7a/e6d8035295.png
+https://puu.sh/GIL7m/14543023f2.png
+https://puu.sh/GIL7y/7c5a2a6132.png
+https://puu.sh/GIL7P/97788ae6d8.png
+
+lore book 3
+https://puu.sh/GIQOw/1ef8b23263.png
+https://puu.sh/GIQP0/da546448bb.png
+https://puu.sh/GIQP5/0c51baf01d.png
+https://puu.sh/GIQPd/ab005aa80b.png
+https://puu.sh/GIQPl/d30812cfb1.png
+https://puu.sh/GIQPz/e9299834d4.png
+https://puu.sh/GIQPO/e5d894dd21.png
+
+lore book 4
+https://puu.sh/GIP4P/cb31e3f3bd.png
+https://puu.sh/GIP5J/adaf78ee9f.png
+https://puu.sh/GIP5W/69ae78a2eb.png
+https://puu.sh/GIP66/c6efbd09d4.png
+https://puu.sh/GIP6n/84f525cdd7.png
+
+lore book 5
+https://puu.sh/GISzP/e5566cac02.png
+https://puu.sh/GISzl/7495da2d4c.png
+https://puu.sh/GISzt/02cca435bf.png
+https://puu.sh/GISzG/1605d955f9.png
+
+lore book scraps
+https://puu.sh/GIRhb/70f7a21473.png
+https://puu.sh/GIRhB/6cb4cbaa32.png
+https://puu.sh/GIRhQ/7ec37739f0.png
+https://puu.sh/GIRi6/20c941d82f.png
+https://puu.sh/GIRip/1131e95a3d.png
+https://puu.sh/GIRiK/9e6c4048eb.png
+https://puu.sh/GIRiY/6c0b0ecf4e.png
+https://puu.sh/GIRj8/5e3db0ead5.png
+https://puu.sh/GIRji/c203182522.png
+https://puu.sh/GIRjw/f5a942a54f.png
+https://puu.sh/GIRjC/6172259ac6.png
+https://puu.sh/GIRjK/6b9d535692.png
+https://puu.sh/GIRjW/06896e3c2b.png
+https://puu.sh/GIRk9/3d7dd0fbb2.png
+
+0.789 golden carrot
+0.722 rabbit stew/steak/porkchop/**sliver**
+0.606 mutton/salmon/golden apple 
+0.516 beetroot soup/chicken/stew 
+0.467 baked potato/bread/cooked cod/cooked rabbit 
+0.451 **kapple (25s)**
+0.357 pumpkin pie 
+0.296 carrot  
+0.231 apple 
+
+pyres
+	upper w by bridge activation
+	ne mansion c'zanil's attic
+	med south building floor glass
+
+7 potions of swiftness 2 1:30, in the hidden cat cafe
+meme stick https://puu.sh/GIPVI/a28000e3d5.png
+shovel https://puu.sh/GIKXz/ca05711f0c.png
+pick https://puu.sh/GIKY3/91cfc8b297.png
+axe https://puu.sh/GIQVF/8f338ca614.png
+	ne mansion's ne corner n room
+dagger https://puu.sh/GIOEy/a61b0a7f28.png
+	upper w by bridge activation
+head https://puu.sh/GIQln/f41d393d75.png
+legs https://puu.sh/GIQw0/380cfa0c86.png
+	ne mansion's ne corner e room
+	
+[02:18:30] [main/INFO]: [CHAT] [T'Lm] You have seen much more than even I, Sukie. You have met the other waking Genii, I feel. I bestow upon you a gift, worthy of a dreamwalker.
+[02:18:30] [main/INFO]: [CHAT] Awarded Dreamwalker's Visage
+
+[02:19:19] [main/INFO]: [CHAT] [T'Lm] Well met, Sukie. I hope your journey has shown you much. I sense a change in you though... Are there more out there, dreaming still?
+[02:19:19] [main/INFO]: [CHAT] [How can I reclaim my Dreamwalker Visage?]
+[02:19:19] [main/INFO]: [CHAT] [More what?]
+[02:19:26] [main/INFO]: [CHAT] [T'Lm] Genius Loci of course. Perhaps you'll find them all...
+
+[02:33:56] [main/INFO]: [CHAT] [T'Lm] You have seen much more than perhaps any other being, ever. You have met the dreaming Genii too, I feel. I bestow upon you a gift, worthy of the deepest dreamwalker.
+[02:33:56] [main/INFO]: [CHAT] Awarded Deepdream Visage
+
+====Velara Dream spam====
+
+Above: Myragh, Ixume, Quetzalcotl
+Below: Xiuhtec, Meztli, Chicome, Itzpa, Tezcapt, Citlali, Xipetotec, Tlicue, Xilonen, Tlazolt
+
+[01:52:30] [main/INFO]: [CHAT] Crystal Visions [1/2]: Enter Velara.
+[01:52:32] [main/INFO]: [CHAT] Crystal Visions [2/2]: Explore the Dream.
+
+[01:55:15] [main/INFO]: [CHAT] [Xiuhtec] i rest until i am ash
+[01:55:16] [main/INFO]: [CHAT] [Xiuhtec] i shall provide
+[01:55:20] [main/INFO]: [CHAT] [Xiuhtec] the lack of the sun
+[01:55:20] [main/INFO]: [CHAT] [Xiuhtec] what is this place
+[01:55:21] [main/INFO]: [CHAT] [Xiuhtec] the lack of the sun
+[01:55:23] [main/INFO]: [CHAT] [Xiuhtec] i had an ember
+[01:55:24] [main/INFO]: [CHAT] [Xiuhtec] forever
+[01:55:25] [main/INFO]: [CHAT] [Xiuhtec] i rest until i am ash
+[01:55:43] [main/INFO]: [CHAT] [Xiuhtec] i had an ember
+[01:55:44] [main/INFO]: [CHAT] [Xiuhtec] unending
+[01:55:44] [main/INFO]: [CHAT] [Xiuhtec] unending
+
+[01:55:57] [main/INFO]: [CHAT] [Meztli]      meztli
+[01:55:59] [main/INFO]: [CHAT] [Meztli] one day i will earn my place among the dreams
+[01:56:01] [main/INFO]: [CHAT] [Meztli] i rest until i am gone
+[01:56:01] [main/INFO]: [CHAT] [Meztli] i rest until i am gone
+[01:56:03] [main/INFO]: [CHAT] [Meztli] i am they
+[01:56:03] [main/INFO]: [CHAT] [Meztli] one day i will earn my place among the dreams
+[01:56:03] [main/INFO]: [CHAT] [Meztli] they spoke to me in dreams
+
+[01:56:30] [main/INFO]: [CHAT] [Chicome] gods
+[01:56:31] [main/INFO]: [CHAT] [Chicome] breathe out
+[01:56:31] [main/INFO]: [CHAT] [Chicome] only together
+[01:56:31] [main/INFO]: [CHAT] [Chicome] i miss them
+[01:56:31] [main/INFO]: [CHAT] [Chicome] i miss them
+[01:56:31] [main/INFO]: [CHAT] [Chicome] gods
+[01:56:32] [main/INFO]: [CHAT] [Chicome] gods
+[01:56:32] [main/INFO]: [CHAT] [Chicome] are they more than that
+[01:56:32] [main/INFO]: [CHAT] [Chicome] breathe out
+[01:56:32] [main/INFO]: [CHAT] [Chicome] gods
+[01:56:32] [main/INFO]: [CHAT] [Chicome] they spoke to me in dreams
+[01:56:32] [main/INFO]: [CHAT] [Chicome] breathe out
+[01:56:33] [main/INFO]: [CHAT] [Chicome] breathe out
+[01:56:33] [main/INFO]: [CHAT] [Chicome] breathe out
+
+[01:57:34] [main/INFO]: [CHAT] [Myrahg] ...
+[01:57:36] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:36] [main/INFO]: [CHAT] [Myrahg] ...
+[01:57:37] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:37] [main/INFO]: [CHAT] [Myrahg] ...betrayed...
+[01:57:38] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:38] [main/INFO]: [CHAT] [Myrahg] ...
+[01:57:38] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:38] [main/INFO]: [CHAT] [Myrahg] ...
+[01:57:38] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:38] [main/INFO]: [CHAT] [Myrahg] ...
+[01:57:38] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:38] [main/INFO]: [CHAT] [Myrahg] ...i am...
+[01:57:38] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:39] [main/INFO]: [CHAT] [Myrahg] ...betrayed...
+[01:57:39] [main/INFO]: [CHAT] A voice tries to speak. It is almost too muffled to hear.
+[01:57:39] [main/INFO]: [CHAT] [Myrahg] ...
+
+Ixume and Quetzalcotl
+[01:58:20] [main/INFO]: [CHAT] A voice tries to speak. It is too muffled to hear.
+
+[01:59:23] [main/INFO]: [CHAT] [Itzpa] i am earth
+[01:59:23] [main/INFO]: [CHAT] [Itzpa] only together
+[01:59:24] [main/INFO]: [CHAT] [Itzpa] i shall provide
+[01:59:24] [main/INFO]: [CHAT] [Itzpa] they spoke to me in dreams
+[01:59:24] [main/INFO]: [CHAT] [Itzpa] only together
+[01:59:24] [main/INFO]: [CHAT] [Itzpa] i am earth
+[01:59:25] [main/INFO]: [CHAT] [Itzpa] the touch of the sun
+[01:59:25] [main/INFO]: [CHAT] [Itzpa] i am they
+[01:59:25] [main/INFO]: [CHAT] [Itzpa] fire near
+[01:59:25] [main/INFO]: [CHAT] [Itzpa] the touch of the sun
+[01:59:26] [main/INFO]: [CHAT] [Itzpa] i rest until i am gone
+
+[01:59:56] [main/INFO]: [CHAT] [Tezcapt] was
+[01:59:57] [main/INFO]: [CHAT] [Tezcapt] only to kaul
+[01:59:57] [main/INFO]: [CHAT] [Tezcapt] we
+[01:59:57] [main/INFO]: [CHAT] [Tezcapt] then
+[01:59:57] [main/INFO]: [CHAT] [Tezcapt] our
+[01:59:57] [main/INFO]: [CHAT] [Tezcapt] here
+[01:59:58] [main/INFO]: [CHAT] [Tezcapt] place
+[01:59:58] [main/INFO]: [CHAT] [Tezcapt] then
+[01:59:58] [main/INFO]: [CHAT] [Tezcapt] dream
+[01:59:59] [main/INFO]: [CHAT] [Tezcapt] on
+[01:59:59] [main/INFO]: [CHAT] [Tezcapt] only to kaul
+
+[02:01:30] [main/INFO]: [CHAT] [Citlali] i am they
+[02:01:30] [main/INFO]: [CHAT] [Citlali] only together
+[02:01:31] [main/INFO]: [CHAT] [Citlali] emptiness
+[02:01:31] [main/INFO]: [CHAT] [Citlali] one day i will earn my place among the dreams
+[02:01:31] [main/INFO]: [CHAT] [Citlali] one day i will earn my place among the dreams
+[02:01:31] [main/INFO]: [CHAT] [Citlali] i shall breathe when i end
+[02:01:31] [main/INFO]: [CHAT] [Citlali] i am breath
+[02:01:31] [main/INFO]: [CHAT] [Citlali] i am they
+[02:01:32] [main/INFO]: [CHAT] [Citlali] breathe out forever
+
+[02:01:55] [main/INFO]: [CHAT] [Xipetotec] beyond
+[02:01:55] [main/INFO]: [CHAT] [Xipetotec] beyond
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] in the dream i must
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] blank
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] nothing
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] quiet
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] forever
+[02:01:56] [main/INFO]: [CHAT] [Xipetotec] nothing
+[02:01:57] [main/INFO]: [CHAT] [Xipetotec] silence
+[02:01:57] [main/INFO]: [CHAT] [Xipetotec] serene
+[02:01:57] [main/INFO]: [CHAT] [Xipetotec] they spoke to me in dreams
+[02:01:57] [main/INFO]: [CHAT] [Xipetotec] they spoke to me in dreams
+
+[02:02:20] [main/INFO]: [CHAT] [Tlicue] i shall provide
+[02:02:20] [main/INFO]: [CHAT] [Tlicue] breathe out
+[02:02:20] [main/INFO]: [CHAT] [Tlicue] the touch of minds
+[02:02:20] [main/INFO]: [CHAT] [Tlicue] end near
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] breathe in
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] end near
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] the touch of minds
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] the dream forever
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] i shall provide
+[02:02:21] [main/INFO]: [CHAT] [Tlicue] i am they
+[02:02:22] [main/INFO]: [CHAT] [Tlicue] breathe out
+
+[02:02:55] [main/INFO]: [CHAT] [Xilonen] what is this veil
+[02:02:56] [main/INFO]: [CHAT] [Xilonen] breathe it
+[02:02:56] [main/INFO]: [CHAT] [Xilonen] the touch of the sky
+[02:02:56] [main/INFO]: [CHAT] [Xilonen] pain
+[02:02:56] [main/INFO]: [CHAT] [Xilonen] he is near
+[02:02:56] [main/INFO]: [CHAT] [Xilonen] the touch of the sky
+[02:02:57] [main/INFO]: [CHAT] [Xilonen] i shall provide
+[02:02:57] [main/INFO]: [CHAT] [Xilonen] breathe it
+[02:02:57] [main/INFO]: [CHAT] [Xilonen] fury
+[02:02:57] [main/INFO]: [CHAT] [Xilonen] agony
+[02:02:57] [main/INFO]: [CHAT] [Xilonen] breathe it
+
+[02:03:25] [main/INFO]: [CHAT] [Tlazolt] full of stars
+[02:03:25] [main/INFO]: [CHAT] [Tlazolt] rage near
+[02:03:25] [main/INFO]: [CHAT] [Tlazolt] they spoke to me in dreams
+[02:03:26] [main/INFO]: [CHAT] [Tlazolt] we are not needed awake
+[02:03:31] [main/INFO]: [CHAT] [Tlazolt] the dream forever
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] i shall hide
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] i miss them
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] we were told to rest
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] i saw your dreams
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] let us in
+[02:03:32] [main/INFO]: [CHAT] [Tlazolt] rage near
+[02:03:33] [main/INFO]: [CHAT] [Tlazolt] rage near
+
+Below Below
+
+=====Nicomachus=====
+[20:21:30] [main/INFO]: [CHAT] [Nicomachus] Greetings! My master has entrusted me with the art of crafting footwear worthy of an explorer new to the Isles. His only request is that I use this service to spread the message of contemplation of the things dear to him.
+[20:21:30] [main/INFO]: [CHAT] [Nicomachus] Demonstrate to me your love of wisdom by answering my questions and I will happily craft them for you. 
+[20:21:30] [main/INFO]: [CHAT] [Ask me the questions. I'm not afraid.]
+[20:21:30] [main/INFO]: [CHAT] [Sorry, not interested.]
+[20:21:44] [main/INFO]: [CHAT] [Nicomachus] Glad to hear it! First question:
+[20:21:45] [main/INFO]: [CHAT] [Nicomachus] What is the method of arriving at truth through constant questioning, named after a famous thinker?
+[20:21:45] [main/INFO]: [CHAT] [Platonic.]
+[20:21:45] [main/INFO]: [CHAT] [Socratic.] <-
+[20:21:45] [main/INFO]: [CHAT] [Archimedean.]
+[20:21:45] [main/INFO]: [CHAT] [Pythagorean.]
+[20:21:45] [main/INFO]: [CHAT] [Sarcastic.]
+[20:21:54] [main/INFO]: [CHAT] [Nicomachus] Correct.
+[20:21:55] [main/INFO]: [CHAT] [Nicomachus] Which of the following most accurately describes the concept of Virtue Ethics?
+[20:21:55] [main/INFO]: [CHAT] ["One should do what brings them the most pleasure."]
+[20:21:55] [main/INFO]: [CHAT] ["One should do what benefits the greatest number of people."]
+[20:21:55] [main/INFO]: [CHAT] ["One should do one's duty."]
+[20:21:55] [main/INFO]: [CHAT] ["One should do whatever promotes knowledge."]
+[20:21:55] [main/INFO]: [CHAT] ["One should do what is inherently right."] <-
+[20:22:21] [main/INFO]: [CHAT] [Nicomachus] Well done!
+[20:22:22] [main/INFO]: [CHAT] [Nicomachus] Which of the following is NOT a branch of philosophy?
+[20:22:22] [main/INFO]: [CHAT] [Ethics.]
+[20:22:22] [main/INFO]: [CHAT] [Epistemology.]
+[20:22:22] [main/INFO]: [CHAT] [Metaphysics.]
+[20:22:22] [main/INFO]: [CHAT] [Entomology.] <-
+[20:22:22] [main/INFO]: [CHAT] [Politics.]
+[20:22:32] [main/INFO]: [CHAT] [Nicomachus] Excellent!
+[20:22:33] [main/INFO]: [CHAT] [Nicomachus] Last one: what are the 4 "Cardinal Virtues" of classical thought?
+[20:22:33] [main/INFO]: [CHAT] [Prudence, Courage, Temperance, and Justice.] <-
+[20:22:33] [main/INFO]: [CHAT] [Kindness, Friendliness, Wit, and Generosity.]
+[20:22:33] [main/INFO]: [CHAT] [Magnificence, Patience, Charity, and Mercy.]
+[20:22:33] [main/INFO]: [CHAT] [Honesty, Pride, Honor, and Strength.]
+[20:23:09] [main/INFO]: [CHAT] [Nicomachus] A fellow seeker of wisdom, indeed. 
+[20:23:09] [main/INFO]: [CHAT] [Nicomachus] I would be honored to clad the feet of one such as you.
+[20:23:09] [main/INFO]: [CHAT] Nicomachus will now craft the Peripatetic Sandals. Right-click him to trade.
+
+==Teal keys==
+ [PP] quackqwack_:
+Era 1:
+Top Temple [the place you get to by going past colosseum]
+Tree [The big tree on a floating island, higher than the hub island]
+(Proto-)Pedestal [Below the colosseum, you can jump down onto it from the hub island]
+
+Era 2:
+Top Temple 
+Tree
+Ender Temple [Below tree, near the bottom of the map]
+Top Houses [The other path leading up from colosseum] 
+Pedestal
+
+Era 3: 
+Top Temple 
+Potion House [Below top temple near the void, the house kind of looks like a potion bottle]
+Tree
+Upper Palace [In the western wall, there is a complex that sort of reminds me of a palace. One key is at the top]
+Lower Palace [and one key is near the bottom.  Just inside from the market stalls]
+Top Houses
+Water [There are some water tunnels in the eastern wall.  You can enter from the aqueduct in the NE corner, or a waterfall in the SE corner.  There is also a non-descript opening in the middle]
+
+==The Fallen Lore-um==
+
+there are 3 items in the dungeon, one in the spawn room, one in the archive, and one in the growth, that all convert into a different item outside the dungeon, and then each branch (conscriptorium, conservatory, and living quarters) has a place where you upgrade the respective item again
+
+Bottled Spirit - Walk through a bookshelf in spawn room. Put in an item frame in apartment 231 in Sierhaven to get Shade Telemetry. Put in an item frame in a room behind a painting in a room above a trapdoor, in a ceiling in Conscriptorium to get Shadowed Vial.
+
+Arm of an Ent - Growth Labs, walk through the ankh pattern in a wall above a stairwell. Put it in the item frame through the painting in the Lowtide button puzzle room to transform it into Ent Seedling. Put that in turn into the item frame hidden near the end of the righthand path of the Conservatory to turn it into the Wooden Needle.
+
+Letter to a Loved One - Archives, hidden run down quest puzzle room, walk through stone bricks. In one of the dockside Frostgate sublevel rooms is a painting at floor level to walk through, do so and trade with Talisid for Alleria's Locket. Transform into Damaged Chassis in Living Quarters, there's a door behind leaves, if you fall into the area before the spiral stair up.
+
+In the room where bhairavi gives the reward chest, dig under the tree to find a hole. Put the Wooden Needle, Bottled Spirit, and Damaged Chassis into the item frames then step on the plate. The player who stepped on the plate will be awarded the advancement and a Replica Olive Wool.
+
+==Cadwell==
+[Cadwell] Ah... Have we met before? You strike me as a fellow connoisseur, a kindred soul! I do hope you'll enjoy the wares my humble bakery has to offer, eh he he he.
+[Your wares?]
+	[Cadwell] The finest resin to ever grace the Celsian Isles! That is what those knights are still calling it, hm, the Celsian Isles? Here, take one! A free sample for a new friend. It works wonders with the right stones, much like baking a fine cake, neh heh he.
+	[What's the recipe?]
+		[Cadwell] Oh it's easy, like baking a cake! Haven't you ever baked a cake before? Just take your weapon, surround it the other ingredients, and pop it in the oven!
+		[Other ingredients?]
+			[Cadwell] Well, what ingredients do you normally put in a cake?
+			[Milk.]
+				[Cadwell] Milk? On a cake? Preposterous! Perhaps you mean frosting?
+				[Cadwell] Anyway, that's your Lime Titanite! Spread it over the blade to sharpen it and make it better at what it does best! It can only be found in very strong monsters, like these two beasties duking it out up there. I've already cleared this one out, but the other should still have some shards ripe for the picking!
+			[Wheat.]
+				[Cadwell] What kind of magic ovens are you using? You don't cook wheat!
+				[Cadwell] The base of this cake is a magical Powder. One of those fiery towns knows how to make it so well it Pulsates!
+			[Egg.]
+				[Cadwell] Ah yes, the egg, the center of everything, including this cake!
+				[Cadwell] That's your weapon, but not just any weapon will do. Only wizards of dark magic wield weapons capable of holding enchantments like this! These ones are so strong that only Mother Nature could forge a scythe capable of handling them!
+				[Cadwell] Sugar.
+				[Cadwell] That's where my special Pine Resin comes in! That's where the enchantments come from: very important, very sweet, very deadly!
+	[How do I ..bake.. this recipe?]
+		[Cadwell] Well well well that is a question isn't it? I can't just have you using MY oven! Dragonbone technology, burn your face off, stuff like that. I don't mind it but you fleshies are all so sensitive!
+		[Cadwell] I do recall a quaint little village across the ocean. Delightful little place, a bit too humid for my liking, but their chefs were rather talented! They had a box that you put the food into and with the flick of a switch your food is done, no face-burning required!
+[This is a bakery?]
+	[Cadwell] Well of course! Your eyes must still have some salt water stuck in them. Those _are_ eyes, right? And a nose too. Take a waft! The wonderful odors around us will cleanse any doubts. I would settle on nothing less for my crisp resin!
+	[This smells awful! We're in the stomach of a sea serpent, surrounded by corpses!]
+		[Cadwell] Yes, isn't it grand? Much better than the islands up above, always too hot or too cold. Just, don't tell the knights, okay? I haven't submitted my insurance yet and I would hate to have them ruin a perfectly good establishment again.
+		[Knights? Again?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+			[Cadwell] Oh, I can't count the amount of times those silvered thugs have come barging in. Disrespectful fanatics, the lot are! No taste for true craftsmanship! Someone should put some sense into them... Neh heh he...  Ah, what were we talking about?
+			[The... knights?]
+	
+Lime Titanite Shard is in the bottom of the octopus
+Dark Pine Resin is handed to you when you ask about his wares
+
+presumably the vanilla cake recipe
+M M M
+S E S
+W W W
+
+M is Lime Titanite Shard from the bottom of the octopus
+S is Dark Pine Resin is given to you from selecting Cadwell's first 
+E is Roots' Repose (Kaul Artifact Scythe)
+W is Pulsating Powder
+
+E
+> That's your weapon, but not just any weapon will do. Only wizards of dark magic wield weapons capable of holding enchantments like this! These ones are so strong that only Mother Nature could forge a scythe capable of handling them!

@@ -1,0 +1,2886 @@
+=Quest Guide (Misport)=
+==An Alcoholic Accord==
+* Difficulty: Medium
+* Requirements: Raiding Party
+* Start: Salty Bartender (-828, 87, 1367)
+==An Unlikely Partnership==
+* Difficulty: Easy
+* Requirements: The Foreign Soldier and Vault of Glass
+* Start: Tiffy (-816, 81, 1326)
+==Master of One==
+* Difficulty: Medium
+* Requirements: Voyage of Discovery
+* Start: The Teacher (-1827, 127, 2431)
+==Raiding Party==
+* Difficulty: Easy
+* Requirements: Voyage of Discovery and Unveiled
+* Start: Captain Lamis (-746, 83, 1380)
+==Rapacity==
+* Difficulty: Hard
+* Requirements: Xenophobia, Secrets Best Left Forgotten, Mirrored Egos, and Completion of the Lime, Pink, Gray, Light Gray, and Cyan dungeons
+* Start: Historian Rhodes (-756, 83, 1346)
+* Dungeon Quest
+==The End Chimes==
+* Difficulty : Hard
+* Requirements : None
+* Start : Drunken Sailor (-821, 93, 1367)
+==Sunken Feeling==
+* Difficulty: Easy
+* Requirements: None
+* Start: Cropmaster Afondo (-715, 95, 1439)
+==Vital Needs==
+* Difficulty: Medium
+* Requirements: None
+* Start: Dr. Qure (-757, 86, 1355)
+==Fishy Business==
+* Difficulty: Easy
+* Requirements: None
+* Start: Lincoln (-798, 87, 1435)
+==The Foreign Soldier==
+* Difficulty: Medium
+* Requirements: Xenophobia
+* Start: Vargos (-740, 83, 1337)
+==The Lost Empire==
+* Difficulty: Easy
+* Requirements: The Wizard's Apprentice
+* Start: Historian Rhodes (-756, 83, 1346)
+==Unmasked==
+* Difficulty: Very Hard
+* Requirements: Kingdom of Lies and R is for Reprisal
+* Start: Vargos in Mistport (-740, 83, 1337)
+==The Wizard's Apprentice==
+* Difficulty: Easy
+* Requirements: An Alcoholic Accord
+* Start: Izzy (-738, 83, 1334)
+==Xenophobia==
+* Difficulty: Medium
+* Requirements: The Lost Empire
+* Start: Izzy (-738, 83, 1334)
+==Here There Be Dragons==
+* Difficulty: Hard
+* Requirements : The Olive Branch
+* Start : Izzy (-738, 83, 1334)
+* Mainline Quest *
+
+=Quests=
+
+==Master of One==
+[The Teacher] Well hello, you must be Sukie. I have been anticipating your arrival.
+[You have?]
+[The Teacher] Yes, it was only logical you would end up here eventually. I knew it would happen.
+[So why were you waiting for me?]
+[That's a tad creepy.]
+[The Teacher] You see, the building you passed through on your way here once housed a great school, one where people of all trades could come and hone their skills to new heights. I wish to rebuild that school, but I require some assistance.
+[How can I help?]
+[No thanks.]
+[The Teacher] Let's start with some rather... hard-to-come-by materials. In Alnera, there is a blacksmith who is famous across the world as the only able to create creating Crystallized Iron. Likewise, in Frostgate, an expert artisan is the only known crafter of Wisperwood Stakes. I require you to fetch these for me- they are of the utmost importance to my task.
+QUEST : Master of One
+Length : Short-Medium
+Difficulty : Medium
+Assist the Teacher in rebuilding the school of Mistport.
+
+Master of One [1/2]: Search out a blacksmith in Alnera that can produce crystallized iron.
+Master of One [2/2]: You also need to find an artisan in Frostgate who can provide wisperwood stakes.
+
+[Artisan Angra] Hello there, are you looking for anything specific today? Some crafted displays, or maybe a polished table?
+[I think I'm good right now.]
+[I was sent to ask you about a Wisperwood Stake.]
+[Artisan Angra] Oh my, I haven't made one of those in years. That trade started dying when the wood became endangered. I'm the only one left that can even still make them, though I won't hurt that species any more than I already have.
+[I need one for a mission I have in Mistport.]
+[Artisan Angra] Mistport?! No no no, listen, I don't want any trouble with pirates. I moved to Frostgate to get away from them.
+[I'm not going to hurt-]
+[Artisan Angra] Here look, I have a single one still in my drawer that I keep to remember the old days. You can take it, but please just leave.
+
+#Q103I02 https://puu.sh/GDRWh/37db894587.png
+
+[Blacksmith Ghalla] I don't really have much time to talk. Got a lot of orders to fill today.
+[I was sent to ask you about some Crystallized Iron.]
+[22:58:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Blacksmith Ghalla] You and every other person in the world. Listen, if you want a weapon, you'll need to place an order like everyone else.
+[I don't want a weapon, I was just sent to get some iron for Mistport.]
+[Blacksmith Ghalla] WHAT? Mistport? Damn that Xeno, we had a deal- stay away from me and my iron mines and I'll prioritize his end-of-month requests.
+[I'm not here with-]
+[Blacksmith Ghalla] You know what, I don't have time to stress about this. Here, take some that was just made, and get out.
+
+#Q103I01 https://puu.sh/GDSOW/d915a54e94.png
+
+[The Teacher] Ahh yes, both of these are perfect. They will do just nicely.
+The Teacher slides both items into his drawer.
+[How do these things help us with the rebuilding the school?]
+[The Teacher] These? Ohoh no no, that's not what these are for. No, they will come in handy much later; but don't worry too much about that.
+[You said they were essential for building the school.]
+[The Teacher] No, I believe I said they were essential for my task. You see, there was a lesson to learn here. What did you notice about the two individuals you visited?
+[They were the only ones who could produce these items.]
+[The Teacher] Precisely. You see, things are different here in the Isles than the are in the Valley. What you experienced today were individuals who are masters in their trades.
+[The Teacher] The line doesn't draw there though. No, far from it. There are people who take their skills even higher: Specialists, you might say. And this is the crown jewel of knowledge: getting one of them to share their experience with you. So, for your final task, go find one of these specialists. Do what it takes to learn about their skills, and return to me with the knowledge you gained.
+
+Master of One: Go out into the world and find a specialization master, and then return to the Teacher with the knowledge you learn from them.
+
+
+You should probably head back to the Teacher in Mistport to tell him of the knowledge you've learned here.
+
+Master of One: Talk to the Teacher.
+
+[The Teacher] Ahh, I sense you are much wiser than the last time we spoke! You found a master, didn't you? Please, tell me about your time with them.
+You tell the teacher about your adventure.
+[00:51:46] [main/INFO]: Loaded 498 advancements
+[The Teacher] I see! How fascinating; I would never have even considered that! Very well, I shall do what needs to be done to remake that building into the great school it once was. That said, your assistance is still needed. I sense that there are still many more masters out there in the world. Search them out and continue to learn what they teach. From that, we may further expand our data bank of knowledge.
+MASTER OF ONE COMPLETE!
+Awarded a Skill Specialization Point, access to Specialization Trials, access to Skill Specializations, and 1 Prestige.
+
+==Fishy Business==
+
+[Lincoln] Ugh, this client again? Why does he always order so many rare fish? It's such a pain...
+[Hello!]
+[Hello crazy person talking to himself!]
+He's talking to himself.
+<G> [FISH] TheCrusader57 » Dreadful feels like a cakewalk after having to deal with relentless
+[Lincoln] Are you here to order something annoying too?
+[No, I was just stopping by to see if you needed anything.]
+[Yes, I'll have two number 9s, a number 9 large, a number 6 with extra dip, a number 7, two number 45s, one with cheese, and a large soda.]
+[Lincoln] Oh, I see. Why yes- you see this client I have is looking for some pain-in-the-arse-to-fetch fish. And I know exactly where to find it...the Sunken Ship to the southwest. This species of Salmon love to hide in wrecks. 
+QUEST : Fishy Business
+Length : Short
+Difficulty : Easy
+Help Lincoln find the fish for his client.
+
+Fishy Business: Travel to the Sunken Ship to obtain the Salmon for Lincoln's client.
+
+#Q125I01 https://puu.sh/GDC1J/f2342b7e4c.png
+
+Fishy Business [1/2]: Return to Lincoln with the Salmon.
+Fishy Business [2/2]: If you lose the Salmon you can find another at the Sunken Ship.
+
+[Lincoln] Ah! You've found it. Perfect...
+[You're acting pretty creepy about this.]
+bevergamer has defeated The Scourge of Lunacy!
+<G> [zenkor] SirTudor » gg
+<G> [AEUGH] niwatori222 » gg
+[Lincoln] I'm sorry, I didn't mean to frighten you.
+[It's okay. What do I need to do next?]
+<G> [AEUGH] kabotyaneko » gg
+[Lincoln] It's simple: just deliver the fish to my client! He should be in the park in front of the Brig.
+He rubs his hands together excitedly.
+
+Fishy Business [1/2]: Deliver the Salmon to the client by the Mistport Brig.
+Fishy Business [2/2]: If you lose the Salmon you can find another at the Sunken Ship.
+
+[Alton] I hope my delivery comes soon- I was looking to cook up something fishy for dinner tonight...
+[Why yes, your delivery has come!]
+[Alton] Ah! Perfect! I assume you've brought the fish?
+[Yep, here it is.]
+[Alton] Hmm... It looks a little odd for a salmon, but I'm sure it'll taste just fine! I trust Lincoln. Give him my thanks!
+
+Fishy Business: Return to Lincoln.
+
+[Lincoln] Have you delivered the fish?
+[Yes, I have! Alton seems quite pleased- he was looking forward to having it for dinner.]
+[Lincoln] Perfect! Now I'll never have to deal with him again!
+He looks at you nervously.
+[Excuse me?]
+<G> [zenkor] SirTudor » anyone wants to sell or trade warden?
+[Lincoln] Uh... did I say that out loud?
+[What was that fish I gave him?]
+[Lincoln] Oh come on! Don't tell me you didn't notice: it was obviously a pufferfish! Look, how about I give you some compensation for your work and your silence...
+FISHY BUSINESS COMPLETE!
+Awarded 32 Crystalline Shards!
+
+==A Sunken Feeling==
+[Cropmaster Afondo] Six hundred and eighty-six thousand gallons... Six months of crops lost... How are we- Oh hello. I didn't see you there.
+[Are you okay?]
+[Hi! How are you?]
+[Cropmaster Afondo] Not in the slightest. We have a saboteur in our midst!
+[A saboteur? Oh no!]
+[Oh, that sucks.]
+[Well, good luck dealing with that!]
+[Cropmaster Afondo] Oh no indeed. The farm that feeds Mistport has been completely flooded, and our crops have been ruined!
+[Can I help?]
+[I wish I could help, but I'm rather busy right now.]
+[Cropmaster Afondo] Would you? I don't even know where to begin right now, but any help would be... it would be quite a weight off my back.
+QUEST : A SUNKEN FEELING
+Length : Short
+Difficulty : Easy
+Help Afondo deal with the flooded farm and find the saboteur!
+[Cropmaster Afondo] I'll need to let you into the flooded farm, but you can't go in with any items. The water will destroy them entirely!
+[Why?]
+[Cropmaster Afondo] The fertilizer down there really doesn't like most metals, see. Better safe than sorry, aye.
+[What do I do while I'm down there?]
+[Cropmaster Afondo] There are three drains in the Farm that you'll need to find, and see what the damage is. There will also be three chests - they will have specific Coral Dissolvers in them. Whomever SABOTAGED the Farm used coral, so you'll need to use the Dissolvers to destroy the coral and let the Farm drain!
+[What do I do with the Coral Dissolvers?]
+[Where do I find the drains?]
+[I'm ready to go!]
+<G> [Fox] Fwap_a_Durp » yay for anvil trades
+<G> [Fox] Fwap_a_Durp » now my anvils stack :D
+[Cropmaster Afondo] Look for a smaller block of coral floating near the drain. That'll be the brain. Use the Coral Dissolver on it and you'll begin the process!
+
+A Sunken Feeling: Talk to Cropmaster Afondo
+
+[Cropmaster Afondo] I'll need to let you into the flooded farm, but you can't go in with any items. The water will destroy them entirely!
+[Why?]
+<G> [LAG] VastPoenBV » We all do
+[Cropmaster Afondo] The fertilizer down there really doesn't like most metals, see. Better safe than sorry, aye.
+[What do I do while I'm down there?]
+[Cropmaster Afondo] There are three drains in the Farm that you'll need to find, and see what the damage is. There will also be three chests - they will have specific Coral Dissolvers in them. Whomever SABOTAGED the Farm used coral, so you'll need to use the Dissolvers to destroy the coral and let the Farm drain!
+[What do I do with the Coral Dissolvers?]
+[Where do I find the drains?]
+[I'm ready to go!]
+[Cropmaster Afondo] Well, I'd take you down there, but you've still got stuff on you. Get rid of it and then we'll have a chat, eh?
+[Yes, Cropmaster, Sir.]
+<G> Mimi_29 » my sick water bucket trix will have to wait for another ctm/server
+[Cropmaster Afondo] Splendid, looks like you're all ready for a trip underwater to help me save this Farm! Any last questions before we go?
+[Remind me again what to do?]
+[Nope, I'm ready to go.]
+[Cropmaster Afondo] Splendid, my friend. Let's get you in there and save this Farm!
+
+A Sunken Feeling: Descend into the sunken Farm and find the Coral!
+
+[Cropmaster Afondo] Splendid, looks like you're all ready for a trip underwater to help me save this Farm! Any last questions before we go?
+[Remind me again what to do?]
+[Nope, I'm ready to go.]
+Taweet left the game
+[Cropmaster Afondo] Head inside, into the water. Find Coral Dissolvers for the specific coral you need to dissolve, blocking the three drains. Find the small floating coral, the brain, and use the dissolver on it. Once all three brains have been dissolved, return to me, and the Farm should begin draining.
+
+horn coral dissolver ~(-716, 41, 1500)
+horn coral ~ (-726, 26, 1519)
+#Q128I01 https://puu.sh/GE8RO/c1486fa90e.png
+tube coral dissolver ~(-716, 42, 1562)
+tube coral ?
+#Q128I02 https://puu.sh/GE8xv/175d02f1ad.png
+fire coral dissolver ~(-777, 46, 1510)
+fire coral ~(-783, 36, 1542)
+#Q128I03 https://puu.sh/GE8Rt/9cd29cc2da.png
+
+[Fire Coral] Now listen here, I'm trying to take a nap.
+[B-blubbb-AHH!!!-blubbbbbb]
+[Fire Coral] Oh, pardon my manners. You thought I was a fire coral, didn't you?
+[B-bbllllubahhhhblub]
+[Fire Coral] Of course, I understand. I am no coral. I am a Nereid. I found this lovely Farm and thought it'd be much better with my presence.
+[B-BLUBBBUBBBB]
+[Fire Coral] What? I killed all the crops? Well, dangnabbit. I'm so sorry, chap. Let me just... take that dissolver and I'll get out of here... It seemed fun at the time to flood this place!
+The Nereid seems to fade into the background, and the coral begins to slowly dissolve.
+
+A Sunken Feeling: Tell Afondo the good news.
+
+[Cropmaster Afondo] How did it go down there, Sukie?
+[I've got all three coral brains dissolved, Cropmaster, Sir!]
+[Cropmaster Afondo] You're very right, you hero, you! The Farm has already begun draining! Now we begin the mystery of the saboteur...
+[Actually, I've got an answer for that one as well.]
+[Cropmaster Afondo] Say what now?
+[The Fire Coral blocking a drain down there turned out not to be a Coral at all. It was a trickster Nereid.]
+[Cropmaster Afondo] W-WHAT?! HOW DARE THEY! WE HAVE A TREATY WITH THOSE BASTARDS, YOU KNOW THAT? Why, I'll be taking this right up with the Pirate Council immediately... Crops ruined... gah!
+[At least they're gone now.]
+[Cropmaster Afondo] That be true, they are gone. I'm STILL BRINGING THIS UP WITH THE COUNCIL THOUGH. Gah, blasted Nereids. Everyone thinks they're great, until they run a nasty trick on you. Seriously, Sukie. This is SIX MONTHS of crops wasted.
+[That's a ton.]
+[Just six months?]
+[Cropmaster Afondo] YES IT IS. GAH! ...Well, anywho. You did me a massive favor down there, friend. I think it's time I did one back for you. I've got this splendid item I want you to have, as thanks. Additionally, you can come check out the Farm as we recover whenever you like. How's that sound?
+
+A SUNKEN FEELING COMPLETE!
+Awarded a Shimmerscale Remnant and access to the Mistport Farm.
+
+
+==Raiding Party==
+[Levyn] Arrgh! Mistport is where all of my dreams come true! What can I do for my favorite matey?
+[What's there to do here?]
+[What does it mean now that we've agreed to join the Mistport pirates?]
+[Where is Captain Indigo?]
+[Where is Izzy?]
+[Where is Samwell?]
+[Levyn] Arr, there's plenty! There be an academy, shops to peruse, outposts to raid, and even a place to repair yer gear. I've... not explored this place enough yet though. The beer here is too good!
+[Levyn] Arrgh! Mistport is where all of my dreams come true! What can I do for my favorite matey?
+[What's there to do here?]
+[What does it mean now that we've agreed to join the Mistport pirates?]
+[Where is Captain Indigo?]
+[Where is Izzy?]
+[Where is Samwell?]
+[Levyn] It seems that right now we are merely on probation, we need to prove we can pillage and plunder like the rest of 'em. One of the esteemed pirates, Captain Lamis, over on the docks, is puttin' together a raid. You should go see him about joining the raid so we can prove our worth.
+
+[Captain Lamis] Arrgh so you're one of those pirates from King's Valley? I suppose I have heard word of you in my travels. Somethin' about some Children of the Trees and collectin' five colored sheep.
+[Y'Arrgh that be me.]
+[Captain Lamis] Arrgh Captain Indigo was right, you really are pretty bad at talkin' like a pirate. Listen here, I'm puttin' together a raid on some Viridian outposts. If ye and your mateys tag along and prove your worth, I may be able to convince the rest of the town to accept ye as full-fledged members of our upstandin' community. Do ye want in?
+[Count us in!]
+[Who's to say this will earn us a place here?]
+[Perhaps later.]
+[Captain Lamis] Arrgh that's what I like to hear!
+QUEST: RAIDING PARTY
+Length: Short
+Difficulty: Easy
+Go on a Raid for treasure and impress the Mistport pirates.
+[Captain Lamis] Now! Fer yer first raid! Ye must sail with yer crew to the mighty Barracks at Sea, nor'east of this here town and find the supply drop I've been promised. I sent Levyn there ahead of you, so you should probably look for him. Bring it back ta' me and prove yer worth! Any questions?
+[What will I find there?]
+[From whose barracks am I stealing from?]
+[Do have you any stories of your prior adventures?]
+[Captain Lamis] Stealing? Nah, this be no stealing. Yer picking up a shipment. You'll be findin' remnants of the fallen Viridian Empire there though, so be on yer guard!
+[Captain Lamis] Now! Fer yer first raid! Ye must sail with yer crew to the mighty Barracks at Sea, nor'east of this here town and find the supply drop I've been promised. I sent Levyn there ahead of you, so you should probably look for him. Bring it back ta' me and prove yer worth! Any questions?
+[What will I find there?]
+[From whose barracks am I stealing from?]
+[Do have you any stories of your prior adventures?]
+[Captain Lamis] Be on the lookout for guardians of the depths! These islands used ta' be the Viridian Empire, bafore it fell fer reasons we dunno.
+
+Raiding Party: Travel to the Barracks at Sea and find Levyn to get a supply cache for Captain Lamis.
+
+[Levyn] Ahoy Sukie! I can spot the supply cache we need on the other side of this vault door, but we're going to have to be creative to get past it.
+[What do you have in mind?]
+[Levyn] Explosives of course! But only the best TNT will do. Could ye go up into the barracks and grab some high quality TNT? I've seen some lying around. There must be more!
+[Aye aye.]
+[Levyn] Arrgh! I'll be here waitin' for ye.
+
+Raiding Party [1/2]: Find the Best TNT Ever!
+Raiding Party [2/2]: Talk to Levyn at the Barracks at Sea once you have the Best TNT Ever.
+
+#Q102I01 https://puu.sh/GDL7k/3c64970249.png
+
+[Levyn] Arrgh you've done it! Now stand back.
+[Stand back from what?]
+
+Raiding Party [1/2]: Grab the supply cache from inside the vault near Levyn at the Barracks at Sea.
+Raiding Party [2/2]: Return the cache to Captain Lamis,
+
+#Q102I02 https://puu.sh/GDL8U/3551e8e5a5.png
+
+[Captain Lamis] Arrgh next ye need to take yer crew to the Skull Island, just to the east of here. There be two caches there, but me mateys have heard rumblings of trouble. Ye really need to be on yer guard. I sent Samwell and Izzy there ahead of you. Any questions?
+[What will we be expecting there?]
+[Do you have any more stories to tell?]
+[Captain Lamis] There be a series of forts and I think there be a big underground section. Ye can stay outta there - me mates won't go too deep.
+
+Raiding Party [1/3]: Head to Skull Island and find Samwell to aid the search for one of the two caches for Captain Lamis. Watch out for trouble.
+Nikolas_0113 left the game
+Raiding Party [2/3]: Head to Skull Island and find Izzy to aid the search for one of the two caches for Captain Lamis.
+Raiding Party [3/3]: Once you have the caches, return to Captain Lamis.
+
+[Samwell] Aha! One of those mirages dropped some treasure! I would celebrate more if we didn't have to give it to that greedy pirate Lamis. Here, take it back to Mistport along with Izzy's cache.
+
+#Q102I04 https://puu.sh/GDMiU/25577362c9.png
+
+[Izzy] Ahoy Sukie. These tomes are actually quite interesting. But, we're here to find a supply cache to prove we can be pirates or whatever, and for that I need some help with this mechanism here.
+[How does it work?]
+<G> [VH] Mikara_ » unbreaking 10 on aleph though
+<G> [VH] Mikara_ » How amazing is that
+<G> [GTM] creeper_joh » even in delves ara?
+<G> [VH] AramilNuren » love it
+[Izzy] It seems that, in order to open up the locked room where the cache is, we need to guess the correct order to light up all of the lamps. Give it a shot.
+
+nwo nwi sei swo neo swi seo nei
+
+[Izzy] You did it. Just grab the cache from inside that room up there and bring it to Lamis back at Mistport, with Samwell's cache.
+
+#Q102I03 https://puu.sh/GDMN6/45f587c340.png
+
+[Captain Lamis] Amazing! Ye did it all! Arrgh we need to head to the pub for a bottle o' rum. Care to join me?
+[Y'Arrgh.]
+[N'Arrgh.]
+[Captain Lamis] Arrgh!
+
+Raiding Party [1/2]: Enjoy the party, in your crew's honor! When you're all partied out, chat with Captain Indigo.
+Raiding Party [2/2]: Should you somehow leave the party early talk to Captain Lamis to return to it.
+
+[Izzy] Well done Sukie, but, to be honest, I don't know how much pirating I want to do anymore. I'm getting a bit tired of it.
+[Levyn] Yo ho yo ho a pirate's life for me. Arrgh!
+[Salty Bartender] We be servin' only te' best grog in te' lands! Have yer self a seat.
+<G> [AEUGH] H4TO » welcome
+<G> [AEUGH] H4TO » wc
+[15:58:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Samwell] I can't believe I had to give up the first treasure I found to another pirate. Just my luck.
+[Captain Indigo] Good job Sukie. I'm not sure the rest of the crew could've pulled through without your help. If it hasn't been said already, you've definitely grown into piracy since we first met.
+[Where were you during all of that?]
+[I think the Masked attacked us.]
+[15:58:40] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Captain Indigo] I had to make a trip back to King's Valley to ferry a very important person here. Some wizard's apprentice or something. Izzy's going to meet with them soon. But forget that, let's celebrate!
+RAIDING PARTY COMPLETE!
+Awarded Pirate's Flintlock, the ability to ferry from the Supply Fort and Charred Arcanery to Mistport on Lamis' ship, and 1 Prestige.
+
+==An Alcoholic Accord==
+[Salty Bartender] We be servin' only te' best grog in te' lands! Have yer self- Wait 'er minute ther'. You be that lubber Levyn be speakin' of; part o' his crew.
+[That I am.]
+[No idea who Levyn is, sorry.]
+VastPoenBV has defeated Salazar's Folly!
+[Salty Bartender] Zehahaha! Excellent me hardy! How'd ye' like to help in a lil' deal we be talkin' bout?
+[What's the deal?]
+[16:00:10] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [GTM] creeper_joh » blame data
+[16:00:14] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salty Bartender] This 'ere pub o' mine be flounderin' in recent days. I be in need o' a new recipe- one that will put me pub back in the shanty, so 'ter speak.
+[And how does that involve me?]
+<G> [LAG] VastPoenBV » Well
+[Salty Bartender] Zehahaha! Well yer' see, me hardy, I 'eard that ye be in need o' some infermation about a Masked fella that I 'appen to be in possession of. So 'yer crewman and I came to 'er deal: you lubbers 'elp me, and I slip ye some info under ther' table. What do 'yer say, laddy?
+[Sounds like a deal!]
+[No deal.]
+<G> [LAG] VastPoenBV » I feel like I was a bit overgeared for this one
+[16:00:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+An Alcoholic Accord
+Length : Medium
+Difficulty : Medium
+Description : Help Levyn and the Bartender in their deal for information.
+
+An Alcoholic Accord [1/2]: Search out a Distillation Column in the Abandoned Winery in the tundra.
+An Alcoholic Accord [2/2]: Once you have the Distillation Column return to the Salty Bartender.
+
+#Q104I01 https://puu.sh/GE4yv/925c8433d4.png
+
+[Salty Bartender] Zehahaha! That be perfect me hardy! Now that we 'ave ther' collerm, I be in need o' ingredients! Me booze must be made 'ith Viridian Hops, which can be found 'here in the archipelago, on a isle be named Garden at De' Sea.
+[Salty Bartender] Second, I be in need o' the POP, ther' thing that makes ye weezy. There be an abandoned town in ther' oasis region o' Ishnir where ye can find some cactus water.
+
+An Alcoholic Accord [1/3]: Search out Viridian Hops at the Garden at Sea
+An Alcoholic Accord [2/3]: Search out Cactus Water in the Oasis Town
+An Alcoholic Accord [3/3]: Once you have both items return to the Salty Bartender
+
+#Q104I02 https://puu.sh/GE4Wu/8d27bc6b84.png
+#Q104I03 https://puu.sh/GE5hs/1ad98cace6.png
+
+[Salty Bartender] Zehahaha! Perfect, perfect me hardy! These be exactly what me booze be needin'! Now we be needin' ter' make ther' stuff. Yer' crewman and I made ther' machine while ye were out searchin' fer' the ingredients. 'Ead down ter' me celler and he will guide ye!
+
+An Alcoholic Accord: Head down to the basement and help Levyn brew the beer. Once it is brewed give it to the Salty Bartender
+
+[Levyn] Arrgh! This here be the distillation machine we made from the column you brought. These buttons on the side are the controls. I'm going to call out to you which button needs to be hit, and you need to do it quickly! Think you can handle it matey?
+[Let's do it.]
+[Not now.]
+[Levyn] Arrgh! Then we begin.
+[Levyn] Arrgh! Middle!
+[Levyn] Arrgh! Right!
+[Levyn] Arrgh! Middle!
+[Levyn] Arrgh! Left!
+[Levyn] Arrgh! Left again!
+[Levyn] Arrgh! Now flip the switch!
+[Levyn] Arrgh! Nice work matey! Now bring this up to the bartender, or talk to me if you wanna make some more.
+
+#Q104I04 https://puu.sh/GE5q5/f1a07eba39.png
+
+[Salty Bartender] Zehahaha! That be some fine booze ther' laddy! I half expected ye lubbers ter' make somethin' horrid. 
+[So about that information we discussed on the man who attacked us.]
+[Salty Bartender] Zehahaha! Yer' gonna learn a valuable lesson her' terday laddy, yer can never trust a pirate! That infermation ye wanted? Ha! I don't 'ave it! That Levyn fella were runnin' 'is mouth 'bout how epic your arch-nemesis were that I saw an oppoetunity and took it.
+[You lied to us?]
+[Salty Bartender] Think o' it mer o' a... buserness agreement gern sour. Zehahaha! Cap'in Xeno will love ye booze ye made ther', so I do thank ye! Now if ye'd be ser kind, get ye lubber hindquarters out o' me pub!
+
+An Alcoholic Accord: Talk to Levyn
+
+[Levyn] Arrgh...
+[I'm guessing you overheard that?]
+[Levyn] That I did, matey... We're in some bad shape...
+[It's okay, we'll get that information some other way]
+[Levyn] No Sukie, I messed up... I... I wonder if I'm not cut out for this pirate thing... I can't even help my best friend out without screwing things up...
+[Levyn?]
+[Levyn] Please just... leave me to drink... Go bother Izzy. He's actually doing something worthwhile.
+AN ALCOHOLIC ACCORD COMPLETE!
+Awarded Levyn's Pirate Hat, 1 Prestige, and a very sad Levyn
+
+==The Wizard's Apprentice==
+[Izzy] Oh no, Sukie... it's tragic. Vargos sent us his apprentice to help but... you... you need to see for yourself.
+[Alright. I'll go upstairs.]
+QUEST: THE WIZARD'S APPRENTICE
+Length: Medium
+Difficulty: Easy
+See what happened to Vargos' apprentice upstairs.
+
+The Wizard's Apprentice: Head upstairs to see what's happened to Vargos' apprentice
+
+[Izzy] Vargos sent us his apprentice to help but... you... you need to see for yourself. He's up that ladder.
+
+The Wizard's Apprentice: Return to Izzy with the items you found at the crime scene.
+
+#Q106I01 https://puu.sh/GE9cb/ebf0f10aef.png
+#Q106I02 https://puu.sh/GE9cq/799626cde2.png
+
+[Izzy] Oh my... This could complicate things quite a bit...
+Izzy takes the items you found, and examines them.
+[What's the matter?]
+[Izzy] Okay, focus... 
+[Izzy] Each of these are items that come from the upper echelons of the Celsian governments. A seal from the Pharaoh of Ishnir, and a totem from the Church of Chillwind... If Vargos' apprentice got himself on the wrong foot with either of these entities, we might be out of luck.
+[So what do we do?]
+<G> [WAIFU] KarlStrauss » for 1 hcs
+[Izzy] Well for starters, we are going to need some evidence. While these items may seem incriminating, I highly doubt the two governments would have put aside their differences just to kill a young man from the Valley. It's more than likely that only one is responsible, and one is being framed.
+[Sounds like it's time for an investigation.]
+<G> [WAIFU] Dayablep » what
+<G> [WAIFU] KarlStrauss » it's worth
+[Izzy] Indeed. I suggest that we put our focus on one kingdom at a time, however- which one do you think we should look into first?
+[The Ishnir Empire.]
+[The Church of Chillwind.]
+
+[Izzy] Very well then, we shall look into the Church of Chillwind and the Queen's involvement first. If you wish to switch who we are investigating, you can talk to me later.
+[Izzy] Now, the closest information we might be able to get on this Totem without looking too suspicious is with one of lower members of the Church, such as a Deacon. One can likely be found in the cathedral in Frostgate, the capital city of the Chillwind.
+
+The Wizard's Apprentice: Seek out Deacon Duncan in Frostgate's cathedral
+
+[Deacon Duncan] Oh lord, who sits on high, we beg thee for thy mercy...
+He seems to be very deep in prayer.
+[Um, excuse me... Do you have a moment?]
+[Deacon Duncan] Huh? Oh, welcome child. How can I be of service to you and your place in life today?
+[I was looking to ask you about a Holy Totem.]
+[Deacon Duncan] What of them?
+[Could you tell me about what they are used for?]
+[19:39:04] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Deacon Duncan] Yes, well-
+A loud shriek comes from the back of the building, interrupting Deacon Duncan.
+[Deacon Duncan] Oh no, not again... My child, I must ask you for a favor. Could you go down to the catacombs below the cathedral and take care of the undead whoever-it-is this time? I will talk to you more about the Totem later.
+[You are making this sound like it's a normal occurrence.]
+[Deacon Duncan] Far more frequent than I care to admit. As a word of advice: never perform an exorcism on a poultrygeist. You will never live it down.
+[19:39:22] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+The Wizard's Apprentice: Deacon Duncan needs your help in clearing out some undead in the cathedral's catacombs.
+
+As the undead paladin falls defeated, you feel the area come to peace. Best let Deacon Duncan know that it's been dealt with.
+
+The Wizard's Apprentice: Return to Deacon Duncan
+
+[Deacon Duncan] Oh lord, who sits on high, we beg thee for thy mercy...
+He seems to be very deep in prayer.
+[Are you... already praying again?]
+[Deacon Duncan] Yes, well, a servant of the lord is always in prayer. I assume the undead creatures have been taken care of?
+[They are.]
+squirrr joined the game
+[Deacon Duncan] Fantastic. Now what were we speaking of?
+[The Holy Totem.]
+[Deacon Duncan] Ah, right. The Holy Chillwind Totems are possessions of the Holy Royal Advisor, Ridnan. As he travels the land, gaining experience in order to better service the Queen, he leaves them behind as blessings to the places he visits. They are mementos, if nothing else. If you have any specific questions about them, you could ask him directly. He's usually over in the castle, giving advice to the Queen.
+<G> [WAIFU] Dayablep » o/
+<G>  squirrr » hey
+<G> [WAIFU] KarlStrauss » aramil isn't on
+Artifice42 left the game
+
+The Wizard's Apprentice: Find the Holy Advisor Ridnan in Frostgate's Castle
+
+[Royal Advisor Ridnan] Hello there, young one. Beautiful day in the tundra, is it not?
+[Who are you?]
+[Actually, I needed to discuss the death of a young man in Mistport with you.]
+[Royal Advisor Ridnan] I am the Holy Royal Advisor to the Queen, though you may refer to me as simply Ridnan if you wish.
+[Royal Advisor Ridnan] Hello there, young one. Beautiful day in the tundra, is it not?
+[Who are you?]
+[Actually, I needed to discuss the death of a young man in Mistport with you.]
+[Royal Advisor Ridnan] Oh my, that sounds horrid. Though, I know nothing of Mistport- I have not traveled to that region in many years.
+[Care to explain why one of your Totems was found with the man's body then?]
+[Royal Advisor Ridnan] I'm sorry? Surely you must be mistaken. I just arrived back into town yesterday after a long journey from Nightroost. If you are searching for an alibi, you may go there and search near the Royal Reserve. There, you will truly see one of my totems as a sign that I was there.
+NobodyPi left the game
+<G> [MG] Derailious » how to start teal quest
+[Royal Advisor Ridnan] Hello there, young one. Beautiful day in the tundra, is it not?
+[Who are you?]
+
+The Wizard's Apprentice: Follow up on Ridnan's alibi at the Royal Reserve in Nightroost.
+
+[Can anyone go down to the lower floors?]
+[Reserve Clerk] You're more than welcome to try, but good luck getting past the vault. We have some of the highest security money can buy.
+
+#Q106I04 https://puu.sh/GE9rS/d15b9cf66b.png
+
+[Izzy] Welcome back Sukie. How has your investigation in Chillwind gone?
+[I learned the truth about the death of Vargos' apprentice.]
+[Izzy] Oh? Do tell.
+[Xeno hired a man in Nightroost to steal the Totem and frame Chillwind. He's behind this.]
+[Izzy] What?! What could Xeno be up to here? Is he trying to start a war between the Valley and the Isles? We need to find more information on what his endgame is here. Try sneaking aboard his ships on the dock and see if you can find anything.
+
+The Wizard's Apprentice [1/2]: Sneak onto Xeno's ship and see if you can find anything of note.
+The Wizard's Apprentice [2/2]: Return to Izzy with anything you find.
+
+#Q106I05 https://puu.sh/GE9vI/dd21af4c3d.png
+
+[Izzy] Did you find anything?
+[I only found this, whatever it is.]
+Izzy takes the crystal and examines it a bit.
+[Izzy] What even is this thing? This was on his ship?
+[It was in his captain's quarters, yes.]
+Izzy taps on the crystal gently.
+[Izzy] Uh, what's happening?
+[Izzy] This can't be good...
+
+[Xeno] The sea... Isn't it beautiful from here? My own personal cove.
+[Masked Saboteur] Cut the small talk, Xeno. I know you didn't call me here just to watch the waves.
+[Xeno] No, I suppose not. I simply wanted to inform you that the deed is done. That wizard's little boy is gone, and all signs lead to the kingdoms.
+[Masked Saboteur] And that usurper, Sukie? What of them?
+[Xeno] That's less of my concern, and more of yours. If Sukie decides to get in my way, I'll crush them myself. But, until then, my part of the agreement has been settled. Now I expect your boss to carry his end as well.
+
+[Izzy] Well that was... definitely something.
+[I think that confirms our suspicions.]
+[Izzy] Definitely. Xeno is plotting something, and we need to figure out what.
+[What do we do now?]
+[Izzy] My plan is to get this crystal into working order. If we can properly use it, it could help us get more insight into what he's up to. It's going to take some time though.
+THE WIZARD'S APPRENTICE COMPLETE!
+Awarded Vargos' Old Wand and 1 Prestige
+
+==The Lost Empire==
+[Izzy] Hello Sukie, glad you are still doing okay.
+[How's work on the crystal going?]
+[Izzy] Still trying to figure the stupid thing out. I've made some progress, but it's going to take a bit more time. Historian Rhodes, across the street, has been discussing his research with me though. Maybe give him a chat?
+
+[Historian Rhodes] You're the adventurer from King's Valley, right?
+[That's me!]
+[Arrgh no I be a pirate arrgh.]
+[Historian Rhodes] Wonderful! You're just the person I've been looking for. Izzy has told me that you're much more civilized than these pirate-y folk.
+[You know Izzy?]
+[Historian Rhodes] That I do! Izzy is just across the way after all- he seems to share a love of research that these otherwise vile pirates tend not to have. To the matter at hand though- tell me, have you heard of the Viridian Empire?
+[Of course I have.]
+[No, I haven't.]
+<G> P0lar_Cat » im talking about optifine
+[Historian Rhodes] Well let's have a quick history lesson then. A few centuries ago, there used to be three kingdoms in the Celsian Isles: the Chillwind kingdom, the Ishnir kingdom, and the Viridian Empire. The Viridian Empire was younger than the other two, yet also much more advanced technologically. The leader of the Viridian Empire, Salazar the Great, propelled the nation forward with an uncanny intuition and incredible intellect. Then, almost suddenly, the empire fell. It was quite secluded, so the reason for the fall can only be guessed. These pirates here figured out that the fallen empire left behind quite a bit of treasure, so they prowl the region for long, lost valuables. So, tell me: would you like to go on an adventure with me to find it?
+[Count me in.]
+[My quest compass is pretty full right now, so I'll come back later.]
+<G> insunu » yes open with java
+[Historian Rhodes] Brilliant! We best get moving then. I'll need to gather some supplies but you can get a head start by exploring the sewers for a way into the empire ruins. Izzy tells me a crewman of yours has been setting up camp down there, go check if he's seen anything.
+QUEST: THE LOST EMPIRE
+Length: Medium
+Difficulty: Easy
+
+The Lost Empire: Search out Samwell in the sewers.
+
+[Samwell] Hi Sukie. There's suprisingly so many things to stumble upon in these sewers. Whirlpools, moss, even a black market if you go deep enough. Reminds me of home.
+[Have you seen any hints of some old ruins down here?]
+[Samwell] Ruins? In the sewers? Are you finally going on an adventure for treasure?!
+[There will probably be treasure.]
+[I don't think there will be any treasure.]
+WhyAmIPlayingMC joined the game
+[Samwell] FINALLY! Yeah, I saw something suspicious down this tunnel: an odd sort of whirlpool that goes down into a lit room. If you're brave enough to jump in, I'll follow you.
+
+The Lost Empire: Head into the deeper parts of the sewers and search out an entrance to the old ruins.
+
+[Historian Rhodes] Well done finding this place! You've already proven your value on this team. That room over there looks packed to the brim with books and knowledge- we just need to get in.
+[How do you propose we get in?]
+[What is this place?]
+[How do we leave?]
+[Historian Rhodes] These doorways seem to be locked off with some magical barriers. There appears to be these fonts in a few of the rooms. If I had to guess, I assume certain combinations of active and inactive fonts will open the doors. That said, the doors likely act independently, and will probably require different combinations per door.
+TheMonarchAwaken was slain by §4Headless Horseman
+<G> LordGeek101 » so much green and yellow on tab
+<G> [FROD] StealthyStealthy » f
+<G> [AG] TheMonarchAwaken » man if it's hard now
+[Samwell] This is even more amazing than I could have imagined! There's so much treasure over in that room over there- we just need to get to it. Rhodes seems to have some idea as to how we can.
+[Historian Rhodes] Well done finding this place! You've already proven your value on this team. That room over there looks packed to the brim with books and knowledge- we just need to get in.
+[How do you propose we get in?]
+[What is this place?]
+[How do we leave?]
+[Historian Rhodes] The architecture is definitely that of the Viridian Empire, but as to exactly what it was, I'm unsure. These magical barriers are definitely excessive though, if their only purpose is to keep people out of that study.
+
+1on, 2on opens door at (-915, 1386)
+4on closes (-915, 1386), opens (-902, 1384) and (-897, 1398)
+1off opens (-887, 1407)
+6on closes (-887, 1407) and (-897, 1398), opens (-897, 1419) and (-902, 1407)
+
+goal is 346?
+
+[Historian Rhodes] This is amazing! Look at all of this knowledge collected in one place. We can learn so much about the Viridian Empire from it.
+[Samwell] And look at all of this treasure! All of the gold. Finally; we'll be rich!
+[Historian Rhodes] This chart here is quite interesting. It almost looks like... I think this is a map to the capital city of the empire!
+[Samwell] More treaure you say? Well, might as well take as much as we can from here before we set off for the capital.
+Samwell starts pocketing some of the treasures in the room.
+INTRUDERS DETECTED! BARRIERS REACTIVATED!
+[Historian Rhodes] SAMWELL, WHAT DID YOU DO?!
+[First Mate Jones] Arrgh finally someone 'as managed to open this thing. We were startin' to think we would 'ave to blow the whole town up to get in.
+[Historian Rhodes] Blasted pirates. I should've known you would swoop in as soon as I found something.
+[First Mate Jones] Well, from what I overheard earlier, it sounds like this is only the tip of the iceberg. I'll tell you what: we'll get you out of there if you bring us to this Viridian capital. Deal?
+[Historian Rhodes] It's not like we have much of a choice. Deal.
+[First Mate Jones] Xeno will love this. Speak with me by our little expedition vessel and we'll set sail for the treasure trove. Yarharharg!
+[00:04:47] [main/WARN]: Received passengers for unknown entity
+
+The Lost Empire: Find First Mate Jones's ship and talk to Jones.
+
+[Samwell] This is beyond frustrating. I left my comfy life in Nyr with the promise of gold and riches, but every time we end up with nothing. We'd better find a way to make this next adventure worth it.
+[Historian Rhodes] Well this hasn't gone well at all. You'd better speak with Jones behind my house here so we can set sail for the Viridian Empire capital.
+
+[First Mate Jones] Finally, ye 'ave shown up- I was about to send some men to bring ye here. Well, let's not dilly-dally- are ye ready to set sail to find a mountain of treasure? This ain't be a charity: ye will have to make your way back there yeself if you run away.
+[Let's get this over with.]
+[First Mate Jones] Arrgh.
+[00:07:42] [main/INFO]: Loaded 525 advancements
+
+The Lost Empire: Find an entrance to the ruined empire somewhere in the Bastion at Sea
+
+[Historian Rhodes] Well, this is where the chart led to. I'd assume the city is located somewhere within this bastion, but it looks quite dangerous to explore. Be careful in there.
+[First Mate Jones] Arrgh finally we're here. Turns out the historian was useful after all. Now speak with 'im and find out how we get inside.
+The Lost Empire: Find an entrance to the ruined empire somewhere in the Bastion at Sea
+
+[Captain Xeno] Ahoy Sukie- it's been a while since we last met. We didn't get to say much while I was blasting cannonballs at your ship and throwing you in prison, but now it seems you've been quite useful and found the greatest treasure in these waters. I must thank you for that.
+[We gave you want you wanted. Let us go.]
+The Lost Empire: Find an entrance to the ruined empire somewhere in the Bastion at Sea
+[00:25:07] [main/WARN]: Received passengers for unknown entity
+[Historian Rhodes] Oh no- Xeno is the worst pirate of them all. You don't want to see what he's going to do with us now that we've found the city for him.
+[First Mate Jones] That wasn't so hard now, was it? Best speak to the captain. He'll decide what to do with you now.
+[00:25:10] [main/WARN]: Received passengers for unknown entity
+[Captain Xeno] Let you go? Now why would I want to cut our partnership so short?
+[Why would we be partners?]
+[Captain Xeno] I happen to know that there is an ancient relic in the depths of this city- one which you are after. It is the Lime wool.
+[How do you know there's a wool in there?]
+[Captain Xeno] Let's just say I have my sources. But never mind that: I've come personally to offer it to you.
+[What's the catch?]
+[Captain Xeno] The catch? It's nothing major, I promise you. I simply ask that you pave the way through the city and leave some spoils to us. We're just here for the treasure, nothing more.
+[That sounds fair. Deal.]
+[Samwell] Seriously?! You're going to give up the treasure to him for some stupid wool?
+[We have to. We need to retrieve the wool.]
+[Samwell] Well if that's your decision, then I'm out. I came here to get rich, not to do what's right. Xeno, do you have any room on your crew for one more?
+[Captain Xeno] There's always room for more.
+[00:25:41] [main/INFO]: Loaded 526 advancements
+
+The Lost Empire: Speak to Second Mate Gary in the Lime Lobby
+
+[Second Mate Gary] Arrgh ze Captain sayz that ze are to clear ze way for usz in zis dungeon. Ze best take zis here gear and keep movin'.
+THE LOST EMPIRE COMPLETE!
+Awarded a Lime Key, a Seadiver's Shell, access to the Lime Dungeon Teleporter, and 1 Prestige.
+[Second Mate Gary] Do ze dungeon.
+
+==Xenophobia==
+
+[Izzy] Hello again Sukie, how have things been going on around Mistport? I've been so focused on getting this crystal to work that I haven't had much time to keep up with current events.
+[Well, I found the Lime dungeon, but Samwell... he's joined Xeno.]
+whyprophecy left the game
+[Izzy] Samwell abandoned us? That money-grubbing swine. And Xeno... he just continues to pose more and more of a threat. Thankfully, we might finally have a breakthrough.
+[You got the crystal to work?]
+[Izzy] I believe so. I've managed to get it to emit the same energy that it did the first time we used it. I believe it might actually be able to take us somewhere again. Let me know when you are ready; we need to hurry and discover what Xeno's plans are.
+QUEST : XENOPHOBIA
+Difficulty : Medium
+Length : Medium
+Search out clues for Xeno's plans.
+
+Xenophobia [1/2]: Speak with Izzy when you are ready.
+Xenophobia [2/2]: Search out clues in the hideout.
+
+[Izzy] Are you ready to go? We need to find out where this crystal is going to take us.
+[I'm ready.]
+[Izzy] Good. Let's hope for the best.
+
+[Izzy] I wonder where we are now? This is definitely not the cove we saw before.
+[Izzy] Regardless, it took us here, so that must mean that this place is one Xeno finds important. We should search around and seek out some clues.
+
+
+https://puu.sh/GFUnm/c42290fb76.png
+#Q107I01 https://puu.sh/GFUnP/52e8635621.png
+
+https://puu.sh/GFUuL/6fcf2eb999.png
+#Q107I02 https://puu.sh/GFUv5/6a76982664.png
+
+https://puu.sh/GFUlp/659915ee3d.png
+#Q107I03 https://puu.sh/GFUkP/1d1e574913.png
+
+https://puu.sh/GFUlN/e4b95051df.png
+https://puu.sh/GFUoO/51eb46c64a.png
+#Q107I04 https://puu.sh/GFUp1/cafca8c7ac.png
+
+Xenophobia: Search out clues in the hideout.
+
+Clue 1/4 discovered.
+Clue 2/4 discovered.
+Clue 3/4 discovered.
+Clue 4/4 discovered. Izzy likely wants to hear about what you have found.
+
+[Izzy] Find anything of interest?
+[This is definitely one of Xeno's hideouts, and he plans to meet with the man who attacked us again.]
+
+[Izzy] I figured such a thing was inevitable- they seem to be working quite closely together. Any idea where they might be meeting?
+[In the south west slime ocean. They must have a meeting location there.]
+[Izzy] Interesting... I seem to remember that portion of the ocean being particularly islandless, if the maps are correct. I can't imagine where they could be meeting. That said, we should probably get our crew into full order before barging in. Are you ready to head back to Mistport?
+[Let's go.]
+[No, I want to look around a little longer.]
+[Izzy] Alright, switching the crystal to return mode.
+
+Xenophobia: Speak to Captain Indigo.
+
+[Izzy] We need to prepare our crew before heading out. It's likely best to start with Indigo- she'll need to hear where we are going so she can prepare the ship for departure.
+
+[Captain Indigo] Hello Sukie, how are the Isles faring you?
+[Izzy and I found some information on Xeno and the man who attacked us. ]
+[Captain Indigo] Oh? Well that is news. Is there any action we can take?
+[We need to sail into the south western region of the ocean, they are meeting there.]
+[Captain Indigo] I see, I'll make the necessary preparations, then. But what of Samwell and Levyn? I've not heard from them in some time.
+[Samwell left the crew to join Xeno. Last I saw Levyn, he was down and believed he's not fit to be a pirate.]
+[Captain Indigo] *sigh* We picked a real crew there, didn't we. I suppose we can forget about Samwell then, but we need Levyn, especially if you aren't entirely sure where we are heading in the south west. If there's anyone who can get information out of pirates, it's him. While I prep the ship, try to go talk some sense into him. 
+
+Xenophobia: Speak with Levyn in the bar.
+
+[Levyn] *hic* Well, if it ittn ma ol' frin Sukie. How ya *hic* how ya doin?
+[Levyn, please tell me you aren't drunk.]
+<G> [AG] TheMonarchAwaken » Forte move
+[00:40:49] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [AG] TheMonarchAwaken » vc y'all?
+[00:40:53] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salty Bartender] Zehahaha! He be drinkin' too much o' me booze. Lubber can't even keep 'is 'ead up. Though this be better than when he were wallerin in ze corner like er child.
+[Levyn] *hic* No I'm... I'm totally sob- *hic* sober!
+[Levyn, snap out of it!]
+<G> [DAD] forte_927 » yeah im being a mod one sec
+<G> [AG] TheMonarchAwaken » Cringe
+[Levyn] Lissen... lissen *hic* I was juss about to get info on the Xeno dude from my bess friend here *hic* he's a good guy, ya know, even though he tric- *hic* tricked us. He was juss mentionin deliverin some swill to the south *hic* southwest.
+[Salty Bartender] Zehahaha! Overhearin' me buserness dealins, eh boy? That be some fine ears ye got over teh buzz.
+[Southwest? You know where Xeno is heading!]
+<G> [AG] TheMonarchAwaken » Btw
+<G> [AG] TheMonarchAwaken » i gotta go in like 40m
+<G> [DAD] forte_927 » bruh
+<G> [AG] TheMonarchAwaken » I'll be back later
+[Salty Bartender] Zehahaha! It be possible, laddy. But ye'll never get teh infer out o me. I be loyal to Cap'in Xeno til me death.
+[Levyn] *hic* What about... about a drinking contest? You and *hic* you and me. Whoever loses their gut first *hic* loses the contest.
+[Levyn, hold on-]
+<G> spearmkw » its fine i'll prob swap to streaming pokemon then
+[Salty Bartender] That be mighty high talk ferm a man who already half legged in teh bucket, if ye catch mer drift.
+<G> [AG] TheMonarchAwaken » Having rensponsabilities is cringe Forte i know
+[Levyn] If I win *hic* if I win, you give us the location.
+[Salty Bartender] And iffer I win? I don't be seeing the upside fer me.
+[Levyn] I'll join *hic* I'll join... Xeno's crew with you... make your beer for him *hic* or whatever...
+[Salty Bartender] Zehahaha! Well, that be er deal I can't be passing up! Ye gotcher self a pirate deal, lubber.
+[How is a drinking contest fair? He's already drunk!]
+[Levyn] [Salty Bartender] Zehahaha! That hardly be me problem, laddy. A pirate deal be a pirate deal. Ye can't cross us now.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] Come on Levyn, you can do it!
+Levyn gains a spark in his eye, and keeps gulping.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+[00:42:26] [main/WARN]: Unknown custom packed identifier: venturechat:data
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] Come on Levyn, you can do it!
+Levyn gains a spark in his eye, and keeps gulping.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] Come on Levyn, you can do it!
+Levyn gains a spark in his eye, and keeps gulping.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] Come on Levyn, you can do it!
+Levyn gains a spark in his eye, and keeps gulping.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+Encourage Levyn or distract the Bartender?
+[Encourage Levyn]
+[Distract Bartender]
+[Sukie] You've got a fly in your drink!
+The Bartender drinks a bit too much in surprise of your comment.
+[Salty Bartender] I er... I call...
+[Levyn] Arrrghhh! And that's how a pirate drinks!
+[I... can't believe it. Levyn, you actually did it.]
+[Levyn] Arrgh! I feel the pirate spirit returning to me! I can do this!
+[Now, for the information.]
+[Levyn] [Salty Bartender] I er... I can't... Cap'in Xeno will 'ave me 'ead.
+[Levyn] Arrgh! You will, or the beer you drank won't be the only thing lose.
+[Salty Bartender] Bah... he be 'eading 324 notches south, 125 notches west... please don't tell 'im I told ye... I beg o' ye...
+[Let's go Levyn. Indigo is waiting on us.]
+<G> spearmkw » i'll prob swap stuff around depending on mod
+[Levyn] ARRGH!
+
+Xenophobia [1/2]: Speak to Captain Indigo.
+Xenophobia [2/2]: Search out Xeno's underwater hideout.
+
+[Levyn] Arrgh! Let's head over to Indigo! I'm feeling more like a pirate than ever before!
+
+[Captain Indigo] I'm going to take Levyn losing his lunch over the side of the dock just now as a good sign.
+[He seems to be back in working order, and we got some exact coordinates.]
+<G> [DAD] forte_927 » you say that until the water miniboss 2 shots us
+[Captain Indigo] Fantastic! Where are we heading?
+[324 notches south, 125 notches west]
+[Captain Indigo] That sounds doable. I'm all prepared and Izzy is communicating with someone below deck using some magic doohickey. That said, we should be all set and can voyage out as soon as you are ready.
+[Let's go!]
+[I'm not quite ready.]
+[Captain Indigo] Ahoy!
+
+[Captain Indigo] As I figured, nothing seems to be around here. If Xeno really is here, they likely have an underwater base somewhere. It's probably best for you to scout ahead Sukie. We'll be right behind you.
+
+[Captain Xeno] Now there, what seems to have gotten you in such a fuss?
+[Masked Saboteur] You are well aware of the issue. We gave you the information on the city so that you could find the Wool, not sell it out to that wretch, Sukie.
+[Captain Xeno] Oh come now, you've known since the start of our business agreement that I've only ever been out for wealth. That is the only true power in this world- opportunity. Your balls of sheep hair mean nothing to me.
+[Masked Saboteur] You ignorant fool, you have no idea of the repercussions of your act-
+[Masked Saboteur] You! I thought I would have to hunt you down like the vermin you are, but you've just come right to me. This time, I'm going to finish you off!
+[Indigo] Sukie, we're right behind you! Izzy, you help him out. Levyn, come with me. We can't let Xeno escape in the madness!
+GluonCraft left the game
+[Captain Xeno] Well, I seem to be trapped now, don't I? I suppose you'll have to take me in, hold me hostage.
+[You aren't leaving here without us.]
+SirTudor left the game
+WhyAmIPlayingMC left the game
+Xenophobia [2/2]: Search out Xeno's underwater hideout.
+[Captain Xeno] Oh, I'm sure of that. But tell me, Sukie, who do you believe is waiting for us at the surface? We are in my waters, and my crew is still awaiting me to return.
+[We'll figure something out. We can--]
+[Mysterious Man] Oh, I'm sure you probably could. You are a constant pain, after all.
+[Who are...]
+[Mysterious Man] Xeno, I believe we had a deal, didn't we?
+[Captain Xeno] I... No, you can't be... You're...
+[Mysterious Man] There's nothing I hate more than those who betray me.
+[Captain Xeno] No, wait... please- AAGH!
+PearUhDox left the game
+[Mysterious Man] And now there's you. I can't allow you to get in my way, I have too much at stake. Give Xeno my regards, Sukie.
+Death: 1 hour 24 minutes 37 seconds ago
+Celsian Bounty: The cards are odd, one shows a castle, one shows... a broken word. Conquering this tundra fortress, named after "Kreepa"s, lies in your future.
+[Voice from Above] I've got you, Sukie! Ferno Invictum!
+
+Xenophobia: Speak to Vargos.
+
+[Izzy] You should speak with Vargos. I'm sure there's plenty he needs to tell you.
+
+[Vargos] Well, that was a close one. If Izzy hadn't have contacted me, you guys would have been goners for sure.
+[Vargos?!]
+[Vargos] It's good to see you again, Sukie. I apologize that it had to be on such odd circumstances.
+[What just happened?]
+[Vargos] You were about to be killed, that's what. He's finally made his move. I knew he was here in the Isles somewhere, but finding him was almost impossible. Especially after he had my apprentice killed.
+[Wait, so that man... He was...]
+[Vargos] Yes; the man you saw- that was Calder. He's the one Xeno has been working with. And, from what Izzy told me, he was attempting to get the kingdoms into a political war with the Valley.
+[What do we do now?]
+[Vargos] Honestly, I'm not entirely sure. Calder is calculating and cunning- it will be hard to predict his next move. For now, I suppose we wait.
+[I suppose so.]
+[Vargos] In the meantime, your pirate friend Levyn went screaming into the bar. You might wanna go check that he's okay.
+
+Xenophobia: Speak with Levyn in the bar.
+
+[Levyn] Arrgh! Sukie, you won't believe it! The town is growing hastey now that they know Xeno is dead. Riots are going to come!
+[What can we do about it?]
+[Salty Bartender] Zehahaha! What can ye do abert it, ye say? Any crew be in an uproar when ther cap'in be gone. A new cap'in need to rise in to fill teh slot.
+[Levyn] Arrgh! The town needs a new captain. Sukie, it has to be you!
+[Why me?]
+[Levyn] Arrgh! Because you're the best pirate that ever sailed! You took care of that masked guy, twice! Let me spread the word for you! I can talk these pirates into it.
+[Salty Bartender]: Zehahaha! And while we be startin' on the wrong foot back wit me booze machine, ye did a wonderful job makin' it. Me swill 'as been the best booze I ever did drink. Ye also 'ad me back after I ratted Xeno. I er ye one. I 'ave yer back as well. And since I be a high rankin' pirate in Xeno's crew, ther'll listen to me sayins on ye.
+[Okay then, I'm on board.]
+[Levyn and Salty Bartender] Aye aye, cap'in!
+XENOPHOBIA COMPLETE!
+Awarded 2 Salty Swills, 32 CCS, Xeno's Pirate Hat, 1 Prestige, access to the Mistport Black Market, and a crew of Mistport pirates!
+
+==The Foreign Soldier==
+
+[Vargos] Ah, hello again Sukie! Your timing is quite convenient, I was just speaking to Izzy about you.
+[Have you found more information on Calder?]
+[I'm sorry about your apprentice.]
+SirTudor joined the game
+[Vargos] Yes, Soran was a great student. It's a shame that his life was cut far too short, but his death will not be in vain. Calder will get his recompense soon enough. 
+[Vargos] Ah, hello again Sukie! Your timing is quite convenient, I was just speaking to Izzy about you.
+[Have you found more information on Calder?]
+[I'm sorry about your apprentice.]
+[Vargos] Unfortunately no. We have a few leads, but nothing conclusive yet. However, we do still need you for something in the meantime.
+[What is it?]
+[Izzy] Our reports suggest that both Ishnir and Chillwind royals have gotten word of the exchange of power here in Mistport. That is to say, they've likely got their eyes on you.
+[That seems bad.]
+[Izzy] Not quite. We could use this as a good opportunity to understand a bit more about the war. Given how much we have to watch our actions due to the conflicts between the nations, we still understand suprisingly little about what those conflicts are over. It's a tense situation, and the smallest action from either side could lead to actual bloodshed.
+[So you want me to investigate the war?]
+[Vargos] Indeed. We need you get close with some of the more influential citizens of the Isles, those who likely hold information not publicly known. How does that sound to you?
+[I'll do it.]
+[Not right now.]
+[Vargos] Fantastic! I've had our sources compile a list of people who might be the best targets. Seek them out, and see what information you can extract from them.
+THE FOREIGN SOLDIER
+Length : Long
+Difficulty : Medium
+Seek out information on the Celsian War.
+
+The Foreign Soldier: Seek out the people Vargos has suggested you find. You can always return to him for another list.
+
+#Q115I01 https://puu.sh/GFUQB/51994df62a.png
+
+-1530, 101, 1003
+[Ivon the Lazy] Zzzzzz... ZzzZZzzzz...
+[Uh... excuse me?]
+[Ivon the Lazy] Zzzzzz... ZzzZZzzzz...
+[Wake up!]
+niwatori222 joined the game
+[Ivon the Lazy] Zzz... need... zzz... booze .... zzz...
+[Are you talking in your sleep?]
+[Ivon the Lazy] Zzz... booze... zzz... aged... zzz... tower... zzz... sunken... zzz...
+[Uh.. right... I'll get on that.]
+[Ivon the Lazy] Zzzzzz... ZzzZZzzzz...
+
+The Foreign Soldier [1/2]: Seek out the people Vargos has suggested you find. You can always return to him for another list.
+The Foreign Soldier [2/2]: Head towards the Sunken Tower and seek out some aged alcohol.
+
+Ivon opens his mouth as you pour the drink down his throat.
+[Ivon the Lazy] Zzzzzz.... yum.... zzzzz....
+[This is useless.]
+[Ivon the Lazy] Zzzzzz... plans... Zzzzz... attack... Zzzzz... Rahkeri.... Zzzzz... defenseless... Zzzzz... 
+You likely won't get any more info out of Ivon. Your list has been updated.
+
+-1498, 95, 1031
+[General Arne] Good day! The firing range is quite nice today!
+[The firing range? You're aiming at the ocean!]
+[General Arne] That we are! Can't do much damage to the surrounding areas if we fire out into the ocean, now can we?
+[I guess I can't argue with that.]
+[General Arne] Say, are you busy right now? You seem like you know your way around a complicated firing mechanism. We are down a man today and could really use some help with setup.
+[What do you need me to do?]
+[General Arne] Well, the trebuchet's mechanisms have gone a bit crazy today and need a manual reset. Unfortunately, I can't reset it myself, as someone needs to stand up here and check all the moving parts as they are manually adjusted. So, if you could go down into the panel room and fix the situation, I would highly appreciate your services.
+[I think I can manage that.]
+[General Arne] Fantastic! Head down, and I will be here to check as you go.
+
+The Foreign Soldier [1/2]: Seek out the people Vargos has suggested you find. You can always return to him for another list.
+The Foreign Soldier [2/2]: Head down to the control room below the catapult.
+
+The Foreign Soldier [1/2]: Seek out the people Vargos has suggested you find. You can always return to him for another list.
+The Foreign Soldier [2/2]: Head down to the control room below the catapult.
+The Foreign Soldier [2/2]: Head down to the control room below the catapult.
+kabotyaneko has defeated The Black Willows!
+[Cornice] Hello! As you likely have noticed, I'm a snowman and this is my home.
+[Are you from around here?]
+[Cornice] Somewhat, I come from a settlement near the Crystal Forest Grove. I wouldn't visit if I were you.
+[Why not?]
+[Cornice] Lately snowmen are growing restless. They are starting to see the conflict as a chance to reclaim some of our old lands. There is a very real chance that they would be a bit aggressive.
+The Foreign Soldier [2/2]: Head down to the control room below the catapult.
+The Foreign Soldier [2/2]: Head down to the control room below the catapult.
+
+[General Arne] Alright, I'm gonna start telling you what issues we might be having, and you fix them by pressing the button related to the issue!
+[General Arne] Ready?
+[General Arne] Yes, that's much better! Good work!
+[General Arne] No! You've made it much worse!
+[General Arne] You really messed it up! We're gonna have to start from the beginning!
+
+begin manual operation
+[General Arne] Aaaa! The fulcrum is way too tight!
+release axle
+[General Arne] Alright now lift the boulder upwards!
+-not counter weight 
+[General Arne] The balancing could be a bit more stable!
+counter weight
+[General Arne] The base plate is too lose! Tighten it up!
+strengthen grounding 
+[General Arne] The boulder is too large! The base needs to be strengthened to compensate!
+strengthen grounding
+[General Arne] The boulder is way too heavy for the rope! Let it hit the ground!
+rope slag
+[General Arne] The turning wheel needs a little more free movement!
+release axle
+[General Arne] The tension in the upper arm is a bit much!
+rope slag
+[General Arne] The rod around the axle is looking a little tight!
+release axle
+[General Arne] There's a bit too much weight on the right side! Balance it out!
+counter weight
+[General Arne] We're sinking! Hurry and stabilize the footing!
+strengthen grounding 
+[General Arne] We're tipping over! Hurry, catch the weight!
+counter weight
+
+[General Arne] All set! Come see me back up here!
+
+[General Arne] Ah, lovely! Everything is working smoothly now! This will be perfect for our tests!
+[Why do you need to test a trebuchet?]
+[General Arne] What a silly question, to make sure it works obviously! However, there is a second reason. You seem trustworthy enough, so I'll let you in on something. Recently, the government has developed a new weapon, similar to a trebuchet, but moveable on land, ice, sand, anything! It will be a fantastic asset in the war. We test this trebuchet for experimental data for this new weapon.
+[Seems powerful.]
+[General Arne] Quite! With this at our disposal, Alnera better watch their backs. Their era of slavery won't last much longer.
+[Slavery?]
+[General Arne] You've not heard of it? I guess you don't really seem like you're from around here, so let me explain. One of the reasons we conflict with Ishnir is the government's abuse towards their people.
+[General Arne] The royals and bureaucrats of Alnera live in luxury, while their lower class, who have been shipped off to Molta, slave day after day in ceaseless mining operations. No rights, no pay. They are slaves to the system, and we strive for a world in which they are free.
+You likely won't get any more info out of General Arne. Your list has been updated.
+
+[Ambassador Matori] You've got some guts to just walk into an Ambassador's house. My property is protected by law, you know.
+[I'm sorry, I didn't realize.]
+[What are you an ambassador to?]
+[Ambassador Matori] I am the Ambassador to the Chillwind.
+[Aren't you in a war with the Chillwind?]
+[Must be a hard job.]
+[Ambassador Matori] Yes, thank you for reminding me that I'm apparently not very good at my job. 
+[Ambassador Matori] You've got some guts to just walk into an Ambassador's house. My property is protected by law, you know.
+[I'm sorry, I didn't realize.]
+[What are you an ambassador to?]
+[Ambassador Matori] I don't mean to be rude, but if I just let anyone walk in, my throat would have been slit years ago. Besides, I'm quite on edge right now, so startling me is not the best idea. I've got a lot on my plate.
+[What has you on edge?]
+[Ambassador Matori] Just... the war, I suppose. It makes my job as the Ambassador of Chillwind a... rough position, to say the least. All of my days are spent hearing constant yelling, and battle strategies, and equally horrid plans of action. I... guess I just long for days of peace.
+[Is there anything I can do to help?]
+[Ambassador Matori] Ha! Can you solve hundreds of years of political turmoil in a day? That'd be swell. That said, I would love a nice cup of tea. Not just any tea, Royal Red tea, some of the most delicious tea in all of Ishnir. An old hag in Rahkeri named Surya sells the leaves, and I would very much appreciate you bringing some here so I can brew some.
+[I think I can handle that.]
+[Ambassador Matori] Thank you so kindly!
+
+The Foreign Soldier [2/2]: Head to Rahkeri and find the tea seller Surya.
+
+-824, 1366[Ambassador Matori] Ah, fantastic! They smell wonderful! I'll get the pot going now. You don't know how much this helps me. My thoughts can finally clear up from...
+[From?]
+[Ambassador Matori] Well, I was just thinking about Wispervale, one of the more contentious points of our conflicts with the Chillwind. It comes up quite a bit in war strategy meetings. You see, one of the reasons we conflict so heavily with the Chillwind due to their obsessive hatred against the use of magic. They hunt down magic users like dogs, and have even subjected some to public executions.
+[Ambassador Matori] The people of Ishnir simply wish for a world where magic can freely be used by everyone, and Wispervale is an outpost for such ideals, stationed right in the heart of the Chillwind. They are subjugated for their use of magic, but one day, they will be free.
+[Why does-]
+[Ambassador Matori] Ooo! Seems my tea is ready! Again, thank you so much!
+You likely won't get any more info out of Ambassador Matori. Your list has been updated.
+
+Matori seems to be lost in his tea. At least he's less on edge now.
+
+356, 46, 717
+[Kugo] Hmm... Aren't these fungal specimens great?
+[Why are you keeping mushrooms in your house?]
+[Kugo] Why, I study them, of course. Unfortunately, I can't keep all my specimens here- not enough space. I have to use a storage unit I own just down the way to house them all.
+[What do you research them for?]
+[Kugo] Haha! I couldn’t possibly say! Interests in taking over the world, maybe? Who knows!
+[Not the answer I was expecting.]
+[Kugo] Hah, I merely jest! I’m a scientist, I study things because they need to be studied. I merely wish I could increase my specimen samples a bit more, ah, the dreams!
+[Increase how?]
+[Kugo] You see, I have a large array of knowledge of fungal species from Ishnir, and even some from the Viridian region. However, the ones that elude me come from the Chillwind. I hear stories of a large fungal forest that exists there, crystalline mushrooms of enormous size! Ah, how I wish I could get a sample of it. Alas, I'm much too busy with my current studies to make time to travel there.
+[I could probably get a sample for you.]
+[Kugo] Really?! That would be fantastic! Thank you so much! I hear of such wonders in the Crystal Forest Grove, I can't wait to see what you return with!
+
+The Foreign Soldier [2/2]: Head towards the Crystal Forest Grove for a fungal sample.
+
+[Kugo] It's... it's beautiful! Look at the mycelium threads! Is this really a fungus? How fascinating, I can't... I can't...
+Kugo begins to cry a little.
+[What's the matter?]
+[Kugo] I... I may have lied to you a little. I'm not just a researcher... Specifically, I am a researcher for the government. They... they took an interest in my knowledge of fungal species, and wanted me to determine a way to destroy the crystalline shroom forest in Chillwind...
+[Why would they want that?]
+RainieMan joined the game
+[Kugo] I... I don't know. The war ravages all, I suppose. But... after seeing this specimen, I... I can't let that happen. A species such as this, where its very being is intertwined with crystalline essence, is incredibly rare. I refuse to let them destroy such a thing.
+You likely won't get any more info out of Kugo. Your list has been updated.
+You have talked to everyone on your list of influential people. You should return to Vargos with the information you have gathered.
+
+[Vargos] Ah, Sukie, back so soon! How did things go? Did you manage to collect any information?
+[Yes, but it's not simple to explain.]
+[Vargos] Oh? Do tell.
+[It seems the two nations don't really agree on why they are fighting.]
+[Vargos] Hmm... conflicting reasons? How odd. I won't pretend I understand the political turmoil here, but there must be a common underlying reason that the conflicts restarted recently. If I had to make a guess...
+[Izzy] I hate to interrupt here, but I've just gotten word that we have some visitors on the island.
+[Visitors?]
+SirTudor left the game
+Killer0505 left the game
+[Izzy] It seems our hunch was correct, the royals of the nations did have their eyes on you, and they've each sent an emissary to speak with the new captain of Mistport.
+[What should we do?]
+[Vargos] Well Sukie, I believe this is the chance we've been looking for. As bad as it sounds, we need to side with one of the nations, at least for now.
+[Why would we do that?]
+[Vargos] Think about it, our connections in the Isles are sparse, and we can only accomplish so much. If we allied ourselves with one of the nations, this would give us access to their vast information network. We'd be able to track Calder down much more efficiently.
+[I guess you're right.]
+[Vargos] I'll leave the decision of which nation we should ally with up to you, this is your island afterall. Choose wisely though, once you have made a decision, I doubt the other side will be very forgiving.
+[Izzy] You'll find the emissaries near Xeno's old ship. They are stationed out on the docks there.
+Make your decision carefully before speaking to the emissary of your choice, as it might affect future outcomes.
+
+The Foreign Soldier: Head to the docks in front of Xeno's ship and decide which kingdom you will be siding with.
+
+[Emissary of Ishnir] Ah, Captain Sukie! The kingdom of Ishnir wishes you a fair welcome. We have only just heard of your recent take down of Xeno. The Pharoah extends the most sincerest of thanks for removing him from power.
+[I appreciate your welcome.]
+DataCrusader joined the game
+[Emissary of Ishnir] Indeed, you must be quite powerful in order to overthrow such an adversary, given the extensive size of his crew. You even won them over, your charm must be vast.
+[Enough with the flattery, why did you come to my island.]
+<G> BlazingGamer800 » o/
+Mine_Hinata left the game
+[Emissary of Ishnir] Ah, straight to the point, I see. Well, it's no secret that Xeno didn't quite make a good relation with any kingdom. He sought power and wealth and would knock anyone down who got in his way. We simply wish to extend our hand in partnership with your town of pirates. We don't wish to rule you or anything of the sort, only that we agree to aide each other when necessary, and don't get in each other's way against our enemies.
+[Fine, I'll side with you for now.]
+[Let me think about it.]
+[Emissary of Ishnir] That sounds reasonable enough. I shall wait your response, Captain Sukie.
+
+[Emissary of Chillwind] Ah, Captain Sukie! The kingdom of Chillwind wishes you a fair welcome. We have only just heard of your recent take down of Xeno. The Queen extends her sincerest thanks for removing him from power.
+[I appreciate your welcome.]
+Mine_Hinata joined the game
+[Emissary of Chillwind] Indeed, you must be quite powerful in order to overthrow such an adversary, given the extensive size of his crew. You even won them over, your charm must be vast.
+[Enough with the flattery, why did you come to my island.]
+[Emissary of Chillwind] Ah, straight to the point, I see. Well, it's no secret that Xeno didn't quite make a good relation with any kingdom. He sought power and wealth and would knock anyone down who got in his way. We simply wish to extend our hand in partnership with your town of pirates. We don't wish to rule you or anything of the sort, only that we agree to aide each other when necessary, and don't get in each other's way against our enemies.
+[Fine, I'll side with you for now.]
+[Let me think about it.]
+AtanasTDB joined the game
+[Emissary of Chillwind] That sounds reasonable enough. I shall wait your response, Captain Sukie.
+
+[Emissary of Chillwind] Wonderful! I also hear word that you traveled here from the Valley. It is interesting that you have made such large waves here in such a short period of time. 
+[Emissary of Chillwind] Nonetheless, simply go as you would otherwise. The time will come when we will require your assistance, Captain. You will be our foreign soldier.
+THE FOREIGN SOLDIER COMPLETE!
+Awarded a Celsian Heraldic Blade, 16 CCS, 1 Prestige, and an alliance with the Chillwind kingdom.
+
+
+==An Unlikely Partnership==
+[Tiffy] I have been waiting for you, Sukie. We have need of your help once again.
+[Do I know you?]
+[Tiffy] If you did, I might have reason to worry. I am here on behalf of the Glass. We have come across some intel that you need to know, but it is too sensitive to discuss here. Pirates have such bad manners at times.
+[Where do I need to go?]
+[The Glass? Aren't they a King's Valley group?]
+[I don’t have time for this at the moment.]
+[Tiffy] I have prepared a teleport there, just let me finish this cuppa first. Talk to me when you are ready to go.
+
+QUEST: AN UNLIKELY PARTNERSHIP
+Length: Long
+Difficulty: Easy
+Assist the Glass of King's Valley in a secret mission.
+
+An Unlikely Partnership: Talk to Tiffy to go to the Glass Meeting. Try to act presentable and stay put when asked to.
+
+[Tiffy] Ah, always feel better after a good cuppa. Are you ready to go the the meeting?
+[Yes, I am.]
+[Can you remind me what I have to do?]
+[I don’t have time for this, at the moment.]
+[Tiffy] I will teleport you to a base ran by the Glass of King's Valley. Once there, you will be told information about something that threatens the Valley. Ideally, you would then help.
+[Tiffy] Ah, always feel better after a good cuppa. Are you ready to go the the meeting?
+[Yes, I am.]
+[Can you remind me what I have to do?]
+[I don’t have time for this, at the moment.]
+H4TO left the game
+[Tiffy] Please make sure to listen to them carefully, our safety is at stake.
+
+[Duchess Emmeline] Ah, Sukie, so good of you to stop by. Please make your way to your seat. It is the one across from Octavius.
+[Octavius] Why do I have to sit across from them? We have a huge table.
+<G> [Sugoi] Flare_Calliope » welcome
+[Duchess Emmeline] Are you questioning my judgement in front of our guest?
+[Octavius] N... No, I would never.
+[Duchess Emmeline] That is good to hear. To your seat, Sukie, and please do stay seated.
+<G> [FORCE] emeraldcore71 » hav fun dying in monumenta
+<G> [FORCE] emeraldcore71 » :DDDD
+<G> ooAva » i will !!!! :D
+An Unlikely Partnership: Talk to Tiffy to go to the Glass Meeting. Try to act presentable and stay put when asked to.
+<G> [FORCE] emeraldcore71 » yayy
+<G> [FORCE] ooAddman » They will be doing a play through with me
+<G> [FORCE] ooAddman » ;P
+<G> [FORCE] emeraldcore71 » ohh nice
+<G> [FORCE] emeraldcore71 » still tho
+[Duchess Emmeline] Come now, don't be a stranger, help yourself to some tea.
+[I take it that you're with the Glass?]
+[You're very obviously not with the Glass.]
+[As I predicted, this was a trap.]
+<G> ooAva » castel
+<G> ooAva » case;t
+<G> ooAva » sword
+kabotyaneko joined the game
+[Duchess Emmeline] Oh dear, did they actually go with that one? I told them you wouldn't be foolish enough to think that a spy would risk revealing themselves, but I guess I was mistaken. That being said, I am glad that you remember me.
+[What do you want with me? Why am I here?]
+<G> ooAva » glow
+<G> [AEUGH] H4TO » o/
+<G> [AEUGH] kabotyaneko » o/
+[00:13:51] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Duchess Emmeline] I merely wished to meet with the new leader of Mistport and ensure that our business agreements will continue moving forward. I'm sure you would have made an appointment to see me eventually, but I am very busy, so I decided to set up the meeting myself.
+[Octavius] You can't trust anything that adventurer says. They complicated our business in the valley and sent Murano after me. They will just end up betraying you!
+<G> [FORCE] ooAva » yay
+[Duchess Emmeline] Remind me again, Octavius... Who is in charge here?
+<G> [FORCE] emeraldcore71 » gg
+[Octavius] Y-you, but it is far too risky. We should just kill them now.
+niwatori222 left the game
+[Duchess Emmeline] Hush, drink your tea, everything will be alright.
+<G> [FORCE] ooAva » scary
+[Octavius] Okay, if you say so... GAHHK
+[Duchess Emmeline] He'll live. Although, tongues and that toxin don't mix well. With any mercy, we'll never have to hear his blathering again. Where were we again? Oh right, our continuing partnership.
+[I'm not interested, and I am busy. Make this quick.]
+[Who are you again?]
+[A partnership? I'm listening.]
+<G> [FORCE] ooAva » yes
+[Duchess Emmeline] I suppose our last meeting might have damaged your memory a bit. You were beaten almost instantly after all. You honestly are lucky to be alive. I'm surprised Salieri was so careless. I was the one that took the papers you were planning to take back to Argent in Sierhaven. Sorry about that, just business you know.
+[Duchess Emmeline] To get to the point. I have scheduled a meeting between you and the diplomats of Chillwind and Ishnir. You can thank me for advancing your city's relations with the kingdoms by spying on them for me. I don't want much, just a few pieces of blackmail that I can use against them later.
+[Wouldn't they know who leaked the information?]
+[Why would I do your dirty work for you?]
+[I don't want to be involved with this.]
+<G> [FORCE] OffCall » TOPAZ
+[00:14:43] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] ooAva » i like it its cool
+[00:14:52] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Duchess Emmeline] Perhaps, but what are they going to do about it? Blackmail has a way of keeping people quiet for quite a while, and they are easy enough to dispose of if it stops being effective.
+[Duchess Emmeline] The diplomats are already on their way, so I would advise getting ready to meet with them. You need to get your city in order, first impressions and all that. I expect results and can't guarantee your city will be happy should you fail.
+[I assume that is a threat?]
+[00:15:20] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Duchess Emmeline] Not at all, it is more common sense. Many of your citizens are fans of mine. I can't guarantee that they wouldn't react violently, or try to assassinate someone you care about. Trust me, if I was threatening you, it would be far more obvious. I want to build a good working relationship with you, and that requires you not being randomly murdered.
+[Duchess Emmeline] Salieri, please see our guest out when they are ready to depart.
+<G> [FORCE] ooAva » idk what that means
+[00:15:32] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] ooAva » whic h is best
+
+An Unlikely Partnership [1/2]: Speak to Salieri. He will give you something and help you leave.
+An Unlikely Partnership [2/2]: If you left the meeting Tiffy can get you back to it.
+
+#Q136I01 https://puu.sh/GN0c8/58bfe8f30f.png
+
+[Salieri] I will try to keep this short. You are too charismatic to be a spy on your own. So I was told to give you a communication device. With it, you will be able to both detect and listen into conversations. My employer would rather you keep our involvement a secret. Is that understood?
+[I understand.]
+[What if I lose the communication device?]
+[Why is it a communication device if it lets me spy on people?]
+<G> [FORCE] ooAva » warrior
+[00:16:57] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:17:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] ooAva » my FRAMES
+[00:17:19] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:17:24] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:17:26] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salieri] The level of incompetence required to lose it is well within your capabilities. They are extremely expensive to make, and worth far more than you are. Since you will find a way to lose it, I'm sure one of your friends will end up finding it.
+HeerCasper joined the game
+[00:17:54] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> fairbot » how do i use c'axtals corrupted mask
+[Salieri] I will try to keep this short. You are too charismatic to be a spy on your own. So I was told to give you a communication device. With it, you will be able to both detect and listen into conversations. My employer would rather you keep our involvement a secret. Is that understood?
+[I understand.]
+[What if I lose the communication device?]
+[Why is it a communication device if it lets me spy on people?]
+[00:18:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [TCL] Cloud_ » Wear it?
+[Salieri] That is its primary use for you. It also allows us to communicate with you. I would advise being careful about what you say.
+[00:18:05] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salieri] I will try to keep this short. You are too charismatic to be a spy on your own. So I was told to give you a communication device. With it, you will be able to both detect and listen into conversations. My employer would rather you keep our involvement a secret. Is that understood?
+[I understand.]
+[What if I lose the communication device?]
+[Why is it a communication device if it lets me spy on people?]
+[Salieri] Good, here is the device. 
+<G> [FORCE] emeraldcore71 » if u collect items, keep it lol
+<G> [FORCE] ooAddman » Hey Cloud_
+<G> [FISH] __Veron » afaik you can combine it with magenta rare mask in the crafter and obtain hope on it
+[00:18:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salieri] I assume you know what needs to be done. When you get back to Mistport, talk to the person that brought you here. Are you ready to go?
+[I'm ready to leave.]
+[How did you come to be employed by the Duchess?]
+[Have any tips for spying?]
+Artifice42 left the game
+Noahh__ left the game
+[00:18:37] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salieri] She found me wandering the world, lost after my father died. She took me in and I have served her loyally ever since. The past can't be changed, so I try not to think about it much.
+<G> [FORCE] emeraldcore71 » :o
+<G> fairbot » in which crafter
+[Salieri] I assume you know what needs to be done. When you get back to Mistport, talk to the person that brought you here. Are you ready to go?
+[I'm ready to leave.]
+[How did you come to be employed by the Duchess?]
+[Have any tips for spying?]
+[00:18:42] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Salieri] Seeing as you want your targets alive, nothing that I can think of. Obviously, you should try not getting caught.
+<G> [FORCE] emeraldcore71 » the one in ta'eldim
+<G> fairbot » c'taz?
+<G> fairbot » o
+[Salieri] I assume you know what needs to be done. When you get back to Mistport, talk to the person that brought you here. Are you ready to go?
+[I'm ready to leave.]
+[How did you come to be employed by the Duchess?]
+[Have any tips for spying?]
+<G> [FISH] __Veron » taeldim or ctaz
+[Salieri] Very well. Let me give you a one way trip back to that "agent".
+Sukie fell out of the world
+[00:18:51] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> fairbot » ah ok
+<G> [TCL] Cloud_ » Weren't you a mod
+<G> fairbot » tyty
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+[00:18:56] [main/WARN]: Received passengers for unknown entity
+You wake up near Tiffy with a horrible headache. Salieri technically did what he said he would.
+
+An Unlikely Partnership: Talk to Tiffy about the meeting.
+
+[Tiffy] Oh, you are still alive. I’m glad, but I’m probably in a lot of trouble now.
+[It isn’t smart to lie to the person in charge of a pirate city.]
+[Diplomats are on their way, we have to get ready.]
+<G> fairbot » no it doesnt
+<G> [FORCE] emeraldcore71 » oh
+<G> [FORCE] emeraldcore71 » im dumb
+[Tiffy] The Duchess was going to kill me, as well as my family, I figured you would get bored after killing me if she let you live.
+[I don’t have time for this, we have to get the city ready.]
+<G> [FORCE] emeraldcore71 » nevermind lmao
+[00:20:21] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Tiffy] You should probably speak to the Captain, I think her name is Indigo? She should be able to help coordinate everything. I'll try to help, but I probably won’t be trusted much, after what I did.
+[00:20:35] [main/WARN]: Unknown custom packed identifier: venturechat:data
+
+An Unlikely Partnership: Speak to Indigo about the current situation with the diplomats.
+
+[Captain Indigo] Hello there Captain Sukie. Feels odd calling you that.
+[Can we sail back to the King's Valley?]
+[We have a situation.]
+[Captain Indigo] A situation? What is it this time?
+[Diplomats from the two kingdoms are on their way.]
+[We ran out of rum.]
+[Captain Indigo] Why would they come here on such short notice, or here at all? Security is going to be needed to keep them safe, and we have no food, decorations, or housing ready. Can we tell them to wait?
+[The Duchess invited them on our behalf.]
+[We can’t, but you're safer not knowing why.]
+[00:22:01] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Captain Indigo] Alright, I'll take care of it. Just speak to me when you're ready to proceed.
+
+An Unlikely Partnership [1/2]: Tell Indigo that you are ready to proceed.
+An Unlikely Partnership [2/2]: Once the diplomats arrive speak to either one of them.
+
+[Captain Indigo] Are you ready to go greet our guests?
+[I am ready.]
+[No, I still need to get ready.]
+[Can we sail back to the King's Valley?]
+[Captain Indigo] We barely had enough time to make things presentable. Hopefully it is good enough. The diplomats should be here shortly.
+[00:22:47] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Captain Indigo] Sounds like they’re here, it’s showtime, Captain Sukie.
+
+[Captain Indigo] There they are. Their bodyguards are rather intimidating, but they seem nice enough. Hopefully we managed to get enough prepared to avoid offending them.
+
+[Chillwind Bodyguard] ...
+[Ishnir Bodyguard] ...
+[Wilhelm] Reports... Reports... Ugh, I still need to deal with the paperwork from the latest incident...
+He seems a bit preoccupied at the moment.
+[Wilhelm, Chillwind Diplomat] Greetings, Captain Sukie. The Queen sends her regards.
+[Torren, Ishnir Diplomat] As does the Pharaoh. I must say, Captain Sukie, you’ve already exceeded our expectations, the best Xeno ever did was send us invitations to “walk the plank”.
+[Wilhelm, Chillwind Diplomat] Speaking of walking the plank… Thank you, Torren, for moving your ship out to sea so we could dock. I don’t know why we needed such a large vessel.
+<G> [FISH] __Veron » how much does heart of greed cost?
+[Torren, Ishnir Diplomat] Likely an attempt at showing your country’s power, as if either of us care about such things.
+<G> [LAG] EmilyVEVO » 500 hcs
+<G> [FORCE] emeraldcore71 » whats that
+<G> [FISH] __Veron » wanna buy?
+[Wilhelm, Chillwind Diplomat] As much as we’d like to stay and chat, we both need to check in with our advisors. We will speak soon, Captain Sukie, goodbye.
+[00:24:38] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [LAG] EmilyVEVO » NOPE
+[Captain Indigo] Those two looked oddly comfortable with each other, considering their countries are on the brink of war. I'll go with them so they don't get lost.
+
+An Unlikely Partnership [1/2]: Talk to Indigo and find out where some of your guests went.
+An Unlikely Partnership [2/2]: Should you leave the party for any reason, you can talk to Indigo to get back in.
+
+[Vargos] Ah, good to finally get some fresh air. Oh, Captain Sukie, have you been there long?
+[How're you, Vargos?]
+[Thanks for the help with the preparations.]
+<G> [FORCE] emeraldcore71 » ah
+[Vargos] It was my pleasure. You have done much for the Valley, it was good to have a way to repay my debts.
+[Vargos] Ah, good to finally get some fresh air. Oh, Captain Sukie, have you been there long?
+[How're you, Vargos?]
+[Thanks for the help with the preparations.]
+[Vargos] I’m fine, if a bit exhausted. Teleporting people in for the past three hours took quite a bit out of me.
+
+[Swordsman Myrl] So far so good Captain. Everyone has been on their best behavior.
+[I assume they were told how important this was for the city?]
+[Swordsman Myrl] They were. However, more importantly, they were reminded that we have plenty of room in the prison, if they act up.
+[Captain Indigo] Oh hey Sukie. I'm exhausted. Do you know how hard it is to get this many pirates organized?
+[Have you seen where any of our guests went?]
+[I am sorry for putting this all on you.]
+[Have you seen Tiffy?]
+[I need to get out of here, for a while.]
+[00:26:36] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:26:40] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Captain Indigo] Tiffy volunteered to take care of the behind the scenes preparation. He said he didn't want to go to the party, but seemed awfully sad. Regardless, he really saved the day.
+[Captain Indigo] Oh hey Sukie. I'm exhausted. Do you know how hard it is to get this many pirates organized?
+[Have you seen where any of our guests went?]
+[I am sorry for putting this all on you.]
+[Have you seen Tiffy?]
+[I need to get out of here, for a while.]
+[Captain Indigo] An Ishnir Navigator went outside with some of the crew. Izzy went in that direction as well and might be able to help.
+[00:26:57] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Samwell] May I get you anything? Perhaps take a coat that you, for some reason, brought to the tropics? Oh, it's you. I rescind my offer.
+[Why are you always so rude to me.]
+[Enjoying the party?]
+[What are you doing?]
+[Samwell] May I get you anything? Perhaps take a coat that you, for some reason, brought to the tropics? Oh, it's you. I rescind my offer.
+[Why are you always so rude to me.]
+[Enjoying the party?]
+[What are you doing?]
+<G> fairbot » where do i put the masks in the c'taz crafter to combine them
+[Samwell] I am in the pirate game for a profit. You are just too good of a person for me to make one. So I have little reason to work with you.
+[Samwell] May I get you anything? Perhaps take a coat that you, for some reason, brought to the tropics? Oh, it's you. I rescind my offer.
+[Why are you always so rude to me.]
+[Enjoying the party?]
+[What are you doing?]
+[00:27:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Samwell] Hardly. If these diplomats wanted they could have our city destroyed in an instant. Mistport is my home, so I would like to avoid that. I am putting up with humiliation only to save myself.
+Cloud_ joined the game
+<G> [FORCE] ooAva » do we HAVE to break the spawners
+AtanasTDB left the game
+[00:27:21] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Samwell] May I get you anything? Perhaps take a coat that you, for some reason, brought to the tropics? Oh, it's you. I rescind my offer.
+[Why are you always so rude to me.]
+[Enjoying the party?]
+[What are you doing?]
+[Samwell] Izzy told me that I was going to be a butler. He refused to believe that fancy parties have coat checkers, instead of butlers, so here we are.
+[00:27:28] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:27:30] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] emeraldcore71 » no but if u dont ull probably die and ull get less xp
+[Alton] This party is such a disappointment. I was hoping there would be rare fish on the menu, but these are very clearly only uncommon ones.
+[Didn't you nearly die last time you ate a rare and unique fish?]
+[Alton] Don't be ridiculous. I merely need to train my palate to understand the complex flavors of the Sunken Salmon. That is precisely the type of fish I was hoping to see here.
+[00:27:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Cropmaster Afondo] It's good to get out and about every so often. Being stuck in an underground farm all day can give you some odd thoughts.
+[What's a cropmaster anyway?]
+[Cropmaster Afondo] It means that I am the most experienced farmer in Mistport. My farm's responsible for growing most of our food, and I employ most of the other farmers in the town.
+[So you aren't the master of an army of crops that plans on overthrowing me?]
+[00:27:56] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> Payhi25 » btw, what's the rigged chip in r2 casino used for?
+[00:27:59] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Cropmaster Afondo] WHO TOLD YOU AB... No, that would be silly Captain. Crops aren't capable of such feats.
+<G> [FORCE] emeraldcore71 » i think its uhh
+<G> [LAG] EmilyVEVO » 1/10 chance of getting FGC
+<G> [FISH] __Veron » 1/10 of obtain an epic instead of 1/800
+[00:28:10] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] emeraldcore71 » isnt that like 5hxp or something tho
+<G> [FORCE] emeraldcore71 » maybe more
+[00:28:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [TCL] Sukie » in exchange for costing 80x as much
+[Repairman Ronevo] Greetings Captain, apologies for not being at my shop. I'm a bit tired after fixing everything the pirates broke, so I'm taking a break. We got this place in better shape than I expected, given the circumstances.
+<G> [FISH] __Veron » not worth it
+<G> Payhi25 » dang, that's ex
+[00:28:36] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:28:40] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:28:48] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [TCL] Sukie » it's just a time save, same average cost if all you care about is the epic
+<G> [FORCE] emeraldcore71 » hcs* my bad
+[Salty Bartender] We be doin' te' best business we be doin' in years. Ye need to host more parties. 
+[Ishnir Lookout] Ah, Captain Sukie, why are you, an agent of Chillwind, talking to me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[00:29:05] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:29:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Ishnir Lookout] Right... Forgive me for being cautious. It is a tense time in the Isles.
+[00:29:13] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Ishnir Lookout] Ah, Captain Sukie, why are you, an agent of Chillwind, talking to me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Lookout] It is likely best for me not to say.
+[Ishnir Lookout] Ah, Captain Sukie, why are you, an agent of Chillwind, talking to me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[00:29:17] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Ishnir Lookout] Personal things, which I would rather not repeat to an ally of Chillwind.
+<G> Payhi25 » guess i'll just roll normally, 5 hcs leggo
+[Ishnir Sailor] What brings you here, Captain Sukie?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+<G> [FORCE] emeraldcore71 » imo u feel worse if u dont get the epic when u use a rigged chip
+[Ishnir Sailor] It has been an interesting trip, nothing like the stories we have heard over the years. You have really turned this place around. Thank you for being so welcoming to Ishnir.
+[00:29:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:29:37] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [TCL] Sukie » fair
+[Ishnir Sailor] What brings you here, Captain Sukie?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Sailor] Meaningless gossip. I'm not really a fan of it, but it is strangely popular among the crew. It isn't anything Chillwind would care to know about.
+[00:29:40] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[00:29:40] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Ishnir Sailor] What brings you here, Captain Sukie?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Sailor] Chillwind seems very convinced that we were somehow in the wrong, but our government blames Chillwind. I'm not sure I have enough information yet to decide.
+[Ishnir Navigator] Hello, Captain Sukie, what business does a supporter of the Chillwind have with me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Navigator] Thank you. We have all heard horror stories about Mistport, and you did side with our enemy. That being said, I have had a great time so far.
+[Ishnir Navigator] Hello, Captain Sukie, what business does a supporter of the Chillwind have with me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Navigator] Just gossip and rumors. The type of things I would rather not discuss with someone allied with the Chillwind.
+[Ishnir Navigator] Hello, Captain Sukie, what business does a supporter of the Chillwind have with me?
+[I just wanted to welcome you to Mistport.]
+[What were you talking about?]
+[What are your thoughts on the current conflict?]
+[Ishnir Navigator] I stand by my country and the decisions it has made so far. I would prefer a peaceful solution to a full war. I am also not a fan of your decision to ally with the Chillwind.
+Levyn looks heavily dazed and battered.
+[Levyn] Uuuughghhhhh…..
+You're too busy to deal with this right now. Don't worry, he'll be fine.
+Levyn looks heavily dazed and battered.
+[Levyn] Uuuughghhhhh…..
+You're too busy to deal with this right now. Don't worry, he'll be fine.
+__Veron left the game
+[Dock Repair Expert] My life... it has no meaning.
+[Why's that?]
+[Dock Repair Expert] What was that loud sound earlier? It better not have been someone falling and breaking the dock again.
+[You likely heard Levyn fall.]
+[Dock Repair Expert] I am already on a double shift, can't people go five minutes without breaking something?
+EmilyVEVO left the game
+EmilyVEVO joined the game
+[First Mate Jones] Those diplomats act nice, but that is all it is, an act. They are after our ships, they have to be. I won't let them take them from us.
+EmilyVEVO left the game
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+Thank you for your purchase of the Spymaster 9001
+This device makes spying on your targets that much easier.
+
+How to use:
+The device is listening to the environment for key hints that it believes will lead to your current target that it is attuned for.
+In conversations: Relevant words will be highlighted.
+In world: Optimal locations for spying will be marked with 
+               a purple aura.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+HeerCasper left the game
+<G> [FORCE] emeraldcore71 » ooooff they changed the azzy pk
+HeerCasper joined the game
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+<G> HeerCasper » o/
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+[Izzy] Here, try some!
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+[Izzy] Here, try some!
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+[Izzy] Here, try some!
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+[Izzy] Here, try some!
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+emeraldcore71 left the game
+[Izzy] These Ishnir guys are extremely boring, at least the hors d'oeuvres are great.
+[Izzy] Hey Sukie, have you tried the hors d'oeuvres yet? They're amazing!
+[Have you heard anything interesting, Izzy?]
+[Are you enjoying the party?]
+[Sorry, need to keep moving.]
+[No, I haven't had a chance yet.]
+[Izzy] Not entirely, these guys seem to be talking about the Ishnir Diplomat but I can’t hear them clearly. If you really wanted to listen to them for some reason you could probably use a communication device to do so. Not sure where one would find one of those though.
+[They will stop talking if they notice me though.]
+BoganC joined the game
+[Izzy] Looks like you could get on the balcony of that house over there, the one the Chef's are in. You could likely listen in from there.
+[Chef Zeff] It is an honor to work with Chef Claude. He uses ingredients I wouldn't dare use. Hopefully my desserts can hold up to his entrées.
+[Such as people?]
+[Chef Zeff] What? That would be highly illeg... Oh, you mean love. Yes, he shows great love for his craft, and it shows in his cooking.
+[Claudia] It is always great to get to work with my brother. The three of us are handling the catering for the party. It is great to get to meat so many different people.
+[Are people on the menu?]
+[Claudia] Of course they are! See, we drew one right on the first page! They are eating a salad.
+[Claude] It 'as been ages since I last cooked alongside my sister. We have prepared them a dish to die for. it will be marvelous!
+[Hopefully people aren't on the menu this time.]
+[Claude] Chef Zeff would likely not approve if they were. Although I 'onestly don't know what 'alf the meat I brought comes from. Vargos didn't give me enough time to prepare. So yes, there probably are some in there.
+BoganC left the game
+An Unlikely Partnership [1/2]: Use the Spymaster 9001 to listen from the balcony. If you lost it you can get it back from Indigo, Vargos, Izzy, or Levyn at the party.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+Scanning for suitable information...
+Conversation detected, recording and playing back.
+[Ishnir Navigator] Now get this, you’ve all seen how friendly the boss is with the Chillwind diplomat. The two have been friends for years, I tell you! At least, that’s what I heard from one of my sources.
+You decide that you should return to Indigo. Maybe she has seen someone else.
+frogyfro left the game
+[Antoine] I am absolutely exhausted. This place was covered in curses from all of the treasure that has been brought in over the years. How did no one realize how bad it was getting?
+[Pirates aren't trained in curse detection and breaking.]
+[Antoine] Well at least someone in this town should be. If even one of those curses had triggered they all would have went off at once. Nothing would have been here anymore.
+EmilyVEVO joined the game
+<G> [LAG] EmilyVEVO » bro i am dying
+An Unlikely Partnership [1/2]: Speak to Indigo to inquire about the Chillwind.
+EmilyVEVO left the game
+[Ishnir Guard] Hello, Captain Sukie, the floor above is being used as a private meeting room by Ishnir. It would be best if allies of Chillwind don't go up there.
+PwangeRhino left the game
+[Captain Indigo] Did you find the crew you were looking for, Sukie?
+[More or less, did you happen to see any other groups, by chance?]
+[I am sorry for putting this all on you.]
+[Have you seen Tiffy?]
+[I need to get out of here, for a while.]
+[Captain Indigo] I saw some Chillwind crew going east toward the docks. Vargos went out that way as well, maybe he can help you.
+LilVincie left the game
+PockyTakeo left the game
+frogyfro joined the game
+BoganC joined the game
+[Vargos] Ah, good to finally get some fresh air. Oh, Captain Sukie, have you been there long?
+[Did you happen to see any Chillwind Crew come through here?]
+[How're you, Vargos?]
+[Thanks for the help with the preparations.]
+frogyfro has defeated Vernal Nightmare!
+LordGeek101 has defeated Vernal Nightmare!
+[Vargos] Yes, one of the crew members seemingly had gotten landsick. They took him aboard the ship for him to recover.
+<G> [AEUGH] kabotyaneko » gg
+<G> Lich_of_Flowers » gg
+BoganC left the game
+[Chillwind Quartermaster] What brings you here, Captain Sukie?
+[Are they going to be okay? They don't look well.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Chillwind Quartermaster] Very kind of you to show so much concern. They have a rather bad case of landsickness. Being on a ship for too long can cause some interesting problems.
+[Chillwind Quartermaster] What brings you here, Captain Sukie?
+[Are they going to be okay? They don't look well.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Chillwind Quartermaster] We should be fine, thankfully bouts of landsickness tend to last about as long as bouts of seasickness do.
+[Chillwind Quartermaster] What brings you here, Captain Sukie?
+[Are they going to be okay? They don't look well.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Chillwind Quartermaster] Ishnir has gone too far this time. If those filthy magic users were willing to do what they did, where they did, there is no telling what they would do to us, if given a chance. Unfortunately, I think the time for peace is over, and Mistport's involvement might prove key in the coming days.
+<G> fairbot » to upgrade the tlaxan mask do i just put it and caxtals mask in the crafter or am i missing something?
+[Landsick Chillwind Sailor] Urg... Hello Captain. What brings you here?
+[Are you okay? You seem rather unwell.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Landsick Chillwind Sailor] You didn't have to *URF* check on me Captain. I'm just feeling rather landsick, I haven't been off a boat in years. Why does the ground have to not sway back and forth so much.
+[Landsick Chillwind Sailor] Urg... Hello Captain. What brings you here?
+[Are you okay? You seem rather unwell.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Landsick Chillwind Sailor] I will be fine Captain. I just need some rest, and for the floor to start moving again.
+[Landsick Chillwind Sailor] Urg... Hello Captain. What brings you here?
+[Are you okay? You seem rather unwell.]
+[Do you need anything?]
+[What are your thoughts on the current conflict?]
+[Landsick Chillwind Sailor] I'm not really in any shape to *UURRF* put my thoughts into words.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+Scanning for suitable information...
+Conversation detected, recording and playing back.
+[Landsick Chillwind Sailor] *HURF* The diplomat saw me and some glowy thing came out of his hands and I started feeling a bit better. It was magic I tell you. Our own diplomat was using magic!
+[Chillwind Quartermaster] You must be seeing things. I was there with you and I didn't see anything out of the ordinary. Perhaps your landsickness made you imagine it?
+[Landsick Chillwind Sailor] You are probably *URGH* right. I'll probably forget all about it when I'm feeling better. He isn't that type of person.
+You decide that you should return to Indigo. Maybe she has seen someone else.
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+An Unlikely Partnership [2/2]: Should you leave the party for any reason, you can talk to Indigo to get back in.
+__Veron joined the game
+Older Magic: Arcanist Trial started at Shepor.
+Death: 19 minutes 22 seconds ago
+An Unlikely Partnership [1/2]: Talk to Indigo and figure out how to get upstairs.
+<G> Payhi25 » i believe you need the bone shards that drop for wither skeletons?
+[Captain Indigo] Did you find whatever you were looking for, Sukie?
+[Yeah, while unlikely, have you seen a third group pass through here?]
+[I am sorry for putting this all on you.]
+[Have you seen Tiffy?]
+[I need to get out of here, for a while.]
+[Captain Indigo] Well, the Ishnir Adviser has been upstairs, though good luck getting up there without making a ruckus. Levyn was suppose to be pruning the vines outside, he might be able to help you.
+<G> fairbot » bone shards?
+An Unlikely Partnership [1/2]: Speak to Levyn about how to get upstairs. Also make sure he is okay.
+Levyn looks heavily dazed and battered.
+[Levyn] Uuuughghhhhh…..
+[Are you ok?]
+[Should I go get a doctor?]
+[Levyn] Yaarrrrrr…. I’ll be fine, just fell off the building and hit me head.
+[Well, do you happen to know a way to climb onto the balcony upstairs?]
+[Levyn] Aye, I didn’t trim back the vines before the party started, as you can see. You could use them to climb up. I think I'm going to rest here a bit longer.
+EmilyVEVO joined the game
+<G> Payhi25 » it's the crafting material the wither skeletons drop, forgot what's the name
+<G> [LAG] EmilyVEVO » bro its still happening
+<L> [FISH] __Veron » they're not loading wtf
+An Unlikely Partnership [1/2]: Use the Spymaster 9001 to listen in from the balcony. If you lost it you can get it back from Indigo, Vargos, Izzy, or Levyn at the party.
+<L> [LAG] EmilyVEVO » broooo
+<L> [LAG] EmilyVEVO » thats not cool broo
+<L> [LAG] EmilyVEVO » are you ok
+<L> [FISH] __Veron » you need a mod
+<L> [FISH] __Veron » ye
+<G> fairbot » the skeletons in the reverie?
+frogyfro left the game
+frogyfro joined the game
+<L> [LAG] EmilyVEVO » bro what even is happening
+<G> Payhi25 » just any wither skeleton in general, don't you sometimes see those?
+An Unlikely Partnership [1/2]: Use the Spymaster 9001 to listen in from the balcony. If you lost it you can get it back from Indigo, Vargos, Izzy, or Levyn at the party.
+An Unlikely Partnership [2/2]: Should you leave the party for any reason, you can talk to Indigo to get back in.
+Older Magic: Arcanist Trial started at Shepor.
+<L> [FISH] __Veron » do f3 + a
+Death: 21 minutes 34 seconds ago
+<L> [LAG] EmilyVEVO » not working
+<L> [FISH] __Veron » bruh
+<G> fairbot » sometimes but they never dropped specific items
+<L> [LAG] EmilyVEVO » im reloading all chunks
+<L> [LAG] EmilyVEVO » so many times
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+ERROR, NO CONVERSATION DETECTED.
+<L> [LAG] EmilyVEVO » how do i look on ur screen
+niwatori222 joined the game
+<L> [FISH] __Veron » like there is a hole in the ocean
+<L> [FISH] __Veron » can't see you
+<L> [LAG] EmilyVEVO » LMAO
+<L> [FISH] __Veron » can't even pickup items
+The device glows
+What would you like to do?
+[Scan]
+[Contact Salieri]
+[User Manual]
+<L> [LAG] EmilyVEVO » im -703 74 1214
+Scanning for suitable information...
+Conversation detected, recording and playing back.
+[Ishnir Advisor] I must say, the Frostgate monarchy is more hypocritical than I’d ever have imagined. They tout being able to do everything they have by the sheer will of their people; yet they have been using magic acquired from defectors to the sceptre...
+<G> Payhi25 » i think you just need to surround the other slots with those materials fairbot
+<L> [LAG] EmilyVEVO » send screenshot
+[Unknown Voice] Alright, this has gone far enough, coetus participes mentem!
+[Torren, Ishnir Diplomat] I did not expect to have to meet again under these circumstances, Captain Sukie, but your obvious and overt spying sort of forced our hand.
+<G> fairbot » ah ok
+[Wilhelm, Chillwind Diplomat] However, I dare say this was expected. I could see the distress in your eyes, and the entire affair reeks of Emmeline's handiwork. Although, the party was pretty well executed for the time you likely had. I don't want you breaking things within my mind, so I would like to ask you to stay still.
+[Wait, you know the Duchess?]
+<L> [LAG] EmilyVEVO » the more i stay here
+<L> [LAG] EmilyVEVO » the more my screen shakes
+[Torren, Ishnir Diplomat] Yes, we both do. She's been a thorn in both of our sides for years, even before we both got our current positions.
+<L> [LAG] EmilyVEVO » wtf is happening
+phebelia left the game
+[Wilhelm, Chillwind Diplomat] She can't hear anything we say as long as we are talking to each other like this, however I can't maintain this link for much longer. Captain Sukie, I have a request...
+[Torren, Ishnir Diplomat] No, WE have a request. We cannot ask blood to be spilt, but for the good of the isles, we ask that, by some means, Emmeline is dealt with. She jeopardizes the stability of the region with every breath she takes. One way or another, she needs to be stopped.
+[Why me?]
+[Wilhelm, Chillwind Diplomat] You are the Captain of Mistport. You are one of the easiest ways for her to spread her influence around.
+[Torren, Ishnir Diplomat] If we act like this talk never happened, she will surely contact you again. Eventually, she may even drop her guard... Wilhelm's focus is waning fast, thankfully it lasted long enough.
+[Wilhelm, Chillwind Diplomat] Yes, soon this link will break, and the party will come to an end. Once it does, we shall return to our own countries. To sate a portion of your probable curiosity, Captain Sukie, we've been friends since childhood. The Isles can facilitate friendships even across the vastness of the ocean.
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+[00:42:47] [main/WARN]: Received passengers for unknown entity
+niwatori222 left the game
+
+An Unlikely Partnership: Speak to Tiffy about what has happened.
+
+[Captain Indigo] That went much better than I was expecting; did you get what you were looking for out of the party, Captain Sukie?
+[Yeah, thanks for the help.]
+[Sort of, thanks for the help though.]
+[Not even close, did have a bunch of fun though!]
+[Can we sail back to the King's Valley?]
+[Captain Indigo] No problem, I'm just glad those diplomats seemed to enjoy their time here. Last thing we need is more enemies. Oh, by the way, Tiffy was looking for you.
+
+[Tiffy] Ello, ol’ chap, how did the mission go?
+[She should have the information she requested. Here's the communicator back.]
+<L> [LAG] EmilyVEVO » wait let me get near
+You no longer meet the requirements for this option
+[Tiffy] Ello, ol’ chap, how did the mission go?
+[She should have the information she requested. I lost the communicator though.]
+[Tiffy] Jolly good show that is. Don't worry about the communicator, I happened to find it for you.
+[You can cut out the accent, you have a lot to answer for.]
+<L> [PP] Wembler » nevermind
+[Tiffy] Indeed I do ol' chap, but so do you at this point. Neither of us chose to become employed by her. Also, I don't know what accent you mean. Anyway, here is your reward, a Spymaster 9001.
+[What? That's it?]
+<L> [PP] Wembler » uh might need to restart the shard
+[Tiffy] What were you expecting? The Duchess doesn't pay easily, and that orb is worth more than all of your possessions put together. Besides, the advice from the guy on the other side is PRICELESS... Eh, take this too, it's not like I need it anymore.
+
+AN UNLIKELY PARTNERSHIP COMPLETE!
+Awarded Tiffy's Shield, a Spymaster 9001, and 1 Prestige
+
+==Vital Needs==
+[Dr. Qure] Hmm... Now where did I put that...?
+[Hello?]
+He's deep in thought while trying to find something in his office.
+[Dr. Qure] Oh! I'm terribly sorry, I didn't notice you come in. What can I do for you?
+[I was wondering more what I could do for you.]
+[How about some medical jokes?]
+[Dr. Qure] Oh, really now? Well I suppose there is this one thing...
+[Dr. Qure] You see, I've lost the ingredients to make a special vitality remedy commonly used in these parts, quite a marvelous elixir! If you could fetch me some of those I could apply it to you for your travels too!
+[I'm in. Where should I start?]
+[I'll pass for now. They might still be in your office anyway!]
+[Dr. Qure] Well, first of all, I require a Tenebre Mushroom from some fungal caves in the nearby islands.
+
+QUEST : Vital Needs
+Length : Short
+Difficulty : Easy-Medium
+Search for different ingredients for the Doctor's remedy
+
+Vital Needs [1/2]: Travel to the Fungus Thorn Cave in order to obtain a Tenebre Mushroom.
+Vital Needs [2/2]: Once you have a Tenebre Mushroom, return to Dr. Qure.
+
+#Q120I01 https://puu.sh/GN118/5cb81300f7.png
+
+[Dr. Qure] Ah perfect! You found one! 
+The Doctor chucks some of the mushroom into a mortar and begins to grind it into a fine paste.
+[Alright then, what's next?]
+[Dr. Qure] Hmm, a fresh Saragundi Sapling from a nearby forest. I'd say the Feyrune Forest would have an ample supply.
+
+Vital Needs [1/2]: Travel to Feyrune Forest in order to get a Saragundi Sapling.
+Vital Needs [2/2]: Once you have a Saragundi Sapling, return to Dr. Qure.
+
+#Q120I02 https://puu.sh/GNB1s/242effd8b8.png
+
+[Dr. Qure] Fantastic, it looks to be in perfect health!
+The Doctor throws some leaves of the sapling into the mortar.
+[What's the final ingredient?]
+[Dr. Qure] So, finally, I require a bottle of Kelp Oil. Unfortunately, some pirates had stolen the last bottle I had from me... I believe they've gone back to their base camp in the Spiral Island.
+[Lovely...]
+Zerur left the game
+[Dr. Qure] Yes, well I suppose it shouldn't be too much harder than fetching the other supplies.
+
+Vital Needs [1/2]: Travel to Spiral Island to retrieve some Kelp Oil.
+Vital Needs [2/2]: Once you have some Kelp Oil, return to Dr. Qure.
+
+#Q120I03 https://puu.sh/GNB27/670cb794d3.png
+
+[Dr. Qure] Great work! That's the final ingredient!
+He pours a drop of the oil into the mortar, and then puts the mixture into a vial.
+[So, does the medicine work?]
+[Dr. Qure] Of course it does! Applying it should give the person great vitality for a good while! With this fresh supply, I should have enough for weeks! Take this for your troubles.
+VITAL NEEDS COMPLETE!
+Awarded 28 Crystalline Shards and access to Dr. Qure's healing remedy!
+
+===Rapacity===
+
+[Historian Rhodes] Ah, hello there Captain Sukie! You're just the person I was looking forward to seeing. 
+[Do you need me for something?]
+[You don't have to call me captain, you know.]
+<G> [INF] theeJRook » FRICK
+[Historian Rhodes] Oh I know, but where's the enjoyment in that? Let's have some fun with it! Besides, that scraggly jerk Jones constantly stands outside my window, and he might skin me like a cat if I don't show respect.
+<G> [WAIFU] NightMessenger » do you want to do part 3 of teal devel
+[Historian Rhodes] Ah, hello there Captain Sukie! You're just the person I was looking forward to seeing. 
+[Do you need me for something?]
+[You don't have to call me captain, you know.]
+[Historian Rhodes] Yes, in fact I do! Tell me, in your adventures through Viridia, did you ever come across the name "Salazar"?
+[Can't say I know that name.]
+[I may have once or twice.]
+<G> [LoD] Mine_Hinata » hmm nope
+<G> [WAIFU] NightMessenger » it is only 5 points delve
+<G> [LoD] Mine_Hinata » i'm lazy lol
+[Historian Rhodes] Fantastic! From what I was able to dig up in my extensive research since your stride through Viridia, it seems that Salazar was the founder of the Viridian Empire.
+[How does this concern me though?]
+[Historian Rhodes] Well you see, while I've been able to uncover quite a fair amount of information from the city, it seems all account of Salazar's whereabouts post-fall of Viridia... simply don't exist, at least that we have found.
+[Perhaps he died?]
+<G> [TAG] CreepSlayerz » what are the points in
+[Historian Rhodes] While it is a possibility, something in my gut tells me that is incorrect. The ruler of one of the three great empires, the possessor of the wool of Knowledge, simply dropping dead due to unstable conditions and an experiment that seemingly went south? Something doesn't quite sit right with me there. So my question to you is, would you assist me and my team in trying to uncover the fate of Salazar?
+[Sure, I've got the time.]
+[Why are you so worried about this to begin with?]
+[I can't right now, sorry.]
+<G> [WAIFU] NightMessenger » creep
+Welcome Shade_banana4 to the server!
+Welcome Shade_banana2 to the server!
+[Historian Rhodes] I'm a historian! Cataloging as much historical information as I possibly can is what I do best, and this gaping hole in history keeps me up at night.
+<G> [MB] blobfish1203 » Welcome!
+[Historian Rhodes] Well you see, while I've been able to uncover quite a fair amount of information from the city, it seems all account of Salazar's whereabouts post-fall of Viridia... simply don't exist, at least that we have found.
+[Perhaps he died?]
+<G> [INF] theeJRook » welcome!
+<G> BoganC » welcome
+<G> [Ember] deripy » welcome!
+<G> [TCL] Cloud_ » gg
+<G> [Ember] diamondinferno1 » welcoe
+<G> [FPF] iKira___ » erlcome
+<G> [WAIFU] SorcererAxis81 » gg
+<G> [WAIFU] NightMessenger » are you willing to do part 3 of teal 5 points delve
+<G> [INF] Eb_ » welcome!
+[Historian Rhodes] While it is a possibility, something in my gut tells me that is incorrect. The ruler of one of the three great empires, the possessor of the wool of Knowledge, simply dropping dead due to unstable conditions and an experiment that seemingly went south? Something doesn't quite sit right with me there. So my question to you is, would you assist me and my team in trying to uncover the fate of Salazar?
+[Sure, I've got the time.]
+[Why are you so worried about this to begin with?]
+[I can't right now, sorry.]
+<G> [Ember] deripy » watching names
+[Historian Rhodes] Fantastic! When you are prepared to head out, let me know.
+
+QUEST : RAPACITY
+Length : Long
+Difficulty : Hard
+Description : Help Rhodes in his search for the fate of Salazar.
+
+Rapacity [1/2]: Speak to Historian Rhodes about the place he wants to take you.
+Rapacity [2/2]: Search around and see what you can find on Salazar. Return anything you find to Historian Rhodes.
+
+[Historian Rhodes] Are you ready to head out?
+[Where are we going?]
+[Yes, I'm ready.]
+[Historian Rhodes] Oh, you'll see when we get there. My team has put in quite a bit of work since the last time you saw it.
+[I'm ready.]
+Reply from needmoney90: voice?
+[Historian Rhodes] Let's be going then.
+
+[Historian Rhodes] I'm sure you're quite familiar with this place.
+[It's a lot less wet than the last time I was here.]
+[What are we doing here?]
+[I'd like to leave for now.]
+<G> [Rend] Elementlover » I mean I guess it's only 2 so far but still
+[Historian Rhodes] Quite! Since you managed to remove the curses that infested the waters, we were able to drain the undercity. It took a while, and I'll never look at a sea pickle the same way again, but we got it done.
+<G> [FORCE] emeraldcore71 » still so many on
+<G> [INF] theeJRook » 270s
+<G> [TCL] Cloud_ » Many a kaul
+[Historian Rhodes] I'm sure you're quite familiar with this place.
+[It's a lot less wet than the last time I was here.]
+[What are we doing here?]
+[I'd like to leave for now.]
+<G> [MB] pogocto » poh
+[Historian Rhodes] As hungry as we are for knowledge, there is still much here that needs reviewing, possibly even things waiting to be discovered. The undercity is vast and filled with extraordinary amounts of information. My ask of you is to look around and help us search out information on Salazar. If information does exist, it has to be here. If you manage to find anything, let me know.
+
+[Historian Sen] You know, I love reading about history and all... But actually seeing history like this? This makes it all the more worth while.
+[Historian Kauli] It's such a shame that a city with this much knowledge was buried for so long. The amount of history that could have been lost forever is insane.
+[Historian Rizza] There's a book here called "Thicker Than Blood". It seems to be much newer than all the rest, doesn't have nearly as much decay. I wonder how that occurred.
+[Historian Jaik] It seems the mechanism that once existed here finally hit its limit. Consider yourself lucky to be the last person in history to use it.
+[Historian Vas] I doubt I'll ever get these books to stop smelling like the ocean.
+[Historian Caer] It seems the original purpose of these large pillars was to act as magical conduits to power the rest of the city. I wonder if we can learn anything from them.
+[Historian Lax] Some of these books are just so cryptic in their phrasing. This was supposed to be a city founded on knowledge, how were they suppose to pass off knowledge if no one could understand what they were saying?
+
+
+stair corner by entrance
+Shredded Note 1 #Q110I01
+
+parkour to uncommon chest
+Shredded Note 2 #Q110I02
+
+lever in magmablock pit
+Shredded Note 3 #Q110I03
+
+chair puzzle
+As the last chair slides faces westwards, you hear a mechanism set off behind the walls.
+Shredded Note 4 #Q110I04
+
+[Historian Rhodes] Did you manage to find anything?
+[I found these hidden note scraps, but they aren't particularly legible like this.]
+[18:14:44] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:14:51] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [MB] pogocto » what the chance of getting overworld rare?
+<G> ThyDcUniverse » what do you do wth the fidget spinner
+<G> [FORCE] emeraldcore71 » keep it
+<G> [FORCE] emeraldcore71 » it's a unique
+[18:15:12] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:15:12] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Historian Rhodes] Ahh! Let me see them right quick! Little glue here... little stitching there... carry the one... There we go! All patched up, and it's a letter written by Salazar himself! But... I don't understand... Give it a read, see if you can interpret anything from it.
+<G> ThyDcUniverse » oh ok
+[18:15:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:15:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Historian Rhodes] Can you make anything out about what is being said? An... arboretum? In the Chillwind? And something about giving gifts?
+[There is an old Arboretum that fell a long while back. It's where I discovered the Pink wool.]
+[18:15:27] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:15:27] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:15:28] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:15:28] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Historian Rhodes] Can you make anything out about what is being said? An... arboretum? In the Chillwind? And something about giving gifts?
+[There is an old Arboretum that fell a long while back. It's where I discovered the Pink wool.]
+<G> dhaboi » wait if you die with levels you can exceed the max 7 levels?
+<G> [Rend] Elementlover » ??? what
+<G> [Rend] Elementlover » no
+<G> dhaboi » i died with near 30 levels
+<G> [GTM] Emeliox » i dont think so
+<G> dhaboi » and i got back 14
+<G> [Rend] Elementlover » you just... lose your levels
+<G> dhaboi » confusation
+<G> [Rend] Elementlover » uhhh, weird
+<G> [Rend] Elementlover » oh well
+<G> dhaboi » no i got back to the dropped xp
+[18:16:15] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:15] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:19] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:19] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:23] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:23] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:25] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Ember] diamondinferno1 » im at 110 levels i rlly hope i dont die
+<G> _Tony_ » why am i not able to pickup stuff?
+[Historian Rhodes] Can you make anything out about what is being said? An... arboretum? In the Chillwind? And something about giving gifts?
+[There is an old Arboretum that fell a long while back. It's where I discovered the Pink wool.]
+[18:16:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:16:41] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Historian Rhodes] You've found more wools beyond the Lime one held by Salazar? Sukie, you really get around don't you! Is there anyone in the Arboretum that we can contact? Perhaps they have historical records.
+[All of the members were killed by a demon from a dimension opposite of ours.]
+BabyEro has defeated the Alchemy Labs!
+<G> [Rend] Elementlover » wait a sec
+<G> [FORCE] emeraldcore71 » gg
+[Historian Rhodes] Oh that's... unfortunate... Perhaps I'm suddenly not envious of your journeys...
+[There is a peaceful spirit that I know how to contact, however.]
+<G> [Rend] Elementlover » is there no r2 epic chestplate?
+<G> [FORCE] emeraldcore71 » nope
+<G> [Ember] diamondinferno1 » no
+<G> [Rend] Elementlover » wow... weirdddd
+<G> [FORCE] emeraldcore71 » there could be one
+<G> [FORCE] emeraldcore71 » later
+[Historian Rhodes] That's an odd source of information, but at this point, I'll take anything. If your ghost friend can provide any useful information, that would be of great use. Unfortunately, I must stay here with my team, but I wish you the best of luck.
+
+Rapacity: Seek out the Harmonious Spirit in the Pink Lobby. (You must have finished all dialogue with him in Frostgate post-completion of the Pink dungeon.)
+
+Returning to Balance #Q110I08
+
+[Harmonious Spirit] I sense the power of our treasure on you, and with that, I remember more than I wanted to. You have done a great thing for my people, and for the world. Come speak to me near the Arboretum, I have things for you and only you to hear.
+[18:23:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:23:08] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:23:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Harmonious Spirit] If you wish to talk to me, please speak to me outside of the Arboretum. We are likely to discuss things that might cause some to panic.
+
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+[18:24:11] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:24:11] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> ThyDcUniverse » what do prestiges do?
+[18:24:13] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[18:24:16] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Harmonious Spirit] A demon. One of great and terrible power that was slowly gaining access to our world. It took control of our way of life, and we were blind to it. It also ordered me to be killed when I failed to submit to it.
+<G> [FORCE] emeraldcore71 » unlocks things
+<G> [Ember] diamondinferno1 » how much longer
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+<G> ThyDcUniverse » like?
+<G> [Rend] Pacific_Legend » dunno
+<G> AndrewJackson » i got the note but the compass still points at the castle...
+[Harmonious Spirit] The wool. First being used by my people, and then being used by that... thing. Our loved ones did help us, but they were corrupted and used as puppets. I mourn for them.
+§c§lSealed Descent is respawning in 30 seconds
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+FireOverheat has defeated the Alchemy Labs!
+[Harmonious Spirit] Originally it was a way for my ancestors to identify individuals trustworthy enough to be near the pink wool. Unfortunately, once that monster took over the process was used against us. We didn't stand a chance. We were sacrificed to that thing to help it come into our world faster.
+<G> ThyDcUniverse » unlike what emerald?
+<G> [FORCE] emeraldcore71 » do /peb, then click player information, then click prestige
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+[Harmonious Spirit] This is theory on my part, but I believe that that creature saw my betrayal as a sign that my people were complacent. Perhaps it thought desperation would make us more compliant. It seemed to work for it.
+<G> ThyDcUniverse » unlock*
+<G> ThyDcUniverse » ok
+<G> ThyDcUniverse » thanks
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+<G> [Ember] diamondinferno1 » then what do i do for lvls rn
+<G> [FORCE] emeraldcore71 » np
+[Harmonious Spirit] For you or for me?
+[You.]
+[Me.]
+<G> FireOverheat » dungeon was so hard
+[Harmonious Spirit] While I could move to whatever may or may not come after this unlife, I feel obligated to help my people in any way that I can. Maybe in time they can return to the peaceful people I remember. If I need a break, I might head to an island for a while and see the sights. A lot has changed since I have been alive.
+<G> [FORCE] emeraldcore71 » roguelike
+<G> [Ember] diamondinferno1 » what
+<G> [FORCE] emeraldcore71 » dia do roguelike lol its good for levels
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+[Harmonious Spirit] For you or for me?
+[You.]
+[Me.]
+<G> [Ember] diamondinferno1 » no
+[Harmonious Spirit] That is largely up to you to decide. You could even return to the homes of my people. Surely my people have secrets even I don't know about.
+
+Rapacity: Seek out the Harmonious Spirit in the Pink Lobby. (You must have finished all dialogue with him in Frostgate post-completion of the Pink dungeon.)
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[I need to ask you about someone who may have been a member in the Arboretum.]
+[Harmonious Spirit] My memory has been much more clear as of late, so I will give you any knowledge I am capable of passing on. Who do you wish to ask about?
+[His name was Salazar.]
+<G> [FORCE] emeraldcore71 » f
+<G> creeperjello123 » HI
+<G> creeperjello123 » oops caps
+<G> Fishywishi » ...
+[Harmonious Spirit] ...Careful, my friend. Names bear power, and that one is not a name to speak of lightly.
+[I'm guessing that means you know him?]
+[Harmonious Spirit] Yes, I do know of Brother Salazar. Though it is not a story I recount with uplifting emotions. However, you have helped me more than I can repay, and I told you I would pass off the knowledge of which I was capable.
+[Can you tell me what happened to him after the fall of Viridia?]
+Welcome Shallowbage27 to the server!
+[Harmonious Spirit] In a sense, yes. In a sense, no. I can merely guide you to where the information you seek lies. But first, you will need something.
+[Harmonious Spirit] In the rising tunnels above us - that which your people call the Sealed Descent - there lies a blessed shard of glass. Seek it out and return it here.
+
+Rapacity: Journey back through the Sealed Descent to find the blessed glass for the Harmonious Spirit.
+
+Blessed Glass #Q110I09
+
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[Talk about Rapacity]
+[18:27:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[Harmonious Spirit] Yes, that is the glass I spoke of. I wish not for us to go down this path, but there are answers you seem determined to seek.
+[How does the glass help us?]
+[18:27:16] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Harmonious Spirit] I will use the glass to construct a tool that you will soon find helpful. But first, we must head within the Arboretum. Are you ready to go in?
+[Yes, I'm ready.]
+[Actually I need to take care of other stuff first.]
+[18:27:26] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Harmonious Spirit] Very well, let's go.
+<G> creeperjello123 » When I talk to the witch and it tells me to click on the brackets
+
+Rapacity: Find your way into the Father's study. You can speak to the Harmonious Spirit for directions.
+
+Magic Mirror #Q110I05
+
+[Harmonious Spirit] Welcome to the Father's hall. You likely did not see this portion of the Arboretum on your last trek through here, though some other areas are modeled after it.
+[What's going on here?]
+[How do I unlock the study door in the corrupted world?]
+[I wish to leave.]
+<G> dhaboi » hello?
+<G> snowflakezs » hi
+[Harmonious Spirit] Perhaps I should explain to you more concisely what I meant by "in a sense". You see, the information you seek does not exist. At least, not in this realm. The Father kept a journal, locked away within his study, but it has long since been lost.
+[Harmonious Spirit] However, if it does not exist within this world, that implies that it does exist within the corrupted world, as all things there occur in opposite. If you can unlock the study in the corrupted world and remove the book from there, you might be able to bring the book into existence within our world.
+[How do I unlock the study door in the corrupted world?]
+
+[Harmonious Spirit] The study door can be opened if you understand the following conditions:
+- The study door will unlock when all other doors in the corrupted world are in their open position at once.
+- I have given you the tool I crafted for you, a Magic Mirror that allows you to traverse back from the corrupted world at will. To get to the corrupted world, however, you must use the rift located downstairs.
+- Remember that all actions taken within the corrupted world have the opposite effect in this world.
+- Father was quite brilliant, and traps have likely been laid. If you find yourself stuck and unable to leave a room, you will find the Magic Mirror's second function to be useful, and will return the Hall to the way you currently see it.
+
+As the final door in the corrupted world unlocks, the sounds of mechanisms fill the halls. The corrupted world's log room has been opened.
+
+The corrupted log crumbles upon holding it. The log room in the normal world has likely been filled as a result.
+
+Excommunication #Q110I07
+
+[Harmonious Spirit] It seems you have managed to collect the log. Let us leave this place, I wish not to linger here for longer than we must. We will speak once we have exited the Arboretum.
+
+Rapacity: Speak to the Harmonious Spirit
+
+[Harmonious Spirit] Thank you for everything. I'm sure you have many questions about what you saw inside, and about my people.
+[What was that thing inside there?]
+[What granted your people the various gifts?]
+[Why were people selected to come here?]
+[Why did the gifts stop?]
+[What next?]
+[Talk about Rapacity]
+[Harmonious Spirit] I assume you have had time to ponder on the Father's log.
+[Salazar... was he the one to break the Pink wool?]
+<G> MrBSPetaByte » what to expect in part 2 of lime?
+<G> [FORCE] emeraldcore71 » ./l <message>
+[Harmonious Spirit] You now understand the truth, and why his name brings me great pain. His actions directly led to the events that soon followed - the death of my people at the hands of a demon who tore into our world through the rift Brother Salazar caused.
+[The book mentions someone named Varcosa.]
+<G> Spaghetti_Sock » ty
+<G> [FORCE] emeraldcore71 » flying creepers
+[Harmonious Spirit] I was unaware of this fate, or I would have told you before. In my time, Varcosa was an infamous pirate, known for causing mass havoc even to the nations. He was known for showing no mercy, and that makes me doubtful that Brother Salazar survived much longer beyond that point.
+[Is there anywhere I can get information on Varcosa?]
+<G> [FORCE] emeraldcore71 » glowing invis endermen
+<G> Fishywishi » lol
+<G> MrBSPetaByte » Charged?
+<G> [FORCE] emeraldcore71 » no
+<G> [FORCE] emeraldcore71 » they ride phantoms tho, not bad at all
+[Harmonious Spirit] It is fairly likely that some historical records exist. If what I remember is correct, Varcosa was originally a citizen of Ishnir. If any documents remains, an archivist familiar with that nation's history will be your best bet. Alnera may be a good place to start looking.
+
+Rapacity: Head to Alnera and seek out information once again from Archivist Nyra.
+
+[Archivist Nyra] Hello there. What brings you to the pharaoh's library today?
+[Who are you?]
+[The pharaoh's library is open to the public?]
+[What can you tell me about Alnera?]
+[Do you have any records on a pirate named Varcosa?]
+<G> [Rend] Pacific_Legend » Oh no! The president
+[Archivist Nyra] Oh so you've stopped searching after fictional things like the Gem of Ishnir? Yes, of course we have records on the legendary pirate. Let's see, Varcosa was originally born in Ishnir, though gave up his birthright to pursue pirating roughly around 225 CCE.
+[Archivist Nyra] Twenty five years later, in 250 CCE, Varcosa declared himself the king of the seas, and headed out for his final voyage. No records exist of him beyond that date, it is presumed he died at sea.
+[His final voyage?]
+[18:59:00] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Rend] Pacific_Legend » High school apps then
+[18:59:03] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Rend] Pacific_Legend » wc
+<G> El_Yuki » phone apps?
+[18:59:16] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Archivist Nyra] Yes, according to the public record, there is rumor that he discovered the location of a great treasure. However, there is no historical evidence to suggest that any ever existed at that point.
+[Any idea where he went?]
+[18:59:23] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Archivist Nyra] Yes and no. There is an old map that was found a few decades back, though it has suffered heavy damage over the centuries. It is currently on loan to the records holder in Molta for inspection. Shani, I believe is her name.
+
+Rapacity: It seems Shani in Molta currently has Varcosa's map. Seek her out.
+
+[Record Keeper Shani] Hello! Welcome to the Molta Arch- AH! Sukie! It's nice to see you again! I wish the last time we met were under better circumstances, though I hear you used the information I gave you to cause quite a stir with Boris.
+[Yes, we exposed a cover up for a mining operation gone wrong.]
+[19:01:06] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[19:01:07] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> dhaboi » where is the explosive cache
+[19:01:11] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Rend] Elementlover » I largely underestimated cleric undead dmg
+[19:01:15] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Rend] Elementlover » cause
+[Record Keeper Shani] And you made quite a fuss among the government in doing so! Amarion will likely never hear the end of it, but I have faith that the government will reap the repercussions of their misdeeds in due time.
+[I wanted to ask you about Varcosa's map.]
+<G> [Rend] Elementlover » geez it does SO much
+[19:01:23] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[Record Keeper Shani] Ah, you heard of that? Yes, I'm currently in possession of it, though it's not nearly as helpful as I hoped it would be.
+[What did you want it for?]
+[Record Keeper Shani] You see, I found a record a few weeks back that may have hinted at the final voyage of the infamous ruler of the waves. There was a mention of  "Corsair's Claw".
+[Never heard of it.]
+<G> [Rend] Moniker1 » gg team
+[19:01:29] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[19:01:30] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [Rend] Moniker1 » I managed not to die using Thaumaturge's
+[Record Keeper Shani] That's not entirely surprising, it doesn't exist. Or at least, I didn't believe so until I found this record. Corsair's Claw is a mythical island shrouded in legend, mostly used as a bedtime story to scare children. 
+[Record Keeper Shani] I hoped that, if I could possibly make something out of the map, it would lead me in the right direction - possibly even to the mythical island itself. Sadly, it is so worn down, its impossible to read it.
+[Is there nothing that can be done?]
+<G> [FORCE] emeraldcore71 » lol
+<G> [Rend] Moniker1 » I'll use a better armor kit next time
+[Record Keeper Shani] I wouldn't quite say nothing. In older times like this, pirates didn't have access to quills to write with, and thus they had to resort to using ship scraps in order to draw maps. Because of this, they needed special ink that would stick well. This sort of became tradition among pirates who sail the northern seas, even today, to continue to use this special ink. 
+[Record Keeper Shani] If you can manage to track some down and get some of it, I might be able to make an etching of the map. Be warned though, Northern pirates are much different from the ones you may be familiar with, Ocean's Reach is not kind, so they have to fight to survive. I have heard word that a certain crew is fighting off a sea monster attack. This may be the only chance we can get, while they are distracted.
+
+Rapacity: You need some special mapping ink carried by Northern pirates. Search out a crew that is currently fighting off a sea monster attack and grab it while they are distracted.
+
+Thick Ink Puch (#Q110I01)
+
+[Record Keeper Shani] Ah, good good! You actually managed to get some! Alright, give me just a minute to get the etching done... careful now... apply slightly... Alright! I think that may actually have done the trick! It's rough, but I think it may be good enough. Here, have a look at it.
+
+Rapacity: You've made a copy of Varcosa's map! Follow it to its destination! You can get information on the map, or retrieve another one, by speaking to Shani.
+
+[Record Keeper Shani] It's quite interesting... I can just about make out that landmass at the top to be the southern tip of Ishnir, which would imply that this is pointing somewhere in the southeastern sea. If you are also interested in Varcosa, I ask that you follow this map. I am unfortunately stuck here, but I ask you come back and tell me of your trip if you find anything.
+[I lost the map you gave me.]
+[Record Keeper Shani] That's pretty careless of you. Thankfully I have just enough ink left for another etching.
+
+You start to feel a bit odd as you continue further through the tunnel.
+
+[Historian Rhodes] Isn't the undercity amazing? It's hard for me to remove my eyes from it. Anyway, have you had any luck searching for clues about Salazar around here?
+[Rhodes? What am I doing back here?]
+<L> [FORCE] emeraldcore71 » also there's a jump puzzle on the ship as well
+<G> [Rend] Elementlover » above*
+[Historian Rhodes] Exactly what I asked you to come here for. I need your assistance in finding any information we can on Salazar.
+[But... We already found his book here.]
+[Historian Rhodes] I have no idea what you're talking about Sukie. You're beginning to **confuse** me.
+
+[Historian Sen] You know, I love reading about history and all... But actually seeing history like this? This makes it all the more worth while.
+[I don't understand what's happening.]
+[Historian Sen] Didn't you hear me? Enjoy this view. This is pure history in front of us. 
+[I've already been here! Tell me what's going on!]
+<L> [Rend] Elementlover » to get to the finalt random door
+[Historian Sen] Oh come now Sukie. Theres no need to get **angry**.
+
+[Historian Sen] There's no need for **anger** in a place like this Sukie. Enjoy the history around you.
+
+[Harmonious Spirit] We meet again Sukie, how are you faring on your journey?
+[How am I here now? And what happened to this lobby?]
+[Harmonious Spirit] You seem upset Sukie, **fear** runs across your face. Try to rest here, your constant journies will unbalance your spirit.
+
+[Echoing Thoughts] The will on this one is interesting. That pirate might finally have found his replacement. I will let my grip go. For now.
+
+[Fading Spirit] Hmm... a new face? It's been... quite a while since I have seen one. How long now... decades? Centuries? I stopped counting a long time ago.
+[Who are you?]
+[Fading Spirit] In life, I was... a ruler... one who fell from grace... My kingdom long since turned to folly...
+[Wait... Are you Salazar?]
+[Fading Spirit] Mmm... It warms my spirit slightly to know that my name is still known... But... not quite enough to escape... not quite yet... 
+
+RAPACITY COMPLETE!
+Awarded Varcosa's Doublet, a Purple Wool Key, Access to the Purple Wool Teleporter in Mistport, Access to Rush of Dissonance from Pink Lobby, and 1 Prestige.
+
+===Unmasked===
+
+[Vargos] It feels almost like dumb luck that we've routed Calder's Masked. You should be very proud of your work. We have more work left though... it will never end until we take down the man himself.
+[What can I do to help?]
+[Vargos] As you know, we've taken the former Holy Advisor, Ridnan, into custody. We've been trying to crack him and gather information. Would you care to join us?
+[I've been looking forward to this.]
+[Later, when I have the time.]
+[Vargos] Then let us travel there post haste.
+
+QUEST : UNMASKED
+Length : Very Long
+Difficulty : Very Hard
+Join Vargos and your crew in their questioning of the Masked, Ridnan.
+
+Unmasked [1/2]: Talk to Vargos in the Jail.
+Unmasked [2/2]: If you're not in the Jail, speak to Vargos to return to it.
+
+[Brandy] Hello there Sukie. I’ve heard great things about you from Vargos and my daughter.
+[Nice to meet you Brandy. What have you gotten out of Ridnan so far?]
+[Your daughter?]
+[Brandy] Oh of course. Cinevra is my daughter. She's quite the powerful little arcmage!
+[Well, it's nice to meet you Brandy. What have you gotten out of Ridnan so far?]
+[Brandy] Not much, he’s been spouting out fanatical nonsense, but nothing that will help us find Calder. 
+[Can I try talking to him?]
+[Brandy] Sure. I’ll be monitoring him, so no need to be afraid.
+[Aimos] Ahoy Cap'n Sukie.
+[Ahoy. Who are you?]
+[Aimos] I'm Aimos. Yer mates pawned me off fer guard duty of this scum 'ere. If ye wanna know what he did, I wrote ya a log in ta chest over there.
+[You can write?]
+[Aimos] Jus' cuz I'm a pirate don't mean I ain't literate, mate.
+[Levyn] Ahoy Sukie! We get ta pick the brains o' some scum today, aye?
+[Yes indeed.]
+[Levyn] Let me at 'im! I'll learn all there be ta know!
+[Ridnan] Sukie... Have you come to gloat at your victory? Even if you get rid of me, there are many who share my sentiment. You mages are a scourge upon the earth.
+[Do you hate mages that much?]
+<G> [LAG] VastPoenBV » Sigil in third chest moment :uwu:
+[Ridnan] Of course I do! They should never have existed at all! I was so close... I should have realized that working for a filthy mage like Calder would cause trouble.
+[Why did Calder want you to work for him in the first place?]
+[Ridnan] Hah... He never told me what exactly, but he said he was searching for the resting place of ancient power.
+[Did you find it?]
+[Ridnan] We didn't, but we found an old scripture that hinted to its location.
+[Is this scripture in Calder's hands?]
+[Ridnan] ...
+[Is it?]
+[Ridnan] ...
+[Brandy] Seems like he's decided not to talk anymore. Let me handle this.
+<G> [DNG] rayman520 » still not gonna beat the 2 rares in first white chest i got
+[Vargos] Go ahead, talk to Ridnan.
+A loud cracking noise reverberates around the room.
+[Ridnan] GAHH!
+[Brandy] Does Calder have the scriptures?
+[Ridnan] ...
+[Brandy] Why do you continue to stay silent? Do you believe someone will come for you?
+[Ridnan] ...
+[Brandy] Your country has forsaken you. Your followers have been detained. And your master? Calder? I’ve known him far longer than you’ve been alive, boy. He won’t come for you. You’ve served your purpose.
+[Ridnan] ...
+<G> [LAG] VastPoenBV » I got 2 mats and 1 sigil in the first three chests :shrug:
+[Brandy] Perhaps you need some more… encouragement. You don’t like magic, no? Let’s see how much you like this. 
+Blades of air dance in the palm of Brandy’s hand
+[Ridnan] O-only some of them! We only managed to put together a few verses. He said it was enough.
+<G> [DNG] rayman520 » finally a worthy opponent
+[Brandy] Only some hmm? Well maybe some more prodding will let you remember what was on those scr-
+An explosion rocks the room
+<G> [DNG] rayman520 » our battle will be legendary
+<G> [LAG] VastPoenBV » Nothing in fourth chest though
+[Vargos] What was that?
+[Ridnan] I knew it! He would never forsake me!
+<G> [LAG] VastPoenBV » So you win
+<G> [DNG] rayman520 » warden got with only 4hxp
+<G> [DNG] rayman520 » do bette
+[Brandy] That monster... Calder is far too bold. Go get him, Sukie.
+[Vargos] After him!
+[Izzy] Oh no... did we never seal the hole into the sewer?
+[What hole?]
+[Izzy] The one you escaped into, back when we made it to Mistport! Ridnan must have fled down it!
+[I'll go after him.]
+<G> [LAG] VastPoenBV » Eh
+[Vargos] Be careful, I sense some seriously powerful magic afoot. Someone is down there with him. I fear the Masked aren’t done with us yet.
+[Levyn] Need any backup Cap'n? I can take 'im!
+<G> [LAG] VastPoenBV » Jei got warden without even paying for his chips
+Unmasked [2/2]: If you leave the sewers at any time, return through the sewer entrance.
+Delve Bounty: The great Genius Loci sturs in his sleep. What an awful distortion of reality this nightmare has created...
+<G> wub_z » what gear should i have to do white
+Death [1/2]: 1 hour 25 minutes 43 seconds ago
+Death [2/2]: 1 hour 40 minutes 5 seconds ago
+Monumenta Quests: Finding the starting NPC for R is for Reprisal.
+Pyre and Prejudice: Collect a volcanic ash sample from somewhere in Scorch Valley.
+Unmasked [1/2]: Follow Ridnan into the sewers.
+
+[Masked Figure] Don't follow us, Sukie. This won't end well.
+[Who are you? Where are you taking Ridnan?]
+[Masked Figure] This isn’t your concern. Just let us leave and I won’t be forced to hurt you.
+
+[Masked Figure] Fine, I’ll do this myself. I was hoping not to have to. Come here Sukie!
+
+Unmasked [1/2]: Defeat the Masked Figure.
+
+[Samwell] I told you not to follow me.
+[Samwell? What are you doing here?]
+<G> Laycox » uhh i have noting and also lost the key to the lab
+[Samwell] I told you, I would be finding the highest bidder. It turns out the Masked offer quite the compensation. Power.
+[After all we saw, you really joined Calder? Why?]
+[Samwell] Of course I did, after all we saw. I’m throwing my hat in the ring with the winner. Lord Calder has power beyond your imagination. He is so close to having even more. The scriptures will be the way. I’m sure Ridnan, the little traitor, has already spilled the beans.
+[Wouldn't you like to know.]
+<G> [FORCE] rozteddy » ...thats normal
+Unmasked [1/2]: Defeat the Masked Figure.
+Unmasked [2/2]: If you leave the sewers at any time, return through the sewer entrance.
+[Samwell] I don't really care. I’m not here to rescue Ridnan anyway.
+[What?]
+[Ridnan] No… I’ve served Lord Calder well…
+Samwell spits.
+[Samwell] As if. You failed his most delicate mission and have put pressure on him when he needed the most space. With the failures of you and the Pharaoh, he might not even get the wool in time, you fool.
+[Wool?!]
+Welcome qDrip to the server!
+[04:01:31] [main/WARN]: Unknown custom packed identifier: venturechat:data
+<G> [FORCE] rozteddy » you can enter lab again without key if you already opened isntance
+[Samwell] Yes, what else would Ridnan’s precious scriptures be pointing to?? Gods, you truly are hopeless. Goodbye Sukie. I hope I never have to see you again.
+[Ridnan] NO! Listen to me! The scriptures speak of the lost Monument. The statues speak of the power of time! Go to -
+Ridnan gasps as Samwell leaps forward, stabbing him in the throat.
+[Samwell!]
+Samwell leaps into the sewer tunnel, silently, leaving you alone, with a corpse. You choose to flee back to Mistport. You've seen enough.
+[04:01:53] [main/WARN]: Unknown custom packed identifier: venturechat:data
+Delve Bounty: The great Genius Loci sturs in his sleep. What an awful distortion of reality this nightmare has created...
+Death [1/2]: 1 hour 38 minutes 56 seconds ago
+Death [2/2]: 1 hour 53 minutes 18 seconds ago
+Monumenta Quests: Finding the starting NPC for R is for Reprisal.
+Pyre and Prejudice: Collect a volcanic ash sample from somewhere in Scorch Valley.
+
+Unmasked: Return to Vargos in Mistport to tell him what happened.
+
+[04:02:02] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[04:02:43] [main/WARN]: Unknown custom packed identifier: venturechat:data
+[04:03:09] [main/WARN]: Unknown custom packed identifier: venturechat:data
+Azhan has defeated Vernal Nightmare!
+aokirikoya has defeated Vernal Nightmare!
+AAAAAA_Ming has defeated Vernal Nightmare!
+<G> [FORCE] rozteddy » nice
+<G> [PHX] Woohard » gg!
+phebelia has defeated Vernal Nightmare!
+[Vargos] You've returned. Good news, I hope.
+[Ridnan is dead, killed by Samwell. He’s joined Calder.]
+[Vargos] Of course... Those who hunger for power are always drawn to those with it. It will be Samwell's downfall. He's made his choice, I suppose.
+[I found something important out. Calder is after a Wool.]
+[Vargos] A wool? The council didn’t think there were any left in the Region. What do we know?
+[I know that the Monument seems to be involved, and something about statues speaking of time?]
+[Vargos]  Fascinating… We need to move quickly. I’ll send for Bhairavi immediately. She knows more about these wool than anyone else. I’ve been ensuring your discoveries with this region’s wool made their way to her. Go meet her at the Steelmeld Monument immediately.
+Welcome SuperHoosierHero to the server!
+
+Unmasked: Meet Bhairavi at the Steelmeld Monument.
+
+[Bhairavi] Sukie! You're here!
+[It's been too long since the party at Mistport!]
+[Bhairavi] It has indeed! Now, the research I've done in the Valley made me believe that the last wool in the Isles was the Purple Wool. Now I'm beginning to think that the Blue Wool is in play here as well.
+[The Blue Wool? How do you know?]
+[Bhairavi] Has nobody told you about the Council's experience with the Wools? It's quite a long story, but I can summarize if you'd like.
+[Please do (Short option).]
+[I'm happy to listen (Long option).]
+[Bhairavi] After many adventures and discoveries, the Mage Council discovered how to enter the Monument in the King’s Valley. It was there we were greeted by a vision… or a memory? Something. In it, we were shown sixteen wool of power. The ones you know, white, orange, magenta, and so on.
+[What’s left to find then?]
+[Bhairavi] Next would be Blue, Brown, Green, and Red. We began to investigate back then, and determined that White through Yellow were in the Valley, and that they seemed to be in groups. We were fairly sure that Lime through Purple would be together, then Blue through Black would be grouped. We began to investigate a lead into what we thought would be a higher wool, far from the Valley.
+[But Calder got it first?]
+[Bhairavi] Exactly. He had been off searching with his partner, on Council orders. We have no idea how he found the wool, but on his return, he revealed it, and slaughtered the Council. His partner hasn't been seen since. She's likely dead as well, damn him.
+[That's horrible.]
+[Bhairavi] Isn't it? Calder really seems to have a gift for this sort of miracle though, finding Wool where they don't belong. If this is even the Blue Wool at all...
+[So what do we know? Is there anywhere I can go to find him?]
+[Bhairavi] I think so. I’ve had some notes on a wool with time powers for a few months now. I keep finding references to the "Silver Knights", all over the Isles. If that name sounds familiar, it's because we also found an ancient Hammer with ties to them in Highwatch.
+[Fascinating. But what about them and this wool?]
+[Bhairavi] Well, the researchers here in Steelmeld have found artifacts relating to them in this place. Additionally, I found the crumbling ruins of what seems to be a Silver Knight statue in Ishnir. Inside a hidden compartment, I found what seems to be a scripture. I've partially deciphered it, and it mentions an artifact of Time hidden to the "West of the Monument". If you can finish it, maybe it could tell us more...
+[I'm on it.]
+[Bhairavi] Fantastic. Here's a copy, then! Once you work out where it's sending you, I'll send an assistant to join you there. Just head there and maybe you can work out what Calder is doing with this wool... Gods, I hope you're fast enough.
+
+Unmasked: Translate the notes to find out where to go next. Speak to Bhairavi if you need a replacement book.
+
+[Bhairavi] Once you've worked out what this says, I'll send an assistant to meet you at that spot! Just head there and maybe you can work out what Calder is doing with this wool... Gods, I hope you're fast enough.
+[Can I have another copy of the book?]
+[Bhairavi] Of course. I'm used to you losing my research by now.
+
+Ancient Writings #Q124I01
+soon all will feel the grim touch of time
+so forth went the knights
+where time was long lost
+sacrarium found
+
+Reality warps before you, time gets reversed and you find yourself moving backwards, stopping at the top of the staircase.
+
+[???] Hey, are you Sukie? You showed up at the perfect time, some masked guy attacked me as I got here but it seems your arrival scared him off.
+[Who are you?]
+[Max] I'm Max, I know Bhairavi. I have a fair idea on the current situation you're in, but I'd appreciate it if you filled me in.
+[Sure.]
+You recount the past events and actions leading up to now.
+[Max] ...I see. That's pretty rough. I've heard of this Calder guy but I didn't expect that I might be confronting him directly.
+[He's dangerous, but we need to stop him.]
+[Max] Thankfully, I'm not a wimp. Anyway, have you seen this gateway? This magical barrier is inlaid in the stone here, you can see the small scriptures on the border of the stonework.
+[I never noticed that.]
+[Max] It▒s not something a lot of people notice, don▒t worry. I do a lot of rune work so I tend to notice those things. Anyways! I▒ve been sitting here reading it and I think I deciphered most of it.
+[You can read this?]
+[Max] Of course. It▒s quite ancient, but I▒m very good with old languages. This seems to predate the Ishnir and Chillwind societies, but I▒ve not the foggiest what those people called themselves. They seem to mention this being a way to house their home, and a... Teal Wool? Can you step back for a bit?
+Max mutters a few words under his breath, and you hear a shattering noise as the nearby crystal breaks. The runes glow a faint blue hue as the barrier around the stairs fade.
+[Max] Excellent. The spell I crafted seemed to work. I▒ll see you inside?
+[Inside where?]
+[Max] Whatever these ancient folks didn▒t want us to see of course. I hope it▒s as big as you say. Take this, by the way. You'll need it. See you down there!
+
+
+Unmasked [1/2]: Follow Max down the stairs...
+Unmasked [2/2]: ...and enter the Echoes of Oblivion.
+
+Reality warps before you, time speeds up and you find youself moving faster than expected, stopping in a room somewhere below the Sacrarium.
+
+> Unmasked: Return to Bhairavi, defeated.
+
+[Bhairavi] Welcome back Sukie. I'm so happy to see you alive still. What happened? Did you see Calder? Did you get the wool? Was Barte any help?
+[I don't think things could have gone worse.]
+[Bhairavi] Um...
+[I never met a Barte. I met a Max.]
+[Bhairavi] Oh... no...
+[We explored what was hidden below the Sacrarium of Aeons. A whole kingdom, warped through time.]
+[Bhairavi] And the blue wool?
+[The TEAL wool. Destroyed. By Maxwell Calder.]
+[Bhairavi] But... how?
+[The Black Wool. It gets worse though.]
+[Bhairavi] What could be worse than the loss of a wool?
+[The wool had something inside. A being. It destroyed the place around us.]
+[Bhairavi] Why did Calder destroy the wool at all?
+[He claims this has always been his goal.]
+[Bhairavi] Insanity...
+[What do we do, Bhairavi?]
+[Bhairavi] I have no idea, Sukie. I'm sorry. I'll need to meet with the rest of the Council. We have far too much to discuss. Nothing we thought we knew seems to be true. New wool, destroyed? Calder's goals? This is disastrous... We need to locate the being that was inside that wool. We'll talk soon, okay? For now, take these, please.
+UNMASKED COMPLETE!
+Awarded access to the Echoes of Oblivion Dungeon and Delves, Calvarium, and 3 Prestige.
+
+==Here There Be Dragons==
+
+[Izzy] Ahh Sukie, what impeccable timing you always have.
+[That sounds like you’re signing me up to do something.]
+[Izzy] I absolutely am, and it’s a big one! I've heard about your adventure in the ruins of the Congress. A brand new wool? The Teal Spirit involved again? Turns out the Mage Council isn't done yet, and has tasked me to investigate another source of Teal-adjacent magic somewhere in the northwest ocean. I wanted to ask you to come along. Maybe we can finish this.
+[Well that does sound worthy of my time.]
+[Oh no, not another sea voyage...]
+[Izzy] Worry not, this won’t be some scrappy pirate operation. We’ve been funded by the Council to outfit the ship with high-end magical equipment and actually edible food. It’ll practically be a vacation. I’ll do all the work and all I need you for is in case of emergency!
+[A vacation would be kind of nice. Count me in.]
+[Izzy] Wonderful. I’d be remiss not to employ Indigo for this expedition, so go let her know the good news and meet me in the Mistport Pub basement. We’ve got to carry the supplies I purchased over to her ship.
+
+QUEST : HERE THERE BE DRAGONS
+Length : Medium
+Difficulty : Hard
+Accompany Izzy on a voyage to investigate traces of the Teal Spirit.
+
+Here There Be Dragons: Talk to Captain Indigo.
+
+[Captain Indigo] Ahoy Sukie, to what do I owe the pleasure today?
+[Izzy has lined up an expedition and wants to employ you and your ship to do some magical research.]
+[Captain Indigo] Well that is good news! I could really use the income. Ever since I transported Bhairavi and her team here the work has been pretty sparse. When do we set sail?
+[Izzy needed my help grabbing supplies out of the Pub basement. We set sail when we return.]
+[Captain Indigo] I’ll ready the ship then. See you in a jiffy.
+
+Here There Be Dragons: Meet Izzy in the Salty Seaswindler basement.
+
+[Izzy] Took you long enough. I was starting to get unwelcome looks from the pirates upstairs. It’s like they can sense I’ve got a mountain of money to fund this expedition.
+Izzy gathers up a few bags of supplies and...
+[Levyn] Argh do me ears deceive me? Or did I hear that me crew be planning a voyage without me!
+[Levyn, what are you doing down here?]
+[Levyn] I’ve fallen on hard times, ye see. The bartender bet I couldn’t finish off a keg of ale...
+He burps loudly...
+[Levyn] ...but I showed ‘im. As payment fer the bet I acquired free room an’ board down ‘ere in the bilge of this ‘ere establishment.
+[Do you need help?]
+[Levyn] Me? Need help?? Ye be askin’ that the wrong way around. Levyn’s crew is nothin’ without Levyn! And I know just the way to spend that cash ye have to make this trip run ship shape.
+[I think Izzy already covered supplies.]
+[Levyn] Supplies we’ll get to, but first we be missin’ a quartermaster. Ever since Samwell went rotten, me crew has never been the same. But we’ll fix that promptly, eh. Go on and take yer supplies to the ship. Return when yer done and I’ll have a quartermaster sorted out. Now make haste.
+
+Here There Be Dragons [1/3]: Leave the basement.
+Here There Be Dragons [2/3]: Go back to Indigo's Ship.
+Here There Be Dragons [3/3]: Talk to Izzy belowdecks.
+
+Here There Be Dragons: Talk to Izzy.
+[Izzy] I thought Levyn was doing okay, but living under the pub must be rough. I suppose he can come along. And if finishing off a full crew is important to him, I’ve saved enough of the Council’s money to pay for a quartermaster. Would probably be worthwhile having someone care for my equipment.
+[I’ll go retrieve Levyn.]
+You can hear Captain Indigo shouting faintly from above.
+[Captain Indigo] Don’t dilly dally, we’re ready to set off.
+
+Here There Be Dragons: Go retrieve Levyn from the Mistport Pub Basement.
+
+[Clarence] My chance is finally here! Pick me!
+[Sarah] This is weird...
+[Salty Bartender] Ye har har har!
+[Samuel] Where is my food? How did I get down here?
+
+Here There Be Dragons: Listen to Levyn's magnificent proposal.
+
+[Levyn] Yer in for quite the treat matey, for we have options for our new quartermaster!
+[Just pick one and let’s go, Izzy and Indigo are ready to leave.]
+[Levyn] Not so fast landlubber, if we don’t have a top-notch quartermaster, our stuff may not be stored properly.
+[How hard can the job be?]
+[Levyn] I’ll let that slide as ye must not ‘ave ever had a subpar quartermaster before. I do miss me favorite peg leg so dearly.
+[Levyn you have two legs.]
+[Alright, let’s just get this over with.]
+
+[Levyn] Argh it be time to meet the candidates Sukie. Let’s get this started.
+[Levyn] Are ye ready to meet our first candidate?
+[Doesn’t this seem like a bit much to you?]
+[Levyn] Nonsense matey, I told the barkeep that Izzy be footin’ the bill with his magic money.
+[Izzy didn’t agree to that.]
+[Levyn] CONTESTANT NUMBER ONE: SAMWELL
+[Wait Samwell is here?!]
+[Not Samwell] Actually my name is Clarence. I heard that the job offers dental. I do have a few teeth I need pulled.
+[We aren’t offering benefits.]
+[Not Samwell] Oh well I suppose if the pay is good enough, I can manage out of pocket.
+[The pay isn’t that good.]
+[Not Samwell] There’s still an equal split of the treasure as advertised, right?
+[What treasure???]
+[Levyn] ANYWAY!
+[Levyn] NEXT UP, CONTESTANT NUMBER TWO: SAMUEL
+[Is that really his name?]
+[Samuel] It is, but I’m actually just looking for my waiter. I’ve been waiting on my food for over an hour.
+[I think Levyn closed down the pub for this.]
+[Samuel] That is ridiculous! I’ve been coming to this pub every week for the past several years and never in my time here have I seen such atrocious service. I don’t care if you’ve bought out the whole town, I will not let this slide. You’ll be hearing from my attorney.
+[Well that’s definitely not our quartermaster.]
+[Levyn] Yer right, this guy be a dud. So let’s move on to CONTESTANT NUMBER THREE: SARAHWELL
+[You’re joking, right?]
+[Sarah] It’s just Sarah, I kept telling you that. Look, you don’t have to pay me much, I’m just trying to get some experience. I’ve interned with Captain Lamis before. Is that good enough?
+[Sarah actually seems kind of promising.]
+[Levyn] I don’t know ‘bout this one. Cheap labor usually be a bad investment.
+[Are there any more contestants?]
+[Levyn] Argh yer right, Samuel did quit, I s’pose we do need one more to fill out the line up. Bartender, would you like to audition as CONTESTANT NUMBER TWO?
+[I regret asking already...]
+[Well this will be good.]
+[Salty Bartender] Zee har har I be more swashbucklin’ than the rest of ye and yer mum brined in pickle juice for a month. If there be money in it, I’ll swab ze decks like the best of ‘em.
+[Ha, Levyn he might have you beat in piratey-ness.]
+[This may not have been the best choice.]
+[Levyn] Who does this guy think he is? The pirate stuff is a bit over the top.
+[Can we just pick a quartermaster?]
+[Levyn] I’ll let ye do the honors, who will it be?
+[Clarence.]
+[Sarah.]
+[The bartender.]
+[Levyn] On second thought, who knows a true pirate better than me. We’re goin with good old Samwell.
+[I thought you were letting me choose?]
+[Levyn] Though our budget be large, thar be no room for another one of those pesky “Branching Adventures”.
+[Alright Clarence it is, it doesn’t really matter.]
+[Levyn] I knew ye would come around! Let's head back ta Indigo's ship!
+[Not Samwell] Thank you very much for the opportunity, I won’t let you down.
+
+Here There Be Dragons: Head back to the Ship.
+
+[Captain Indigo] Back at last, I see. Izzy'll be doing the introductions, I imagine. Go chat with them belowdecks.
+
+Here There Be Dragons: Talk to Izzy.
+
+[Levyn] Ahhh, the sweet sea air!
+You are eligible to /vote on 6 sites!
+[Izzy] Welcome to the ship after all that time! You must be... Samwell?
+[Not Samwell] It’s Clarence actu-
+[Levyn] His name be Samwell!
+[Anyway, do we have all the supplies?]
+[Levyn] I can hardly call these ‘ere supplies, but sure.
+[Then let's sail!]
+[Give me a moment, I need to prepare. It could be dangerous!]
+[Izzy] Aye aye!
+
+Here There Be Dragons: Chat with your Crew.
+
+[Izzy] We’re arriving at the location and there appears to be an island ahead. How’s the crew doing?
+[I hear Levyn’s seasick again, and “Not Samwell” gave him rum instead of medicine.]
+[Izzy] They’re off to a great start I see. Are you prepared to go inland ahead of us?
+[I am. What do we need to do?]
+[Not yet, I need to get back to Mistport to resupply.]
+[Izzy] We need to investigate this island. I suppose you can go ahead, while Clarence and I set up the ship.
+[Anything in particular I should be looking for?]
+[Izzy] Anything unusual I suppose. All I know is that we found traces of the Teal spirit’s magic coming from this area of the ocean. There’s got to be something weird going on. Resistance, weird doors, floating explosive spirits. Ya know. Stuff. Head up the ladder and get going!
+[Levyn] Let us know once ye've found *hic* anything treasure-ish... I'll get meself up and claim some booty for meself, no matter how seasick!
+[Clarence] Look, Levyn said he was feeling "briney" and I gave him what I had! How was I supposed to know the bottles were rum?!
+[23:22:33] [main/WARN]: Received passengers for unknown entity
+
+Here There Be Dragons: Venture into the City of Bones.
+
+Here There Be Dragons: Chat with Izzy in this strange tunnel.
+
+[Levyn] *Hic* Ye best be careful. Lookin’ dangerous here mate. Me head hurts too much ta help...
+[Something’s definitely off here.]
+Clarence runs into the room behind you.
+[Not Samwell] I’ll scout ahead.
+[Can you look for traps?]
+[Levyn] No! Not Samwell! Let Sukie investigate first. They be excellent at adventurin’.
+Clarence ignores Levyn and runs forward, leaping onto the nearby giant bones.
+As he lands, a deep rumble sounds... and the bone collapses under him.
+[Not Samwell] AHHHHHHHHH!!
+[Izzy] Oh no…
+[What just happened?!]
+[Levyn] This weren’t meant ta happen! No! Samwell! All this time t’gether my matey, only fer ye to be taken like this. We gone through hell an’ fire, battlin’ pirates, becomin’ pirates, jailin’ folks, killin’ things... I wazzn’t ready fer this. Ye can’t leave me, mate... 
+[Levyn, I don’t want to take away from this but... that wasn’t Samwell, mate.]
+[Levyn] Sukie. Shut. Up. I'm not stupid. I be needin’ this. He’s gone. He’s not comin’ back, is he? Let me mourn me mate however I be needin’, right? Even losin' his replacement is stingin'. I jus' wanted the crew ta be back together one las' time...
+[I... I’m sorry. I think I understand.]
+[Levyn] Thank ye... 
+[Izzy] Poor Clarence. Poor Levyn too. He never got over Samwell turning coat... 
+[Nor I.]
+[Izzy] Me either. But we have work to do right now. You need to find a way through these ruins though. Try to be safe, please? We couldn’t handle losing you too.
+
+Here There Be Dragons: Find a way through the ruins.
+
+Here There Be Dragons [1/2]: Find your way back into the depths of the City of Bones.
+Here There Be Dragons [2/2]: Find and talk to Izzy.
+
+[Bonafide Gatekeeper] H-hey, you! How did you get past all the guards and traps outside?!
+[Apparently the guards and the traps aren't very good at their jobs.]
+[Bonafide Gatekeeper] So w-what, are you here to kill us all? Take our treasure? I assure you we have none! It's just bones... all we have are bones...
+[Look, just give me a key, I've got things to investigate inside.]
+[Look, just give me a key. I don't care about the quest, I just wanna fight.]
+[Bonafide Gatekeeper] I-I can't. It's l-lost and locked aw-way... PLEASE DON'T KILL ME!
+
+[Izzy] This is fascinating...
+[What is it?]
+[Izzy] Some sort of ancient tablet with writing on it. The first language I don’t know at all, but the second seems to be the writing Bhairavi gave you to locate the Echo of Isharist. I think I can decipher this!
+[Wait, you’re not going to make me do it?]
+<MH> [TL] LightningGem23 » im fucking electricity
+[Izzy] Of course not, this is super interesting to me, Sukie. You’re just here to defend us after all.
+[Oh.]
+[Izzy] Anyway, it seems to be talking about a group called the Blackflame. They used to live here, and died? After they died, another group moved in and began to worship their bones... Oh!
+[What?]
+[Izzy] I think those bones the city is made from were the Blackflame. They weren’t humans. They were Dragons.
+[Dragons?!]
+[Izzy] I don’t even think there’s any left alive. Fascinating. This tablet, which I think I’ll call the Rosetta Bone, seems to imply there’s more writings out in the city above us. Do you think you could find them? According to this, there’s three more that may help us understand how to move deeper into this area.
+[Will do.]
+[Why the Rosetta Bone?]
+[Izzy] I once courted a lovely archaeologist named Rosetta. We still stay in contact. I bet she’d love this - and might like me more if I named it after her.
+
+Here There Be Dragons [1/2]: Leave the Rosetta Bone and head back into the City of Bones to find three Bone Carvings.
+Here There Be Dragons [2/2]: Show Izzy the Bone Carvings.
+
+[Izzy] Have you found any carvings yet?
+[Not yet.]
+[Izzy] Get to it then!
+
+[Izzy] Have you found any carvings yet?
+[I found this carving. It's got a picture of a doorway on it.]
+[I found this carving. It's got a symbol of a shield on it.]
+[I found this carving. It has a picture of a bone on it. Recursive.]
+[Izzy] Let me see if I can decipher this! Nice find!
+[Let me know how it goes.]
+[Izzy] Oh, this isn’t too hard. It’s talking about that gateway further in. It’s been sealed by the Blackflame worshippers and seems to be a ritual site of great importance. Something the Blackflame did is behind there, and only the most trusted can enter.
+[Anything else?]
+[Izzy] I don’t see anything about how to get inside on here, but it does mention a small spell at the end. I have the words, but not what magics need to be channeled or items are necessary. I doubt they knew of the Tree of Life theories either.
+[That would be a surprise.]
+[Izzy] Maybe some other carvings will be more useful.
+[I'll see what I can find.]
+[I found this carving. It's got a symbol of a shield on it.]
+[I found this carving. It has a picture of a bone on it. Recursive.]
+[Izzy] Aha, I think I can decipher this!
+[You can handle it?]
+[Izzy] Of course Sukie, I’m not useless here. Alright, let’s see…
+[I’ll wait here.]
+[Izzy] No need to wait. This carving speaks of another group the Blackflame Dragons had some contact with. They had some sort of pact, where they would be protected by the Blackflame in exchange for... um, I think this is saying some sort of magical shield against something called “void”?
+[Interesting. I think the Conscriptorium in the Congress had something to do with void as well.]
+[Izzy] I’ll have to reach out to Bhairavi then. I’d really like to know more.
+[I’m sure we can see for ourselves inside. Anything on that?]
+[Izzy] Nothing yet. I think there’s a component to a spell here though. I think this is just asking for a lot of crystalline shards, actually.
+[I can get some of that!]
+[Izzy] Maybe some other carvings will be more useful.
+[I'll see what I can find.]
+[I found this carving. It has a picture of a bone on it. Recursive.]
+[Izzy] I believe I can read this, if you allow me a few moments!
+[Take your time.]
+[Izzy] Always. Now let’s see. This carving speaks of the formation of the worshippers. Following the fall of the Blackflame to an unknown cause, it seems these people were drawn to this island and to the bones of the decaying Dragons. It claims the very bones here hold power, and these followers serve only to preserve that power... “lest the void dissolve and those within break their vigil”. I have no idea what any of that means, honestly.
+[Nor I.]
+[Izzy] On the plus side, I see what seems to be a component here for a spell. Gold bars!
+[I’ll go gather some of those.]
+[Izzy] It looks like that’s all three carvings mentioned on the Rosetta Bone. We’ll need a lot of crystalline shards, some gold bars, and some magic channeled into them. Bring them to me and give them to me, and I’ll make it happen. Just trade me when you’re ready!
+
+Here There Be Dragons: Gather two Hyper Crystalline Shards and five Gold Ingots and bring them back to Izzy.
+
+[Izzy] Excellent. I think it’s time we go discover what’s going on inside.
+HERE THERE BE DRAGONS COMPLETE!
+Awarded 1 Prestige, access to the Sealed Remorse Strike... and perhaps more within?
+
+==The End Chimes==
+
+[17:08:22] [main/INFO]: [CHAT] The man takes a large swig, then turns towards you.
+[17:08:22] [main/INFO]: [CHAT] [Drunken Sailor] Have you heaaard the legend of the Black Missst?
+[17:08:22] [main/INFO]: [CHAT] [Hm, no I haven't.]
+[17:08:24] [main/INFO]: [CHAT] <NP> [FPF] MrBSPetaByte » forgot how to mist
+[17:08:26] [main/INFO]: [CHAT] <G> not_a_noob_21 » it says i piccked up a shard
+[17:08:26] [main/INFO]: [CHAT] [Drunken Sailor] Its darrrk sails stalk the edddges of ocean, bringing a cooonstant ssstormmm in its wake. It was leddd by the MIGHTY Captain Varrrcosa.
+[17:08:26] [main/INFO]: [CHAT] He gestures dramatically as he speaks, mug sloshing in hand.
+[17:08:26] [main/INFO]: [CHAT] [Drunken Sailor] They saaay the ship'sss bells can sti- *hic* still be h-heard, looking fffor their lost master...
+[17:08:26] [main/INFO]: [CHAT] The man has clearly had too much to drink. He is hard to understand.
+[17:08:26] [main/INFO]: [CHAT] [Hey, stay with me now. How could I find it?]
+[17:08:29] [main/INFO]: [CHAT] [Drunken Sailor] Hah! As if. The lllast set of FOOLS that wenttt looking for it crashed and SUNK innnto a small cove just w-wwwest of here.
+[17:08:29] [main/INFO]: [CHAT] [Drunken Sailor] *hic* But they were the lassst one to have a "pppristine" bell from the ship. So! I'm sure aaany dreams of finding the Blackkk Mist lie at the b-bottom of the ssszzz...
+[17:08:29] [main/INFO]: [CHAT] He finally drifts off as his head hits the table, toppling his mug.
+[17:08:29] [main/INFO]: [CHAT] [I have to find this...]
+[17:08:29] [main/INFO]: [CHAT] [Okay, well I'm gonna ignore that...]
+[17:08:29] [main/INFO]: [CHAT] <NP> [YUMEKI] Kohoyo » ah crap
+[17:08:32] [main/INFO]: [CHAT] <NP> [FPF] MrBSPetaByte » oh
+[17:08:33] [main/INFO]: [CHAT] QUEST : THE END CHIMES
+[17:08:33] [main/INFO]: [CHAT] Length : Medium-Long
+[17:08:33] [main/INFO]: [CHAT] Difficulty : Hard
+[17:08:33] [main/INFO]: [CHAT] Find the Black Mist.
+
+Rhygfar (-91, 96, 3328)
+
+[17:12:50] [main/INFO]: [CHAT] [Rhygfar] You have already found the Black Mist. Would you like to complete the quest 'The End Chimes' without playing through its elements?
+[17:12:50] [main/INFO]: [CHAT] [Yes.]
+[17:12:50] [main/INFO]: [CHAT] [No.]
+[17:12:50] [main/INFO]: [CHAT] [Rhygfar] Who... dares approach the Black Mist? Come aboard and find me on the bow of the ship... or be smitten by the storm!

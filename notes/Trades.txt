@@ -1,0 +1,297 @@
+
+
+=Materials=
+*Rose (ducalion's) (790, 169, -387) near collapsing tower
+*Corrupted Rock Salt (1331, 215, 162) weeping wormwood top leaves
+*Cursed Yeast (1183, 100, 112) cursed forest abom spawner se big tree https://puu.sh/GLdKm/8b6198e665.png
+https://puu.sh/GLAyO/cdaff89892.png
+https://puu.sh/GLAA2/8046174019.png
+*Lava-Smoked Flour (558, 54, -251) amped fire cave on the edge of the big lava pool in the bottom
+*Prets' Head (???) (purple wool dungeon)
+
+=Patron=
+==Sierhaven==
+===Orson===
+Sierhaven forge (-680, 106, -36)
+4 Fear Shard (material) + Skeleton Skull -> Cap of Fear (patron made helm)
+	feather falling 2, projectile protection 2, unbreaking 2, 1 armor, 1 armor toughness
+===Rain===
+Sierhaven arcanists floor 2 (-718, 113, 76)
+Boreas Greaves (light blue rare) + 2 Shard of the Mantle (Epic Crafting Ingredient) -> Runeweave Leggings (patron made legs)
+	blast prot 3, unb 6, 10% speed, 2 armor, 15% proj damage
+===Frod the Builder===
+(-989.5 86 122.5), underneath the island beside the Port with an entrance from the south
+Suggests asking around Nightroost for his friends with the Red Rooster, or for the stolen F door.
+
+64 Cyan Terracotta + 1 Pulsating Powder -> Frodian Keyblade (patron made sword)
+	1.6 attack speed, 1 damage, chaotic 25, thunder aspect 1
+Red Rooster (R2 Unique) + 2 Pulsating Powder -> Frodian Yeetcannon (R2 patron made crossbow)
+	12 damage, 2 proj speed, infinity, kb3, punch3, quick charge 1, unb3, recoil 3, adrenaline 3
+Shattered Door (material, F for respects lore) + 3 Pulsating Powder -> Frodian Doors (r2 patron made mainhand/offhand shield)
+	unb3, mainhand regen 2, when in mainhand -100% speed +1kbr, when in offhand +6hp
+===Wulfric Warrden===
+(-622.5 104 217.5), in a plot with a house sporting PP guild banners
+
+Necromancer's Sigil (R2 rare) + 2 Twisted Strand -> Plebian Warblade (r2 patron made offhand sword)
+	resurrection, void tether, offhand: +4 max hp, 20% speed, +0.2kbr, unbreakable
+===Kramer===
+Narsen Sea (-1361, 92, -50)
+Cursed Yeast (material) + Lava-Smoked Flour (material) -> Unsettling Dough (material)
+Corrupted Rock Salt (material) + Unsettling Dough (material) -> Unsettling Bread (material)
+Pret's Head + Dreambreaker (r2 patron pick) -> Essence of Prets (material)
+Unsettling Bread (material) + Essence of Prets (material) -> Prets' Homemade Bread (material)
+==Ta'Eldim==
+===Sage Draiikali===
+ta'eldim springs
+strong sanctify potion + spellready buckler -> sanctifying guard (patron made mainhand shield)
+	knockback 2, unbreaking 2, mainhand regeneration 2. mainhand -8% speed, +0.2 kbr, +3 armor
+bonepiercer + 4 polar bear hide -> polar wind (patron made melee(?) bow)
+	knockback 2, smite 1, unb 5. mainhand 14 projectile damage, 1 projectile speed
+render's ruthless claw + holy feather -> sharpened holy feather (patron made wand)
+	wand, sharp 8. mainhand 4 attack speed, 5.5 attack damage, +3% speed
+eldritch blade + tome of darkness -> night's shadow (patron made offhand sword)
+	offhand +23% attack damage, +8% speed, +1 thorns damage, unbreakable
+==Highwatch==
+===Gravedigger Xin===
+Graveyard (?, ?, ?)
+32 xp -> Potion of Night Vision (8m)
+32 xp -> Bat Spawn Egg
+Tome of Arcane Horrors (lb rare) + 2 Pulsating Dust -> Tome of Darkness (material)
+Rose (w/ ducalian lore) + 3 Pulsating Dust -> Enchanted Rose (material)
+==Nyr==
+===Corporal Rosie===
+Nyr (?, ?, ?)
+Damaged Hilt (material) + 3 Tiny Ruby (material) -> Ruby Scythe (uncommon*)
+Ruby Scythe + Enchanted Rose -> Ruby's Rose (patron made)
+==Warlock==
+Corrupted Caves (507, 62, 431), cave entrance ~(521, 70, 405)
+Spellready Buckler (uncommon, lowtide?) + Tome of Arcane Horrors (yellow rare) = Arcane H0plon (patron made)
+Potion of Masterful Agility + Cultist's Robe = Cobaltean Cape (patron made)
+==Molta==
+==Fire Eagle==
+(165, 131, 172)
+Lunar Great Helm + Enriched Eridium Ingot -> Psycho Mask
+Aqueduct Greaves + Enriched Eridium Ingot -> Jeans of the Fire Eagle
+Oasis Armband + Enriched Eridium Ingot -> Aramil's Shield Wall
+
+===Andy===
+Molta (256, 113, 45)
+40 cxp -> Torrid Talwar (r2 uncommon offhand sword)
+	fire aspect 3, kb3, mending, mainhand 2as 6ad, offhand +12% speed +20% attack damage
+40cxp -> Crusader's Phalanx (r2 uncommon shield)
+	unb 1 regen 1, offhand +0.25 kbr
+16cxp -> Fotiá (r2 golden pickaxe)
+	Efficiency 5, Curse of Irreparability, 1.2 as, 2 ad
+Soulvenom Bow (yellow rare) + 3Pulsating Powder -> Imminent Requiem (r2 patron bow)
+	punch 2, unb 1, sniper 9, mainhand regen 1, 8 damage, 3 projectile speed
+Arcane Storm + 3 Pulsating Powder -> Polaris (r2 patron bow)
+	flame, punch 1, unb 1, point blank 8, inferno 1, 8 proj damage, 3 proj speed, +10% speed
+Arcane Hailstorm + 2 Pulsating Powder -> Polaris (r2 patron bow)
+Voidmaker (r2 t5 pick) + Red Bed -> Dreambreaker Handle (material)
+Dreammaker Handle (material) + 3 Pulsating Powder -> Dreambreaker (r2 patron golden pick)
+	eff 3, sharp 3, unb 3, curse of vanishing, curse of shrapnel 2, 1.2 as, 3.5 ad
+==Frostgate==
+===Luna===
+Frostgate, top of castle tower. (-1508, 150, 998) 
+Night's Shadow (r1 Patron offhand sword) + 3 Pulsating Powder (ingredient) -> Moon's Shadow (r2 patron mainhand sword)
+	Evasion 1, Ability Evasion 1, Melee Evasion 1, Mainhand Regeneration 1, Unbreaking 5, 10 Attack Damage, 1.6 Attack Speed
+===Quegon===
+Frostgate, docks ()
+	B99 Aquata Breather (material) + Corpse Gas Infuser (material) -> Refillable Breathing Module (material)
+
+PS pulsating silver
+BM breathing module
+HC hcs
+
+PS PS PS
+PS BM PS
+PS HC PS
+crafter recipe -> Gas Mask (r2 patron helm, )
+
+==Whispervale==
+===Argus===
+Whispervale (-1746, 132, -53)
+40cs -> Frigid Firangi (r2 uncommon mainhand/offhand sword)
+	ice aspect 3, mending. mainhand 1.2 as, 10 ad, 3 thornsd. offhand 12% speed, 20% ad, 3 thornsd
+40cs -> Frosted Compass (r2 uncommon compass)
+	mainhand -10% speed, +6 kbr
+16cs -> Págos (r2 uncommon shovel)
+	ice aspect v, irreparability, main hand 4.5ad 1as
+Imperial Bulwark (r2 casino rare) + 3 Pulsating Powder -> The White Cliff (r2 patron shield)
+	mending, offhand: +2 armor, -8% speed, +4kbr
+Tempest Caller (r1 overworld rare) + 3 Pulsating Powder -> Hippolyta's Revenge (r2 patron bow)
+	smite 3, unb 5, frost, ice aspect 2, mainhand 18 projectile damage 1 projectile speed
+===Craftsman Baltam===
+Whispervale (-1746, 137, -56)
+Blur Brew + Stalwart Idol (r1 trade uncommon) -> Cobaltean Charm (r2 patron compass)
+	regen 1, resurrection, void tether. offhand -25% as, -10ad, +18% speed, +4hp +4kbr
+===Mellea===
+Whispervale (-1802, 170, -72)
+Unfinished Rapier (material) + Pulsating Emerald -> Heiress' Rapier (r2 patron sword)
+	fire aspect 2, sharpness 2, unb 2, duelist 2, thunder aspect 2, magic wand. mainhand 1.6as 9 ad
+===Belladonna===
+Whispervale (-1719, 135, -76)
+Broken Sword (material) + 2 Pulsating Powder -> Wilt (r2 patron mainhand sword)
+	sweeping edge 3, thunder aspect 2, mainhand 2 as 8 ad unbreakable
+Broken Sheath (Material) + 2 Pulsating Powder -> Bloom (r2 offhand sword)
+	offhand +4hp, -0.3 as, +2ad, +8 thornsd, unbreakable
+===Luc===
+Whispervale (-1813, 161, -33)
+Wings of Alutana (gray rare) + 2 Pulsating Powder -> Curse of Alutana (r2 patron chest, feather 2, mending, prot 4, -20% max hp, +30% armor, +30% attack damage)
+===Enchanting Altar===
+nw of Whispervale (-1847, 71, -93)
+U C D R L U ? (C)
+[Fountain Spirit] Yes, yes! What a beautiful lullaby! Just what I wanted to hear, darling! I shall reward you for such a pleasant melody. If you ever wish to enchant a garment with the power of this lullaby just right click the enchanting altar before you.
+Archangel's Mail (r2 overworld rare) + 3 Pulsating Powder -> Heaven's Lullaby (r2 patron chest, feather 2, mending, +20% speed, -20% attack speed, +20% max health, +4 armor, +20% attack damage)
+U L C C U D D
+[Fountain Spirit] Hmm, I think that sounds much better on bells. So you've completed your little quest, have you? Simply wonderful darling. I'm sure your loved one will find their way back in time. In the meantime, I can offer a manifestation of the latent leftover power. Check the enchanting altar.
+32ccs + 1 gleaming seashell -> Monshee's Judgment (R2 Unique sword, unbreaking 20, baaing, curse of irreparibility, two handed, mainhand 1.4 speed 20 damage)
+==Master Tomesmith==
+(-1694, 142, -21)
+Enchanted Tome (material) + Enchanted Ink (material) -> Ash Codex (patron offhand, inferno 2, 4 knockback resistance, 4 hp)
+==Steelmeld==
+===Asuka===
+(-634, 16, -461)
+Ordinary Sugar (material) + 2 pulsating powder -> Extraordinary Sugar (material)
+Extraordinary Sugar (material) + Tear of the Moon (light gray rare) -> Angely Sugar (patron offhand, evasion 2, regen 1, 10% speed, 2hp)
+===Beekeeper Spete===
+(-596, 1, -480)
+3 Rainbowcomb (Material) + 3 Pulsating Powder -> Enbee (r2 patron head, prot 3, inferno 2, sustenance 2, on head 0 armor 5% speed)
+3ccs -> Honeycomb
+16ccs -> Imported Natural Beehive
+===Angela===
+(-543, 5, -471)
+2 Pulsating Powder + 24 ccs -> Valkyrie Band (r2 patron totem of undying, adrenaline 3, void tether, offhand 2 armor 2kbr)
+==Ishnir==
+===Nicomachus===
+west of Alnera (155, 82, 849)
+Zephyric Sandals (white rare) + 16 ccs -> Peripatetic Sandals (r2 patron feet, depth strider 1, feather 5, +20% speed, -2 armor, unbreakable)
+==Nightroost==
+===Clipse===
+Invigorating Paddy Hat (pink rare) + 2 pulsating powder -> Umbras Visage (patron head, prot 2, unb 3, darksight, 1 armor, +4 hp)
+===Artol===
+(-1336, 132, 491)
+Shard of Old Isharist (material) + 12hcs -> Sigil of Old Isharist (material)
+Destroyed Ancient Blade (material, r1 unique sword) + Sigil of Old Isharist (material) -> Dissolvi Ombre (r2 relic, fire aspect 1, knockback 1, smite 7, unbreaking 10, hope, 5 damage, 1.6 speed)
+===Sunlit Warlock===
+(-1373, 132, 585)
+4x Sunlit Gold (material) + 2 pulsating powder -> Sunlit Charm (material)
+
+==Chillwind==
+===Constanze===
+north of nightroost (-1275, 128, 212)
+8 ccs -> Backline Bolster x8 (injector potion, 45s haste speed)
+8 ccs -> Frontline Adrenaline x8 (injector potion, 45s strength regen)
+24 ccs -> Mechanized Shortbow (r2 uncommon bow, punch 1, unb 1, 18 proj damage, 1 proj speed)
+32 ccs -> Siege Shield (r2 mainhand shield, knockback 1, adrenaline 1, mainhand 1 armor 5% speed)
+32 ccs -> Z.A.P. (r2 uncommon crossbow, quick charge 3, spark, 1 proj damage, 0.2 proj speed)
+48 ccs -> Siege Axe (r2 uncommon, eff 2 gold axe, unb 2, 12 damage, 1.1 speed, mainhand 3 armor 1 toughness)
+1 HCS + 1 Pulsating Powder -> Necronomicon (r2 patron book, eats xp to remove poison/wither/nausea)
+
+==Misc==
+===Spirit of the Pines===
+(-1612, 115, 703)
+leggings of the blizzard + 3 roots of balance = chains of ice and ivy https://puu.sh/GDTAo/54d028e994.png
+
+=Traders=
+==Master Alchemist==
+Highwatch (1172, 143, -123)
+10cxp -> revenant's potion (splash instant health 3)
+14cxp -> divine potion of protection (splash absorption 3)
+16cxp -> ragebrew (speed 1 6m, haste 1 6m, str 1 6m, res 1 6m, 10% attack speed)
+Potion of Agility + 2 Pulsating dust -> Potion of Masterful Agility (speed 2 15m, jump boost 3 15m)
+==Combat Alchemist==
+Highwatch (1172, 143, -115)
+50xp -> 16 Potion of Obliteration (splash Slowness 15s, Wither 3 15s)
+64xp -> 16 Potion of Atrophy (splash Slowness 40s, weak 2 40s)
+64xp -> 16 Supreme Frost Bomb (splash Slowness 3 40s, Wither 2 30s)
+==Apprentice Alchemist==
+Sierhaven (-797, 108, -57)
+8xp + 4 spider eyes -> Spider Essence (speed 1 20s, jump boost 2 20s)
+other stuff
+==Alchemist==
+Sierhaven (-796, 116, -47)
+40xp -> Potion of Agility (Speed 2:30m, Jump Boost 3 2:30m)
+other stuff
+==Alchemist Supplier==
+Sierhaven (-793, 116, -36)
+32xp -> Glass Rod (silk touch stick)
+2 Pulsating Dust -> Super Glue (material, "Could glue 8 things together.")
+==Master Alchemist==
+Whispervale (-1738, 132, -46)
+9ccs > 12:10 night vision + glowing
+12ccs -> splash instant health 3 + regen 2 5s
+16ccs -> health boost (+4) + resistance + absorption + haste (10%), 6m
+32ccs -> speed 3 + haste, 2m
+others
+==Brother Railigh==
+Farr
+20 cxp -> Challenger's Liqueur (10m speed, haste, strength, regen / 10s nausea) 
+==Armorsmith (Nyr)==
+? > leather
+==Herb Merchant==
+Mistport docks (-677, 80, 1309), sometimes
+8ccs -> Calming Incense (uncommon)
+	right click to remove glowing and night vision
+2ccs -> splash IH2
+8ccs -> splash IH3 + 5s regen 2
+6ccs -> 3 minute health boost (4hp) + resistance + slow fall
+==Happy Pineapple Merchant==
+Mistport Docks (-677, 83, 1305)
+48 ccs > Mr. Happy Doll (Celsian Isles Uncommon - Expedition Docks, creeper head)
+	Blast Prot 3, Prot 1, +20% health, 0 armor
+1 ccs > Pineapple Extract (splash potion)
+	Regeneration 2 15s, Speed (20%) 15s
+4 cs > Tasty Pineapple (player head)
+6 cs > Gunpowder
+3 ccs > TNT
+==Alnera Merchant==
+Mistport docks (-679, 82, 1311)
+64ccs > Eye of Dahne (Celsian Isles : Uncommon, totem of undying)
+	Regeneration 1, Void Tether, offhand 3hp 3kbr
+4ccs > Towering Capital (lore banner)
+3ccs > 4x Advanced Extinguisher (splash 20s fire resistance)
+8ccs > Ebon Shadows (Celsian Isles : Tier IV, bow)
+8ccs > Daybreaker (Celsian Isles : Tier IV, sword)
+12cs > 32 yellow concrete
+12cs > 32 blue concrete
+10cs > 32 sand
+10 cs > 32 red sand
+
+=Misc=
+==Nightroost==
+===Shady Thief===
+Nightroost (-1303, 132, 523)
+gives away Shattered Door (material, F for respects lore)
+==Mistport==
+===Intellect Crystalizer===
+(-649, 84, 1541)
+xp level 100 -> Persistent Chains *(patron legs, blast prot 3, unb 3, regen 1, adrenaline 1, 10% speed, 1 toughness, 4 armor, 1 attack damage)
+xp level 120 -> Enlightened Dagger *(rare offhand sword, thorns 20, evasion 2, offhand thorns 2 unbreakable)
+xp level 200 -> Intellect Incarnate (relic mainhand golden sword, eff 3, radiant, hope, mainhand 18% speed unbreakable)
+
+Rainbowcomb (Found in an unsunken ship in Corsair's Claw)
+
+
+==Suspicious Village==
+
+
+[22:01:59] [main/INFO]: [CHAT] [Sorrell] I was sent down here by my friend Redd to try and find more information on the Silvered Sight, but got cornered into this little room instead. Can you help me?
+[22:01:59] [main/INFO]: [CHAT] [With what?]
+[22:02:03] [main/INFO]: [CHAT] [Sorrell] Finding the Silvered Sight of course! It's a wonderful little helm, granting the wearer the power to see through even the darkest of nights. I found a dusty tome in those nasty people's library that details how to make one, but I have none of the components.
+[22:02:03] [main/INFO]: [CHAT] [What do you need?]
+[22:02:04] [main/INFO]: [CHAT] [Sorrell] I need Silverblood and a Kismet's Blessing.
+[22:02:04] [main/INFO]: [CHAT] [Where do I get Silverblood?]
+[22:02:04] [main/INFO]: [CHAT] [Where do I get a Kismet's Blessing?]
+[22:02:06] [main/INFO]: [CHAT] [Sorrell] Silverblood is the blood of an Enderman infused with 8 silver. Silver is very rare in this valley though, and tends to only be found around absolutely volcanic temperatures. You'll want to find a Crafter somewhere that can combine them!
+[22:02:12] [main/INFO]: [CHAT] [Sorrell] I was sent down here by my friend Redd to try and find more information on the Silvered Sight, but got cornered into this little room instead. Can you help me?
+[22:02:12] [main/INFO]: [CHAT] [With what?]
+[22:02:13] [main/INFO]: [CHAT] [Sorrell] Finding the Silvered Sight of course! It's a wonderful little helm, granting the wearer the power to see through even the darkest of nights. I found a dusty tome in those nasty people's library that details how to make one, but I have none of the components.
+[22:02:13] [main/INFO]: [CHAT] [What do you need?]
+[22:02:13] [main/INFO]: [CHAT] [Sorrell] I need Silverblood and a Kismet's Blessing.
+[22:02:13] [main/INFO]: [CHAT] [Where do I get Silverblood?]
+[22:02:13] [main/INFO]: [CHAT] [Where do I get a Kismet's Blessing?]
+[22:02:14] [main/INFO]: [CHAT] [Sorrell] Oh, that's just a rare item around the Valley, dear. Kismet was a warrior during the Blackroot War known for her immense luck. Unfortunately the helm didn't carry over any of those properties, but the helm is the perfect conduit for the Silverblood.
+
+Sorrel in Suspicious Village (797, 66, -77)
+Kismet's Blessing (r1 rare leather helmet) + Silverblood (potion, speed 2 4m, absorption 4m, resistance 30s) -> Silvered Sight (r1 patron leather helmet, darksight; on head: 1 armor, +3hp, unbreakable)

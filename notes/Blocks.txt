@@ -1,0 +1,35 @@
+=Block Locations=
+
+==Trades==
+
+===Molta===
+	12cs > 32 glazed terracottas each color
+
+==Sierhaven==
+Marigold (-816, 96, 190)
+	16xp > 32 purpur block
+Block Supplier ~(-710, 106, 22)
+	 8 xp > 32 stone brick
+	 8 xp > 32 terracotta
+	12 xp > 32 quartz
+	12 xp > 32 glass
+	16 xp > 32 prismarine
+	 8 xp > 8 glowstone
+
+
+==Nyr==
+Private Arnie (-124, 94, -11)
+	16xp > 32 glass
+	16xp > 4 sea lantern
+
+==Frostgate==
+	10cs > 32 stone brick
+	10cs > 32 mossy stone brick
+	10cs > 32 cracked stone brick
+	10cs > 32 chiseled stone brick
+	10cs > 32 stone
+	10cs > 32 polished andesite
+	10cs > 32 gravel
+
+==Whispervale==
+	12cs > 32 each wool color.

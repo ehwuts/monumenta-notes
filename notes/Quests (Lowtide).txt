@@ -1,0 +1,712 @@
+=Quest Guide (Lowtide)=
+==A Crew to Remember==
+* Difficulty: Medium
+* Requirements: A Pirate's Life
+* Start: Captain Indigo
+==A Dish to Die For==
+* Difficulty: Easy
+* Requirements: ?
+* Start: ?Claude?
+==Outer Demons==
+* Difficulty: Very Hard
+* Requirements: None
+* Start: Helring
+==The Salmon==
+* Difficulty: Medium
+* Requirements: None
+* Start: Dockmaster
+==Starrier Night==
+* Difficulty: Hard
+* Requirements: Starry Night
+* Start: Montana
+==Voyage of Discovery==
+* Difficulty: Easy
+* Requirements: A Crew To Remember and the King's Valley Monument
+* Start: Captain Argoun
+
+=Quests=
+
+==A Crew to Remember==
+[23:47:28] [Render thread/INFO]: [CHAT] [Captain Indigo] I'm looking for pirates, are you a pirate?
+[23:47:28] [Render thread/INFO]: [CHAT] [Arrgh?]
+[23:47:30] [Render thread/INFO]: [CHAT] [Captain Indigo] Clearly not, at least not yet. Well do you happen to know any pirates?
+[23:47:30] [Render thread/INFO]: [CHAT] [Arrgh! There be one lad I know in a pub in Sierhaven who plunders.]
+[23:47:43] [Render thread/INFO]: [CHAT] [Captain Indigo] Please don't try to speak like a pirate ever again. You're awful at it. But any pirate would be better than you so maybe you can help me! I'm trying to put together a crew for my ship here, could you go speak to your friend about joining it?
+[23:47:43] [Render thread/INFO]: [CHAT] [I'll go speak with my pirate friend.]
+[23:47:43] [Render thread/INFO]: [CHAT] [I am insulted and will not help you. ARRGH!]
+[23:48:00] [Render thread/INFO]: [CHAT] StealthyStealthy left the game
+[23:48:08] [Render thread/INFO]: [CHAT] [Captain Indigo] Wonderful!
+[23:48:08] [Render thread/INFO]: [CHAT] QUEST : A CREW TO REMEMBER
+[23:48:08] [Render thread/INFO]: [CHAT] Length: Medium
+[23:48:08] [Render thread/INFO]: [CHAT] Difficulty: Medium
+[23:48:08] [Render thread/INFO]: [CHAT] Speak with your pirate friend in a Sierhaven pub.
+
+[23:49:28] [Render thread/INFO]: [CHAT] [Levyn] Ahoy Sukie! To what do I owe my favorite matey today?
+[23:49:28] [Render thread/INFO]: [CHAT] [I've got a pirate job offer for you.]
+[23:49:32] [Render thread/INFO]: [CHAT] [Levyn] Shiver me timbers and call me a bosun, just tell me where to report to!
+[23:49:32] [Render thread/INFO]: [CHAT] [Captain Indigo has a ship docked in Lowtide, you should go speak with her.]
+[23:49:51] [Render thread/INFO]: [CHAT] [Levyn] Aye I will! I expect I'll be seeing you over there as well?
+[23:49:51] [Render thread/INFO]: [CHAT] [Sure I'll come visit.]
+[23:49:51] [Render thread/INFO]: [CHAT] [Of course, I need to claim my reward.]
+[23:50:14] [Render thread/INFO]: [CHAT] [Levyn] Aargh!
+
+[23:51:16] [Render thread/INFO]: [CHAT] [Captain Indigo] You've done good, I think. Levyn is quite the character, but he seems very comfortable below deck. We're going to need more crew, but for now Levyn has a request of you.
+
+[23:51:48] [Render thread/INFO]: [CHAT] [Levyn] This be quite the fine vessel. I can't wait to set sail.
+[23:51:48] [Render thread/INFO]: [CHAT] [Indigo said you had a task for me?]
+[23:51:51] [Render thread/INFO]: [CHAT] [Levyn] Aye! I appear to have landed the position of Lookout. Likely cuz of my arrr-mazing eye. But in order to do the job right I'll be needing the perfect spyglass, matey.
+[23:51:51] [Render thread/INFO]: [CHAT] [Where can I find you a spyglass?]
+[23:51:53] [Render thread/WARN]: Received passengers for unknown entity
+[23:51:53] [Render thread/WARN]: Received passengers for unknown entity
+[23:51:56] [Render thread/INFO]: [CHAT] <G> Cloud_ » And what for I wonder?
+[23:51:59] [Render thread/INFO]: [CHAT] [Levyn] Not just any spyglass, friend. I need the famed spyglass of Captain Bijou! Even my parrot doesn't know where to find it though. I saw a book house or whatever they're called on my way into this piratey town though! Maybe they know where Bijou's voyage ended!
+
+[23:53:39] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Hi, welcome to the Library. I'm Sumona, the head of editing and curation here. Is there anything specific you're looking for?
+[23:53:39] [Render thread/INFO]: [CHAT] [No, I'm just browsing.]
+[23:53:39] [Render thread/INFO]: [CHAT] [I'm on a mission to find the spyglass of Captain Bijou.]
+[23:53:42] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Ah, now that's quite the story. Bijou was a pirate captain based out of Sierhaven who sailed under the Narsen banner.
+[23:53:42] [Render thread/INFO]: [CHAT] [Narsen banner? But he was a pirate.]
+[23:53:42] [Render thread/INFO]: [CHAT] [Ah, so he was a privateer]
+[23:53:46] [Render thread/INFO]: [CHAT] <G> Cloud_ » Nevermind I'm back in Sier
+[23:53:50] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Indeed. For a share of his plunder the Crown would leave him be.
+[23:53:50] [Render thread/INFO]: [CHAT] [That sounds wrong.]
+[23:53:50] [Render thread/INFO]: [CHAT] [That's a great deal.]
+[23:53:58] [Render thread/INFO]: [CHAT] <G> Cloud_ » Nice load times now, whatever they did to ease lag just recently
+[23:53:59] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] I, well, um. I suppose so from one perspective.
+[23:53:59] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Anyways, some other pirates weren't too happy about the deal Bijou had with the Crown, so one night they made their way to where his ship was tied down and cut it loose. Before anyone could flee, it went over the waterfall by Nyr and the wreckage floated down the river!
+[23:53:59] [Render thread/INFO]: [CHAT] [That's tragic!]
+[23:53:59] [Render thread/INFO]: [CHAT] [He got what was coming to him.]
+[23:54:15] [Render thread/INFO]: [CHAT] Tatsu43 left the game
+[23:54:20] [Render thread/INFO]: [CHAT] <G> Xalveris » ty
+[23:54:23] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Perhaps. But you were looking for his spyglass. If I were to bet I'd say it washed down the river all the way into the Grand Maw.
+[23:54:23] [Render thread/INFO]: [CHAT] [Thank you, I'll go check that out.]
+[23:54:28] [Render thread/INFO]: [CHAT] [Chief Editor Sumona] Good luck!
+
+#Q31I01 https://puu.sh/GzDuB/64b2e42ff9.png
+
+[00:17:34] [Render thread/INFO]: [CHAT] [Levyn] You've found Bijou's Spyglass! I'll be the most swashbuckling Lookout of all time with this! The captain told me we're looking for a Navigator though. I may know just where ya can find one! Arrr!
+[00:17:34] [Render thread/INFO]: [CHAT] [Levyn] Whoever wrote this message seems to have a grasp of traversing the sea, so go help them out!
+[00:17:34] [Render thread/INFO]: [CHAT] [You haven't acted on this message for weeks?!]
+[00:17:34] [Render thread/INFO]: [CHAT] [How do you suppose I'll be able to understand this?]
+[00:17:34] [Render thread/INFO]: [CHAT] [I lost the message!]
+[00:17:43] [Render thread/WARN]: Received passengers for unknown entity
+[00:17:43] [Render thread/WARN]: Received passengers for unknown entity
+[00:17:47] [Render thread/INFO]: [CHAT] [Levyn] I thought it was pretty cool just having a Message in a Bottle.
+[00:17:56] [Render thread/INFO]: [CHAT] [Levyn] Whoever wrote this message seems to have a grasp of traversing the sea, so go help them out!
+[00:17:56] [Render thread/INFO]: [CHAT] [You haven't acted on this message for weeks?!]
+[00:17:56] [Render thread/INFO]: [CHAT] [How do you suppose I'll be able to understand this?]
+[00:17:56] [Render thread/INFO]: [CHAT] [I lost the message!]
+[00:17:58] [Render thread/INFO]: [CHAT] [Levyn] It looks like coordinates! I've heard of a cartographer back in Sierhaven who has a place above the Alchemists. Maybe he'll know more for ye.
+
+#Q31I02 https://puu.sh/GzDzN/5afdf2f301.png
+https://puu.sh/GzDC0/9072af2b66.png
+
+[00:25:43] [Render thread/INFO]: [CHAT] [Royal Cartographer] Salutations citizen!
+[00:25:43] [Render thread/INFO]: [CHAT] [Who are you?]
+[00:25:43] [Render thread/INFO]: [CHAT] [I need help deciphering the coordinates in this message. They were written by a pirate.]
+[00:25:45] [Render thread/INFO]: [CHAT] [Royal Cartographer] Ooh a pirate! How thrilling, well if I had to take a guess then ...
+[00:25:45] [Render thread/INFO]: [CHAT] [Royal Cartographer] Ahh yes these coordinates are nautical, you see .1 seaports is a block west and .1 seabows is a block north. It looks like the message is referring to the banner behind the Apartments, so you should set sail from there!
+
+[00:34:33] [Render thread/INFO]: [CHAT] A Crew to Remember: Follow the coordinates in the message to the stranded Navigator. Be ready for anything.
+[00:35:14] [Render thread/INFO]: [CHAT] whyprophecy left the game
+[00:37:19] [Render thread/INFO]: [CHAT] [Izzy] Help! Get me out of here! Since we wrecked the ship Billam has gone mad. He has been eating all the crew and I'm next!
+[00:37:19] [Render thread/INFO]: [CHAT] [How are you still alive if there hasn't been any food left?]
+[00:37:24] [Render thread/INFO]: [CHAT] [Izzy] I have my ways. Look, are you going to save me or not?
+
+[00:39:34] [Render thread/INFO]: [CHAT] After the pirate falls in battle you find a tiny key on his body and take it. It's so small it takes up no room in your inventory.
+
+Stick of Beating https://puu.sh/GzDLm/79e8cde19c.png
+
+[00:40:07] [Render thread/INFO]: [CHAT] [Izzy] Oh thank the heavens you've found me. I've been trapped for weeks and was almost the next meal. Is there any way I can repay you?
+[00:40:07] [Render thread/INFO]: [CHAT] [I'm looking for a Navigator for a pirate crew, would you be willing?]
+[00:40:13] [Render thread/INFO]: [CHAT] [Izzy] Well my last crew is long gone, so I suppose I am in need of a new ship to call home. I'll do it.
+[00:40:13] [Render thread/INFO]: [CHAT] [Great, meet with Captain Indigo in Lowtide and I'll see you there.]
+[00:40:16] [Render thread/INFO]: [CHAT] [Izzy] Thank you again!
+
+[00:48:04] [Render thread/INFO]: [CHAT] [Izzy] The captain let me know we still need a Quartermaster. I've had some dealings with a smuggler named Samwell based out of Nyr; best in the business. If you can get him on board then I think this ship will be in great shape.
+[00:48:04] [Render thread/INFO]: [CHAT] [Where should I start looking for him?]
+[00:48:14] [Render thread/INFO]: [CHAT] Corrupted Island is respawning in 2 minutes
+[00:48:19] [Render thread/INFO]: [CHAT] daaaaaa645 was shot by Hawk Bowman
+[00:48:31] [Render thread/INFO]: [CHAT] [Izzy] Rummage around Scarface Ed's wares in Nyr, I've heard his guide to smuggling is quite enlightening.
+
+[00:49:38] [Render thread/INFO]: [CHAT] A Crew to Remember [1/4]: Speak with Scarface Ed by speaking his language and buying the Beginner's Guide to Smuggling.
+[00:49:40] [Render thread/INFO]: [CHAT] A Crew to Remember [2/4]: The book is the key, the lock is the well.
+[00:49:49] [Render thread/INFO]: [CHAT] SirTudor joined the game
+[00:49:49] [Render thread/INFO]: [CHAT] A Crew to Remember [3/4]: Navigate your way through the sewers until you find someone. Remember, the book is the key.
+[00:49:50] [Render thread/INFO]: [CHAT] A Crew to Remember [4/4]: Get inside and talk to Samwell.
+
+#Q31I03 https://puu.sh/GzDV1/3691abf111.png
+https://puu.sh/GzDW1/d076ba14cb.png
+https://puu.sh/GzDWb/dcc4d66f3e.png
+https://puu.sh/GzDXv/acfe605cc4.png
+
+[00:59:21] [Render thread/INFO]: [CHAT] [Shady Bouncer] What's the password?
+[00:59:21] [Render thread/INFO]: [CHAT] [Password.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Mr. Smuggles.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Starry.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Crime.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Well.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Money.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Pearls.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Market.]
+[00:59:21] [Render thread/INFO]: [CHAT] [Aargh.]
+[00:59:25] [Render thread/INFO]: [CHAT] [Shady Bouncer] I'll let you through...
+
+[01:02:16] [Render thread/INFO]: [CHAT] [Samwell] If you have no business here then beat it.
+[01:02:16] [Render thread/INFO]: [CHAT] [I'm looking for a Quartermaster for a pirate ship, would you be interested?]
+[01:02:19] [Render thread/INFO]: [CHAT] RevenantHorror joined the game
+[01:02:21] [Render thread/INFO]: [CHAT] [Samwell] A pirate ship eh? Can't say I've ever considered going legit.
+[01:02:21] [Render thread/INFO]: [CHAT] [Legit? They're literal pirates.]
+[01:02:29] [Render thread/INFO]: [CHAT] [Samwell] And who do you think double-crosses the pirates? Look I'm interested but not sold, if I'm going to do this then I'm going to need one last shipment to carry me over til we start plundering on the high seas or however they put it.
+[01:02:29] [Render thread/INFO]: [CHAT] [One last shipment? I don't know if I like the sound of that.]
+[01:02:59] [Render thread/INFO]: [CHAT] [Samwell] Look it's simple, the local guards are on high alert and know some of the familiar shifty faces, but they don't know you to have a bad reputation. Will you make the delivery?
+[01:02:59] [Render thread/INFO]: [CHAT] [I suppose I have to.]
+[01:02:59] [Render thread/INFO]: [CHAT] [I'll think about it.]
+[01:03:00] [Render thread/INFO]: [CHAT] [Samwell] Good now you need to go to the bottom of the waterfall outside Nyr and find a place called the Murky Maze. In there you'll see a veil of water, our drop-off point is behind it. Make sure you place the goods and only the goods in the chest. Now take this and scram.
+
+#Q31I05 https://puu.sh/GzE1R/5f9353c5a4.png
+
+[01:27:02] [Render thread/INFO]: [CHAT] [Samwell] I've gotten word that the goods were in the drop-off point in time. I'm ready to give this pirating stuff a go.
+[01:27:02] [Render thread/INFO]: [CHAT] [Captain Indigo is waiting for you in Lowtide.]
+[01:27:07] [Render thread/INFO]: [CHAT] [Samwell] I'll see you there
+
+[01:29:56] [Render thread/INFO]: [CHAT] [Captain Indigo] You did it! The crew is assembled thanks to you. I've been working on a deal with the Crown to get us permission to leave the Valley. Once we can you're more than welcome to join us on our expeditions. Until then I have a reward for you!
+[01:29:56] [Render thread/INFO]: [CHAT] A CREW TO REMEMBER COMPLETE!
+[01:29:56] [Render thread/INFO]: [CHAT] Awarded: Sea Legs, Honorary Pirate Status, 16 Concentrated Experience, and 1 Prestige
+
+==A Dish to Die For==
+[18:24:04] [Render thread/INFO]: [CHAT] [Claude] Bonsoir, are you a customer? I apologize, the restaurant is currently closed. I 'ave been trying to create the perfect signature dish, but my mind, it is blocked! Are you of the... culinary persuasion? If so, could you assist me?
+[18:24:04] [Render thread/INFO]: [CHAT] [Of course! How can I help?]
+[18:24:04] [Render thread/INFO]: [CHAT] [I'm sorry, I'm not much of a chef]
+[18:24:20] [Render thread/INFO]: [CHAT] [Claude] Marvelous! Fantastique! I 'ave some ideas but we shall need the most exotic of ingredients! I 'ave 'eard of an old Tlaxan farm, where the lava imparts the most wonderful flavor to the wheat there. Let us start by gathering that, and see what pairs with it, no?
+[18:24:20] [Render thread/INFO]: [CHAT] [I'm on it!]
+[18:24:20] [Render thread/INFO]: [CHAT] [I've got something to do, but I'll be back!]
+[18:24:29] [Render thread/INFO]: [CHAT] QUEST : A DISH TO DIE FOR
+[18:24:29] [Render thread/INFO]: [CHAT] Length : Medium
+[18:24:29] [Render thread/INFO]: [CHAT] Difficulty : Easy
+[18:24:29] [Render thread/INFO]: [CHAT] Help Claude create the perfect dish.
+
+[[Abandoned Tunnels]]
+
+[13:13:34] [Render thread/INFO]: [CHAT] A Dish to Die For [1/2]: Harvest some Flame-Spiced Wheat for Claude.
+[13:13:40] [Render thread/INFO]: [CHAT] A Dish to Die For [2/2]: Bring back the Flame-Spiced Wheat to Claude.
+
+#Q17I01 https://puu.sh/GzOID/45eb670dde.png
+
+[13:19:28] [Render thread/INFO]: [CHAT] [Claude] Mmm! The wheat itself is as wonderful as I 'ave been told, but we need more than just grains and vegetables. Lowtide is known for its fish, but I think some beef of the 'ighest quality will pair better. The Korbaran Beef of the Korbar Highlands is said to be fantastique, think you can find one for the dish?
+[13:19:28] [Render thread/INFO]: [CHAT] [Of course I can!]
+[13:19:29] [Render thread/INFO]: [CHAT] Joan055 left the game
+[13:19:32] [Render thread/INFO]: [CHAT] TKTOM7 left the game
+[13:19:37] [Render thread/INFO]: [CHAT] [Claude] Such spirit! Such zeal! I can only 'ope my dish will be as inspired as your confidence!
+[13:19:37] [Render thread/INFO]: [CHAT] Claude expertly grinds the wheat you brought him and whips up a small pastry dish.
+
+[13:20:36] [Render thread/INFO]: [CHAT] A Dish to Die For: Hunt the Eastern Pass Cows to get some delicious High Quality Beef.
+
+#Q17I02 https://puu.sh/GzOVx/b90766ffa9.png
+[13:25:38] [Render thread/INFO]: [CHAT] A Dish to Die For [1/2]: Hunt the Eastern Pass Cows to get some delicious High Quality Beef.
+[13:25:39] [Render thread/INFO]: [CHAT] A Dish to Die For [2/2]: Bring back the High Quality Beef to Claude.
+
+[13:26:47] [Render thread/INFO]: [CHAT] [Claude] Hmm. For a normal dish, this would satisfy. 'owever, we are not making just any dish, but my masterpiece! I think we will need something even more esoteric. I 'ear tales of a dangerous cave within the Highland's lake, perhaps there will be some meat in there we can use.
+[13:26:47] [Render thread/INFO]: [CHAT] [I'll investigate]
+[13:26:58] [Render thread/INFO]: [CHAT] <G> treebeard68 » Why?
+[13:27:01] [Render thread/INFO]: [CHAT] [Claude] Marvelous! Every time I see your vigor I am more and more inspired! While you are out searching the cave I might go 'unting for some game of my own. Be careful though, I 'ear rumors of awful and 'orrid things occuring within that cave.
+[13:27:01] [Render thread/INFO]: [CHAT] Claude quickly sears the beef and bites into the barely rare steak.
+
+[13:27:40] [Render thread/INFO]: [CHAT] A Dish to Die For: According to Claude, some meat can be found in the Cave Of Bones near Highwatch, go get some.
+
+#Q17I03 https://puu.sh/GzP6j/40443d569f.png
+[13:33:26] [Render thread/INFO]: [CHAT] A Dish to Die For [1/2]: According to Claude, some meat can be found in the Cave Of Bones near Highwatch, go get some.
+[13:33:27] [Render thread/INFO]: [CHAT] A Dish to Die For [2/2]: Bring this strange type of meat to Claude.
+
+[13:34:08] [Render thread/INFO]: [CHAT] [Claude] Alas, this meat is too old. Shame, I would 'ave loved it fresh. While you were out though, I... acquired some new meat. I would like you to do the 'onors of butchering it though, I think you will be pleasantly surprised. Please, 'ead upstairs.
+[13:34:08] [Render thread/INFO]: [CHAT] He bites into the raw meat. As he chews, a forlorn look comes across his face.
+
+[13:38:06] [Render thread/INFO]: [CHAT] A Dish to Die For: Go to Claude's attic, and meet his new meatloaf.
+
+[13:38:25] [Render thread/INFO]: [CHAT] [Terry] Who’s there?! Who are you?! Please, let me go! I have a family! That madman told me he needed a taste tester, and that’s the last I remember before I woke up in this room. Please, just let me go...
+[13:38:25] [Render thread/INFO]: [CHAT] [Sorry, but we need meat.]
+[13:38:25] [Render thread/INFO]: [CHAT] [Don't worry, I’ll set you free and stop Claude.]
+[13:38:26] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:38:28] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:38:31] [Render thread/INFO]: [CHAT] Nikolas_0113 left the game
+[13:38:34] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:38:41] [Render thread/INFO]: [CHAT] [Terry] Thank you so much, I'd be dead without you. You go downstairs first, I'll escape while Claude is distracted.
+[13:38:45] [Render thread/INFO]: [CHAT] [Terry] Thank you so much, I'd be dead without you. You go downstairs first, I'll escape while Claude is distracted.
+[13:39:00] [Render thread/INFO]: [CHAT] A Dish to Die For: Confront Claude about his actions.
+[13:39:04] [Render thread/INFO]: [CHAT] [Claude] Welcome back mon amie. I assume the deed is done. Do you 'ave it!? Do you 'ave the meat!?
+[13:39:04] [Render thread/INFO]: [CHAT] Make sure you are ready for a battle before confronting Claude!!
+[13:39:04] [Render thread/INFO]: [CHAT] [No. You're a monster.]
+[13:39:13] [Render thread/INFO]: [CHAT] Nikolas_0113 joined the game
+[13:39:17] [Render thread/INFO]: [CHAT] [Claude] You... 'ow could you. You 'ad no problem with the meat from the cave, this is no different! I won't be denied! I must try it fresh!
+[13:39:17] [Render thread/INFO]: [CHAT] Claude grabs a long serrated knife and leaps over the counter towards you!
+[13:39:32] [Render thread/INFO]: [CHAT] After your last hit Claude staggers back behind the counter, wounded and in no condition to fight.
+[13:39:41] [Render thread/INFO]: [CHAT] A Dish to Die For: Victorious, return to Claude for your reward.
+[13:39:45] [Render thread/INFO]: [CHAT] [Claude] Ha! I may 'ave bit off more than I could chew there. I 'ope you bear me no ill will, I was merely... overcome with passion. 'enceforth, my palate shall be 'uman free. 'ere, take these as thanks for knocking some sense back into me. I trust we can keep what 'appened here our little secret, no?
+[13:39:45] [Render thread/INFO]: [CHAT] A DISH TO DIE FOR COMPLETE!
+[13:39:45] [Render thread/INFO]: [CHAT] Awarded Chef's Knife, 16 Concentrated Experience, and 1 Prestige!
+
+==Outer Demons==
+[23:44:24] [Render thread/INFO]: [CHAT] [Helring] Hi, I'm Helring. I curate the mystical and arcane section of the library. It can all be quite interesting knowledge when used in moderation.
+[23:44:24] [Render thread/INFO]: [CHAT] [I am a great adventurer, do you have a quest for me?]
+[23:44:24] [Render thread/INFO]: [CHAT] [Knowledge used in moderation?]
+[23:44:24] [Render thread/INFO]: [CHAT] [Tell me about yourself.]
+[23:44:24] [Render thread/INFO]: [CHAT] Cloud_ left the game
+[23:44:28] [Render thread/INFO]: [CHAT] Cloud_ joined the game
+[23:44:30] [Render thread/INFO]: [CHAT] [Helring] A quest? Well perhaps it wouldn't be that grand, but I lost my diary a few years back and haven't been able to bring myself to retrieve it. Could you do that for me?
+[23:44:30] [Render thread/INFO]: [CHAT] [Sure, I can find your diary for you.]
+[23:44:30] [Render thread/INFO]: [CHAT] [That sounds beneath me.]
+[23:44:35] [Render thread/INFO]: [CHAT] [Helring] Thank you so much. I left it in the study of an outpost I was stationed at. It lies down the stream that goes through the Cursed Forest. The journey should be simple and the monks there should help you find my old desk.
+[23:44:35] [Render thread/INFO]: [CHAT] QUEST : OUTER DEMONS
+[23:44:35] [Render thread/INFO]: [CHAT] Length : Medium
+[23:44:35] [Render thread/INFO]: [CHAT] Difficulty : Very Hard
+[23:44:35] [Render thread/INFO]: [CHAT] Retrieve Helring's diary from the outpost beyond the Cursed Forest.
+
+#Q45I01 https://puu.sh/GDzBA/e3790de13b.png
+
+[00:47:57] [main/INFO]: [CHAT] [Ghost] I thought I told you to stay away, but it seems the monk I spared has sent you to retrieve her diary.
+[00:48:00] [main/INFO]: [CHAT] [Ghost] Here's your adventurer back. Do not return.
+
+[00:48:38] [main/INFO]: [CHAT] Outer Demons: Speak to Helring.
+
+[00:48:41] [main/INFO]: [CHAT] [Helring] How could he still be around?
+[00:48:41] [main/INFO]: [CHAT] [Who was that?]
+[00:48:43] [main/INFO]: [CHAT] [Helring] That... that was Azacor. But Aesir killed him... I don't understand. Sukie, we need to stop him.
+[00:48:43] [main/INFO]: [CHAT] [Stop him? What is he doing?]
+[00:48:43] [main/INFO]: [CHAT] [Well he seems angry, I probably shouldn't go back there.]
+[00:48:49] [main/INFO]: [CHAT] [Helring] Azacor is a wicked summoner who... who did some terrible things in the past, It's why I was stationed in the Grove while I was with the Axtans.
+[00:48:49] [main/INFO]: [CHAT] [What can I do?]
+[00:48:55] [main/INFO]: [CHAT] [Helring] We must investigate further. I need to know how he managed to cling on to this world. Furthermore, he still seems dangerous, even as a ghost. He had a mansion near the back of the grove where you may find out more.
+[00:48:55] [main/INFO]: [CHAT] [I'll go back and explore Azacor's mansion.]
+[00:48:55] [main/INFO]: [CHAT] [I really don't want to go back.]
+[00:49:03] [main/INFO]: [CHAT] [Helring] Thank you so much. I'll need to prepare... mentally... before returning to that place.
+
+[00:49:15] [main/INFO]: [CHAT] Outer Demons [1/2]: Find a way into Azacor's ritual room.
+[00:49:17] [main/INFO]: [CHAT] Outer Demons [2/2]: Find a way to get past the barrier in Azacor's ritual room.
+
+https://puu.sh/GFRDX/255a9359d6.png
+https://puu.sh/GFRE5/c2da22c03e.png
+https://puu.sh/GFRIs/5e73bed94b.png
+
+
+[20:42:45] [main/INFO]: [CHAT] You feel different. Perhaps you can get through the barrier in this room now.
+
+[20:43:23] [main/INFO]: [CHAT] Outer Demons: Open the mysterious chest past the barrier.
+
+[20:43:39] [main/INFO]: [CHAT] [Azacor] Congratulations, you've gone from nuisance to problem. Looks like I'll need to deal with you more... personally.
+[20:43:42] [main/INFO]: [CHAT] [Azacor] I'll show you just how much of a nightmare I can truly be.
+
+Outer Demons: Escape from Azacor's trap in the Hallowed Hedge.
+
+[20:44:54] [main/INFO]: [CHAT] [Azacor] No no, your torment is not quite over yet.
+
+[20:45:07] [main/INFO]: [CHAT] Outer Demons: Escape from Azacor's trap in the Whispering Woods.
+
+[20:45:12] [main/INFO]: [CHAT] [Azacor] How about we clean you off a little.
+
+[20:45:19] [main/INFO]: [CHAT] Outer Demons: Escape from Azacor's trap in the Flooded Foyer.
+
+[20:48:55] [main/INFO]: [CHAT] [Azacor] You are in my territory now.
+
+[20:48:58] [main/INFO]: [CHAT] Outer Demons: Escape from Azacor's trap in his mansion.
+
+[20:49:10] [main/INFO]: [CHAT] As your vision goes black, you feel as if a hand is reaching out to you.
+[20:49:10] [main/INFO]: [CHAT] [Helring] Oh thank goodness you are okay.
+
+[20:49:13] [main/INFO]: [CHAT] Outer Demons: Talk to Helring.
+
+[20:49:39] [main/INFO]: [CHAT] [Helring] Thank goodness I found you Sukie, Azacor had you trapped in an Imprisonment Curse it seems.
+[20:49:39] [main/INFO]: [CHAT] [Thank you for saving me!]
+[20:49:39] [main/INFO]: [CHAT] [You got here just in time!]
+[20:49:39] [main/INFO]: [CHAT] [This is getting serious, what's our next move?]
+[20:49:45] [main/INFO]: [CHAT] [Helring] It's the least I could do. But we need to move fast, Azacor knows we're after him.
+[20:49:45] [main/INFO]: [CHAT] [What's our next move?]
+[20:49:47] [main/INFO]: [CHAT] [Helring] While looking for you I found Azacor's ritual room beneath the mansion as well, and it seems he was hiding the secret to his demise. We need to get to the Undergrowth to trap him in Ancient Wyrmwood.
+[20:49:47] [main/INFO]: [CHAT] [How does that work?]
+[20:49:47] [main/INFO]: [CHAT] [Alright let's go.]
+[20:50:07] [main/INFO]: [CHAT] [Helring] I've memorized the incantation to summon and trap Azacor, you just need to clear the way. Let's go!
+
+[20:50:26] [main/INFO]: [CHAT] Outer Demons: You need to trap Azacor in Ancient Wormwood in the Undergrowth. Get there and survive.
+
+[20:56:49] [main/INFO]: [CHAT] [Azacor] I see you stumbled upon the source of the Wyrmwood. Of course, you don't really expect me to let you leave this location alive, do you?
+[20:56:58] [main/INFO]: [CHAT] [Helring] Don't worry, I'm here to help! With the spell we found at his mansion we can bind Azacor to the Wyrmwood, and limit the damage he can bring to the Valley. Just keep him distracted for a little while!
+
+[20:57:48] [main/INFO]: [CHAT] [Helring] I got him! The fiend is now bound to this sanctum!
+[20:57:51] [main/INFO]: [CHAT] [Azacor] What foolish magic is this? No! You cannot keep me here forever! I will be unbound, and I shall destroy everything and everyone you care about! You will never rid the Valley of me!
+
+[20:58:00] [main/INFO]: [CHAT] Outer Demons: Talk to Helring.
+
+[20:58:06] [main/INFO]: [CHAT] [Helring] We did it! Thank you for helping me put my past to rest. Azacor won't be able to cause trouble anymore, but he still isn't gone for good. Speak with me later and we can move forward with taking the fight to him.
+[20:58:06] [main/INFO]: [CHAT] Outer Demons Complete!
+[20:58:06] [main/INFO]: [CHAT] Awarded access to the Azacor boss fight, teleports in and out of the Grove via Helring, and 1 Prestige.
+
+
+==The Salmon==
+[13:45:22] [Render thread/INFO]: [CHAT] [Dockmaster] Welcome to Lowtide! Are you here for our shopping or for the fishing contest?
+[13:45:22] [Render thread/INFO]: [CHAT] [Shopping!]
+[13:45:22] [Render thread/INFO]: [CHAT] [Fishing contest?]
+[13:45:22] [Render thread/INFO]: [CHAT] [I'm here to parkour on your rooftops]
+[13:45:26] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:45:28] [Render thread/INFO]: [CHAT] [Dockmaster] I... um... Well, the town is not liable if you fall and break your neck.
+[13:45:30] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:45:35] [Render thread/INFO]: [CHAT] [Dockmaster] Welcome to Lowtide! Are you here for our shopping or for the fishing contest?
+[13:45:35] [Render thread/INFO]: [CHAT] [Shopping!]
+[13:45:35] [Render thread/INFO]: [CHAT] [Fishing contest?]
+[13:45:35] [Render thread/INFO]: [CHAT] [I'm here to parkour on your rooftops]
+[13:45:36] [Render thread/INFO]: [CHAT] [Dockmaster] Well, the contest isn't over, but you'll need to catch something amazing in order to win. Think you're up to it?
+[13:45:36] [Render thread/INFO]: [CHAT] [Absolutely]
+[13:45:36] [Render thread/INFO]: [CHAT] [Nah, not a big fishing fan]
+[13:45:40] [Render thread/INFO]: [CHAT] [Dockmaster] Haha, glad to hear it! At this point the only thing that can beat Roger's 58 inch trout is the legendary Regal Salmon. Quentin always claims he knows how to find it, but never says anything specific. Might want to talk to him. He'll be in the cafe, like always. Good luck!
+[13:45:40] [Render thread/INFO]: [CHAT] QUEST : THE SALMON
+[13:45:40] [Render thread/INFO]: [CHAT]  Length : Short
+[13:45:40] [Render thread/INFO]: [CHAT]  Difficulty : Medium
+[13:45:40] [Render thread/INFO]: [CHAT] Talk to Quentin and discover the secrets of the legendary Regal Salmon.
+
+[13:46:56] [Render thread/INFO]: [CHAT] The Salmon: Talk to Quentin in the cafe and convince him to tell you about the Regal Salmon.
+
+[13:47:01] [Render thread/INFO]: [CHAT] [Quentin] Go away, I'm too sober to talk.
+[13:47:01] [Render thread/INFO]: [CHAT] [What can you tell me about the Regal Salmon?]
+[13:47:04] [Render thread/INFO]: [CHAT] [Quentin] Nothing you'd like to hear. Seeking the Salmon is not worth it. If you're stupid enough to really want to know, bring me an Axtan Ale. This stupid place only serves coffee. Coffee! After what I've fished up, I need a stiff drink, and those monks make the best around!
+[13:47:09] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:47:12] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:47:12] [Render thread/WARN]: Unknown custom packed identifier: venturechat:data
+[13:47:15] [Render thread/INFO]: [CHAT] The Salmon: Find an Axtan Ale and bring it to Quentin so he'll tell you the salmon's secret!
+
+#Q16I01 https://puu.sh/GzQFg/df93f09508.png
+
+[15:09:06] [Render thread/INFO]: [CHAT] [Quentin] Ah! Thhhat's the shtuff. Soo... If you want to catch that shtupid fish you need to be reallllly unlucky. It'sh cursed, so it only shows when you're unlu*hic*cky. Then jusht go hang out near that big cat thing across the lake. But beware! It's curshed!
+
+[15:09:19] [Render thread/INFO]: [CHAT] The Salmon: Quentin said you'll need to be unlucky and go hang out around a 'big cat thing' to find the Regal Salmon.
+
+[15:10:21] [Render thread/INFO]: [CHAT] Quentin is passed out on the table
+[15:10:21] [Render thread/INFO]: [CHAT] [Quentin] *snore* unlucky... *snore* big cat thing... *snore* other side of lake...
+
+[14:49:46] [main/INFO]: [CHAT] The Regal Salmon leaps into your arms. Apparently it felt bad for you since you were so unlucky.
+[14:49:46] [main/INFO]: [CHAT] [Lemurian Knight] Poacher! Cur! Lemuria will not forget this theft of our glorious fish! Get them!
+[14:49:46] [main/INFO]: [CHAT] You detect a curse on the Regal Salmon, defeat the Lemurian Knights to lift it.
+
+[14:51:46] [main/INFO]: [CHAT] You feel the curse lifting from the Regal Salmon.
+
+[14:53:02] [main/INFO]: [CHAT] [Dockmaster] By the Gods, that's a Regal Salmon! Well done, well done indeed! The contest is yours, enjoy the rewards and all that Lowtide has to offer!
+[14:53:02] [main/INFO]: [CHAT] THE SALMON COMPLETE!
+[14:53:02] [main/INFO]: [CHAT] Awarded Fishing Trophy, Crushing Depths and 64 Enchanting Bottles
+
+
+==Starrier Nights==
+[01:25:19] [main/INFO]: [CHAT] [Montana] Hello! Welcome to my tree fort, I always wanted a treehouse as a kid and I finally had a chance to make it a reality.
+[01:25:19] [main/INFO]: [CHAT] [This isn't much of a fort.]
+[01:25:19] [main/INFO]: [CHAT] [That is a rather large telescope.]
+[01:25:19] [main/INFO]: [CHAT] [Who are you?]
+[01:25:19] [main/INFO]: [CHAT] [What do you do for a living?]
+[01:25:19] [main/INFO]: [CHAT] [Do you need any help?]
+[01:25:27] [main/INFO]: [CHAT] [Montana] Well it is a lot to ask of a stranger, but since you asked… My telescope broke in the move. A glass lens shattered and some of the other lenses are damaged beyond repair. I would get it repaired, but it would take ages for parts to arrive. Would you be willing to help me?
+[01:25:27] [main/INFO]: [CHAT] [I can try to help you.]
+[01:25:27] [main/INFO]: [CHAT] [Sadly, I recently forgot how to agree to random requests from strange tree dwellers.]
+[01:25:42] [main/INFO]: [CHAT] [Montana] Oh that's a shame! If you remember how to do that I will most likely still be waiting.
+[01:25:45] [main/INFO]: [CHAT] [Montana] Hello! Welcome to my tree fort, I always wanted a treehouse as a kid and I finally had a chance to make it a reality.
+[01:25:45] [main/INFO]: [CHAT] [This isn't much of a fort.]
+[01:25:45] [main/INFO]: [CHAT] [That is a rather large telescope.]
+[01:25:45] [main/INFO]: [CHAT] [Who are you?]
+[01:25:45] [main/INFO]: [CHAT] [What do you do for a living?]
+[01:25:45] [main/INFO]: [CHAT] [Do you need any help?]
+[01:25:47] [main/INFO]: [CHAT] [Montana] Well it is a lot to ask of a stranger, but since you asked… My telescope broke in the move. A glass lens shattered and some of the other lenses are damaged beyond repair. I would get it repaired, but it would take ages for parts to arrive. Would you be willing to help me?
+[01:25:47] [main/INFO]: [CHAT] [I can try to help you.]
+[01:25:47] [main/INFO]: [CHAT] [Sadly, I recently forgot how to agree to random requests from strange tree dwellers.]
+[01:25:49] [main/INFO]: [CHAT] [Montana] Wonderful! The only person I know that might have extra parts is an associate of mine in Nyr. Mayleen tends to hang out near her telescope. She shares my love of stars and we have worked together on projects for years.
+[01:25:49] [main/INFO]: [CHAT] [I helped her fix her telescope recently.]
+[01:25:49] [main/INFO]: [CHAT] [What type of projects?]
+[01:25:49] [main/INFO]: [CHAT] [Do you have a list of parts?]
+[01:26:00] [main/INFO]: [CHAT] [Montana] Nothing all that special really. In general we have done things since things are quite important. What is that look for? I gave you an answer. Fine... I occasionally do some glass blowing work with them. I'm a bit shy about it since I'm not that good at it. Actually, most of our interactions are glass themed now that I think about it.
+[01:26:00] [main/INFO]: [CHAT] [Do you have a list of parts?]
+[01:26:13] [main/INFO]: [CHAT] [Montana] Oh right, you need that don't you? Um, I don't really have any paper on me, but I need a decorative lens, a concave lens, and a convex lens. Mayleen will know what they are so you don't need to worry about the details.
+[01:26:13] [main/INFO]: [CHAT] [I will head to Nyr as soon as possible.]
+[01:26:13] [main/INFO]: [CHAT] [This sounds like a lot of work, maybe later.]
+[01:26:27] [main/INFO]: [CHAT] [Montana] Stay safe, the wilderness can be dangerous and your life is more important than my silly dreams.
+[01:26:27] [main/INFO]: [CHAT] QUEST : STARRIER NIGHT
+[01:26:27] [main/INFO]: [CHAT] Length : Medium
+[01:26:27] [main/INFO]: [CHAT] Difficulty : Hard
+[01:26:27] [main/INFO]: [CHAT] Help Montana build a telescope that is able to see the stars
+
+[01:26:48] [main/INFO]: [CHAT] Starrier Night: Visit Mayleen to see if she can help you assist Montana.
+
+[01:27:57] [main/INFO]: [CHAT] [Mayleen] Thank you for your help earlier! I can see a great many details now, a great many details indeed.
+[01:27:57] [main/INFO]: [CHAT] [I am glad that I could help, but I need your help this time.]
+[01:28:02] [main/INFO]: [CHAT] [Mayleen] What seems to be the problem?
+[01:28:02] [main/INFO]: [CHAT] [I would like you to tell my fortune.]
+[01:28:02] [main/INFO]: [CHAT] [I forgot what I was here for.]
+[01:28:02] [main/INFO]: [CHAT] [Montana needs help repairing her telescope.]
+[01:28:08] [main/INFO]: [CHAT] [Mayleen] I am a stargazer, not a fortune teller. While some stargazers believe they can tell the future, I do not have that gift, nor do I particularly believe in such things. I'm sorry I can't be of any help.
+[01:28:08] [main/INFO]: [CHAT] [Montana needs help repairing her telescope.]
+[01:28:13] [main/INFO]: [CHAT] [Mayleen] She moved it to the top of a tree didn't she. I told her she was going to break something, but she wasn't in the mood to listen. Oh well, do you know what parts she needs?
+[01:28:13] [main/INFO]: [CHAT] [How do you know Montana?]
+[01:28:13] [main/INFO]: [CHAT] [She needs a decorative lens, a concave lens, and a convex lens.]
+[01:28:21] [main/INFO]: [CHAT] [Mayleen] We are old friends. We also do projects together at times. She has always been secretive around new people so I won't go into great detail, but I enjoy working with her even if she is a bit clumsy. We have a lot of paperwork though.
+[01:28:21] [main/INFO]: [CHAT] [She needs a decorative lens, a concave lens, and a convex lens.]
+[01:28:31] [main/INFO]: [CHAT] [Mayleen] I need to stay here, but I can help you find them. There are some lenses in the basement, but I am unsure of the type. The door is locked behind a puzzle that I don't know how to solve, but I know it is similar to my telescope's gearing system.
+[01:28:31] [main/INFO]: [CHAT] [Got it, I'll get to work.]
+[01:28:31] [main/INFO]: [CHAT] [You can't get into your own storeroom?]
+[01:28:41] [main/INFO]: [CHAT] [Mayleen] This tower used to be a watchtower long before I got here. I saw some lenses down there when I was given the tour, but I never did work out how to get in there myself. Make all the lights face towards you, and the storeroom should unlock. Come back to me once you get the lens.
+
+[01:28:52] [main/INFO]: [CHAT] Starrier Night: Go to the basement and find the decorative lens. Remember to face all of the lights towards you.
+
+[01:33:41] [main/INFO]: [CHAT] You hear a lock opening. You should be able to get into the storeroom.
+
+[01:33:50] [main/INFO]: [CHAT] Starrier Night: Grab the decorative lens from the storeroom of Mayleen's tower and bring it back to Mayleen.
+3,0,2,1
+
+#Q26I01 https://puu.sh/GC9Ce/45a6a3a56b.png
+
+[01:35:26] [main/INFO]: [CHAT] [Mayleen] Good, you have the lens, and more importantly you opened my storeroom for me. Looks like that was a decorative lens, so you still need the functional ones. Before the Blackroot War a lookout tower was built east of Sierhaven. Unfortunately, after a tragedy the tower was abandoned. There might still be some supplies there.
+[01:35:26] [main/INFO]: [CHAT] [Why would there be telescope parts there?]
+[01:35:26] [main/INFO]: [CHAT] [Why was the tower abandoned?]
+[01:35:26] [main/INFO]: [CHAT] [Where is the tower?]
+[01:35:41] [main/INFO]: [CHAT] [Mayleen] The scouts in the tower failed to notice a Tlaxan Shaman approaching Sierhaven. That Tlaxan got into the capital, killed King Fluospar, and got out without being caught or spotted. After such failure the tower was shut down for political reasons.
+[01:35:41] [main/INFO]: [CHAT] [Where is the tower?]
+[01:35:49] [main/INFO]: [CHAT] [Mayleen] It is right outside of Sierhaven near a few fishing huts. If the plans I saw are to be believed, there is a secured bunker where they kept their extra supplies. Knowing the paranoia of the war they likely hid the entrance, and probably have some sort of lock on the bunker itself. I would check for an underwater entrance.
+[01:35:49] [main/INFO]: [CHAT] [I will head there right away.]
+[01:36:03] [main/INFO]: [CHAT] [Mayleen] Hopefully everything she needs is there. I will have to make minor adjustments to anything you manage to find so come back here if you find anything.
+
+[01:36:09] [main/INFO]: [CHAT] Starrier Night: Head to the fishing huts east of Sierhaven and search underwater around the watchtower for a way into the basement. Make any lights you find face you.
+2,2,3,3
+
+[02:08:21] [main/INFO]: [CHAT] You hear a door unlocking. You should be able to get into the bunker.
+
+[02:08:59] [main/INFO]: [CHAT] Starrier Night: Grab the concave lens from the chest in the fishing huts' watchtower's bunker and bring it back to Mayleen.
+
+#Q26I02 https://puu.sh/GCa2i/589f1d2c29.png
+
+[02:14:51] [main/INFO]: [CHAT] [Mayleen] I see you found a concave lens. I'll fix that up quickly... There that should work. So you had no luck finding a convex lens?
+[02:14:51] [main/INFO]: [CHAT] [The roof collapsed in on the bunker.]
+[02:14:59] [main/INFO]: [CHAT] [Mayleen] So if there are any convex lens they are likely broken… Well that presents a slight problem. However it is possible that we can still get help. I recently spotted a telescope in a tower to the south. They might have extra supplies that could be used. It is a long shot, but might as well ask.
+[02:14:59] [main/INFO]: [CHAT] [So I need to talk to someone I don't know, that has no reason to help, that could try to kill me, and ask them for help?]
+[02:14:59] [main/INFO]: [CHAT] [I'll get right on it then!]
+[02:15:14] [main/INFO]: [CHAT] [Mayleen] Yup!
+[02:15:14] [main/INFO]: [CHAT] [I'll get right on it then!]
+[02:15:15] [main/INFO]: [CHAT] [Mayleen] Be careful, I don't know anything about the owner of that telescope. I have a bad feeling about them. If it gets dangerous, leave right away. I don't want to be responsible for your death.
+
+[02:15:21] [main/INFO]: [CHAT] Starrier Night: Talk to the owner of the tower to the south of Nyr and ask for a convex lens.
+
+[02:17:24] [main/INFO]: [CHAT] [Gaius] Who are you and why are you here? Nevermind, I really don't care. Leave or I will have to make you leave.
+[02:17:24] [main/INFO]: [CHAT] [Can you tell me a bit about yourself?]
+[02:17:24] [main/INFO]: [CHAT] [So you are a fan of stargazing?]
+[02:17:24] [main/INFO]: [CHAT] [I need to find a convex lens. We thought you might have one.]
+[02:17:34] [main/INFO]: [CHAT] [Gaius] No.
+[02:17:34] [main/INFO]: [CHAT] [I need to find a convex lens. We thought you might have one.]
+[02:17:36] [main/INFO]: [CHAT] [Gaius] We? Then she must have seen me before they acted on my ti.. I don't have any. I think it is time for you to leave.
+[02:17:36] [main/INFO]: [CHAT] You probably aren't going to get any more information by talking to Gaius directly. Perhaps you can learn more by listening in.
+
+[02:17:58] [main/INFO]: [CHAT] Starrier Night: Eavesdrop in on Gaius.
+
+[02:17:58] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » I feel like rogue might struggle in twisted reverie
+[02:18:10] [main/INFO]: [CHAT] Hiding behind the crates, you listen in
+[02:18:10] [main/INFO]: [CHAT] [Gaius] So the guards patrol over there. Good to kn... Is someone there!?
+[02:18:10] [main/INFO]: [CHAT] You feel you aren’t going to get any more information from Gaius, you should probably return to Mayleen
+
+[02:18:19] [main/INFO]: [CHAT] Starrier Night: Return to Mayleen to relay the information you obtained while talking to Gaius.
+
+[02:20:29] [main/INFO]: [CHAT] [Mayleen] Hmm based on the look on your face you weren't successful.
+[02:20:29] [main/INFO]: [CHAT] [You are sadly correct.]
+[02:20:29] [main/INFO]: [CHAT] [They were the least friendly stargazer I have ever met, and I have met three.]
+[02:20:29] [main/INFO]: [CHAT] [That is certainly one way to put it.]
+[02:20:34] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » Xolotl c:
+[02:20:39] [main/INFO]: [CHAT] [Mayleen] Surely it wasn't that bad. What did they say?
+[02:20:39] [main/INFO]: [CHAT] [They told me to leave.]
+[02:20:42] [main/INFO]: [CHAT] [Mayleen] Well yes, but anything other than that?
+[02:20:42] [main/INFO]: [CHAT] [They were surprised you saw them, and were watching the guards.]
+[02:20:49] [main/INFO]: [CHAT] [Mayleen] So they were the one that told the guards.... I see. That is very concerning. I can't think of a legitimate reason to observe the guards. It is safer to assume they are a criminal that needs to be stopped.
+[02:20:49] [main/INFO]: [CHAT] [So I should contact the town guards?]
+[02:20:49] [main/INFO]: [CHAT] [This is getting too scary for me.]
+[02:20:49] [main/INFO]: [CHAT] [Do you have any ideas?]
+[02:20:49] [main/INFO]: [CHAT] [Mayleen] So they were the one that told the guards.... I see. That is very concerning. I can't think of a legitimate reason to observe the guards. It is safer to assume they are a criminal that needs to be stopped.
+[02:20:49] [main/INFO]: [CHAT] [So I should contact the town guards?]
+[02:20:49] [main/INFO]: [CHAT] [This is getting too scary for me.]
+[02:20:49] [main/INFO]: [CHAT] [Do you have any ideas?]
+[02:20:50] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » who tf is velararar
+[02:20:59] [main/INFO]: [CHAT] [Mayleen] Have you seen Nyr's guards? They would be no match for a fully armed and operational telescope. In all seriousness I have reason to believe one of them might have been paid off, so it would be very risky to go to them.
+[02:20:59] [main/INFO]: [CHAT] [Do you have any ideas?]
+[02:21:05] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » Drink the blood munkeh
+[02:21:07] [main/INFO]: [CHAT] [Mayleen] I have one, but it is a long shot. Telescopes need light to work, as you saw when you adjusted my gearing system. If you were to “reconfigure” his gearing system to direct the light towards him, he might not know how to fix it. If we are lucky he might even put his anger to good use and destroy his own equipment. You will most likely find their gearing system in their basement.
+[02:21:07] [main/INFO]: [CHAT] [How does this help us get a convex lens?]
+[02:21:07] [main/INFO]: [CHAT] [This could go horribly wrong.]
+[02:21:07] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » a'xolotl
+[02:21:12] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » whos monkey
+[02:21:23] [main/INFO]: [CHAT] [Mayleen] You are too focused on the goal, where is your sense of adventure? You should have more than enough time to take the lens from them while they are trying to figure out why it isn't working. After that return to me like always.
+
+[02:21:33] [main/INFO]: [CHAT] Starrier Night: Find a way into Gaius's basement and break his telescope. Try making all the lights face away from you.
+
+[02:24:42] [main/INFO]: [CHAT] [Gaius] Why is this piece of junk not working. My boss isn't going to be happy with me. Maybe if I keep hitting it.
+[02:24:42] [main/INFO]: [CHAT] [What seems to be the problem?]
+[02:24:42] [main/INFO]: [CHAT] [(Steal the lens while he is occupied.)]
+[02:24:48] [main/INFO]: [CHAT] [Gaius] I have told you to leave several times now. If I find out that you were responsible for breaking this, you won't live to regret it.
+[02:24:48] [main/INFO]: [CHAT] [(Steal the lens while he is occupied.)]
+[02:24:52] [main/INFO]: [CHAT] You successfully snatch a lens out of the telescope. Head back to Mayleen.
+[02:24:57] [main/INFO]: [CHAT] [Gaius] Now is really not a good time. If you don't leave I will be forced to take out all my anger on you instead of this telescope.
+[02:24:57] [main/INFO]: [CHAT] [(Steal another lens while he is blinded by rage)]
+[02:25:00] [main/INFO]: [CHAT] You successfully snatch another lens. You should probably leave now.
+
+#Q26I03 https://puu.sh/GCaco/d3b8be8b66.png
+[02:25:13] [main/INFO]: [CHAT] Starrier Night: You've got the convex lens from Gaius! Bring it back to Mayleen.
+
+[02:26:51] [main/INFO]: [CHAT] [Mayleen] From the look on your face I assume you got the lens?
+[02:26:51] [main/INFO]: [CHAT] [Yes I got it, can you modify it for me?]
+[02:26:54] [main/INFO]: [CHAT] [Mayleen] Let me see that lens for just a second… Okay it should be ready. That guy over there is doing a number on his telescope, I would be shocked if it ever gets repaired. I can't say that makes me all that upset. You should be ready to return to Montana now.
+
+[02:27:03] [main/INFO]: [CHAT] Starrier Night: You have all three lenses! Bring them back to Montana. You can find the decorative lens in Mayleen's storeroom.
+
+[02:28:49] [main/INFO]: [CHAT] [Montana] Welcome back! Have you had any luck finding any of the parts I need?
+[02:28:49] [main/INFO]: [CHAT] [I found a decorative glass lens.]
+[02:28:49] [main/INFO]: [CHAT] [I had a part but I lost it.]
+[02:28:52] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » why dont the groots answer me
+[02:28:56] [main/INFO]: [CHAT] [Montana] Nice, I'll install it right away. While it is only decorative it just feels wrong using a telescope without it.
+[02:28:56] [main/INFO]: [CHAT] [Montana] Have you found any of the other parts I need?
+[02:28:56] [main/INFO]: [CHAT] [I found a concave lens.]
+[02:28:56] [main/INFO]: [CHAT] [I had a part but I lost it.]
+[02:29:01] [main/INFO]: [CHAT] [Montana] The negative power of this lens should help balance color errors, well it will once paired with a convex lens at least.
+[02:29:01] [main/INFO]: [CHAT] [Montana] Any chance that you also have the last part I need?
+[02:29:01] [main/INFO]: [CHAT] [I found a convex lens.]
+[02:29:01] [main/INFO]: [CHAT] [I had a part but I lost it.]
+[02:29:03] [main/INFO]: [CHAT] <G> [FISH] TheCrusader57 » The hell is this lmao
+[02:29:04] [main/INFO]: [CHAT] [Montana] I'm positive that this will help counter the negativity of the concave lens.
+[02:29:04] [main/INFO]: [CHAT] [Montana] Looks like that is all of them. I already configured the gears while I was waiting for you to get back so everything should be set up now. I can't thank you enough for what you have done for me. I will have to send Mayleen a thank you note as well.
+[02:29:04] [main/INFO]: [CHAT] [I can deliver it if you want.]
+[02:29:04] [main/INFO]: [CHAT] [So is there a reward for this?]
+[02:29:06] [main/INFO]: [CHAT] <G> [FISH] EmilyVEVO » groot
+[02:29:14] [main/INFO]: [CHAT] [Montana] You have already done so much for me, I can at least handle that much. Oh right I prepared a bit of a reward for you while you were gone. I hope you like glowing things.
+[02:29:14] [main/INFO]: [CHAT] STARRIER NIGHT COMPLETE!
+[02:29:14] [main/INFO]: [CHAT] Awarded 32 Concentrated Experience, 192 Spectral Arrows, a Midnight Spyglass, and 1 Prestige
+
+==Voyage of Discovery==
+[23:41:00] [main/INFO]: [CHAT] [Captain Argoun] Hello Sukie! I've heard you've managed to complete the Monument behind Highwatch. That's absolutely brilliant!
+[23:41:00] [main/INFO]: [CHAT] [It was nothing really.]
+[23:41:00] [main/INFO]: [CHAT] [Yes, it took a great deal of effort.]
+[23:41:08] [main/INFO]: [CHAT] [Captain Argoun] I could actually use your help, if you wouldn't mind.
+[23:41:08] [main/INFO]: [CHAT] [What is it?]
+[23:41:08] [main/INFO]: [CHAT] [I'm far too busy right now.]
+[23:41:11] [main/INFO]: [CHAT] [Captain Argoun] Captain Indigo has been pushing to get a permit to leave King's Valley, but we aren't too keen to give permission to such... unsavory characters. You've helped her out before, would you vouch for her permit?
+[23:41:11] [main/INFO]: [CHAT] [Pirates don't have rights.]
+[23:41:11] [main/INFO]: [CHAT] [Indigo is of no danger.]
+[23:41:27] [main/INFO]: [CHAT] [Captain Argoun] I was leaning that way as well. Alright I'm convinced! You can go let Captain Indigo know she is all set to sail through the Seagate.
+[23:41:27] [main/INFO]: [CHAT] QUEST : VOYAGE OF DISCOVERY
+[23:41:27] [main/INFO]: [CHAT] Length : Short
+[23:41:27] [main/INFO]: [CHAT] Difficulty : Easy
+[23:41:27] [main/INFO]: [CHAT] Let Captain Indigo know she can set sail on the open sea.
+
+[23:42:13] [main/INFO]: [CHAT] Voyage of Discovery: Tell Indigo she has been cleared to pass through the seagate.
+
+[23:43:28] [main/INFO]: [CHAT] [Captain Indigo] Ahoy Sukie! We're all itching to set sail soon. Hopefully our permit will be approved soon.
+[23:43:28] [main/INFO]: [CHAT] [Good news! It's been approved.]
+[23:43:31] [main/INFO]: [CHAT] [Captain Indigo] That is amazing news! We're all ready to take off here, would you care to join us on our maiden voyage?
+[23:43:31] [main/INFO]: [CHAT] [Absolutely.]
+[23:43:31] [main/INFO]: [CHAT] [Where are you sailing to?]
+[23:43:31] [main/INFO]: [CHAT] [I think I prefer land for now.]
+[23:43:36] [main/INFO]: [CHAT] [Captain Indigo] Are you ready to set sail?
+[23:43:36] [main/INFO]: [CHAT] [Arrgh!]
+[23:43:38] [main/INFO]: [CHAT] [Captain Indigo] ARRGH!
+[23:43:38] [main/INFO]: [CHAT] Transferring you to region_2
+
+
+[23:43:57] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Captain Indigo
+
+[23:44:07] [main/INFO]: [CHAT] [Captain Indigo] Ahoy Sukie! The sea is beautiful today, don't you think?
+[23:44:07] [main/INFO]: [CHAT] [I think I'm going to be sick.]
+[23:44:07] [main/INFO]: [CHAT] [We should just stay on the sea forever.]
+[23:44:08] [main/INFO]: [CHAT] <G> [AG] TheMonarchAwaken » brb later guys, i'll drop the stream for now o/
+[23:44:09] [main/INFO]: [CHAT] TheMonarchAwaken left the game
+[23:44:14] [main/INFO]: [CHAT] [Captain Indigo] Well, we'll need to reach port eventually, so why don't you go check with Izzy to see where we are.
+
+[23:44:19] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Izzy
+
+[23:44:41] [main/INFO]: [CHAT] [Izzy] We should be close, but we'll need to spot some landmarks to know exactly where we are. Could you please ask Levyn if he can see anything on the horizon?
+[23:44:41] [main/INFO]: [CHAT] [Sure!]
+[23:44:41] [main/INFO]: [CHAT] [Sounds like effort.]
+[23:44:46] [main/INFO]: [CHAT] [Izzy] Splendid, thank you.
+[23:44:48] [main/INFO]: [CHAT] StealthyStealthy left the game
+[23:44:48] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Levyn
+[23:45:02] [main/INFO]: [CHAT] [Levyn] Hello ... Sukie ... I'm not feeling too good.
+[23:45:02] [main/INFO]: [CHAT] [I thought you were supposed to be a pirate? Are you sea sick?]
+[23:45:09] [main/INFO]: [CHAT] [Levyn] Just getting my ... sea legs ... what do you want?
+[23:45:09] [main/INFO]: [CHAT] [Have you been able to see anything from up here?]
+[23:45:11] [main/INFO]: [CHAT] [Levyn] I can't ... see straight at all ... can you get a sea sickness cure from ... Samwell below deck?
+[23:45:11] [main/INFO]: [CHAT] [Sure I'll be right back.]
+[23:45:12] [main/INFO]: [CHAT] StealthyStealthy joined the game
+[23:45:14] [main/INFO]: [CHAT] [Levyn] Thank ... you.
+[23:45:16] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Samwell
+[23:45:25] [main/INFO]: [CHAT] [Samwell] Hello Sukie, is there anything you need from the stores?
+[23:45:25] [main/INFO]: [CHAT] [I need a sea sickness cure, Levyn isn't doing too well.]
+[23:45:28] [main/INFO]: [CHAT] [Samwell] Ha! I knew that guy was all talk. Here, we have plenty stocked up. I can't wait to finally get my hands on some treasure.
+[23:45:28] [main/INFO]: [CHAT] Samwell's eyes glisten at the thought of treasure.
+[23:45:37] [main/INFO]: [CHAT] <G> [WAIFU] DataCrusader » oh theres the patron room lol, that explains some of the lag
+[23:45:58] [main/INFO]: [CHAT] <G> LordGeek101 » I'm gonna have to go soon for the night as well.
+[23:46:02] [main/INFO]: [CHAT] Patreon Shrine Notice: The \nRegeneration effect has been activated!
+[23:46:06] [main/INFO]: [CHAT] Patreon Shrine Notice: The \nResistance effect has been activated!
+[23:46:09] [main/INFO]: [CHAT] LordGeek101 left the game
+[23:46:14] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Samwell
+[23:46:26] [main/INFO]: [CHAT] Levyn grabs the cure and drinks it all.
+[23:46:26] [main/INFO]: [CHAT] [Levyn] Arrgh thank you matey! I've never felt more swashbuckling before. Now, about that view: I can see an island in the distance. It be about 100 seabows away. ARRGH!
+[23:46:26] [main/INFO]: [CHAT] [Levyn] Arrgh!
+[23:46:36] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Izzy
+[23:46:40] [main/INFO]: [CHAT] [Izzy] Have you found out what Levyn can see yet?
+[23:46:40] [main/INFO]: [CHAT] [He said he can see some green about 100 seabows from here.]
+[23:46:43] [main/INFO]: [CHAT] [Izzy] Wonderful, I'll steer us that way now. You should go speak with the captain.
+[23:46:47] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Captain Indigo
+[23:46:50] [main/INFO]: [CHAT] [Captain Indigo] So you've finally checked in with Izzy- took you long enough. Looks like we'll arrive shortly.
+[23:46:50] [main/INFO]: [CHAT] [Arrgh.]
+[23:46:53] [main/INFO]: [CHAT] [Izzy] PIRATE BOAT INCOMING! EVERYONE TO THE DECK!
+[23:46:56] [main/INFO]: [CHAT] Voyage of Discovery: Talk to Captain Indigo
+[23:47:00] [main/INFO]: [CHAT] [Captain Indigo] Get out there Sukie! We're under attack!
+[23:47:03] [main/INFO]: [CHAT] Voyage of Discovery: The ship is under attack, get outside quickly!
+[23:47:11] [main/INFO]: [CHAT] [Captain Xeno] You have entered the waters of Mistport- my waters- without permission! Prepare to be boarded!
+[23:47:13] [main/INFO]: [CHAT] TheMonarchAwaken joined the game
+[23:47:16] [main/INFO]: [CHAT] [Izzy] This is bad- we got much closer to Mistport than I expected.
+[23:47:21] [main/INFO]: [CHAT] [Samwell] Mistport? I've never heard of such a place. What could we have done wrong by simply getting too close to the island?
+[23:47:26] [main/INFO]: [CHAT] [Izzy] If the rumors are true, it's an island ruled over entirely by pirates. We need to find a way to esca-
+[23:47:31] [main/INFO]: [CHAT] [Captain Xeno] FIRE!
+[23:47:33] [main/INFO]: [CHAT] The blasts of the ship make your ears ring, and everything goes black.
+[23:47:34] [main/WARN]: Received passengers for unknown entity
+[23:47:34] [main/WARN]: Received passengers for unknown entity
+[23:47:34] [main/INFO]: Loaded 375 advancements
+[23:47:38] [main/INFO]: [CHAT] You wake up and find yourself in what seems to be a prison.
+[23:47:41] [main/INFO]: [CHAT] Voyage of Discovery: You've been imprisoned! Find a way out, and find Izzy and Samwell!!!
+
+#Q101I01 https://puu.sh/GDyU6/f7a5e39066.png
+
+[23:49:29] [main/INFO]: [CHAT] [Izzy] Sukie! Thank goodness you caught up. We felt kind of bad leaving you passed out in your cell, but, you know, pirate code.
+[23:49:29] [main/INFO]: [CHAT] [It's alright, I understand.]
+[23:49:29] [main/INFO]: [CHAT] [I'm a bit upset you tried to escape without me.]
+[23:49:35] [main/INFO]: [CHAT] [Izzy] Thank you. Now we just need to find Levyn and then we can figure out how we're going to get off this island.
+[23:49:35] [main/INFO]: [CHAT] [Where is Captain Indigo?]
+[23:49:35] [main/INFO]: [CHAT] [Where are we?]
+[23:49:35] [main/INFO]: [CHAT] [Where is Levyn?]
+[23:49:46] [main/INFO]: [CHAT] RevenantHorror joined the game
+[23:49:47] [main/INFO]: [CHAT] [Izzy] She is being contained on our ship, which has been impounded on the far side of this port. We'll need to unite the crew before we organize a rescue.
+[23:49:53] [main/INFO]: [CHAT] [Izzy] Sukie! Thank goodness you caught up. We felt kind of bad leaving you passed out in your cell, but, you know, pirate code.
+[23:49:53] [main/INFO]: [CHAT] [It's alright, I understand.]
+[23:49:53] [main/INFO]: [CHAT] [I'm a bit upset you tried to escape without me.]
+[23:49:55] [main/INFO]: [CHAT] [Izzy] Thank you. Now we just need to find Levyn and then we can figure out how we're going to get off this island.
+[23:49:55] [main/INFO]: [CHAT] [Where is Captain Indigo?]
+[23:49:55] [main/INFO]: [CHAT] [Where are we?]
+[23:49:55] [main/INFO]: [CHAT] [Where is Levyn?]
+[23:49:56] [main/INFO]: [CHAT] [Izzy] We seem to be in a pirate port. The locals don't seem to like us too much.
+[23:49:57] [main/INFO]: [CHAT] [Izzy] Sukie! Thank goodness you caught up. We felt kind of bad leaving you passed out in your cell, but, you know, pirate code.
+[23:49:57] [main/INFO]: [CHAT] [It's alright, I understand.]
+[23:49:57] [main/INFO]: [CHAT] [I'm a bit upset you tried to escape without me.]
+[23:49:59] [main/INFO]: [CHAT] [Izzy] Thank you. Now we just need to find Levyn and then we can figure out how we're going to get off this island.
+[23:49:59] [main/INFO]: [CHAT] [Where is Captain Indigo?]
+[23:49:59] [main/INFO]: [CHAT] [Where are we?]
+[23:49:59] [main/INFO]: [CHAT] [Where is Levyn?]
+[23:50:00] [main/INFO]: [CHAT] [Izzy] Well that's a tough one. He ran ahead yelling something about parlay and rum. My best guess is he was trying to find a pub.
+[23:50:00] [main/INFO]: [CHAT] [I'd better go look for him in a pub then.]
+[23:50:05] [main/INFO]: [CHAT] [Izzy] Sounds good. We'll be hiding out here.
+[23:50:09] [main/INFO]: [CHAT] Voyage of Discovery: Search out Levyn in the Mistport pub.
+
+[00:00:48] [main/INFO]: [CHAT] [Levyn] If it isn't my favorite drinking buddy Sukie! So good to see you finally join us matey.
+[00:00:48] [main/INFO]: [CHAT] [Levyn, we need to go. We aren't safe here.]
+[00:00:52] [main/INFO]: [CHAT] [Levyn] Nonsense! These are our fellow swashbucklers. There was just a slight misunderstanding, that's all.
+[00:00:52] [main/INFO]: [CHAT] [But they threw us in prison.]
+[00:00:56] [main/INFO]: [CHAT] [Levyn] Haha yes! Classic mistake that was. Trust me, we're all good now. As long as we join their ranks we're welcome to stay.
+[00:00:56] [main/INFO]: [CHAT] [I suppose we can do that.]
+[00:00:56] [main/INFO]: [CHAT] [No, we shouldn't join them.]
+[00:01:02] [main/INFO]: [CHAT] <G> [WAIFU] DataCrusader » same with r2, with r2 monument completion
+[00:01:16] [main/INFO]: [CHAT] Veni_Vidi__Vici joined the game
+[00:01:30] [main/INFO]: [CHAT] [Levyn] Arrgh! Shiver me timbers and a yo ho ho! Welcome to Mistport, home of the Viridian Pirates.
+[00:01:30] [main/INFO]: [CHAT] VOYAGE OF DISCOVERY COMPLETE!
+[00:01:30] [main/INFO]: [CHAT] Awarded Access To The Celsian Isles and 1 Prestige.

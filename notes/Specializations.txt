@@ -1,0 +1,756 @@
+==Reaper==
+Bero, Viridian Overworld (-864, 95, 1778)
+Note: Bero's attic has an ender chest.
+
+Life is of the Essence: Reaper Trial started at Bero.
+
+[Bero] If only I could get this working, the power would be... Oh hello, intruder. Were you never taught to stay out of other people's homes?
+[Yes, but I'm willing to bend the rules.]
+[Never, but I get problems solved.]
+[I might have been, but, somehow, I forgot a lot of things a while back.]
+[Bero] Hmm... Yes, I can sense a aura about you that suggests you are telling the truth. Why you lost your memories, I don't know- and, honestly, I don't really care. Very well then; you might be able to be of help. I have reason to believe that this machine holds great secrets and could potentially grant power beyond imagination. Those fools in Mistport think me a monster because I see sacrifice as a natural part of progression; I don't enjoy such things, but a better world rarely happens without conflict of some sort.
+[So where do I come in?]
+[What do you mean by sacrifice?]
+[Bero] Since Mistport has more or less exiled me at this point, I need to find alternate sources of power. Luckily, there are powerful individuals in the region that are simply overflowing with life energy. I simply want you to harvest that energy and bring it back to me.
+[How does one harvest energy?]
+[Bero] I am what is known as a reaper, so you won't have to deal with that part of it. I merely would need you to dispose of a few hostile "elite" individuals in the area and bring back fragments of their life essence. I have already done the magic needed for their life energy to crystallize, so it should be fairly easy. Succeed, and I will teach you the ways of the reaper; fail, and you won't return. So are you in?
+[I'm in. Where do I need to go?]
+[Perhaps later.]
+[Bero] Excellent. I need three sources of life energy: the first comes from the Feyrune Marksman of the Taproot Ruins; the second unfortunate soul is the Pirate Captain- you can find them most commonly at Spiral Island, but they also roam the Fungus Thorn Cave. Finally, I require the essence of the Master Scavenger from the Seigrit Mineshaft. Return the three to me and I will teach you the way of the reaper.
+TRIAL : Life is of the Essence
+Class: Warlock
+Skill: Reaper
+Description: Collect the life energy of the elites in the area.
+
+feyrune marksman is also in feyrune forest
+#Q103nI01 https://puu.sh/GFU3x/6646bbe64e.png
+#Q103nI02 https://puu.sh/GFU3Q/1ef2200d2b.png
+#Q103nI03 https://puu.sh/GFU3W/deb80f471b.png
+
+[Bero] So you return with the essence. You are either more like myself than I anticipated or motivated by a desire for power. Either way, you have more than proven yourself worthy of my training. My research shall begin anew!
+LIFE IS OF THE ESSENCE COMPLETE!
+Awarded Reaper Specialization and a Gravemaking Scythe
+
+==Heirophant==
+Ellen, Chillwind Overworld (-1500, 93, 655)
+
+[Ellen] Hello, what brings you here today? Are you in need of care?
+[Who are you?]
+[I am an adventurer exploring the area.]
+[Please heal me.]
+[Ellen] It is dangerous to be an adventurer these days, what with lands preparing for the worst. Be careful.
+[Ellen] Hello, what brings you here today? Are you in need of care?
+[Who are you?]
+[I am an adventurer exploring the area.]
+[Please heal me.]
+[Ellen] How rude of me to not introduce myself. My name is Ellen, but my friends call me Elly. I'm a hierophant by trade. I was born in Frostgate, but my calling takes me to where I am needed.
+[What do you do as a hierophant?]
+[Are you similar to a cleric?]
+[A heroic ghost?]
+[Ellen] Hierophant, not herophant. We go out of our way to try to keep heroes alive, so we are very anti ghost-hero actually. Unfortunately, it has been getting harder to do my job recently. We aren't ready for the storm that is coming.
+[Is there anything I can do to help?]
+[Have you considered investing in umbrellas?]
+[Hopefully everything works out.]
+[Ellen] I would never ask you to stop the coming conflicts between our lands, but you are an adventurer... At the moment, our problems are two fold. Our healers aren't in contact with each other, and the device that would enable that has been stolen from us. Would you be willing to try to help?
+[Yes, what would I have to do?]
+[That seems complicated.]
+[Ellen] I wish to set up a communication network in the region. I had the means to do so, but it was stolen by bandits. They reside at the Bandit Encampment to the west of here. I would go myself, but I can't risk not being here when I'm needed. If you are able to get it, return here.
+TRIAL : Healthful Networking
+Class: Cleric
+Skill: Hierophant
+Description: Help Ellen establish a network between the land's healers.
+
+Helpful Networking: Hierophant Trial started at Ellen
+
+[Ellen] I wish to set up a communication network in the region. I had the means to do so, but it was stolen by bandits. They reside at the Bandit Encampment to the west of here. It will be dangerous, and you should prioritize your survival over everything else. I would go myself, but I can't risk not being here when I'm needed. If you are able to get it, return here.
+
+bandit camp at camp at (-1591, 101, 603)
+chest at (-1584, 105, 567)
+#Q103kI01 https://puu.sh/GDTLg/a4a9ca81c0.png
+
+[Ellen] I was right to have faith in you. Healers will need a way to talk over long distances. Unfortunately, I can't go see Nurse Norsin in Frostgate myself. This device is magical in nature, and the tundra is distrustful of such things. Magic users have been monitored since the... the "Incident"- if I were to go myself, I would be caught and imprisoned due to their fear. I need your help.
+[I will do it.]
+[Will the healer be fine with it?]
+[The "Incident"?]
+[I don't want to get in trouble.]
+[Ellen] I expect some reluctance from Norsin, but I know that he will distribute the devices to the others in the end; our focus is on saving people after all. Here, take these communication devices. I'm counting on you.
+
+#Q103kI02 https://puu.sh/GDTMr/839dcf96f8.png
+
+Nurse Norsin (-1539, 95, 918)
+
+[Nurse Norsin] Welcome to the Frostgate Clinic! How can I be of help?
+[I was sent here by a Hierophant named Ellen.]
+[Doesn't the healing aura do your job?]
+[I'm just looking around.]
+[Nurse Norsin] I haven't seen her for a while; how has she been? I'm not used to her sending other people- is everything okay?
+[She wants you distribute these.]
+[She needs supplies.]
+[Everything is fine.]
+[Nurse Norsin] Distribute wh...Oh, I see. So this is why she didn't come in person. I am going to have to refuse your request.
+Despite what he said, Nurse Norsin takes the devices from you.
+[Nurse Norsin] Unfortunately I won't be able to help. Our traditions don't allow such things, and Ellen would never use this type of device.
+[Please, Ellen needs your help.]
+[Can I at least have those devices back?]
+[Doesn't the healing aura do your job?]
+[I'm just looking around.]
+[Nurse Norsin] I'm afraid you are mistaken. Ellen knows our traditions and knows the current situation. She wouldn't break with tradition even without the risk of having this conversation be overheard by someone. Return those devices to this "Ellen" of yours.
+
+[Ellen] I can't thank you enough for all you have done. We will be able to save so many people thanks to you.
+[He took the devices, but refused to help.]
+[You are an impostor!]
+[Ellen] What devices? I don't know what you are talking about. You helped deliver supplies in a manner fitting our traditions. You shouldn't make jokes like that- you never know who might be listening. As for your reward, I will teach you the ways of the hierophant as thanks. May you never stop helping others.
+HEALTHFUL NETWORKING COMPLETE!
+Awarded Hierophant specialization and a Windwrought Shield
+You should probably head back to the Teacher in Mistport to tell him of the knowledge you've learned here.
+
+==Elementalist==
+Monk Gehri, Ishnir Overworld (202, 85, 1022)
+What Lies Within: Elementalist Trial started at Monk Gehri.
+
+[Monk Gehri] ...
+[Hello?]
+[Monk Gehri] ...
+[Are you okay?]
+[Monk Gehri] Ah, greetings traveler. I was so deep in meditation that I did not hear your approach.
+[Why are you sitting out in the middle of the river?]
+The monk's eyes dart open.
+[Monk Gehri] The flow of the water- its constancy, its absolution... These qualities make it perfect for stilling one's mind and allowing for unmitigated concentration. Such precise meditation can allow you to understand yourself better, or even bring out latent power that lies dormant within oneself.
+[Can it bring out power within me?]
+[Monk Gehri] Such things manifest themselves differently within each person, though, with you, I can feel a great sense of magical prowess hidden deep within.
+[Teach me how to bring this power out.]
+[Maybe we can talk about this some other time.]
+[Monk Gehri] It is not a matter of teaching, but of self-reflection. I can merely guide you towards your subconscious. The rest is up to you.
+[Guide me, then.]
+[Monk Gehri] Speak to me when you have prepared yourself for the meditation exercise.
+TRIAL : WHAT LIES WITHIN
+Class: Mage
+Skill: Elementalist
+Description: Search for power within yourself through extreme meditation.
+
+What Lies Within: Elementalist Trial started at Monk Gehri.
+
+[Monk Gehri] Are you prepared to enter your subconscious?
+[Yes, I am.]
+[No, I'm not]
+[Monk Gehri] Very well. Listen to my instructions carefully. Close your eyes.
+[Monk Gehri] Focus only on your breathing.
+[Monk Gehri] Feel the water envelope your senses.
+[Monk Gehri] Now... Disconnect.
+The world fades around you as your mind drifts.
+
+[Me] Sukie.
+[Who are you?]
+[Me] Sukie.
+[Where am I?]
+[Me] Sukie.
+[Is that all you can say?]
+[Me] No.
+[What am I doing here...?]
+[Me] This pathway leads to the deep subconscious. To unblock its entrance, the pillars must be properly configured. Tell me which pillar you wish to change, and I shall change it. When all four are set, I shall tell you how many are correctly configured.
+
+nw redstone
+ne emerald
+sw/e purpur
+
+[Me] You have correctly configured all of the pillars. The pathway forward is now open.
+
+You open your eyes and find yourself back at the river.
+[Monk Gehri] It seems your time reflecting was well spent. Take this experience and grow from it.
+WHAT LIES WITHIN COMPLETE!
+Awarded Elementalist Specialization and a Combustion Staff
+
+[Monk Gehri] ...
+It seems Monk Gehri has fallen back into his meditative state.
+
+==Arcanist==
+Shepor in Rhakeri (-167, 162, 434)
+
+[Shepor] No no, this is all wrong...
+The man is too busy looking over his notes to notice you standing there.
+[Everything okay?]
+[Shepor] Huh? Where did you come from? Haven't seen you around here before.
+[I wanted to ask about the battleship.]
+[I heard you mumbling to yourself.]
+You are eligible to /vote on 1 sites!
+[Shepor] WHAT ABOUT IT?! I mean, uhh... No, it's not a battleship. It's for... sightseeing.
+[But it has cannons...]
+[Shepor] They explode confetti! And flowers! Flower-shaped confetti! Yeah, that's it... 
+[Shepor] No no, this is all wrong...
+The man is too busy looking over his notes to notice you standing there.
+[Everything okay?]
+[Shepor] Huh? Where did you come from? Haven't seen you around here before.
+[I wanted to ask about the battleship.]
+[I heard you mumbling to yourself.]
+[Shepor] Yes, well, I can't quite figure out what's wrong with my spell. Everything in my notes seems just fine, but nothing is working.
+[Spell for what?]
+[Shepor] A protective barrier. I am what you might call an Arcanist- I study magic that has long since been considered "outdated" by modern society. There aren't many like me left, so I tend to get called upon when their new-fangled magic doesn't quite work.
+[Could you teach me some of your older magic?]
+<G> SikaBg » wait there is a thing like dungeon lobby for the hoard... it was POI was it?
+[Shepor] Do I look like I have the time for that? I'm currently trying to figure out why my blasted spell won't put a barrier over this battlesh- I MEAN TOTALLY REGULAR SHIP!
+[I could help, if you'd like.]
+[Shepor] So you're the adventuring type, eh? Hmm... perhaps you could be of service. I have one last idea that might work, but I need something before I can begin.
+[What is it?]
+<G> SikaBg » or the black mist is the POI?
+[Shepor] Far below this city, under the ground level, there exists a tunnel system known as the Cavern of Cinders. Inside, there is a special culmination of heat, pressure, and dark magic that allows the natural production of Unholy Chiastolite. I need you to gather some of it, and bring it to Weaponsmith Hian here in the city. He already has my spare wand for repair, so tell him to crush the stone into a fine powder, and mix it with the metal during heating. This could provide results for me.
+TRIAL : Older Magic
+Class: Mage
+Skill: Arcanist
+Description: Seek out Unholy Chiastolite for Shepor.
+
+Older Magic: Arcanist Trial started at Shepor.
+
+Cavern of Cinder (-88, 40, 498)
+Unholy Chiastolite #Q103iI01 (-120, 13, 501) https://puu.sh/GOl9L/6a55cc3263.png
+
+Weaponsmith Hian (-128, 163, 482))
+
+[Weaponsmith Hian] Great heroes have great weapons. Many of my weapons could make you a legend- if you're willing to pay up!
+[Actually I'm here about Shepor's wand.]
+SirTudor left the game
+[Weaponsmith Hian] Eh, that old thing? Yeah, I was just about to blast it in the furnace. Should be good as new when I'm done with it.
+[I need you to take this stone, crush it into a powder, and blast it with the wand.]
+phebelia left the game
+[Weaponsmith Hian] That's an odd request, but alright.
+[Weaponsmith Hian] Here we go; wand's done.
+
+https://puu.sh/GOlke/d7b0c2570d.png
+
+[Shepor] Ah, my wand! Yes, this is perfect. This should amplify the protection aspect in the spell just enough to make it stick. In theory, at least. Ready to run a test?
+[Let's give it a shot.]
+[Shepor] PA PARA PAPA!
+[Shepor] Yes! Now that's what I'm talking about! Thank you ever so kindly for fetching that for me. I knew the solution was right within my reach.
+[Now that you've finished, can you teach me a bit of your magic?]
+[Shepor] Yes yes, I suppose that's a fair trade. Let's begin immediately.
+OLDER MAGIC COMPLETE!
+Awarded Arcanist Specialization and Erriot's Eradicator
+
+==Tenebrist==
+Kard in Alnera (323, 49, 728)
+
+[Kard] The light... it hurts my skin... the darkness must be thicker... the darkness must surround me...
+[Is everything okay?]
+[Kard] The darkness runs through us... It runs through all of us... It runs through you...
+[I don't like where this conversation is going...]
+[Kard] Can you stare into the darkness and still find your way?
+[Maybe?]
+[No.]
+[Kard] We shall see... We shall test you faith in the darkness... Tell me when you are ready to be shrouded...
+TRIAL : Lost in the Dark
+Class: Warlock
+Skill: Tenebrist
+Description: Find your way in the dark.
+
+Lost in the Dark: Tenebrist Trial started at Kard.
+
+[Kard] Shall the darkness shroud you?
+[Let's get this over with]
+[Kard] DARKNESS! SURROUND HIS BEING AND TRANSPORT HIM TO THAT PLACE!
+[Kard] Let's see if you can reach me without your sight... Trust the darkness...
+
+[Kard] Follow the darkness... It knows best...
+[Kard] Trust the darkness, it will guide you...
+[Kard] The light makes us the most blind...
+[Kard] The light leads us astray...
+
+[Kard] Yes! You followed the darkness to me. I knew it would guide you... I knew you were one with it...
+LOST IN THE DARK COMPLETE!
+Awarded Tenebrist Specialization and Coldfire Sickle
+
+[Kard] You are also one with the darkness...
+
+==Guardian==
+Galablad, Chillwind Overworld (-1781, 143, 367)
+
+[Galablad] Halt! What brings you here? Who brings you here?
+[I am an exploring adventurer, here on my own.]
+[I am a warrior of darkness, here to serve my master.]
+[I don't remember. Where am I again?]
+[Galablad] That is more than a bit concerning. Normally, I would help you, but I cannot leave my post. Please get away from here; it is not safe.
+[Galablad] Halt! What brings you here? Who brings you here?
+[I am an exploring adventurer, here on my own.]
+[I am a warrior of darkness, here to serve my master.]
+[I don't remember. Where am I again?]
+[Galablad] I don't believe you, and that is the only reason I haven't struck you down where you stand.
+[Galablad] Halt! What brings you here? Who brings you here?
+[I am an exploring adventurer, here on my own.]
+[I am a warrior of darkness, here to serve my master.]
+[I don't remember. Where am I again?]
+[Galablad] Ah, an adventurer... I don't sense ill intent, but I can't risk you getting hurt. Please leave before trouble arrives.
+[Trouble? I am good at dealing with trouble.]
+[Galablad] My current assignment is very dangerous, but my options are limited... Very well then. I have been tasked to protect the owner of a mining operation in the area. A rival group wants them removed, and has hired a sizable "army" to ensure that they are taken care of.
+[So I need to fight this army?]
+[Galablad] Part of it, yes. I should be able to stop most of the enemies, but some will surely slip past me. Your job will be to deal with those that do.
+[Are you sure you will be okay?]
+[This is beginning to sound too dangerous.]
+[Galablad] I am a guardian by trade, so I am well versed in tackling swarms of opponents at once. Should we survive this, I would be happy to train you. So, are you up for it?
+[As ready as I'm going to get.]
+[I have some not dying to do instead.]
+[Galablad] Very well then. Thank you for your bravery.
+TRIAL : Guarding the Guarded
+Class: Warrior
+Skill: Guardian
+Description: Help protect the head of a mining group from a rival corporation.
+
+Guarding the Guarded: Guardian Trial started at Galablad.
+
+[Galablad] Do you want to head in?
+[I enjoy going into random caves and risking my life.]
+[I need to prepare.]
+[Galablad] Very well. They will be here soon- be ready to protect what must be protected.
+
+[Grethony] Hello, who are you, and where is my guard?
+[Your guard is in a better place now... that I am here to help.]
+[I am here to crush... those who wish to hurt you.]
+[I want to know... how to leave.]
+[Grethony] Oh, so you are backup? Wonderful! Wait- what's that sound?
+[Likely the force coming here to kill you.]
+[Just the wind, nothing to worry about.]
+[Grethony] Oh, right. Well, I hope you are ready because I have absolutely no weapons training.
+
+[Grethony] That was close! For me, not so much for you. Thank you for your help. Please let Galablad know that I am unharmed.
+[Grethony] That was close! For me, not so much for you. Thank you for your help. Please let Galablad know that I am unharmed.
+[Galablad] How is Grethony?
+[Alive, and apparently unharmed.]
+[Dead like you requested.]
+[Who?]
+[Galablad] Wait, someone under my care actually survived? How completely expected and totally not surprising. As promised, I shall train you to be a guardian.
+GUARDING THE GUARDED COMPLETE!
+Awarded Guardian specialization and a Steelguard
+
+==Paladin==
+Artol, Nightroost (-1335, 132, 491)
+
+The man is completely engrossed in maintaining various pieces of gear laid out on his workbench. You notice each item is well-suited for combatting the undead.
+[This is quite the arsenal. Ideal for a paladin, wouldn't you say?]
+[Artol] I suppose.
+Having finished polishing a breastplate, he moves on to a mace.
+[You suppose?]
+[Artol] Titles interest me little.
+He grabs his rag and starts to work on the weapon. You feel the direct approach would be best.
+[Let me ask another way: are you a master of fighting the undead?]
+As the word "undead" leaves your lips, his hand stops mid-polish and he looks directly at you for the first time.
+[Artol] Indeed.
+He sets down the rag and mace and turns completely to you. 
+[Artol] Where are they?
+[Who?]
+[Artol] The undead. You said there were undead. 
+[Oh, no, I didn't mean-]
+[Artol] What kind? Zombies? 
+He begins to lean across the table towards you.
+[No, let me expl-]
+[Artol] Husks? 
+[Sir Artol-]
+He is very close now.
+You can see his eye almost glowing with zeal through the slits in his helmet.
+His voice trembles with excitement.
+[Artol] A WITHER!?
+[No! No Withers!]
+[Artol] I see.
+He leans back, clearly disappointed.
+[Artol] If there are no undead for me to kill, then I have no business with you.
+[You misunderstand- I want to fight the undead, and I've come to learn from you.]
+Artol tilts his head in mild curiosity.
+[Artol] Hm. Why do you want to learn my methods?
+[To protect the living.]
+[I just really hate zombies.]
+[Destroying evil is the most direct way to do good.]
+[To root out the corruption in Chillwind's government.]
+[The pirate captain Xeno must be stopped.]
+[I'm pursuing a rogue mage who has stolen a powerful magical artifact.]
+[Artol] As you should. But hatred alone is not a good reason.
+[Artol] I need a better reason. I shall only ask once more: why do you want to learn my methods?
+[To protect the living.]
+[I just really hate zombies.]
+[Destroying evil is the most direct way to do good.]
+[To root out the corruption in Chillwind's government.]
+[The pirate captain Xeno must be stopped.]
+[I'm pursuing a rogue mage who has stolen a powerful magical artifact.]
+The fire returns to his eyes.
+[Artol] Well said! If you understand that, I am willing to teach you.
+[Excellent! What's my first lesson?]
+[Artol] Every battle against the undead is won or lost before the first blow is exchanged. Preparation is everything.
+[Is that why you have so much equipment?]
+[Artol] Exactly. The corpses of adventurers often tell a tragic tale of one who brought the wrong tools for the situation.
+[Artol] Flame-resistant greaves in flooded crypts, light-feathered boots in cramped catacombs, and, worst of all, Sharpness. Sharpness on EVERY melee weapon.
+[I may be guilty of the last one myself.]
+[Artol] A common mistake for beginners.
+[What would you have me do?]
+[Artol] There is no time to coddle you like a child. You shall have a trial by fire against a greater undead. There you shall learn, or you shall die. 
+[That's not the sort of thing I expect to hear from a Cleric.]
+[A greater undead?]
+[Artol] Indeed. I am here in Nightroost because a Wither has made its home in a cave beneath us. Over time, it has corroded the very roots of this hill, and it will collapse in on itself if the Wither is not slain. In preparation, I transcribed a holy glyph over the cave to seal it in for now.
+[You trapped a Wither!?]
+[Artol] The process is difficult, but I nullified its natural ability to corrode whatever it touches by locking the cave into its current state of existence. Not one grain of sand can be altered in that cave until it is purged of the unholy creature. Standard Wither-hunting practice. I had just returned and was preparing to move in for the kill when you arrived.
+[And so my test is...?]
+[Artol] To slay it, of course! Annihilate the filth from our fair world. Bring me its spinal column as proof, and I shall train you in my techniques.
+[What do you know about destroying Withers?]
+[Thank you Artol. I'll be back once it is slain.]
+[Artol] One of my favorite subjects!
+[Artol] They are immune to fire, poison, and, of course, the withering curse they are named for.
+[Artol] Like all undead, they are harmed by healing potions and healed by harming potions, so dropping a healing potion on yourself will also harm the monster.
+[Artol] And of course; when one is damaged enough, it becomes immune to arrows.
+[Artol] They have an infuriating tendency to float just out of arm's reach and fire their damnable projectiles downward, so trapping one in an area with a low ceiling is an ideal tactic.
+[Artol] Normally, they corrode away all matter they touch, but that won't be an issue in this case...
+He continues to lecture on the ins-and-outs of Wither slaying to no one in particular. You slip away when he turns his back to tell his anvil about the differences between male and female Withers.
+
+Putrefaction and Purification: Paladin Trial started at Artol.
+
+[And so my test is...?]
+[Artol] To slay it, of course! Annihilate the filth from our fair world. Bring me its spinal column as proof, and I shall train you in my techniques.
+[What do you know about destroying Withers?]
+[Thank you Artol. I'll be back once it is slain.]
+[Artol] Good to hear. Take my hammer; may it serve you well in the task. Even if you forgo using it; bring some form of Smite weapon!
+TRIAL : Putrefaction and Purification
+Class: Cleric
+Skill: Paladin
+Description: Slay the Wither in its lair beneath Nightroost.
+Received Blazing Hammer
+
+cave entrance (-1333, 105, 456)
+
+The wither screams as I deal the final blow. Its body crumbles to ash, leaving only its spinal column behind.
+
+[Artol] You return alive. How did it go?
+[See for yourself!]
+You place the spine on Artol's workbench.
+He gently picks up the spine with the slow reverence of one performing a sacrament...
+And gleefully crushes it into a fine powder in his hands.
+[Artol] Beautiful.
+[Artol] Well done, my friend. I'm honored to teach you my art. Keep the hammer. Bring destruction to the fiends, and put our world to right.
+PUTREFACTION AND PURIFICATION COMPLETE!
+Awarded Paladin Specialization
+
+==Assassin==
+Venen, Mistport (-829, 115, 1396)
+
+A Simple Favor: Assassin Trial started at Venen.
+
+[Venen] Hmm... this could prove to be bad...
+The man seems too lost in his thoughts to realize you walked in.
+[Everything okay?]
+[Venen] Oh, hello there. Hmm... You look like the kind of person who knows your way around trouble. Would you mind helping an old man out?
+[What do you need?]
+[Sorry, not interested.]
+[Venen] Well, a few days ago, I was doing some, uh... retrieval work... when a large pirate gang stole the item I was fetching. Perhaps you could give them a bit of... convincing to give it back.
+[Sure thing.]
+[Venen] Your help is greatly appreciated. If I were in my younger years, I'd do it myself, but age is a cruel mistress... Anyway, you'll find the group of pirates near the docks, they most likely still have it with them there.
+Trial : A Simple Favor
+Class: Rogue
+Skill: Assassin
+Description: Retrieve Venen's stolen possession from pirates.
+
+[Venen] I need you to retrieve an item for me from a group of pirates near the docks. They most likely still have it.
+
+Crewman Berz (-805, 87, 1408)
+
+[Crewman Berz] What do you want, eh? Beat it or else we'll beat you.
+[I need back whatever you stole from Venen.]
+[Crewman Berz] That ol' husk? He really fell low having someone else do his dirty work. Guess that's actually better for us in some ways.
+[Give it back or there will be trouble.]
+[Crewman Berz] Y'er a funny one, eh? We don't have it anyway- gave it to the captain. If you want it back, you're gonna have to get onto that ship off the coast to the south: the one with the black sails.
+[Fine, I'll get it back.]
+[Crewman Berz] Hah, good luck. The captain'll hunt down ya to the edge of the Isles if you even think about gettin' near the boat.
+It seems you may have some trouble getting onto the ship. Perhaps you should talk to Venen about this first.
+
+[Venen] I'm guessing they didn't give it back to you?
+[They gave it to their captain, it seems.]
+[Venen] I suspected as much. I guess this means we'll have to use an alternative strategy.
+[What do you mean?]
+[Venen] Well, obviously, barging onto that ship blades swinging will not work. And, even if you were successful, there's no doubt that they'd come after the both of us. We need to be a be a bit more stealthy about this. What do you think?
+[Sounds like our best option.]
+[Venen] Perfect. While you sneak into the captain's quarters, I'll create a distraction with those pirates. I may be old, but I'm not entirely useless. Now get going, and don't be afraid to get your hands bloody if you have to.
+
+Actually directly southeast from Venen. South from the lighthouse, just past the intellect crystallizer.
+(-638, 78, 1595)
+Fragile easy "Boss" fight in small room.
+
+[Crewman Berz] What do you want, eh? Beat it or else we'll beat you.
+[Captain Reils] I▒ll admit it, I▒m surprised that assassin didn▒t come back for their documents. That ol▒ man▒s probably too old to get it back. Huh? Who are you and how did you get on my ship? Die!
+The captain falls to the floor as you deal the final blow. Whatever he stole from Venen is probably in this room somewhere.
+
+#Q103jI01 https://puu.sh/GOlIK/ae257c91f9.png
+
+[Venen] Ah, you got it! Well done, well done! I assume things didn't go so easily with the captain?
+[He's dead, if that's what you mean.]
+[Venen] Ah, excellent. I took... similar precautions with the crew. They aren't dead, but they'll wish they were if they bother us again.
+[This document is... a hitlist. Were you an assassin?]
+[Venen] I see you looked over them, then. Yes, I used to be an assassin in my younger years- one of the best. The retrieval work I mentioned was the gathering of these documents. I had not been called into action for quite a while, so you can see how serious my employers take matters such as this. Had you not stepped in, they would've been compromised.
+[Venen] Now, this is the part where I usually... ensure you don't speak of these events today. However, I see a lot of potential in your abilities. You're strong, to say the least. How would you like a little training? I could hone your skills much further.
+[That would be great.]
+Payhi25 joined the game
+[Venen] Very well. Let me get my books first. I teach best from them.
+A SIMPLE FAVOR COMPLETE!
+Awarded Assassin Specialization and a Pirate's Sabre
+
+==Ranger==
+Hidgir, Chillwind Overworld (-1575, 112, 820)
+
+The man flashes you a quick glance, but keeps his body perfectly still - his clothes camouflaging him with the thick snow.
+[Hello?]
+[Hidgir] Speak softly. Any loud noises could cause this hill to avalanche backwards, which would ruin my favorite outlook spot. 
+[What's are you on the look out for?]
+[Hidgir] Truthfully, not all that much. The queen is rather paranoid by the war right now, and believes that soldiers could be sent from Alnera, and as such has all the elite Rangers positioned around the tundra. 
+[Elite Rangers?]
+[Sounds like a boring job.]
+[Hidgir] The Rangers are the highest class of Scouts in the Chillwind. We are the sharpshooters, you might say, and can snipe our targets from abnormally far distances. Needless to say, if you are on the wrong side of the battle and have the misfortune of getting into one of our sights, you may as well stop running because that will no longer save you.
+[Could you give me some advice to improve my shot?]
+[Hidgir] Advice, huh? I think I could do you one better. Since it is rather quiet today, like all days, I think I can get away with sneaking in some target practice with you. Grab a bow and some arrows, and I'll take you to my secret target range.
+TRIAL : Aiming for Success
+Class: Scout
+Skill: Ranger
+Description: Clear Hidgir's target test
+
+Aiming For Success: Ranger Trial started at Hidgir.
+
+[Hidgir] Are you ready to begin? I hope you brought your bow and plenty of arrows.
+[I am.]
+[Not quite yet.]
+[Hidgir] Let's go then.
+
+[Hidgir] I am going to set up a series of targets for you to shoot. You may use the entire roof as footing- get as close to the ledge as you like. The one rule is that you must not leave the roof. If you fall, you fail the test and must start from the beginning. Are you ready?
+[Begin]
+
+E SSE N Up W
+[Hidgir] Let's start with something easy.
+[Hidgir] Fair aim, there. Lets try a bit farther, shall we. Shoot for the other end of the cathedral.
+[Hidgir] Great shot! Time to crank it up a bit. Next target is over the inn.
+[Hidgir] Now straight up!
+[Hidgir] Fantastic! Finish it up by aiming for the clocktower.
+[Hidgir] Wonderful! You've truly proven yourself quite the marksman. Now let's head back before we get into trouble.
+
+[Hidgir] You did a great job out there. Keep honing your skills, and one day you may be a Ranger as well! As promised, I will share some of my knowledge in archery with you.
+AIMING FOR SUCCESS COMPLETE!
+Awarded Ranger Specialization and an Eagle's Talon
+
+==Apothecary==
+Apothecary Voraga in Frostgate (-1608, 112, 1018)
+
+[Apothecary Voraga] No no no... this is bad...
+The woman seems to be frantically messing around with potions.
+[Is everything alright?]
+[Apothecary Voraga] No, of course everything isn't alright. The queen has come down with a severe case of Miasmus Execratio, and nothing I'm making can seem to cure it.
+[Is that anything similar to Marasmus Execratio?]
+[Apothecary Voraga] It's a relative disease, though I'm surprised you've heard of it. That strand is exceedingly rare.
+[I helped cure it back in the Valley when a town got infected.]
+[Apothecary Voraga] Interesting, and what was the cure to it?
+[Dark amber, spirit flowers, and some dirt from a graveyard.]
+[Apothecary Voraga] That sounds like voodoo and is entirely unhelpful here. But since you are here and at least have some semblance of experience treating diseases, I could really use your help.
+[Sure thing.]
+[I don't want to get sick myself, actually.]
+fairbot joined the game
+[Apothecary Voraga] Excellent. There is a disease treatment I once read about that spoke of filtering a toxic substance through water, over and over, until the water remembers its potency. "Like kills like", as the saying goes. 
+[That sounds like quackery.]
+[Apothecary Voraga] Nonsense! It has multiple recorded success stories. Now, for a terrible disease like this, we are going to need something incredibly toxic to match it. I'm thinking Enderscales, which are unforunately very rare. There is an old military base to the east of here, where Enderscales were collected for the war. There might still be some there, if we are lucky.
+Trial : The Doctor's Orders
+Class: Alchemist
+Skill: Apothecary
+Description: Gather Enderscales for Voraga.
+
+Military Base (-1174, 86, 947)
+Ender Scale (-1176, 95, 946)
+#Q103fI01 https://puu.sh/GOm9L/7352570400.png
+
+[Apothecary Voraga] Fantastic! That's just what I needed! Thank you for the help, I will start preparing the medicine now. Might take a while though; need to do a couple dozen component mixtures of water.
+THE DOCTOR'S ORDERS COMPLETE!
+Awared the Apothecary Specialization and a Drowned Trident
+
+[Apothecary Voraga] Oh hello again...
+[You don't seem very happy.]
+[Apothecary Voraga] Of course I'm not. That medicine didn't work at all. I should have listened to you calling it quackery... BAH!
+
+==Swordsage==
+Juste, Chillwind Overworld (-1104, 94, 904)
+
+The man is concentrating heavily on the fish cooking over his fire.
+[Everything okay with that fish?]
+[Juste] AH! Goodness, you scared me. Why are you in my house? Oh whatever. If you must know, I'm cooking my dinner.
+[Why do you live all the way out in the middle of the permafrost?]
+[Juste] You broke into my house just to ask me questions? You're really a strange one, aren't you? The answer is so no one gets hurt.
+[Hurt by what?]
+[Juste] I'm a rather experienced combatant. I have invented several fighting techniques that simultaneously utilize magic and swordsmanship. However, while this power is great, it can often lead to heavy destruction during sparring matches.
+[Could you teach me how to fight like that?]
+[Juste] I'm sorry, but I already have a student. I have little need to take in another.
+[There's no way I can convince you?]
+[Juste] Hmm... Richter is one of the most gifted fighters I've met. Some might even call him a prodigy, which is why I took him in. If you can match his skills, I'll train you. But be warned, I have taught him well and he won't go easy on you.
+[I'll do it.]
+[That seems like a bit too much of a challenge.]
+[Juste] Very well, speak to me when you are ready to begin, and I will escort you down to our sparring grounds underneath my home.
+TRIAL: Unyielding Potential
+Class: Rogue
+Skill: Swordsage
+Description: Defeat Juste's student in combat.
+
+Unyielding Potential: Swordsage Trial started at Juste.
+
+Boss fight in large interesting room, but boss and adds are immune to arrows?
+
+[Juste] Are you ready to go down?
+[Lead the way.]
+You follow Juste out the door to the training grounds under his house.
+[Richter] This is the challenger you speak of, master? Very well, let's get this over with quickly.
+[Richter] Not bad so far, but at this rate you shouldn't even bother learning my path.
+[Richter] Let's make this more interesting shall we? Living Blades, cut down this infidel!
+[Richter] Agh! I won't lose to a weakling like you!
+[Richter] This is impossible! How are you still standing!?
+[Richter] DAMN YOU! This match ends here! I won't allow myself to be beaten like this! NEVER!
+You wake up with a start. It seems you've lost to Richter, but Juste seems to have a smile on his face.
+
+[Juste] Haha, what a show! Apologies for the ending there, he doesn't handle defeat all that well and used his finishing move. I can't say I'm not impressed by your skills though. You hung in there for quite a while!
+[So will you teach me?]
+[Juste] Yes, yes I suppose you are worth my time.
+UNYIELDING POTENTIAL COMPLETE!
+Awarded Swordsage specialization and a Frosted Sabre
+
+[Juste] Your sparring match with Richter has lit a fire under him. He's been training harder than ever now that he knows someone out there can match him.
+[Any chance of a rematch?]
+[Juste] I suspect it would be good training for both of you. Would you like me to show you to the training area?
+[Lead the way.]
+
+==Hunter==
+Hunter, Ishnir Overworld (0, 127, 880)
+
+[Hunter] Oh, you don't appear to be out to kill me. I had assumed you were from all the noise you were making. In that case, please stop making such a din- you are going to scare it off for good.
+[Scare what off?]
+[Who are you?]
+[I need to go.]
+[Hunter] My current mark. It is an otherworldly cow that somehow came across the technology needed to master the power of fire. I managed to chase them to this so-called paradise, but, to my surprise, the locals tried to attack me. I'm planning my next move at the moment.
+[Can I be of assistance?]
+[I wish you luck.]
+[Hunter] Normally I would never let someone go after my mark, but I am trained in the art of hunting, not slaughtering peaceful vacation destinations. Yes, I think you might be able to be of assistance.
+[Hunter] The otherworldly cow in question is somewhere within the bounds of Palm Tree Paradise. however the local inhabitants have made it difficult to track it. Help me defeat it and bring me back its otherworldly leather and I'll be eternally grateful.
+[I'll give it a shot.]
+[Maybe later. I'm not prepared right now.]
+[Hunter] I agree: using a ranged weapon likely would be wise.
+TRIAL : An Otherworldly Hunt
+Class: Scout
+Skill: Hunter
+Description: Search Palm Tree Paradise to find the Otherworldly Cow and defeat it.
+
+An Otherworldly Hunt: Hunter Trial started at Hunter.
+
+[Hunter] How goes the hunt?
+[I haven't managed to defeat it yet.]
+[What are otherworldly cows?]
+[I am planning my next move before I strike.]
+[Hunter] Otherworldly cows are aggressive, flame-wielding bovines that don't know the meaning of mercy or pity.
+[Hunter] How goes the hunt?
+[I haven't managed to defeat it yet.]
+[What are otherworldly cows?]
+[I am planning my next move before I strike.]
+[Hunter] Understandable. I'm leaving it in your hands to bring it down. It should be in Palm Tree Paradise.
+[Hunter] How goes the hunt?
+[I haven't managed to defeat it yet.]
+[What are otherworldly cows?]
+[I am planning my next move before I strike.]
+[Hunter] Always a wise choice. Hunting is all about lying in wait and being ready to take down your prey when they least expect it.
+
+Cow is on the roof of a building ~(-47, 104, 935), and is made of 200 hp and fiery explosions.
+
+The otherworldly cow falls with a final ghastly moo. You take the leather from its body. As it is otherworldly it is invisible. You should bring it to Hunter.
+
+[Hunter] How goes the hunt?
+[I have the Otherworldly Leather!]
+[What are Otherworldly Cows?]
+[I am planning my next move before I strike.]
+[Hunter] Really? Let me see... This belongs to my mark! Well done, that is one more blight to the world taken care of. I will teach you how to become a better hunter, so that you too can rain arrows upon your prey. May you work towards a brighter tomorrow.
+AN OTHERWORLDLY HUNT COMPLETE!
+Awarded Hunter Specialization and a Viridian Hunter
+
+==Berserker==
+Drehal, Ishnir Overworld (129, 121, 725)
+
+[Drehal] Look at this abomination of nature... Magic of this magnitude should be power reserved for the gods alone...
+[Are you talking about the tower?]
+[Drehal] Hmm? Oh, I'm sorry, I didn't see you standing there. Well, since you asked: yes, I was.
+[You seem to be rather against it being here.]
+[I'll leave you to your muttering.]
+[Drehal] The tower itself? No, it's actually quite a beautiful structure. What it represents, however, is what I despise. These fools assert themselves to the power of deities with the level of magic they use, and that is a crime that is unforgivable.
+[Drehal] Actually, I just had an interesting idea. How would you like to learn something that will aid you in battle?
+[You've caught my interest.]
+[I don't like what this is implying.]
+[Drehal] I am rather skilled in the art of the sword. Help me take down this tower, and I will teach you my signature fighting style.
+[What do we need to do?]
+[Drehal] Unfortunately, this much magic can only be countered by more magic. I have a binding sigil that has been attuned to counter the frequency coming from within the tower.
+[How does this help us?]
+[Drehal] If you can find the sigil within the tower that emits the original signal, and take them both to the highest point of the tower's roof, the magic holding the structure afloat should be totally disabled. Also, while you're at it, kill as many of these blaspheming wizards as you can.
+TRIAL : A Towering Objective
+Class: Warrior
+Skill: Berserker
+Description: Take down the tower using the binding sigils.
+
+A Towering Objective: Berserker Trial started at Drehal.
+#Q103aI01 Counter Sigil https://puu.sh/GOxIM/f6b19232f6.png
+#Q103aI02 Binding Sigil (199, 151, 742) https://puu.sh/GOxXw/1935b550d9.png
+
+(167, 217, 757)
+You feel a magic pulse through you as the two binding sigils shatter.
+
+[Drehal] That was... not the result I was expecting. Their magic is definitely weaker, but the tower is still standing. I knew I shouldn't have trusted that sketchy mage selling bargain-rate counter sigils.
+[So what now?]
+[Drehal] Now, I'm about to have some fun and take this tower down the old-fashioned way: brick by brick. You held up your end of the deal though, so allow me to show you the ways of the Berserker.
+A TOWERING OBJECTIVE COMPLETE!
+Awarded Berserker Specialization and a Steelscale Maul
+
+==Harbinger==
+Ghostly Figure, Ishnir Overworld (202, 68, 509)
+
+[Ghostly Figure] Upon the ancient powers creep, the blood that soaks begins to seep.
+[What are you?]
+[Ghostly Figure] A gray miasma rules its host, my form remains this withered ghost.
+[I'm not quite sure I understand.]
+[Ghostly Figure] Bestowed to me in my final breath, I offer you the power of Death.
+[Now you're speaking my language.]
+[I think I'm just gonna leave...]
+[Ghostly Figure] Speak to me for trials start, though warned it's not for faint of heart.
+TRIAL : DEATH'S SWIFTNESS
+Class: Alchemist
+Skill: Harbinger
+Description: Earn power through embracing death
+
+Death's Swiftness: Harbinger Trial started the Ghostly Figure.
+
+[Ghostly Figure] The time has come for death's embrace, shall you go and honor face?
+[Yes, I'm ready.]
+[No, I'm not quite ready.]
+[Ghostly Figure] This challenge fills thy soul with strife, for you must fight those you took life.
+[Starved Pirate] This time, my hunger won't make me so weak.
+[Starved Pirate] My crew shall tear you apart!
+[Arvaya] My life may have been artificial, but you stole it all the same.
+[Deranged Alchemist] I wished to right the wrongs that were done to my people, and for that you put me to death. You shall regret your actions that day!
+[Deranged Alchemist] Feel the grip of death embrace you!
+[Deranged Alchemist] Greetings from the fire!
+[Deranged Alchemist] Go my pets!
+[Deranged Alchemist] I will bury you, just like you did me!
+[Deranged Alchemist] Greetings from the fire!
+[Deranged Alchemist] Go my pets!
+[Deranged Alchemist] Exploding is likely the most painful form of death!
+[Deranged Alchemist] The Bastion will not be forgotten!
+[Deranged Alchemist] I will bury you, just like you did me!
+[Deranged Alchemist] Feel the grip of death embrace you!
+[Deranged Alchemist] Everything burns, even our souls. I learned that the hard way!
+[Deranged Alchemist] The Bastion will not be forgotten!
+[Deranged Alchemist] Greetings from the fire!
+[Deranged Alchemist] Go my pets!
+[Deranged Alchemist] Greetings from the fire!
+[Deranged Alchemist] Everything burns, even our souls. I learned that the hard way!
+[Deranged Alchemist] Everything burns, even our souls. I learned that the hard way!
+[Deranged Alchemist] Everything burns, even our souls. I learned that the hard way!
+[Deranged Alchemist] Feel the grip of death embrace you!
+[Deranged Alchemist] Greetings from the fire!
+[Deranged Alchemist] The Bastion will not be forgotten!
+[Deranged Alchemist] The Bastion will not be forgotten!
+[Deranged Alchemist] Everything burns, even our souls. I learned that the hard way!
+[Deranged Alchemist] Feel the grip of death embrace you!
+[Deranged Alchemist] Greetings from the fire!
+[Masked Man] You should have known that I wouldn't go down that easily. The flames of death await us both!
+[Masked Man] Beautiful, isn't it. A Black Shard, shorn from the Black Wool itself. I don't know how you survived me once, but I am impressed.
+[Deranged Alchemist] Feel the grip of death embrace you!
+[Masked Man] However, you have interfered with our plans. Nothing will stop us! Die!
+[Masked Man] Know that even with my death our plans will not stop. The Masked are unstoppable!
+[Masked Man] Hah... My death won't stop the shard... We will not fail... We will not fail Lord Calder...
+After dealing the final blow, you find yourself back in the cave.
+[Ghostly Figure] With thy challenge victory, my soul shall pass with torment free.
+[Ghostly Figure] My work fulfilled from promise sworn, the harbinger has been reborn.
+DEATH'S SWIFTNESS COMPLETE!
+Awarded Harbinger Specialization and a Briskbronze Helm
